@@ -9,7 +9,6 @@ dinghy
 dinghy2
 dinghy5
 jetmax
-kosatka
 longfin
 marquis
 patrolboat
