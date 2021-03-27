@@ -1,4 +1,5 @@
 hash,key
+446398,ba_prop_glass_garage_opaque
 641508,v_res_cctv
 751033,prop_plate_02
 2016649,des_fib_ceil_root
@@ -16,6 +17,7 @@ hash,key
 9006550,ex_p_mp_door_apart_doorbrown01
 9168982,v_ind_ss_box04
 9467943,p_jewel_door_r1
+9531236,ba_prop_battle_whiskey_opaque_s
 9730626,p_tumbler_01_trev_s
 10106915,prop_rub_carwreck_8
 10548213,v_res_fa_trainer04l
@@ -93,6 +95,7 @@ hash,key
 38932324,v_res_jarmchair
 39200959,apa_mp_h_stn_sofa2seat_02
 39380961,prop_cctv_mon_02
+40065633,ba_prop_battle_lights_prop_battle_wall_lampc
 40493499,xm_prop_base_door_02
 40625548,prop_coral_pillar_01
 41630463,prop_fncres_01c
@@ -104,6 +107,7 @@ hash,key
 43682374,apa_mp_h_acc_bottle_01
 44758414,prop_telegraph_01a
 44830813,prop_facgate_id1_27
+44914708,ba_rig_dj_04_lights_04_b
 44927781,prop_forsale_sign_03
 45840177,imp_prop_impexp_bonnet_03a
 45854657,prop_fncwood_04a
@@ -165,7 +169,7 @@ hash,key
 64104227,w_me_hammer
 64287394,prop_oil_wellhead_03
 64781110,ng_proc_brick_01a
-66496783,
+66496783,ba_prop_battle_crate_m_tobacco
 66776599,fib_cl2_cbl2_root
 66849370,prop_cigar_pack_02
 67883626,prop_bar_measrjug
@@ -281,6 +285,7 @@ hash,key
 111820268,prop_flatbed_strap
 112192004,prop_plonk_white
 112336130,prop_facgate_05_r_dam_l1
+112349022,ba_prop_battle_lights_ceiling_l_c
 113333890,xm_lab_easychair_01
 113622690,xm_prop_base_tripod_lampc
 114933932,prop_ld_can_01b
@@ -337,13 +342,14 @@ hash,key
 131289656,prop_air_bridge01
 131783648,apa_mp_h_str_
 131794038,prop_telegraph_05c
+132024218,ba_prop_battle_lights_fx_rige
 132154435,v_ilev_trevtraildr
 132273106,prop_gun_frame
 132494565,prop_tyre_rack_01
 133193419,p_watch_03_s
 133285582,prop_sign_road_05q
 133449643,prop_sign_road_04m
-133630620,
+133630620,ba_prop_battle_drug_package_02
 133695870,prop_forsalejr2
 134656817,des_smash2_root006
 134794675,prop_rub_bike_03
@@ -394,6 +400,7 @@ hash,key
 149803107,v_res_m_wctoiletroll
 149873283,v_med_curtains
 150472798,prop_roofvent_12a
+150993545,ba_rig_dj_all_lights_01_off
 151258782,h4_prop_club_emis_rig_01
 152282765,ng_proc_coffee_02a
 152330975,hei_prop_heist_safedeposit
@@ -411,6 +418,7 @@ hash,key
 158131226,xm_prop_base_silo_platform_01d
 158374374,stt_prop_stunt_track_dwslope45
 158467772,v_res_r_figdancer
+159409594,ba_rig_dj_04_lights_04_a
 159474821,prop_cs_dvd_player
 159919520,prop_tyre_wall_02b
 159994461,v_ilev_mm_doorm_l
@@ -425,8 +433,10 @@ hash,key
 162166615,h4_prop_h4_lever_box_01a
 163066920,v_ret_baglrg
 163244680,prop_phys_wades_head
-163907251,
+163454372,ba_prop_battle_lights_01_dim
+163907251,ba_prop_battle_crate_tob_bc
 165521376,prop_mb_sandblock_02
+165756003,ba_prop_battle_emis_rig_01
 166311561,prop_h4_wpnmanhunt_01a
 166629214,v_med_soapdispencer
 167066071,hei_heist_stn_sofa3seat_06
@@ -449,7 +459,7 @@ hash,key
 171927851,v_ilev_fib_sprklr_off
 172434341,stt_prop_stunt_jump_sb
 172569958,prop_venice_sign_03
-172827882,
+172827882,ba_prop_battle_crates_rifles_02a
 172949638,hei_prop_heist_pic_08
 173095431,prop_w_me_hatchet
 173177608,prop_streetlight_11a
@@ -480,19 +490,21 @@ hash,key
 181607490,prop_direct_chair_02
 182048815,lts_prop_lts_elecbox_24
 183572309,prop_cs_panties_03
+183659888,ba_prop_sign_paradise
 183900128,prop_beach_lg_stretch
 184519788,bkr_prop_moneypack_01a
 184603368,ex_office_swag_gem01
 184722020,v_res_mp_stripchair
 184759007,h4_prop_h4_fence_seg_x5_01a
+184884685,ba_prop_battle_lights_03_bright
 185221746,prop_snow_t_ml_02
 185308833,gr_prop_gr_2s_drillcrate_01a
 185711165,v_ilev_ph_gendoor005
 185712224,sr_prop_sr_target_4_01a
-186291381,
+186291381,ba_prop_club_dressing_board_01
 186956100,prop_ld_test_01
 187087539,prop_dock_woodpole3
-187978556,
+187978556,ba_prop_battle_bag_01b
 188509020,prop_cs_para_ropebit
 189672896,prop_hwbowl_seat_03b
 189702314,prop_ld_dstpillar_04
@@ -540,6 +552,7 @@ hash,key
 206865238,prop_fnclink_05crnr1
 207200483,prop_dt1_20_mp_door_r
 208851797,prop_broken_cboard_p2
+209347573,ba_rig_dj_02_lights_02_b
 209943352,prop_glass_panel_01
 210058467,prop_fire_driser_4b
 210172640,v_res_fa_cap01
@@ -636,7 +649,7 @@ hash,key
 251676848,prop_prologue_phone
 251770068,prop_test_elevator
 251834748,sm_hanger_office_moden_desk
-252936009,
+252936009,ba_prop_battle_vinyl_case
 253279588,prop_coffin_01
 253987373,xm_prop_base_doorlamp_lock
 254309271,prop_door_bell_01
@@ -714,6 +727,7 @@ hash,key
 276954077,prop_plant_int_01a
 277179989,prop_ld_keypad_01b_lod
 277255495,prop_car_door_01
+277657116,ba_prop_battle_dj_mixer_01d
 277707989,stt_prop_c4_stack
 278471600,imp_prop_impexp_differential_01a
 279288106,prop_worklight_04d
@@ -757,6 +771,7 @@ hash,key
 291348133,prop_skid_chair_01
 291444619,prop_sprayer
 291642981,v_res_officeboxfile01
+292009966,ba_prop_battle_dj_mixer_01b
 292248696,prop_forsale_dyn_02
 292851939,p_ld_id_card_01
 294278537,h4_prop_rock_med_02
@@ -767,6 +782,7 @@ hash,key
 296207441,prop_tshirt_box_01
 297693906,prop_sealife_01
 297839110,sm_prop_portaglass_02
+298198726,ba_rig_dj_04_lights_04_b_scr
 298410208,imp_prop_impexp_gearbox_01
 298623376,apa_mp_h_yacht_armchair_01
 299608302,prop_cctv_pole_02
@@ -803,6 +819,7 @@ hash,key
 310462430,p_medal_01_s
 310596348,prop_fncwood_07a
 310783660,prop_gas_rack01
+310807394,ba_prop_battle_trophy_no1
 310817095,prop_fragtest_cnst_04
 311268833,prop_fncply_01gate
 311714906,prop_stockade_wheel_flat
@@ -815,6 +832,7 @@ hash,key
 314192305,test_prop_gravestones_01a
 314436594,prop_container_03a
 314496444,ex_prop_exec_bed_01
+314727813,ba_prop_sign_tonys
 315205724,prop_water_bottle
 315927134,v_ret_csr_signb
 315927388,h4_prop_battle_coconutdrink_01a
@@ -844,6 +862,7 @@ hash,key
 323971301,p_oil_pjack_03_s
 326972916,prop_streetlight_05_b
 327153635,sm_prop_smug_cctv_mon_01
+327335748,ba_prop_battle_sports_helmet
 327628301,hei_heist_acc_artgolddisc_01
 328958315,h4_prop_battle_lights_int_03_lr9
 329068831,prop_hose_nozzle
@@ -853,6 +872,7 @@ hash,key
 330240957,prop_vcr_01
 330294775,hei_v_ilev_fh_heistdoor2
 332076319,hei_prop_hei_shack_window
+332130705,ba_prop_battle_lights_ceiling_l_d
 332160486,ng_proc_paintcan01a_sh
 332315958,prop_couch_sm1_07
 332394125,p_ld_heist_bag_01
@@ -866,7 +886,7 @@ hash,key
 334347537,prop_golf_iron_01
 334531408,prop_int_cf_chick_01
 335154249,hei_prop_carrier_radar_1_l1
-335572745,
+335572745,ba_prop_battle_tube_fn_04
 335898267,prop_boxing_glove_01
 336523661,prop_beach_sandcas_01
 336541402,
@@ -885,6 +905,7 @@ hash,key
 339283616,prop_ld_planter1a
 339341791,prop_beach_sandcas_03
 339962010,w_pi_sns_pistol
+340021545,ba_prop_battle_emis_rig_02
 340291898,prop_kt1_10_mpdoor_r
 340496207,apa_prop_aptest
 340510501,v_res_tre_weight
@@ -942,6 +963,7 @@ hash,key
 362975687,v_ilev_rc_door1
 363356512,v_res_r_figcat
 363555755,prop_laptop_jimmy
+363691220,ba_prop_battle_cuffs
 363720705,prop_aerial_01b
 364445978,prop_skip_02a
 364582714,stt_prop_stunt_bblock_sml2
@@ -953,6 +975,7 @@ hash,key
 367798813,v_ret_tat2stuff_01
 368191321,prop_door_balcony_right
 368293996,stt_prop_race_start_line_03
+368336008,ba_prop_battle_lights_03_dim
 368482553,v_serv_tu_trak1_
 368618998,prop_06_sig1_k
 369046831,prop_billboard_03
@@ -1011,6 +1034,7 @@ hash,key
 389683723,v_res_fa_book01
 389765485,v_med_cor_ceilingmonitor
 390804950,prop_rock_4_c_2
+390840000,ba_prop_door_club_edgy_generic
 390858268,h4_prop_h4_mil_crate_02
 390860802,prop_test_boulder_02
 390870628,prop_cactus_02
@@ -1038,6 +1062,7 @@ hash,key
 397076535,prop_fncwood_09b
 398295231,xm_prop_base_silo_platform_01c
 398314184,lux_p_pour_champagne_luxe
+398578331,ba_prop_sign_omega
 399820605,v_ilev_clothhiendlights
 400228937,bkr_prop_coke_spatula_02
 400343865,prop_rock_3_c
@@ -1048,6 +1073,7 @@ hash,key
 402487526,v_lirg_trevstrip_ward_main
 402624186,sr_prop_spec_tube_m_03a
 402778632,prop_runlight_b
+402916948,ba_prop_glass_front_office
 403140669,w_pi_combatpistol
 403319434,prop_cs_keys_01
 404057187,prop_scafold_frame1f
@@ -1084,6 +1110,7 @@ hash,key
 422144533,prop_sign_road_04n
 422658457,w_mg_minigun
 423137701,frag_plank_e
+424454774,ba_prop_battle_lights_fx_rigd
 424659621,prop_warninglight_01
 424672659,apa_mp_h_lit_floorlamp_10
 424713737,v_ilev_gc_weapons
@@ -1098,7 +1125,7 @@ hash,key
 426526770,v_ilev_gcshape_asssmg_25
 427392416,v_ret_ta_mag1
 427537437,prop_h4_room_4x4_01d
-427643045,
+427643045,ba_prop_battle_crate_beer_02
 427753832,stt_prop_stunt_target_small
 430616003,
 430942112,v_res_tre_fruitbowl
@@ -1237,6 +1264,7 @@ hash,key
 479461537,csx_rvrbldr_smld_
 479709182,p_counter_03_glass
 479783305,xm_prop_base_silo_lamp_01a
+480233689,ba_rig_dj_02_lights_04_b_scr
 480355301,prop_dest_cctv_03
 481432069,prop_mb_crate_01a
 481887451,sm_hanger_bedroom_tradbed
@@ -1264,11 +1292,13 @@ hash,key
 491238953,prop_elecbox_06a
 491441454,v_res_fa_tintomsoup
 491620376,v_ret_gc_fan
+491628506,ba_rig_dj_04_lights_02_c
 492521774,v_res_tt_pornmag02
 492575597,v_serv_aboxes_02
 492895015,ex_mp_h_acc_vase_06
 493020353,prop_fnclink_02m
 493125771,prop_bleachers_04
+493205544,ba_prop_int_trad_table
 493317742,prop_sub_cover_01
 493421917,apa_mp_h_lit_floorlamp_17
 493845300,prop_elecbox_16
@@ -1360,6 +1390,7 @@ hash,key
 532504902,prop_aircon_s_02b
 532565818,v_res_tre_banana
 532969079,prop_sign_road_05d
+533129679,ba_prop_door_gun_safe
 533342826,prop_haybale_01
 533451505,prop_cs_cont_latch
 533585188,hei_heist_din_chair_06
@@ -1371,12 +1402,14 @@ hash,key
 535835408,v_club_barchair
 536071214,prop_off_chair_01
 536899771,h4_prop_h4_coke_tube_02
+538002882,ba_prop_battle_club_chair_01
 538293533,prop_inhaler_01
 538442956,sm_prop_smug_heli
 538990259,bkr_prop_meth_table01a
-539422188,
+539422188,ba_prop_battle_crate_closed_bc
 539480402,prop_sign_road_06j
 540021153,v_prop_floatcandle
+540206593,ba_prop_battle_club_speaker_med
 541248010,prop_flag_eu_s
 541723713,prop_satdish_s_04b
 542041270,prop_ld_crocclips01
@@ -1419,6 +1452,7 @@ hash,key
 553845503,prop_stickhbird
 553894136,prop_skid_box_06
 554267863,prop_cs_bucket_s
+554566677,ba_prop_battle_lights_ceiling_l_e
 554636261,v_res_j_tablelamp2
 555352240,
 555704593,v_ilev_blnds_clsd
@@ -1429,7 +1463,7 @@ hash,key
 558395118,prop_snow_t_ml_01
 558578166,prop_gc_chair02
 558728618,apa_mp_h_floorlamp_a
-558857511,
+558857511,ba_prop_battle_meth_bigbag_01a
 560831900,v_ilev_bank4doorcls01
 561365155,xm_prop_x17_tv_wall
 561783600,prop_cs_whiskey_bot_stop
@@ -1481,12 +1515,13 @@ hash,key
 577432224,p_dumpster_t
 577983279,ex_prop_crate_watch
 578126062,prop_ld_tshirt_02
-578372977,
+578372977,ba_prop_battle_rsply_crate_02a
 579127396,h4_prop_h4_ld_keypad_01d
 579156093,bkr_prop_coke_doll_bigbox
 579266365,hei_heist_acc_plant_tall_01
 579289352,des_fib_ceil_start
 579512398,prop_barrier_wat_04a
+579578786,ba_rig_dj_01_lights_04_a
 579657914,gr_prop_gr_3s_drillcrate_01a
 580043721,proc_mntn_stone01
 580175976,v_res_tre_wdunitscuz
@@ -1531,6 +1566,7 @@ hash,key
 600913159,prop_drink_champ
 600967813,prop_rub_binbag_04
 601713565,w_me_dagger
+601770753,ba_prop_door_club_edgy_wc
 602124474,prop_ped_pic_02
 602686656,xm_prop_x17_add_door_01
 603662479,apa_prop_flag_italy
@@ -1677,7 +1713,7 @@ hash,key
 666848946,w_sb_smg_mag2
 666930369,gr_prop_gr_doorpart
 667105809,prop_etricmotor_01
-667132474,
+667132474,ba_prop_battle_fakeid_boxdl_01a
 667168444,prop_birdbath2
 667319138,prop_shuttering02
 667673034,p_clothtarp_s
@@ -1687,6 +1723,7 @@ hash,key
 669181082,prop_h4_l_shape_rd_01a
 669213687,prop_ld_ammo_pack_03
 669336675,prop_roofvent_03a
+669941754,ba_prop_battle_vape_01
 670120870,stt_prop_stunt_bblock_sml1
 670963709,prop_dock_float_1b
 671550515,apa_mp_h_yacht_side_table_02
@@ -1824,18 +1861,20 @@ hash,key
 720693755,prop_sc1_12_door
 721117987,prop_tree_lficus_03
 721363367,stt_prop_corner_sign_10
+721967457,ba_prop_battle_champ_open_02
 722857897,v_res_d_dressingtable
 723401723,bkr_prop_weed_smallbag_01a
 723503026,prop_cs_creeper_01
 723612802,v_ret_gc_mug02
 724405277,prop_paint_spray01a
 724700469,v_res_mbtowelfld
+724797387,ba_prop_club_water_bottle
 724862427,prop_lrggate_03b_ld
 725259233,prop_chair_02
 725274945,prop_gate_airport_01
 725387438,prop_rock_4_big
 725420132,ex_prop_crate_freel
-725611562,
+725611562,ba_prop_battle_crate_beer_01
 726001049,imp_prop_covered_vehicle_04a
 726292818,prop_aircon_m_10
 726619973,prop_trough1
@@ -1865,6 +1904,7 @@ hash,key
 734263480,prop_old_wood_chair_lod
 735278826,ex_office_swag_drugstatue
 735410778,prop_bush_lrg_01e
+735518121,ba_prop_sign_gefangnis
 735816322,prop_food_bs_juice03
 735855031,hei_v_ilev_bk_gate_molten
 736528608,prop_dock_bouy_2
@@ -1928,6 +1968,7 @@ hash,key
 757249493,hei_heist_acc_bowl_01
 757543979,v_ilev_roc_door5
 757668998,prop_sh_wine_glass
+758202391,ba_prop_club_laptop_dj
 758360035,prop_drop_crate_01_set2
 758895650,prop_ch1_02_glass_02
 759654580,prop_till_03
@@ -1974,6 +2015,8 @@ hash,key
 773350470,prop_showroom_glass_1
 773405192,prop_ld_farm_couch02
 773471646,prop_test_boulder_03
+774094055,ba_prop_battle_whiskey_bottle_s
+774286589,ba_prop_battle_lights_club_dancefloor
 774425122,p_tram_crash_s
 775083365,reeds_03
 775109203,prop_fib_broken_window_2
@@ -2089,6 +2132,7 @@ hash,key
 825312403,prop_glass_panel_05
 825720073,v_ilev_gc_door02
 826023884,prop_chair_06
+826136673,ba_rig_dj_03_lights_04_c
 826654690,ng_proc_sodacup_02c
 826728812,prop_sign_sec_01
 826873048,h4_rig_dj_03_lights_04_b_scr
@@ -2119,7 +2163,7 @@ hash,key
 837555247,xm_prop_base_silo_lamp_01b
 838183020,v_serv_tu_stay_
 838307155,test_prop_gravestones_07a
-838361712,
+838361712,ba_prop_club_dressing_board_04
 838685283,prop_indus_meet_door_l
 840050250,prop_sign_road_03b
 840068882,v_club_roc_spot_r
@@ -2137,6 +2181,7 @@ hash,key
 846020017,prop_skate_quartpipe
 846073356,csx_seabed_rock4_
 846652480,prop_bar_stirrers
+846843267,ba_rig_dj_01_lights_02_b
 847750500,prop_elecbox_17
 847920400,ex_p_ex_decanter_02_s
 848100249,prop_h4_wall_end_2x1_01a
@@ -2149,12 +2194,12 @@ hash,key
 850529002,ex_prop_door_arcad_ent_r
 850900610,p_cletus_necklace_s
 851362411,v_med_flask
-852060754,
+852060754,ba_prop_track_bend_l_b
 852117134,bkr_prop_coke_bakingsoda
 853220178,hei_id2_lod_id2_water_lod_slod4
 854385596,prop_rock_chair_01
 854404762,prop_j_disptray_01
-854813903,
+854813903,ba_prop_battle_crates_sam_01a
 856175778,sr_prop_sr_target_small_04a
 856312526,prop_rub_boxpile_01
 856984825,sr_prop_sr_target_long_01a
@@ -2185,6 +2230,7 @@ hash,key
 866394777,v_ret_gc_box2
 866683635,v_res_tre_lightfan
 867556671,v_club_officechair
+867886919,ba_prop_battle_dj_wires_solomon
 868148414,prop_mp_barrier_01
 868499217,v_ilev_cs_door01
 869398406,sr_prop_spec_target_s_01a
@@ -2234,6 +2280,7 @@ hash,key
 886902217,xm_prop_x17_bunker_door
 887112569,prop_tree_fallen_02
 887694239,prop_tool_box_01
+887962771,ba_rig_dj_04_lights_04_c
 889089990,prop_forsale_sign_04
 889108045,prop_scafold_frame3c
 889818406,prop_id_21_gardoor_01
@@ -2267,6 +2314,7 @@ hash,key
 900650591,v_res_bowl_dec
 900699965,hei_prop_yah_lounger
 900821510,prop_direct_chair_01
+901069287,ba_prop_battle_decanter_02_s
 902408500,prop_rub_bike_02
 902446603,v_res_mdbed
 902783233,w_at_scope_large
@@ -2297,6 +2345,7 @@ hash,key
 913522275,xm_prop_x17_tablet_01
 913564566,p_dock_rtg_ld_cab
 913755451,gr_prop_gr_bunkeddoor_f
+913825118,ba_rig_dj_02_lights_04_a_scr
 913904359,prop_ch2_09c_garage_door
 914071446,v_club_vu_roladex
 914205402,v_res_tre_wardrobe
@@ -2314,6 +2363,7 @@ hash,key
 920306374,prop_gascyl_ramp_door_01
 920354403,apa_prop_yacht_glass_01
 920375395,prop_tshirt_shelf_2c
+920439079,ba_prop_battle_club_screen_02
 920918328,csx_seabed_rock2_
 921231391,v_club_vu_coffeemug1
 921283475,prop_choc_meto
@@ -2447,7 +2497,7 @@ hash,key
 969847031,v_ilev_fb_sl_door01
 969852049,v_res_m_palmplant1
 969992943,prop_roofvent_13a
-969999845,
+969999845,ba_prop_batle_crates_pounder
 970414739,gr_prop_gr_crates_pistols_01a
 970451370,v_res_mbbin
 971278178,v_ret_fh_emptybot1
@@ -2462,6 +2512,7 @@ hash,key
 975952735,apa_prop_flag_script
 976586037,prop_paint_brush05
 976638897,prop_coral_stone_04
+976772591,ba_prop_battle_dj_stand
 977232831,prop_cs_dog_lead_2c
 977288393,prop_cs_server_drive
 977294842,prop_tree_birch_03
@@ -2498,6 +2549,7 @@ hash,key
 991230204,prop_dock_crane_02_cab
 991241305,prop_washer_01
 992069095,prop_vend_soda_01
+992125567,ba_prop_battle_dj_deck_01a
 992322159,h4_prop_weed_01_row
 992644101,prop_bush_med_05
 993065435,h4_prop_yacht_showerdoor
@@ -2531,8 +2583,10 @@ hash,key
 1004070522,prop_rub_monitor
 1004245762,prop_glass_stack_06
 1004551103,apa_prop_flag_poland
+1004593233,ba_rig_dj_01_lights_02_a
 1004872719,prop_pile_dirt_02
 1005159690,prop_irish_sign_03
+1005810318,w_battle_airmissile_01
 1005957871,prop_pris_bench_01
 1005988375,p_amanda_note_01_s
 1006450599,prop_fncres_03gate1
@@ -2618,6 +2672,8 @@ hash,key
 1039126093,xm_prop_x17_mine_01a
 1039360035,prop_premier_fence_02
 1039700286,stt_prop_sign_circuit_10
+1040358431,ba_prop_battle_club_speaker_small
+1040652631,ba_prop_battle_lights_02_dim
 1041076678,p_counter_01_glass
 1041628835,p_w_ar_musket_chrg
 1042000049,prop_fnccorgm_01b
@@ -2650,6 +2706,7 @@ hash,key
 1050974173,sr_prop_spec_tube_l_01a
 1051204975,prop_table_07
 1051213133,lts_prop_lts_offroad_tyres01
+1051445623,ba_rig_dj_02_lights_02_a
 1052085257,prop_ped_pic_01_sm
 1052230687,gr_prop_gr_tool_box_01a
 1052341626,p_trev_rope_01_s
@@ -2677,6 +2734,7 @@ hash,key
 1060884015,bkr_prop_biker_tube_s
 1061035135,apa_prop_flag_czechrep
 1061810055,apa_p_h_acc_artwalls_03
+1062178280,ba_rig_dj_03_lights_03_c
 1062276366,v_med_p_notebook
 1062363346,xm_prop_base_blast_door_02_l
 1062447216,gr_prop_gr_driver_01a
@@ -2699,6 +2757,7 @@ hash,key
 1067874014,prop_container_old1
 1068591760,prop_pot_06
 1069395324,prop_ld_jerrycan_01
+1069466588,ba_rig_dj_03_lights_04_a_scr
 1069797899,prop_rub_carwreck_11
 1070220657,prop_cs_cuffs_01
 1070314930,apa_prop_ap_starb_text
@@ -2740,7 +2799,7 @@ hash,key
 1083279016,v_ilev_serv_door01
 1083389196,sm_hanger_mid_gantry_refl_proxy
 1083683517,prop_jetski_trailer_01
-1083697584,
+1083697584,ba_prop_battle_laptop_dj
 1083820116,bkr_prop_money_unsorted_01
 1085033290,xm_prop_x17_avengerchair_02
 1085274000,prop_pizza_box_03
@@ -2824,7 +2883,7 @@ hash,key
 1117737998,bkr_prop_fakeid_laminator
 1117917059,prop_flag_us
 1117944066,v_res_fh_aftershavebox
-1118384618,
+1118384618,ba_prop_battle_crates_pistols_01a
 1119015720,p_csbporndudes_necklace_s
 1119091721,prop_bikini_disp_05
 1120043236,prop_dock_rtg_ld
@@ -2886,7 +2945,7 @@ hash,key
 1142829680,csx_seabed_rock1_
 1142865108,prop_sec_barier_01a
 1142887131,prop_boogieboard_04
-1143080643,
+1143080643,ba_prop_club_dressing_board_05
 1143474856,prop_bin_06a
 1144664784,prop_cabinet_01
 1144831835,prop_sign_road_05g
@@ -2913,6 +2972,7 @@ hash,key
 1152516847,h4_prop_casino_3cardpoker_01b
 1153355730,ng_proc_paper_mag_1b
 1153503113,prop_fncsec_03c
+1153573135,ba_prop_door_elevator_1l
 1154123433,prop_facgate_05_r_l1
 1154536488,v_club_vubrushpot
 1154944443,prop_billboard_09wall
@@ -2951,6 +3011,7 @@ hash,key
 1165990941,prop_sign_road_06p
 1166604921,v_ret_247_mustard
 1167218227,csx_rvrbldr_biga_
+1167251902,ba_prop_door_club_trad_wc
 1167668471,prop_rub_boxpile_04b
 1167949327,ng_proc_wood_02a
 1168159077,h4_mp_h_yacht_sofa_01
@@ -3017,6 +3078,7 @@ hash,key
 1187258911,prop_fnclink_07c
 1188107761,prop_tennis_net_01
 1188930991,prop_workwall_01
+1189053348,ba_rig_dj_03_lights_04_a
 1189373689,h4_prop_battle_decanter_02_s
 1190467608,w_pi_singleshoth4_hi
 1190620071,xm_base_cia_lamp_floor_01a
@@ -3062,6 +3124,7 @@ hash,key
 1205594576,v_res_mplatesml
 1206295123,h4_prop_battle_poster_skin_03
 1206778303,v_serv_tu_trak2_
+1206830836,ba_prop_club_screens_02
 1207079890,v_med_p_lamp_on
 1207428357,v_res_tre_table001
 1207808747,h4_prop_battle_club_screen_02
@@ -3070,6 +3133,7 @@ hash,key
 1208099741,v_ret_fh_emptybot2
 1208606316,p_cs_sub_hook_01_s
 1209027853,prop_vb_34_tencrt_lighting
+1209040223,ba_rig_dj_04_lights_02_a
 1209298780,frag_plank_c
 1209504117,h4_prop_door_club_glam_wc
 1209651769,xm_prop_base_rail_cart_01c
@@ -3088,6 +3152,7 @@ hash,key
 1213196001,prop_rub_litter_05
 1213267491,imp_prop_impexp_bonnet_06a
 1213275131,ex_mp_h_acc_candles_06
+1213921088,ba_rig_dj_01_lights_04_b
 1214250852,prop_roofvent_06a
 1214673062,prop_paint_tray
 1214755619,prop_ld_contact_card
@@ -3095,6 +3160,7 @@ hash,key
 1215053148,prop_ld_dstcover_01
 1215477734,h4_prop_h4_gate_l_03a
 1217034051,prop_champ_flute
+1217241188,ba_rig_dj_03_lights_03_b
 1217279762,xm_prop_base_jet_02_static
 1218252530,ng_proc_crate_03a
 1219140462,prop_snow_wall_light_15a
@@ -3126,7 +3192,7 @@ hash,key
 1230242118,prop_beach_towel_04
 1230400944,apa_mp_apa_yacht_radar_01a
 1230429806,prop_cs_nail_file
-1230707325,
+1230707325,ba_prop_club_dressing_posters_03
 1231012078,prop_washer_02
 1231444999,prop_tunnel_liner01
 1231502205,prop_weight_bench_02
@@ -3199,6 +3265,7 @@ hash,key
 1262298127,prop_wheelchair_01
 1262355818,h4_prop_h4_airmissile_01a
 1262567554,v_ret_ml_fridge
+1262653656,ba_prop_battle_lights_floorred
 1262767548,prop_cons_crate
 1263238661,hei_prop_dt1_20_mph_door_l
 1263489215,v_ret_ml_cigs6
@@ -3238,7 +3305,7 @@ hash,key
 1277738372,lts_p_para_bag_lts_s
 1278261455,prop_fnclink_02gate3
 1278610863,prop_forsale_lrg_05
-1279173640,
+1279173640,ba_prop_battle_wallet_pickup
 1280262670,v_med_cor_dividerframe
 1280484937,h4_prop_bush_olndr_white_sml
 1280564504,prop_cs_beachtowel_01
@@ -3337,6 +3404,7 @@ hash,key
 1309582442,v_ret_tissue
 1309906528,imp_prop_impexp_coke_pile
 1310540658,prop_fib_skylight_plug
+1310888997,ba_prop_battle_lights_fx_righ
 1310916264,ng_proc_concchips04
 1311254299,prop_plant_group_06c
 1311389599,prop_glass_stack_07
@@ -3345,6 +3413,7 @@ hash,key
 1312726357,fib_3_qte_lightrig
 1312997887,v_club_vusnaketank
 1313056628,v_club_roc_spot_w
+1313069551,ba_prop_club_glass_trans
 1313167040,bkr_prop_rt_memorial_active_03
 1313261047,prop_medstation_03
 1313656686,apa_prop_ap_port_text
@@ -3354,6 +3423,8 @@ hash,key
 1316165619,prop_ped_pic_03_sm
 1316648054,prop_hospitaldoors_start
 1316995584,prop_paint_stepl02
+1317466850,ba_prop_door_safe_02
+1317668259,ba_rig_dj_01_lights_02_c
 1317858860,stt_prop_stunt_bblock_mdm3
 1317998709,prop_billb_frame01a
 1318669658,v_club_ch_briefchair
@@ -3390,7 +3461,7 @@ hash,key
 1333481871,v_res_d_dildo_f
 1333557690,prop_monitor_01a
 1334355753,v_ilev_out_serv_sign
-1334699559,
+1334699559,ba_prop_battle_tube_fn_01
 1334823285,v_ilev_ta_tatgun
 1334928729,prop_ld_wallet_01_s
 1335309163,v_ilev_j2_door
@@ -3399,7 +3470,7 @@ hash,key
 1335593994,prop_b_board_blank
 1336576410,p_parachute1_mp_s
 1336644224,prop_id2_20_clock
-1336655105,
+1336655105,ba_prop_battle_crate_beer_03
 1337434777,h4_prop_h4_safe_01b
 1337522187,xm_lab_chairarm_25
 1338392374,prop_ld_case_01_lod
@@ -3444,6 +3515,7 @@ hash,key
 1353692626,xm_prop_x17_pillar_02
 1354380322,des_fib_ceil2_end
 1354899844,prop_mb_hesco_06
+1355643716,ba_prop_battle_trophy_dancer
 1355718178,prop_waiting_seat_01
 1355733718,prop_tv_cam_02
 1355944948,prop_cs_keyboard_01
@@ -3482,7 +3554,7 @@ hash,key
 1367230591,v_ret_247_ketchup2
 1367246936,prop_woodpile_01a
 1367913609,prop_peyote_highland_02
-1367984058,
+1367984058,ba_prop_club_dressing_poster_01
 1368637848,prop_med_bag_01
 1368830751,v_serv_metro_signals1
 1369098570,apa_mp_h_yacht_floor_lamp_01
@@ -3510,6 +3582,7 @@ hash,key
 1376856765,v_res_fh_floorlamp
 1378348636,v_ilev_po_door
 1378673294,prop_ld_alarm_01
+1378851084,ba_prop_int_stool_low
 1380161360,ex_mapmarker_10_elburroheight_1
 1380551480,prop_tree_pine_02
 1380570124,prop_streetlight_09
@@ -3517,6 +3590,7 @@ hash,key
 1381105889,prop_elecbox_02b
 1381807252,v_ilev_bl_elevdis2
 1382142077,hei_p_f_bag_var6_bus_s
+1382165918,ba_prop_battle_bar_beerfridge_01
 1382242693,prop_snow_cam_03
 1382367337,prop_flag_sheriff_s
 1382419899,prop_car_seat
@@ -3531,6 +3605,7 @@ hash,key
 1385526236,v_serv_metro_ceilingspeaker
 1385605940,prop_fncsec_03d
 1386955664,prop_fnccorgm_06b
+1387075151,ba_prop_glass_rear_office
 1387151245,prop_rub_cage01d
 1387716817,sr_prop_spec_tube_l_02a
 1387939745,prop_mk_plane
@@ -3626,7 +3701,7 @@ hash,key
 1418231356,hei_mph_selectclothslrig_01
 1418451947,
 1419526590,v_res_tt_doughnut01
-1419755833,
+1419755833,ba_prop_battle_barrier_01a
 1419829219,sm_prop_smug_crate_s_antiques
 1419852836,prop_elecbox_01b
 1419890296,bkr_prop_coke_tube_02
@@ -3653,12 +3728,14 @@ hash,key
 1428755495,v_lirg_shop_high
 1429382112,hei_prop_heist_tub_truck
 1429487523,prop_pc_01a
+1429741918,ba_rig_dj_02_lights_04_a
 1429954114,sr_prop_spec_tube_s_05a
 1430014549,apa_mp_h_acc_plant_tall_01
 1430257647,prop_wheelbarrow01a
 1430330160,xm_prop_x17_shovel_01b
 1430410579,prop_box_guncase_01a
 1430895338,v_serv_metro_elecpole_singlel
+1431024607,ba_prop_glass_garage
 1431484746,v_lirg_shop_mid
 1433474877,prop_beer_neon_01
 1433530172,prop_ghettoblast_01
@@ -3703,9 +3780,10 @@ hash,key
 1447355784,prop_park_ticket_01
 1448093015,bkr_prop_biker_chairstrip_01
 1448265560,prop_player_phone_02
-1448874696,
+1448874696,ba_prop_battle_crate_m_jewellery
 1449004015,frag_plank_d
 1449155105,prop_cctv_cam_03a
+1449564591,ba_prop_sign_technologie
 1450083036,ng_proc_food_aple1a
 1450215542,port_xr_door_05
 1450555460,ex_mp_h_acc_candles_05
@@ -3722,6 +3800,7 @@ hash,key
 1453641789,v_res_fh_coftableb
 1454395444,
 1456723945,prop_cs_power_cell
+1457571138,ba_rig_dj_02_lights_03_c
 1457658556,prop_wall_light_03a
 1457805491,stt_prop_stunt_bblock_lrg1
 1458246144,v_lirg_michael_ward_default
@@ -3760,6 +3839,7 @@ hash,key
 1469872287,h4_prop_h4_rowboat_01a
 1470358132,prop_champ_box_01
 1470731681,prop_gas_mask_hang_01bb
+1471171713,ba_prop_battle_champ_open
 1471437843,rock_4_cl_2_1
 1472881208,prop_shower_rack_01
 1473546007,prop_beach_parasol_07
@@ -3782,6 +3862,7 @@ hash,key
 1478194060,h4_prop_rock_lrg_06
 1478589848,ex_office_swag_silver3
 1478902501,h4_prop_battle_poster_promo_01
+1478956296,ba_rig_dj_03_lights_01_a
 1479009069,v_club_roc_mixer1
 1479397204,pil_p_para_bag_pilot_s
 1479656360,ng_proc_cigbuts02a
@@ -3799,7 +3880,7 @@ hash,key
 1482750006,h4_prop_club_screens_02
 1482870357,hei_heist_din_chair_01
 1483319544,prop_large_gold
-1483336526,
+1483336526,ba_prop_battle_crate_m_hazard
 1483509531,prop_beach_parasol_10
 1485377863,ex_prop_exec_award_diamond
 1485704474,v_ret_247_bread1
@@ -3813,6 +3894,7 @@ hash,key
 1487500395,prop_pylon_04
 1487505949,prop_grain_hopper
 1487771192,
+1487906889,ba_rig_dj_02_lights_04_c
 1488091809,apa_mp_h_stn_chairstrip_02
 1488444473,des_jewel_cab3_root
 1488589320,prop_funfair_zoltan
@@ -3829,7 +3911,7 @@ hash,key
 1492339777,prop_washing_basket_01
 1492402563,prop_wall_vent_02
 1492875887,csx_rvrbldr_smlc_
-1493302556,
+1493302556,ba_prop_battle_crate_gems_bc
 1494045700,apa_mp_apa_y1_l2b
 1494231331,w_mg_mg_mag2
 1494272245,gr_prop_gr_bench_03b
@@ -3898,6 +3980,7 @@ hash,key
 1518155103,prop_rail_tankcar2
 1518201148,gr_prop_gr_target_long_01a
 1518466392,prop_elecbox_11
+1518668899,ba_rig_dj_01_lights_03_b
 1519210029,hei_p_post_heist_trash_stash
 1519332782,v_res_fh_crateclosed
 1519357138,prop_mp_num_1
@@ -3943,6 +4026,7 @@ hash,key
 1531999242,sm_hanger_bedroom_tradlamp005
 1532110050,p_yacht_sofa_01_s
 1532772963,prop_chip_fryer
+1533884108,ba_prop_int_edgy_table_01
 1534100734,prop_phone_cs_frank
 1534513698,prop_armenian_gate
 1534868018,bkr_prop_biker_tube_gap_03
@@ -3972,7 +4056,7 @@ hash,key
 1543004059,prop_fnclink_04b
 1543408104,v_serv_bs_barbchair
 1543721754,prop_fncres_06gatel
-1543789739,
+1543789739,ba_prop_club_dressing_poster_03
 1543894721,ind_prop_dlc_roller_car
 1543931499,prop_kt1_06_door_r
 1544229216,v_ilev_spraydoor
@@ -3989,6 +4073,7 @@ hash,key
 1547095841,v_res_tt_pharm2
 1549854854,h4_prop_h4_luggage_02a
 1550641188,v_ret_ml_beerpat1
+1550826203,ba_prop_battle_bar_fridge_02
 1551246947,prop_bush_ivy_01_2m
 1551512929,prop_cliff_paper
 1552504757,prop_aircon_s_03b
@@ -4004,7 +4089,7 @@ hash,key
 1555579420,v_res_tre_bedsidetable
 1556139508,apa_mp_h_lit_floorlampnight_14
 1556306448,apa_mp_apa_y1_l1d
-1556336232,
+1556336232,ba_prop_battle_track_short
 1556826721,apa_mp_h_lit_floorlampnight_05
 1557126584,v_ilev_ph_gendoor004
 1557324266,ex_prop_crate_minig
@@ -4090,6 +4175,7 @@ hash,key
 1596462100,prop_fib_broken_window
 1596794389,stt_prop_ramp_spiral_m
 1596908940,xm_prop_x17_sub_al_lamp_off
+1597198431,ba_prop_battle_poster_promo_03
 1597387106,xm_prop_base_blast_door_01
 1597489407,prop_anim_cash_note
 1597848050,p_watch_03
@@ -4122,6 +4208,7 @@ hash,key
 1609518039,prop_lifeblurb_01b
 1609525816,v_club_vu_djbag
 1609617895,prop_police_door_r_dam
+1609643188,ba_prop_battle_dj_wires_madonna
 1609878359,sub1_add_006
 1609935604,hei_prop_dlc_heist_map
 1610144111,prop_air_cargo_01a
@@ -4134,6 +4221,7 @@ hash,key
 1611303890,prop_a_base_bars_01
 1612443970,prop_rail_signals01
 1612971419,prop_chair_09
+1613369486,ba_prop_battle_club_computer_01
 1613519098,prop_towercrane_02e
 1614163124,bkr_prop_coke_striplamp_short_01a
 1614306905,prop_fncwood_01a
@@ -4141,6 +4229,7 @@ hash,key
 1615299850,v_med_cor_autopsytbl
 1615800919,prop_pallet_pile_03
 1616526761,prop_golf_ball_p2
+1616885919,ba_prop_battle_lights_fx_rigc
 1617449286,v_ret_gc_folder1
 1618060855,hei_heist_tab_coffee_06
 1618170244,v_med_cor_wallunitb
@@ -4182,6 +4271,7 @@ hash,key
 1635515553,v_ilev_fib_atrgl3s
 1635549773,hei_p_attache_case_01b_s
 1636521374,ng_proc_paper_news_rag
+1636593581,ba_prop_club_tonic_bottle
 1636622991,prop_paper_box_05
 1637751064,prop_plant_int_04b
 1638772241,prop_snow_bush_04b
@@ -4190,7 +4280,7 @@ hash,key
 1639776969,prop_beach_sculp_01
 1640157877,hei_prop_sm_14_mph_door_r
 1640819392,p_barierbase_test_s
-1640915270,
+1640915270,ba_prop_battle_crate_beer_04
 1641126010,h4_prop_battle_ice_bucket
 1641541792,prop_bison_winch
 1641567982,gr_prop_gr_torque_wrench_01a
@@ -4224,22 +4314,26 @@ hash,key
 1653710254,apa_mp_h_str_avunits_01
 1653893025,v_ilev_cor_firedoorwide
 1653948529,w_me_hatchet
+1654079949,ba_prop_battle_club_speaker_array
 1654151435,prop_pc_02a
 1654893215,prop_v_parachute
 1655182495,v_ilev_bk_safegate
 1655278098,prop_taco_01
 1655335164,xm_prop_lab_ceiling_lampb_group5
+1655528056,ba_prop_battle_dj_mixer_01e
+1655905935,ba_prop_club_laptop_dj_02
 1656167615,prop_rail_sigbox01
 1656258886,v_ilev_fib_atrgl2
 1657371395,xm_base_cia_serverhubsml_01
 1659646421,v_serv_ct_monitor02
-1660121300,
+1660121300,ba_prop_track_straight_lm
 1660155592,prop_employee_month_01
 1660695985,prop_fncconstruc_02a
 1660696549,prop_mobile_mast_2
 1661171057,v_ret_ml_beerpis1
 1661610662,xm_base_cia_servermed_01
 1661782514,p_amb_lap_top_01
+1661861648,ba_prop_battle_fan
 1661995023,v_ret_ps_carrier02
 1663080831,p_mp_door_01
 1663887073,ex_mp_h_acc_plant_palm_01
@@ -4250,13 +4344,14 @@ hash,key
 1667673456,prop_prlg_gravestone_05a_l1
 1667818593,hei_heist_din_chair_08
 1667978160,apa_prop_flag_jamaica
+1668008345,ba_prop_door_club_glam_wc
 1668169185,prop_double_grid_line
 1668542196,stt_prop_ramp_jump_xl
 1668587960,gr_prop_inttruck_empty_03dummy
 1668676931,prop_pipe_stack_01
 1668716338,ex_office_swag_furcoats
 1669201391,v_ilev_gcshape_assmg_25
-1669585364,
+1669585364,ba_prop_battle_case_sm_03
 1669623194,prop_beer_pride
 1669865158,lf_house_07d_
 1670285818,prop_container_02a
@@ -4287,6 +4382,7 @@ hash,key
 1678716578,prop_buck_spade_01
 1678759457,hei_prop_hei_pic_ps_bike
 1679057497,prop_rub_cage01e
+1680595532,ba_prop_battle_poster_promo_01
 1680905773,prop_plant_int_05a
 1681315177,prop_h4_wall_end_2x1_03a
 1681607908,prop_weeds_nxg04b
@@ -4322,6 +4418,7 @@ hash,key
 1693331214,xm_prop_agt_door_01
 1694452750,prop_gas_pump_1b
 1695345049,v_res_fa_pyramid
+1695461688,ba_prop_door_club_glam_generic
 1696004910,prop_rub_chassis_01
 1696287579,prop_h4_room_4x4_01c
 1696358503,xm_int_lev_sub_chair_02
@@ -4410,6 +4507,7 @@ hash,key
 1729298708,xm_prop_lab_ceiling_lampa
 1729671130,v_res_r_fighorse
 1729911864,prop_boombox_01
+1730553777,ba_rig_dj_04_lights_03_b
 1730774994,prop_fncres_06b
 1730858277,prop_skid_box_02
 1731206726,prop_glasscutter_01
@@ -4422,6 +4520,7 @@ hash,key
 1734726491,prop_crate_05a
 1735046030,prop_rub_boxpile_08
 1735136050,prop_gravestones_02a
+1735181104,ba_prop_battle_lights_workbench
 1736425389,xm_prop_x17_shovel_01a
 1736803334,prop_fncres_02b
 1737076325,v_ilev_bl_shutter1
@@ -4432,7 +4531,7 @@ hash,key
 1738802774,ex_p_ex_tumbler_04_empty
 1739173235,prop_ret_door
 1739427303,v_res_m_lamptbl_off
-1740007270,
+1740007270,ba_prop_battle_barrier_01b
 1740052654,apa_mp_h_stn_chairstrip_08
 1740162228,prop_forsale_lrg_07
 1740193300,p_parachute1_sp_dec
@@ -4441,9 +4540,11 @@ hash,key
 1741063045,hei_heist_acc_rugwooll_03
 1741284929,prop_range_target_01
 1742374783,prop_compressor_01
+1742421648,ba_prop_battle_lights_wall_l_f
 1742452667,p_cs_bbbat_01
 1742463912,prop_cons_plank
 1742849246,prop_ch3_04_door_02
+1743859485,ba_prop_door_club_trad_generic
 1743972815,h4_prop_h4_win_blind_02a
 1744002921,prop_poolball_5
 1745179636,prop_windmill_01_slod2
@@ -4516,6 +4617,7 @@ hash,key
 1770186956,sm_floor_decal_3
 1770281453,v_ilev_fa_dinedoor
 1770552192,ex_mp_h_acc_bowl_ceramic_01
+1770998284,ba_rig_dj_02_lights_04_b
 1771687453,v_res_tt_bowl
 1771868096,prop_ld_bomb_anim
 1772380287,prop_irish_sign_02
@@ -4559,6 +4661,7 @@ hash,key
 1787587532,v_res_tt_pharm1
 1787607276,prop_couch_03
 1787909913,v_ilev_found_crane_pulley
+1789087715,ba_prop_battle_dj_kit_speaker
 1789204922,w_pi_appistol_mag1
 1789936288,v_res_tre_chair
 1790065865,h4_prop_battle_club_speaker_array
@@ -4571,11 +4674,12 @@ hash,key
 1792484553,hei_prop_yah_glass_03
 1792816905,prop_kino_light_02
 1792999139,prop_bin_11b
+1793120189,ba_prop_battle_bar_fridge_01
 1793329478,v_ret_ml_beerdus
 1793411117,prop_flag_sa_s
 1793667637,prop_bar_coasterdisp
 1794089409,xm_prop_x17_tv_scrn_19
-1794536474,
+1794536474,ba_prop_battle_fakeid_boxpp_01a
 1795767067,p_disp_02_door_01
 1796594030,prop_micro_02
 1796822553,v_ilev_gcshape_progar_25
@@ -4676,6 +4780,7 @@ hash,key
 1833567378,prop_fnclink_02n
 1834086091,prop_mb_sandblock_04
 1835048458,h4_prop_rock_lrg_02
+1835297985,ba_prop_battle_poster_promo_04
 1835700637,prop_rock_5_d
 1836340935,sm_hanger_office_traddesk
 1836351583,prop_pipes_01b
@@ -4685,10 +4790,13 @@ hash,key
 1838707872,xm_prop_x17_hatch_d_l_27m
 1839251074,prop_test_elevator_dr
 1839621839,prop_roadcone02b
+1840174940,ba_prop_int_glam_stool
 1840382115,gr_prop_gr_offchair_01a
+1840395985,ba_prop_battle_club_screen_03
 1840863642,prop_bskball_01
 1841195792,apa_prop_yacht_glass_10
 1841479543,prop_hat_box_01
+1841585018,ba_prop_int_edgy_table_02
 1841929479,prop_elecbox_08
 1842258647,v_ret_fh_displayc
 1842594658,stt_prop_ramp_spiral_l
@@ -4764,6 +4872,7 @@ hash,key
 1869654794,v_med_xray
 1869935347,prop_flight_box_insert
 1870138714,p_counter_04_glass
+1870323613,ba_prop_battle_lights_int_03_lr6
 1870743581,prop_weeds_nxg01
 1870748288,prop_clothes_tub_01
 1870961552,prop_sub_trans_02a
@@ -4774,6 +4883,7 @@ hash,key
 1872658008,prop_w_r_cedar_dead
 1872828871,prop_cratepile_02a
 1873223844,p_clothtarp_down_s
+1873958683,ba_prop_sign_galaxy
 1874530394,des_showroom_root4
 1874679314,hei_heist_sh_bong_01
 1874766238,prop_pot_plant_05a
@@ -4811,6 +4921,7 @@ hash,key
 1888438146,prop_grumandoor_l
 1888604944,prop_mobile_mast_1
 1889091531,prop_logpile_06b
+1889113003,ba_rig_dj_02_lights_01_b
 1889796391,v_serv_tu_statio1_
 1890284520,h4_prop_battle_champ_closed_02
 1890297615,hei_prop_heist_cutscene_doorc_l
@@ -4854,6 +4965,7 @@ hash,key
 1903950414,apa_mp_h_yacht_coffee_table_02
 1904385216,w_sb_microsmg_luxe_mag2
 1904768135,prop_fnclink_08c
+1906160501,ba_prop_battle_club_computer_02
 1906471757,w_ar_carbinerifle_boxmag_luxe
 1906833154,imp_prop_impexp_bblock_huge_01
 1907022252,prop_phone_ing_02_lod
@@ -4903,6 +5015,7 @@ hash,key
 1919058329,prop_cctv_cam_04b
 1919186893,csx_coastsmalrock_05_
 1919238784,zprop_bin_01a_old
+1919701918,ba_prop_battle_lights_wall_l_a
 1920075387,xm_prop_x17_sub_lampa_large_blue
 1920863736,prop_beach_bars_02
 1922021471,h4_prop_battle_dj_mixer_01c
@@ -4932,6 +5045,7 @@ hash,key
 1928095639,prop_aircon_s_07a
 1928679056,prop_jb700_covered
 1928959797,v_res_mbath
+1929246704,ba_prop_battle_poster_promo_02
 1929467662,prop_roofvent_04a
 1929765107,prop_garden_dreamcatch_01
 1929884544,h4_prop_h4_ld_bomb_01a
@@ -4945,6 +5059,7 @@ hash,key
 1932313568,prop_coral_flat_02
 1933174915,prop_gas_pump_1c
 1933637837,prop_golf_pitcher_01
+1933837163,ba_prop_battle_lights_stairs
 1934122839,db_apart_06d_
 1934587523,prop_contnr_pile_01a
 1935071027,prop_boxpile_05a
@@ -5009,10 +5124,12 @@ hash,key
 1959590417,h4_prop_h4_sec_barrier_ld_01a
 1959633939,prop_satdish_2_g
 1960004985,prop_couch_04
+1960297236,ba_rig_dj_04_lights_03_a
 1960709756,v_ret_fh_plate4
 1960859144,prop_ind_mech_03a
 1961371045,v_ilev_fib_atrgl3
 1961489851,prop_rail_boxcar
+1961585302,ba_prop_battle_lights_int_03_lr9
 1962326206,prop_cons_cements01
 1962660298,prop_gascyl_ramp_01
 1962877473,imp_mapmarker_lsia_02
@@ -5040,6 +5157,7 @@ hash,key
 1972733671,prop_beach_bag_03
 1973320977,prop_sglasses_stand_1b
 1973650275,prop_gas_03
+1974395709,ba_prop_battle_lights_fx_rigb
 1974396000,gr_prop_gr_trailer_monitor_01
 1975077032,prop_rub_couch03
 1975282749,hei_prop_ss1_mpint_garage2
@@ -5122,6 +5240,7 @@ hash,key
 2005215959,prop_cratepile_03a
 2005313754,v_serv_bs_razor
 2005432726,h4_prop_battle_poster_skin_02
+2006579295,ba_prop_battle_hacker_screen
 2006710908,prop_food_cups2
 2006770941,prop_cd_lamp
 2007085106,sr_prop_spec_tube_s_01a
@@ -5133,6 +5252,7 @@ hash,key
 2009373169,v_res_d_dildo_d
 2009742501,sm_hanger_bed_modern_ward
 2010247122,prop_cs_beer_bot_40oz_02
+2010880778,ba_rig_dj_02_lights_04_c_scr
 2010966735,prop_bar_limes
 2011035956,v_ret_hd_unit2_
 2011957697,v_res_fh_sidebrddine
@@ -5166,6 +5286,7 @@ hash,key
 2023735386,hei_prop_yah_glass_02
 2023881475,prop_side_spreader
 2023983392,prop_postit_lock
+2024171313,ba_rig_dj_03_lights_04_b
 2024307044,xm_prop_base_heavy_door_01
 2024434543,prop_billb_frame03a
 2024568303,ex_mp_h_stn_chairstrip_05
@@ -5184,6 +5305,7 @@ hash,key
 2030380378,v_med_cor_wheelbench
 2030999457,prop_seagroup_02
 2031389708,
+2032464625,ba_prop_battle_lights_int_03_lr5
 2032545874,bkr_prop_biker_bblock_mdm3
 2032846745,hei_heist_bed_table_dble_04
 2032873446,ex_prop_office_louvres
@@ -5263,6 +5385,7 @@ hash,key
 2063962179,prop_rub_cage01a
 2064599526,prop_chair_04a
 2064772359,prop_bread_rack_01
+2064883486,ba_prop_battle_mic
 2064959419,proc_searock_01
 2065196134,bkr_prop_biker_garage_locker_01
 2065277225,v_ilev_gasdoor_r
@@ -5306,7 +5429,7 @@ hash,key
 2082783416,prop_mb_cargo_02a
 2083059466,sm_prop_smug_monitor_01
 2083958299,apa_mp_apa_y3_l1c
-2084016222,
+2084016222,ba_prop_battle_cctv_cam_01b
 2084096798,apa_mp_h_str_sideboardl_11
 2084153992,xm_prop_base_staff_desk_02
 2084346858,prop_offroad_bale03
@@ -5353,6 +5476,7 @@ hash,key
 2096990081,prop_girder_01a
 2097329273,prop_rail_boxcar4
 2098247772,prop_dock_crane_01
+2099118456,ba_rig_dj_04_lights_01_b
 2099682835,prop_pipes_03a
 2100457476,bkr_prop_clubhouse_arm_wrestle_01a
 2101174266,bkr_prop_meth_lithium
@@ -5382,6 +5506,7 @@ hash,key
 2114960499,prop_elecbox_13
 2115125482,prop_tool_consaw
 2115539498,xm_prop_x17_ld_case_01
+2115565999,ba_prop_battle_drone_hornet
 2116359305,hei_prop_sync_door01a
 2116459863,prop_j_disptray_03_dam
 2116540373,bkr_prop_coke_press_01b
@@ -5473,6 +5598,7 @@ hash,key
 2150218215,v_ilev_uvjb700
 2151061176,h4_prop_h4_coke_stack_01a
 2151775126,h4_prop_h4_cash_stack_02a
+2151779629,ba_prop_battle_secpanel
 2153238989,stt_prop_stunt_bblock_mdm1
 2153944124,prop_golf_driver
 2154576630,prop_cocktail
@@ -5495,6 +5621,7 @@ hash,key
 2164560713,prop_grapeseed_sign_02
 2165440626,prop_gas_tank_01a
 2165495934,xm_lab_chairarm_02
+2166000629,ba_prop_battle_decanter_03_s
 2166026289,sm_hanger_portacabin
 2166286304,prop_sub_crane_hook
 2167098563,apa_mp_h_tab_sidelrg_04
@@ -5506,7 +5633,7 @@ hash,key
 2168798053,prop_tint_towels_01b
 2169192312,prop_ld_contain_dr
 2169543803,prop_lrggate_02_ld
-2169599424,
+2169599424,ba_prop_battle_crate_biohazard_bc
 2169762221,des_fibstair_root
 2170442475,pil_p_para_pilot_sp_s
 2170679418,p_finale_bld_ground_s
@@ -5539,7 +5666,9 @@ hash,key
 2183120916,prop_toolchest_03
 2183468123,prop_cs_mini_tv
 2184602213,prop_sglasss_1b_lod
+2185524616,ba_prop_club_emis_rig_09
 2186304526,prop_beach_parasol_05
+2186379801,ba_prop_battle_trophy_battler
 2186578897,prop_h4_roomd_14x14_01a
 2187031472,hei_prop_hei_muster_01
 2187152677,prop_worklight_01a_l1
@@ -5567,6 +5696,7 @@ hash,key
 2197490316,ex_mp_h_stn_chairstrip_01
 2197744371,w_sb_smg_luxe_mag1
 2197901447,v_lirg_trevapt_ward_main
+2197908620,ba_rig_dj_01_lights_04_c
 2198837014,prop_paint_stepl01b
 2198842852,prop_bin_12a
 2199670863,gr_prop_gr_tool_box_02a
@@ -5602,6 +5732,7 @@ hash,key
 2213132973,p_amb_bagel_01
 2213389522,v_ret_ml_sweetego
 2214588484,h4_prop_rock_scree_med_02
+2215072190,ba_rig_dj_all_lights_03_off
 2215201361,gr_prop_gr_2s_millcrate_01a
 2215433010,hei_prop_hei_pic_ub_prep02
 2215434568,prop_windowbox_b
@@ -5639,7 +5770,7 @@ hash,key
 2231900042,prop_weeddry_nxg04
 2232078112,prop_police_door_l
 2232951646,prop_venice_sign_15
-2233076843,
+2233076843,ba_prop_battle_handbag
 2233934759,imp_prop_strut_compressor_01a
 2234492208,ex_p_mp_door_office_door01_s
 2234830439,prop_beerdusche
@@ -5669,17 +5800,23 @@ hash,key
 2243674824,prop_plant_flower_02
 2244391097,prop_tool_spanner01
 2244531294,apa_prop_ss1_mpint_door_l
-2245851552,
+2245725301,ba_prop_battle_lights_int_03_lr8
+2245851552,ba_prop_battle_champ_01
 2245863014,prop_fountain1
+2245998685,ba_prop_door_club_glass_opaque
 2246555443,sr_prop_stunt_tube_crn_5d_02a
 2246962822,prop_tshirt_shelf_2a
 2247261505,bkr_prop_weed_plantpot_stack_01a
 2247436819,v_res_tre_storageunit
+2247548087,ba_prop_club_glass_opaque
 2248213513,p_gaffer_tape_s
 2248579645,w_at_pi_flsh_luxe
 2248602461,prop_cs_sink_filler
+2249045431,ba_prop_club_emis_rig_04b
+2249080849,ba_prop_battle_bikechock
 2249224369,xm_prop_x17_shamal_crash
 2249658997,prop_epsilon_door_l
+2249915912,ba_rig_dj_01_lights_04_c_scr
 2250339571,prop_fib_plant_01
 2252185514,v_res_fashmag1
 2253210134,prop_radiomast02
@@ -5708,6 +5845,7 @@ hash,key
 2261756718,hei_heist_din_chair_02
 2262033332,prop_flag_us_s
 2262421171,prop_cs_plant_01
+2263448757,ba_prop_battle_lights_prop_battle_ceiling_lampc
 2263541230,gr_prop_gr_cage_01a
 2263645574,v_serv_abox_04
 2264175461,prop_ventsystem_04
@@ -5715,6 +5853,7 @@ hash,key
 2264942440,p_planning_board_03
 2265074802,prop_arm_gate_l
 2266496104,hei_prop_carrier_cargo_05b_s
+2266614859,ba_prop_club_emis_rig_02d
 2266674675,p_pour_wine_s
 2267485167,gr_prop_gr_vertmill_01b
 2267585339,sr_prop_stunt_tube_crn2_01a
@@ -5743,6 +5882,7 @@ hash,key
 2277609629,prop_phone_proto
 2278414290,prop_table_06_chr
 2278891022,sm_hanger_office_moden_stand
+2278955537,ba_prop_battle_ice_bucket
 2279174508,p_ld_coffee_vend_s
 2279300668,bkr_prop_biker_scriptrt_wall
 2279499989,prop_cs_pamphlet_01
@@ -5810,8 +5950,9 @@ hash,key
 2303605526,prop_arcade_01
 2304218219,h4_p_cs_rope05x
 2304668184,prop_cs_dvd
-2304776592,
+2304776592,ba_prop_battle_policet_seats
 2304850146,prop_tv_cabinet_03
+2305201762,ba_prop_door_club_entrance
 2305270718,v_club_roc_jacket1
 2305931615,v_res_fh_bedsideclock
 2306058344,prop_air_bigradar
@@ -5820,7 +5961,7 @@ hash,key
 2307210960,h4_prop_h4_gold_pile_01a
 2307428735,v_res_d_highchair
 2307562615,imp_prop_impexp_spanset_01
-2307851637,
+2307851637,ba_prop_battle_rsply_crate_gr_02a
 2308281871,prop_air_cargo_03a
 2309440954,bkr_prop_fertiliser_pallet_02a
 2309569520,prop_fnclink_05a
@@ -5845,6 +5986,7 @@ hash,key
 2316753267,w_sr_sniperrifle_luxe
 2316817925,v_med_medwastebin
 2316869700,prop_tree_lficus_06
+2316932314,ba_prop_battle_lights_int_03_lr4
 2317257925,v_ret_tatstuff02
 2317268320,poro_06_sig1_c_source
 2317374999,prop_pile_dirt_07_cr
@@ -5883,6 +6025,7 @@ hash,key
 2330410960,prop_skate_spiner
 2330564864,prop_cs_hand_radio
 2330698679,prop_sglasses_stand_02
+2330831880,ba_prop_sign_studio
 2330856517,prop_t_sofa
 2331163483,v_med_cor_cemtrolly
 2331345957,prop_lev_des_barge_01
@@ -5933,7 +6076,7 @@ hash,key
 2356590690,prop_paper_box_03
 2356741219,bkr_cash_scatter_02
 2357330433,prop_cs_fuel_nozle
-2357471811,
+2357471811,ba_prop_battle_mast_01a
 2358403055,v_club_vu_ashtray
 2358685089,apa_mp_apa_y2_l2d
 2358708636,ela_wdn_04_decals
@@ -5950,6 +6093,7 @@ hash,key
 2362808267,v_ilev_mm_faucet
 2363626605,prop_yaught_chair_01
 2363639118,v_lirg_mphigh_ward_main
+2364139908,ba_prop_battle_poster_skin_02
 2365581599,prop_ld_hat_01
 2365747570,prop_beach_parasol_04
 2365953410,p_watch_06
@@ -5965,6 +6109,7 @@ hash,key
 2367834920,des_showroom_root3
 2368384718,prop_ld_balcfnc_02b
 2369898685,v_ret_neon_logger
+2372497776,ba_prop_sign_maison
 2372568234,prop_food_bs_bag_01
 2372686273,v_ilev_ch_glassdoor
 2373371221,v_res_d_dildo_e
@@ -5989,6 +6134,7 @@ hash,key
 2378273653,v_ilev_gcshape_assmg_50
 2378584134,prop_mp_icon_shad_sm
 2378727039,des_protree_root
+2378855601,ba_prop_battle_hobby_horse
 2378924086,prop_food_cb_donuts
 2379237458,v_res_fa_candle04
 2379726975,v_ilev_winblnd_clsd
@@ -6019,6 +6165,7 @@ hash,key
 2389497290,h4_prop_bush_wandering_aa
 2390070164,prop_sm_27_door
 2390297164,marina_xr_rocks_04
+2390443943,ba_prop_battle_drone_quad
 2390600197,p_ferris_wheel_amo_l2
 2390780076,stt_prop_corner_sign_12
 2391252964,prop_tree_jacada_02
@@ -6082,12 +6229,14 @@ hash,key
 2416503618,prop_pot_plant_02b
 2417153653,prop_ld_snack_01
 2417508004,v_ilev_m_sofa
+2418413899,ba_prop_club_emis_rig_08
 2418461061,w_ar_railgun
 2418631100,prop_porn_mag_02
 2418879647,prop_griddle_02
 2419563138,gr_prop_gr_target_small_07a
 2419759236,v_ret_ml_sweet2
 2419766429,xm_int_prop_tinsel_truck_gunmod
+2420296225,ba_prop_club_emis_rig_04c
 2420615663,hei_prop_sync_door_09
 2420804668,prop_wall_light_02a
 2420891343,prop_consign_01c
@@ -6096,6 +6245,7 @@ hash,key
 2423377418,v_res_d_roundtable
 2424030739,prop_proxy_hat_01
 2424792858,hei_p_pre_heist_steal_meth
+2425168345,ba_prop_battle_lights_int_03_lr7
 2425361652,prop_ld_farm_chair01
 2425988104,prop_tree_jacada_01
 2427095687,hei_heist_stn_benchshort
@@ -6114,7 +6264,7 @@ hash,key
 2433054968,v_ilev_cd_sprklr
 2433343420,prop_box_wood02a_pu
 2434202149,prop_mp_cant_place_sm
-2434216248,
+2434216248,ba_prop_battle_crates_rifles_01a
 2434227275,h4_prop_battle_champ_open
 2434304379,v_med_p_floorlamp
 2434582133,prop_sign_airp_02b
@@ -6152,6 +6302,7 @@ hash,key
 2446091145,prop_fbibombcupbrd
 2446598557,prop_cntrdoor_ld_l
 2446728811,prop_yacht_table_01
+2447292705,ba_prop_battle_dj_kit_mixer
 2447922844,p_int_jewel_mirror
 2448521575,prop_dock_float_1
 2448596328,des_jewel_cab2_start
@@ -6165,6 +6316,7 @@ hash,key
 2452367939,prop_big_shit_01
 2452376166,hei_heist_din_table_04
 2452388616,ex_prop_safedoor_office3a_l
+2452436246,ba_prop_battle_lights_01_bright
 2452560208,hei_prop_bank_cctv_02
 2453471663,prop_rub_couch01
 2454583717,gr_prop_gr_target_05b
@@ -6181,6 +6333,7 @@ hash,key
 2460303094,sr_prop_track_straight_l_u5
 2460954264,ng_proc_block_01a
 2461131940,prop_j_disptray_05b
+2461393867,ba_prop_battle_club_screen
 2461445546,xm_prop_lab_wall_lampa
 2461734903,prop_whiskey_glasses
 2462415843,xm_lab_chairarm_03
@@ -6232,6 +6385,7 @@ hash,key
 2475986526,prop_mp_ramp_03
 2476196056,sm_prop_smug_offchair_01a
 2476625958,imp_prop_impexp_sofabed_01a
+2477018098,ba_prop_battle_dj_wires_dixon
 2477740534,ex_prop_crate_jewels_racks_sc
 2477921312,h4_prop_h4_camera_01
 2478683904,v_ret_247_lottery
@@ -6282,7 +6436,7 @@ hash,key
 2494807071,sr_prop_spec_tube_xxs_03a
 2494963885,des_railing_root
 2495013764,xm_prop_agt_cia_door_el_02_r
-2495103572,
+2495103572,ba_prop_battle_chest_closed
 2496373180,prop_sign_prologue_06g
 2496497187,v_serv_cupboard_01
 2496871079,prop_sign_road_06b
@@ -6336,6 +6490,7 @@ hash,key
 2515731726,ex_mapmarker_20_vinewood_1
 2515752923,prop_bodyarmour_03
 2515970312,prop_billboard_16
+2516219122,ba_prop_battle_cameradrone
 2517622544,prop_cs_rage_statue_p2
 2517753291,h4_rig_dj_02_lights_01_a
 2518469636,prop_cs_trolley_01
@@ -6411,11 +6566,11 @@ hash,key
 2547847756,prop_bh1_03_gate_l
 2547950773,h4_prop_h4_lrggate_01_l
 2549323539,w_ar_specialcarbine
-2549961002,
+2549961002,ba_prop_battle_track_exshort
 2550113311,prop_shrub_rake
 2550416538,prop_fnclink_07d
 2550901153,h4_prop_casino_3cardpoker_01e
-2551011845,
+2551011845,ba_prop_battle_crate_m_bones
 2551687850,prop_bandsaw_01
 2551709571,prop_ld_bankdoors_01
 2552011833,v_serv_ct_monitor01
@@ -6431,6 +6586,7 @@ hash,key
 2557017946,prop_pot_plant_01a
 2557497955,h4_prop_h4_dj_t_wires_01a
 2557812802,prop_ld_fan_01_old
+2558204488,ba_prop_int_glam_table
 2558230542,
 2559219880,prop_hole_plug_01
 2559577062,gr_prop_gr_tool_draw_01a
@@ -6450,6 +6606,7 @@ hash,key
 2564049348,prop_gas_01
 2564376269,prop_mask_bugstar_trip
 2564432314,v_ret_ml_chips2
+2564926066,ba_prop_club_emis_rig_10
 2564991790,prop_slacks_01
 2565161619,prop_byard_machine01
 2565406028,apa_mp_h_bed_double_08
@@ -6468,6 +6625,7 @@ hash,key
 2568711284,prop_battery_02
 2570553780,prop_tv_03_overlay
 2570918048,prop_recycle_light
+2571446889,ba_prop_battle_lights_fx_rigg
 2572589675,v_ilev_gcshape_bull_50
 2572872310,prop_sign_road_04e
 2573312657,prop_mem_candle_combo
@@ -6503,6 +6661,7 @@ hash,key
 2582747295,prop_rub_boxpile_04
 2582753356,prop_snow_fncwood_14b
 2583440873,prop_bar_caddy
+2583465047,ba_prop_battle_sniffing_pipe
 2583558588,
 2583563763,prop_barbell_02
 2583585821,prop_trailr_fridge
@@ -6534,6 +6693,7 @@ hash,key
 2594689830,prop_train_ticket_02
 2594900237,h4_mp_h_yacht_bed_01
 2595037359,v_ret_ml_beerben1
+2595533326,ba_prop_battle_club_speaker_dj
 2596205386,bkr_prop_bkr_cashpile_01
 2596283780,prop_rub_generator
 2596288188,stt_prop_sign_circuit_08
@@ -6575,6 +6735,7 @@ hash,key
 2609341859,prop_box_wood06a
 2609530566,v_res_mp_ashtrayb
 2609617894,prop_mem_candle_06
+2609685003,ba_prop_battle_shot_glass_01
 2609922146,prop_skate_spiner_cr
 2609978783,prop_streetlight_11b
 2610940130,prop_a4_sheet_04
@@ -6594,11 +6755,12 @@ hash,key
 2615085319,v_ilev_fb_door01
 2615588628,prop_parapack_01
 2615768110,prop_airhockey_01
+2616999732,ba_rig_dj_04_lights_01_c
 2617178062,prop_hw1_23_door
 2617462494,prop_cs_bucket_s_lod
 2617727468,ex_office_swag_guns02
 2618065460,prop_snow_flower_02
-2618146658,
+2618146658,ba_prop_battle_crate_art_02_bc
 2618681486,xm_prop_x17_sub_extra
 2619042715,prop_h4_cross_01a
 2619173467,prop_beach_lilo_02
@@ -6628,6 +6790,7 @@ hash,key
 2628496933,v_ilev_bank4door01
 2628697817,prop_ventsystem_03
 2628754103,prop_kino_light_01
+2629139278,ba_prop_battle_lights_ceiling_l_a
 2629546592,subway1_mirror2
 2629984836,prop_toothbrush_01
 2630789603,prop_telegraph_01g
@@ -6745,6 +6908,7 @@ hash,key
 2675939568,prop_bar_sink_01
 2676713625,h4_prop_x17_sub_lampa_small_blue
 2676996255,v_res_tre_cushiona
+2677074688,ba_prop_battle_security_pad
 2677374827,prop_container_ld_d
 2677555217,prop_prlg_snowpile
 2678415875,hei_prop_drug_statue_box_01b
@@ -6762,7 +6926,7 @@ hash,key
 2684579078,sr_prop_sr_target_small_01a
 2684583586,prop_elecbox_21
 2684801972,prop_fire_exting_2a
-2684950753,
+2684950753,ba_prop_battle_antique_box
 2685929853,prop_w_board_blank_2
 2686273380,prop_beach_bbq
 2686359006,hei_prop_hei_pic_pb_plane
@@ -6853,6 +7017,7 @@ hash,key
 2714830729,prop_worklight_04c_l1
 2715602938,imp_prop_impexp_tyre_03a
 2715998257,v_res_m_palmstairs
+2716042690,ba_prop_battle_lights_ceiling_l_f
 2716156129,apa_mp_h_lit_lamptable_09
 2716176265,prop_gate_cult_01_r
 2716414875,w_sg_pumpshotgunh4
@@ -6870,9 +7035,10 @@ hash,key
 2721097008,v_med_wallpicture1
 2721194746,apa_prop_ss1_mpint_garage2
 2721416238,w_ar_advancedrifle_mag1
+2721977392,ba_prop_battle_poster_skin_01
 2722199945,prop_oldlight_01a
 2722601028,w_at_ar_flsh
-2722696092,
+2722696092,ba_prop_battle_tube_fn_03
 2722728240,v_res_fa_umbrella
 2722865698,v_ilev_bl_doorsl_l
 2722948478,prop_picnictable_01
@@ -6919,6 +7085,10 @@ hash,key
 2739274246,prop_beer_blr
 2739325511,prop_fnclink_06gatepost
 2739443208,xm_base_cia_serverh_02_rp
+2739559960,ba_rig_dj_02_lights_03_b
+2739859149,ba_prop_door_club_generic_vip
+2740101255,ba_rig_dj_03_lights_04_c_scr
+2741001798,ba_prop_door_elevator_1r
 2741304782,h4_int_lev_sub_doorl
 2742301236,h4_prop_sign_galaxy
 2742620968,prop_fireescape_02b
@@ -6945,11 +7115,13 @@ hash,key
 2752558537,w_at_scope_small_02_luxe_l1
 2753446058,prop_wallbrick_01
 2754199313,v_res_sketchpad
+2754486200,ba_rig_dj_01_lights_03_a
 2755104888,v_ret_fh_bscup
 2755686016,v_club_vu_ink_3
 2756000235,sm_attach_geom_lighting_wall_5
 2756229782,apa_mp_h_lit_lightpendant_05b
 2756735366,v_ret_ml_fridge02
+2756848253,ba_prop_sign_omega_02
 2757724536,sm_prop_smug_crate_m_tobacco
 2757794552,v_club_brush
 2758794210,prop_am_box_wood_01
@@ -6985,9 +7157,10 @@ hash,key
 2770569292,bkr_prop_biker_bblock_mdm2
 2770786549,prop_monitor_w_large
 2770973506,prop_cap_row_01b
-2772292709,
+2772292709,ba_prop_battle_crates_rifles_04a
 2772296913,prop_box_ammo02a
 2772346741,prop_sign_route_13
+2772486952,ba_prop_battle_lights_int_03_lr3
 2773446632,h4_prop_battle_cuffs
 2773545807,hei_hw1_24_ov03
 2773646738,xm_prop_lab_ceiling_lampb
@@ -7009,10 +7182,11 @@ hash,key
 2779959126,imp_prop_impexp_door_vid
 2780929676,h4_prop_battle_lights_fx_support
 2781083456,prop_box_wood05a
-2781238098,
+2781238098,ba_prop_club_dressing_posters_01
 2781802941,prop_tv_cabinet_05
 2782091788,v_club_vumakeupbrsh
 2782438028,prop_snow_watertower01
+2782592557,ba_rig_dj_02_lights_01_a
 2783395687,prop_h4_corridor_2x6_01a
 2783527078,w_at_ar_supp_luxe_02
 2784163474,prop_bollard_03a
@@ -7025,6 +7199,7 @@ hash,key
 2786611474,hei_v_ilev_bk_safegate_pris
 2786855049,db_apart_10d_
 2786955091,prop_coke_block_half_a
+2787143101,ba_prop_battle_champ_closed
 2787197868,prop_byard_rowboat2
 2787464573,prop_billboard_09
 2787492567,p_barier_test_s
@@ -7157,6 +7332,7 @@ hash,key
 2835000802,v_res_d_bed
 2835048766,prop_palm_med_01b
 2836687016,xm_int_lev_silo_doorlight_01
+2836775152,ba_prop_battle_lights_wall_l_e
 2836777856,imp_prop_impexp_span_01
 2837297977,prop_cs_valve
 2838176638,hei_p_heist_flecca_bag
@@ -7190,6 +7366,7 @@ hash,key
 2850972604,bkr_prop_coke_mortalpestle
 2852049058,p_counter_02_glass
 2852185295,prop_fncsec_01gate
+2852428266,ba_rig_dj_all_lights_02_off
 2852512527,prop_cs_aircon_fan
 2854515159,hei_heist_din_chair_04
 2855097715,h4_prop_h4_door_03a
@@ -7215,6 +7392,7 @@ hash,key
 2861019093,gr_prop_gr_tool_draw_01b
 2861775861,prop_wall_light_10a
 2861975981,gr_prop_gr_part_lathe_01a
+2862009612,ba_prop_battle_lights_fx_rigf
 2862225322,prop_shredder_01
 2862519073,h4_prop_h4_t_bottle_02a
 2862668413,v_med_cor_offglass
@@ -7267,6 +7445,7 @@ hash,key
 2880484499,prop_beachbag_04
 2880629914,prop_ceramic_jug_01
 2881019430,prop_rub_cardpile_01
+2881264749,ba_prop_sign_palace
 2881667978,p_cs_panties_03_s
 2881961281,prop_rail_sign04
 2882489002,apa_mp_apa_yacht_o1_rail_a
@@ -7275,9 +7454,10 @@ hash,key
 2883591541,gr_prop_gr_campbed_01
 2883684818,h4_prop_h4_bracelet_01a
 2883746033,v_res_fa_pottea
-2883802724,
+2883802724,ba_prop_battle_amb_phone
 2884570565,p_para_broken1_s
 2885608237,v_ret_gc_mugdisplay
+2885847176,ba_prop_club_emis_rig_10_shad
 2887205684,prop_jewel_03a
 2888921930,v_ret_247_cigs
 2888983073,xm_int_prop_tinsel_truck_carmod
@@ -7310,6 +7490,8 @@ hash,key
 2897331441,prop_scythemower
 2897478434,bkr_prop_bkr_cash_roll_01
 2897503240,prop_boogieboard_07
+2899608162,ba_prop_club_dimmer
+2899659433,ba_prop_club_emis_rig_07
 2899759531,prop_log_03
 2900042870,prop_mask_motobike_b
 2900292770,prop_tv_01
@@ -7321,7 +7503,7 @@ hash,key
 2901442362,prop_fnclink_06a
 2901952492,w_sb_pdw
 2903248026,prop_towel_01
-2903282401,
+2903282401,ba_prop_battle_crate_m_medical
 2903428080,prop_facgate_03b_r
 2904554124,lf_house_17d_
 2905102274,imp_prop_impexp_bblock_sml1
@@ -7429,7 +7611,7 @@ hash,key
 2940961480,v_ilev_mr_rasberryclean
 2941953965,h4_prop_battle_lights_fx_riga
 2942634645,prop_shuttering01
-2944280070,
+2944280070,ba_prop_battle_tube_fn_02
 2944352755,prop_ld_rubble_01
 2944353280,xm_prop_x17_xmas_tree_int
 2944739081,v_med_p_figfish
@@ -7441,6 +7623,7 @@ hash,key
 2946494351,bkr_prop_biker_barstool_03
 2946519914,prop_conslift_rail2
 2946536071,prop_gate_frame_06
+2947162447,ba_prop_battle_lights_ceiling_l_g
 2947971326,bkr_prop_biker_safedoor_01a
 2948535411,apa_prop_flag_columbia
 2948772422,h4_prop_tree_palm_trvlr_03
@@ -7481,6 +7664,7 @@ hash,key
 2961696617,des_finale_tunnel_root003
 2961841228,prop_sign_road_09d
 2961874646,apa_mp_h_din_chair_12
+2962141393,ba_prop_battle_poster_skin_04
 2962424860,h4_prop_h4_sign_vip_01a
 2962474556,prop_streetlight_12a
 2963431049,prop_50s_jukebox
@@ -7507,6 +7691,7 @@ hash,key
 2968924808,prop_gold_trolly
 2969049622,prop_cs_mopbucket_01
 2969179063,prop_fnclog_02a
+2969864875,ba_prop_battle_emis_rig_03
 2970062589,h4_prop_h4_tannoy_01a
 2970346214,prop_skylight_01
 2970496586,prop_sapling_break_02
@@ -7530,6 +7715,7 @@ hash,key
 2975572692,stt_prop_stunt_track_link
 2976174023,ng_proc_brkbottle_02a
 2976931766,p_ld_coffee_vend_01
+2977036903,ba_rig_dj_02_lights_03_a
 2977042587,prop_food_napkin_01
 2977053244,h4_rig_dj_01_lights_02_a
 2977376975,v_ret_ml_methsweets
@@ -7571,6 +7757,7 @@ hash,key
 2988862172,prop_poolball_11
 2988892982,prop_motel_door_09
 2988919045,prop_ld_bomb_01
+2989503859,ba_prop_battle_lights_fx_rotator
 2989737121,hei_prop_heist_deposit_box
 2990193874,h4_prop_battle_lights_floorblue
 2990794914,prop_pot_plant_05d_l1
@@ -7598,6 +7785,7 @@ hash,key
 3001737879,gr_prop_inttruck_gunmod_01
 3001808358,xm_prop_out_hanger_lift
 3002107984,ex_office_swag_silver
+3002124954,ba_rig_dj_03_lights_01_b
 3002973360,v_ilev_hd_chair
 3003552628,sr_mp_spec_tubes
 3004557513,p_dock_crane_cabl_s
@@ -7640,6 +7828,7 @@ hash,key
 3016238043,apa_p_mp_door_02
 3016317911,ex_prop_offchair_exec_02
 3016688854,v_med_benchset1
+3017828455,ba_prop_battle_lights_int_03_lr2
 3018168846,prop_night_safe_01
 3018792082,prop_plant_clover_02
 3019328929,prop_rail_sign02
@@ -7647,9 +7836,10 @@ hash,key
 3021132572,stt_prop_lives_bottle
 3021548081,ex_mapmarker_3_la_mesa_1
 3022071704,stt_prop_stunt_track_hill
+3022312977,ba_prop_club_smoke_machine
 3022314685,prop_tree_cedar_s_01
 3022627868,prop_snow_telegraph_02a
-3022709653,
+3022709653,ba_prop_battle_moneypack_02a
 3022793278,gr_prop_bunker_bed_01
 3023001026,v_ret_ml_win3
 3024061108,sm_prop_smug_crate_s_narc
@@ -7693,14 +7883,16 @@ hash,key
 3036153118,prop_fncres_06gater
 3036465632,prop_cs1_14b_traind_dam
 3036562069,hei_prop_bh1_09_mph_l
-3037778563,
+3037778563,ba_prop_battle_hinge
 3038378640,prop_ld_shirt_01
 3038489227,hei_heist_flecca_weapons
 3038623943,prop_pot_plant_01c
 3039590774,prop_cablespool_03
 3039815110,des_jewel_cab4_rootb
 3040347384,v_med_p_deskchair
+3040386997,ba_rig_dj_01_lights_04_a_scr
 3041890424,w_sg_heavyshotgun_mag1
+3042243099,ba_prop_battle_dj_wires_tale
 3042289807,h4_prop_h4_t_bottle_02b
 3043304331,v_res_m_armchair
 3043770296,prop_ld_int_safe_01
@@ -7742,6 +7934,7 @@ hash,key
 3055515731,xm_prop_x17_phone_01
 3056012471,imp_prop_impexp_car_panel_01a
 3056760692,imp_prop_impexp_garagegate2
+3057435157,ba_prop_battle_lights_prop_battle_wall_lampb
 3057608068,prop_rope_family_3
 3058328485,v_ilev_carmod3lamp
 3058700682,prop_air_trailer_3b
@@ -7786,6 +7979,7 @@ hash,key
 3073961063,prop_trev_sec_id
 3074785353,prop_a4_sheet_02
 3074876886,h4_prop_h4_coke_mortalpestle
+3075069148,ba_rig_dj_04_lights_04_a_scr
 3075831496,lf_house_18d_
 3075998616,prop_fnclink_04gate1
 3076028177,prop_clubset
@@ -7800,7 +7994,7 @@ hash,key
 3079285877,prop_bench_01c
 3079589048,prop_rock_4_c
 3079744621,v_ilev_ph_door01
-3079796457,
+3079796457,ba_prop_club_dressing_posters_02
 3081237145,imp_prop_torque_wrench_01a
 3082015943,v_ilev_ml_door1
 3082022299,prop_ss1_mpint_garage
@@ -7893,6 +8087,7 @@ hash,key
 3109360976,prop_fire_driser_1a
 3109527546,prop_bumper_03
 3109761617,v_ilev_cbankvauldoor01
+3109994857,ba_prop_battle_secpanel_dam
 3110375179,v_ilev_cbankcountdoor01
 3110450777,prop_sec_barrier_ld_01a
 3110871101,prop_ven_market_table1
@@ -7916,7 +8111,7 @@ hash,key
 3118716721,v_res_tre_tree
 3118760256,apa_mp_h_acc_jar_02
 3119478678,xm_base_cia_seats_long
-3119915993,
+3119915993,ba_prop_club_dressing_sign_02
 3119929913,prop_sky_cover_01
 3120149952,p_int_jewel_plant_01
 3120158576,prop_sign_road_04g_l1
@@ -7938,14 +8133,17 @@ hash,key
 3125643084,v_res_r_figoblisk
 3125721715,sm_hanger_office_moden_lamp004
 3126042860,prop_sluicegatel
+3126616957,ba_prop_battle_lights_wall_l_d
 3126949065,apa_mp_h_stn_chairarm_12
 3127787310,hei_prop_hei_pic_hl_valkyrie
 3128140561,apa_mp_h_acc_box_trinket_02
 3128565761,v_med_apecratelrg
 3129026539,imp_prop_impexp_trunk_03a
+3129152371,ba_prop_battle_champ_closed_03
 3129209574,apa_prop_flag_belgium
 3129291673,prop_toilet_soap_03
 3129381253,prop_desert_iron_01
+3129763351,ba_prop_club_emis_rig_06
 3129802524,h4_prop_int_edgy_table_02
 3131269464,prop_veg_crop_04_leaf
 3132449827,prop_security_case_02
@@ -7999,6 +8197,7 @@ hash,key
 3147463510,prop_tree_log_02
 3147499948,prop_const_fence03b_cr
 3147505501,prop_box_tea01a
+3148409730,ba_prop_battle_lights_fx_support
 3148458026,apa_prop_flag_turkey
 3148623081,prop_foundation_sponge
 3148706974,w_lr_homing_rocket
@@ -8020,6 +8219,7 @@ hash,key
 3155124437,prop_amanda_note_01
 3155747143,prop_weeds_nxg08
 3155890274,imp_prop_impexp_tyre_01b
+3156365695,ba_prop_battle_whiskey_bottle_2_s
 3157282195,prop_venice_shop_front_01
 3157534357,bkr_prop_biker_bblock_sml3
 3157541637,prop_v_hook_s
@@ -8058,7 +8258,9 @@ hash,key
 3171100296,prop_ld_dstcover_02
 3172023172,ng_proc_food_chips01c
 3172194296,xm_prop_smug_crate_s_medical
+3174439618,ba_prop_int_edgy_stool
 3174501558,prop_rail_wheel01
+3175286442,ba_prop_door_club_glass
 3175779025,prop_sign_road_07b
 3175808752,prop_tool_cable02
 3175822363,h4_prop_h4_files_paper_01b
@@ -8084,7 +8286,7 @@ hash,key
 3181316956,p_sunglass_m_s
 3181514063,prop_tv_flat_01_screen
 3181574677,prop_dart_bd_cab_01
-3181600860,
+3181600860,ba_prop_battle_ps_box_01
 3181839023,prop_fncsec_04a
 3181914205,xm_prop_x17_laptop_lester_01
 3181931725,sm_attach_geom_lighting_wall_9
@@ -8138,7 +8340,7 @@ hash,key
 3203417919,v_ilev_fa_backdoor
 3203426522,prop_oil_wellhead_06
 3203580969,v_med_emptybed
-3204807478,
+3204807478,ba_prop_battle_crate_beer_double
 3204848139,prop_police_id_text_02
 3204997029,prop_cs_scissors
 3205897199,w_at_scope_small
@@ -8169,6 +8371,7 @@ hash,key
 3216493396,prop_cs_kitchen_cab_ld
 3217398661,v_res_fa_yogamat1
 3218061633,w_at_scope_small_luxe_2
+3218129353,ba_prop_battle_tent_02
 3218789399,prop_sub_frame_04a
 3218897978,bkr_prop_prtmachine_moneypage
 3219440604,prop_air_fueltrail2
@@ -8207,11 +8410,12 @@ hash,key
 3233603530,v_res_fh_barcchair
 3234250744,h4_prop_h4_hatch_tower_01a
 3234286828,prop_joshua_tree_02b
+3234528721,ba_rig_dj_03_lights_04_b_scr
 3234906884,prop_logpile_05
 3235189104,prop_ind_light_03c
 3235319999,prop_roadcone01b
 3236099141,prop_sign_road_callbox
-3236186685,
+3236186685,ba_prop_battle_latch
 3236872469,gr_prop_gr_missle_short
 3237591483,prop_sign_road_04z
 3238044290,prop_byard_lifering
@@ -8286,6 +8490,7 @@ hash,key
 3265671237,prop_gascyl_04a
 3266227509,prop_plant_palm_01b
 3267161942,prop_stoneshroom1
+3267440164,ba_prop_battle_emis_rig_04
 3267628968,h4_prop_h4_pillow_03a
 3267711083,ex_prop_door_maze2_roof
 3268074634,des_finale_vault_start
@@ -8310,6 +8515,7 @@ hash,key
 3275499941,des_smash2_root005
 3275818207,v_res_mbtaps
 3275899984,bkr_prop_bkr_cashpile_05
+3276112219,ba_rig_dj_03_lights_02_a
 3276439121,prop_scrim_02
 3278326592,prop_plastic_cup_02
 3278384003,v_ret_fh_plate1
@@ -8380,6 +8586,7 @@ hash,key
 3302034411,prop_mk_mp_ring_01
 3302121687,prop_rub_busdoor_01
 3302164755,prop_flagpole_2b
+3302231881,ba_prop_battle_club_chair_03
 3302233016,prop_p_spider_01a
 3302257222,v_med_cor_medstool
 3302928278,w_sg_heavyshotgun_mag2
@@ -8404,6 +8611,7 @@ hash,key
 3312435724,prop_gar_door_04
 3312800118,stt_prop_stunt_track_slope30
 3312955036,prop_carrier_bag_01_lod
+3313004457,ba_rig_dj_03_lights_01_c
 3313931042,h4_rig_dj_02_lights_03_b
 3314097110,prop_ld_balcfnc_01a
 3314561827,v_med_cor_alarmlight
@@ -8427,8 +8635,10 @@ hash,key
 3321560373,des_stilthouse_root9
 3321844881,ex_prop_door_lowbank_roof
 3322112790,v_med_cor_fileboxa
+3322809538,ba_prop_battle_lights_int_03_lr1
 3322996319,h4_prop_battle_lights_int_03_lr1
 3323419456,hei_prop_yah_glass_01
+3324004640,ba_prop_battle_glowstick_01
 3324172348,prop_facgate_03_ld_l
 3324828425,hei_prop_drug_statue_base_02
 3324955844,ex_mp_h_acc_vase_01
@@ -8437,7 +8647,7 @@ hash,key
 3326501215,v_ret_ta_skull
 3326571575,apa_mp_h_stn_sofacorn_08
 3326797986,prop_speaker_01
-3327177003,
+3327177003,ba_prop_battle_crate_wlife_bc
 3328231338,prop_ld_shovel_dirt
 3328602284,v_ilev_sol_windr
 3328693117,p_defilied_ragdoll_01_s
@@ -8517,6 +8727,7 @@ hash,key
 3355069892,prop_cratepile_05a
 3355514556,prop_rail_boxcar5_d
 3355731910,prop_mp_num_0
+3356221387,ba_prop_battle_poster_skin_03
 3356787922,prop_coffee_mac_01
 3356876449,prop_cactus_01c
 3357211070,v_serv_securitycam_03
@@ -8538,11 +8749,13 @@ hash,key
 3361099181,imp_prop_impexp_tablet
 3362210457,imp_prop_impexp_lappy_01a
 3363019239,hei_prop_heist_rolladex
+3363202696,ba_prop_battle_lights_prop_battle_wall_lampa
 3363238998,prop_int_cf_chick_02
 3364087631,prop_toilet_01
 3364946445,sm_prop_hanger_sm_05
 3365286072,prop_minigun_01
 3366029953,bkr_prop_weed_med_01a
+3366217892,ba_rig_dj_01_lights_03_c
 3366339446,w_ar_assaultrifle_boxmag
 3366628462,prop_fnclink_01c
 3366678094,prop_sign_route_11
@@ -8551,6 +8764,7 @@ hash,key
 3368015847,v_med_cor_cembin
 3368849490,v_res_tre_alarmbox
 3369070506,prop_windowbox_broken
+3369075330,ba_prop_club_emis_rig_05
 3369309184,prop_cd_paper_pile1
 3369456178,prop_air_gasbogey_01
 3369635589,prop_w_board_blank
@@ -8603,10 +8817,12 @@ hash,key
 3388602998,prop_buck_spade_07
 3389492553,v_res_mcofcupdirt
 3389610207,prop_tyre_wall_02
+3390288933,w_me_stonehatchet
 3390468135,prop_plant_int_02b
 3390596973,p_mp_door_06
 3390599355,
 3390620041,prop_dt1_20_mp_gar
+3390658461,ba_prop_battle_lights_fx_lamp
 3391173906,prop_cablespool_01b
 3391465614,p_cs_laz_ptail_s
 3391605035,prop_bollard_02b
@@ -8624,7 +8840,7 @@ hash,key
 3396094993,prop_mk_num_5
 3396122864,imp_prop_impexp_carrack
 3396174213,prop_metalfoodjar_01
-3397102449,
+3397102449,ba_prop_battle_crate_m_antiques
 3397365739,prop_tv_03
 3397469727,prop_rail_signals04
 3397540845,p_beefsplitter_s
@@ -8636,8 +8852,9 @@ hash,key
 3400437538,v_res_m_kscales
 3401141221,hei_prop_cc_metalcover_01
 3401327736,hei_heist_acc_artgolddisc_04
+3401354583,ba_prop_battle_lights_fx_riga
 3401853174,prop_faceoffice_door_r
-3402557382,
+3402557382,ba_prop_battle_pbus_screen
 3402741872,h4_prop_battle_lights_ceiling_l_f
 3403107732,prop_dress_disp_03
 3403846356,prop_micro_cs_01_door
@@ -8649,6 +8866,7 @@ hash,key
 3405708488,hei_prop_gold_trolly_empty
 3405814228,prop_roofvent_16a
 3407518401,prop_air_lights_04a
+3407562366,ba_prop_battle_control_seat
 3408036615,h4_prop_palmeto_sap_aa
 3408274064,imp_prop_impexp_tyre_03b
 3408465634,prop_fbibombplant
@@ -8670,11 +8888,12 @@ hash,key
 3415095732,v_res_r_fighorsestnd
 3415648305,prop_sign_road_06f
 3415914951,ind_prop_firework_02
+3416066436,ba_prop_glass_rear_opaque
 3416504267,prop_facgate_02pole
 3416983349,prop_rock_1_f
 3417003925,gr_prop_gr_bunkeddoor
 3417376497,h4_prop_club_emis_rig_10
-3417753434,
+3417753434,ba_prop_club_dressing_sign_01
 3417784143,hei_prop_heist_tumbler_empty
 3418641806,prop_palm_fan_04_d
 3419016675,bkr_prop_biker_bblock_huge_03
@@ -8682,6 +8901,7 @@ hash,key
 3419809524,prop_fnclink_03gate4
 3419891859,prop_cs_credit_card
 3419909833,prop_fire_exting_3a
+3419911708,ba_prop_battle_champ_closed_02
 3420177248,h4_prop_battle_lights_02_dim
 3420629148,p_ld_stinger_s
 3421027865,hei_heist_acc_sculpture_01
@@ -8709,7 +8929,7 @@ hash,key
 3427991105,imp_prop_impexp_bonnet_02a
 3428265661,apa_mp_h_bed_with_table_02
 3428703375,prop_toolchest_04
-3428885582,
+3428885582,ba_prop_battle_crate_med_bc
 3429083688,xm_lab_chairstool_12
 3429402185,prop_boxpile_02d
 3429439496,prop_muscle_bench_04
@@ -8755,6 +8975,7 @@ hash,key
 3447727541,v_res_son_unitgone
 3448167354,h4_prop_screen_btm_missile_active
 3448291722,db_apart_03d_
+3448343003,ba_prop_battle_lights_wall_l_c
 3448694260,xm_prop_lab_tube_lampa
 3449206504,prop_beach_bag_02
 3449282897,prop_scafold_01f
@@ -8804,6 +9025,7 @@ hash,key
 3464750442,prop_letterbox_01
 3465210102,xm_prop_x17_tv_scrn_17
 3465679920,v_res_tre_pineapple
+3465683653,ba_prop_battle_club_chair_02
 3466777742,h4_prop_h4_neck_disp_01a
 3466992769,w_sb_smg_mag1
 3467172523,prop_scafold_frame2a
@@ -8820,6 +9042,7 @@ hash,key
 3471240364,prop_set_generator_01
 3472019404,prop_whiskey_01
 3472067116,v_ilev_carmod3door
+3473132757,ba_prop_battle_club_speaker_large
 3473251927,p_sec_case_02_s
 3474872950,prop_scafold_frame1a
 3475350787,prop_rub_cardpile_07
@@ -8846,7 +9069,7 @@ hash,key
 3483126123,ng_proc_paintcan02a
 3483751388,prop_weeds_nxg07b001
 3483997757,gr_prop_gr_drill_01a
-3486652601,
+3486652601,ba_prop_battle_coke_doll_bigbox
 3486739493,des_vaultdoor001_root006
 3486810113,v_lirg_trevtrail_ward_face
 3487154966,hei_prop_heist_ammo_box
@@ -8868,6 +9091,8 @@ hash,key
 3493163369,prop_beggers_sign_04
 3493201430,prop_snow_telegraph_03
 3493460181,sm_prop_smug_hangar_light_c
+3494188971,ba_prop_battle_lights_floor_l_a
+3494482321,ba_prop_club_emis_rig_03
 3495162673,csx_seabed_bldr7_
 3495241121,apa_mp_h_din_table_06
 3495553273,v_serv_bs_mug
@@ -8913,6 +9138,7 @@ hash,key
 3513815911,v_res_fh_sidebrdlng
 3513985433,hei_heist_lit_lamptable_06
 3514050719,hei_prop_heist_overlay_01
+3514738263,ba_prop_battle_champ_open_03
 3515092940,hei_prop_hst_usb_drive
 3515265682,prop_poolball_7
 3515408605,bkr_prop_bkr_cashpile_06
@@ -8989,10 +9215,11 @@ hash,key
 3539994986,h4_prop_h4_caviar_spoon_01a
 3540077839,h4_prop_h4_turntable_01a
 3540679603,prop_bar_shots
+3540982224,ba_prop_battle_lights_tube_l_b
 3541874175,prop_ind_light_03b
 3542263935,prop_huge_display_02
 3542469605,prop_pris_door_01_l
-3542479533,
+3542479533,ba_prop_battle_weed_bigbag_01a
 3543109459,prop_ped_pic_04
 3543465611,prop_artgallery_dl
 3544215092,xm_prop_x17_sub_damage
@@ -9087,9 +9314,11 @@ hash,key
 3579424812,h4_prop_battle_lights_support
 3579571355,v_med_gastank
 3579747370,lux_prop_lighter_luxe
+3579930663,ba_prop_battle_lights_floorblue
 3580691834,des_smash2_root2
 3581210199,v_club_skirtplt
 3581761802,v_res_exoticvase
+3582141910,ba_rig_dj_03_lights_02_b
 3582521509,prop_couch_lg_02
 3583093428,prop_folder_02
 3583196168,apa_p_mp_door_apartfrt_door_black
@@ -9104,6 +9333,7 @@ hash,key
 3585931673,ex_office_swag_drugbag2
 3586178055,prop_acc_guitar_01
 3586206357,prop_byard_elecbox04
+3586833116,ba_rig_dj_03_lights_03_a
 3587400214,w_sr_marksmanrifle_mag2
 3589737450,prop_oil_derrick_01
 3589926941,prop_wheel_rim_04
@@ -9155,7 +9385,7 @@ hash,key
 3610585061,p_cut_door_02
 3611369596,imp_prop_drill_01a
 3613262246,h4_prop_bush_buddleia_low_01
-3613473460,
+3613473460,ba_prop_batle_crates_mule
 3613555651,stt_prop_corner_sign_09
 3613901090,v_ilev_ss_door7
 3614003312,prop_fire_driser_2b
@@ -9187,6 +9417,7 @@ hash,key
 3619125910,w_sg_sawnoff
 3619689535,prop_cs_rub_binbag_01
 3620375846,prop_barier_conc_02c
+3620578352,ba_prop_door_safe
 3621631720,v_res_mdbedtable
 3622571741,prop_loggneon
 3622951068,prop_gascyl_02b
@@ -9195,6 +9426,7 @@ hash,key
 3624262806,prop_fncwood_06c
 3625057565,hei_mph_selectclothslrig
 3625185872,ng_proc_leaves06
+3626803983,ba_prop_battle_control_console
 3626941025,prop_cs_protest_sign_04b
 3627058845,prop_sign_freewayentrance
 3627430577,v_ret_ta_paproll
@@ -9224,6 +9456,7 @@ hash,key
 3636435500,prop_plywoodpile_01b
 3636477461,h4_prop_battle_dj_deck_01a
 3636940819,apa_p_mp_door_apartfrt_door
+3637055324,ba_prop_battle_lights_floor
 3637988725,bkr_prop_biker_ceiling_fan_base
 3638040224,prop_t_telescope_01b
 3638364590,p_steve_scuba_hood_s
@@ -9242,6 +9475,7 @@ hash,key
 3644118571,prop_j_heist_pic_04
 3644697580,p_brain_chunk_s
 3645215652,ng_proc_sodacan_02c
+3646421032,ba_prop_battle_headphones_dj
 3646582653,prop_palm_fan_03_d
 3646908049,imp_prop_impexp_front_bumper_02a
 3646955295,prop_rolled_yoga_mat
@@ -9334,7 +9568,8 @@ hash,key
 3690839454,v_ilev_rc_win_col
 3691199637,p_champ_flute_s
 3691403434,v_res_fh_dineeamesa
-3692836537,
+3692836537,ba_prop_club_dressing_board_02
+3692918456,ba_rig_dj_01_lights_01_b
 3692981328,v_serv_metro_stationgate
 3693043050,prop_inout_tray_02
 3693413658,xm_prop_x17_tv_scrn_05
@@ -9344,6 +9579,7 @@ hash,key
 3695042895,v_res_mdchest
 3695165981,h4_prop_battle_lights_tube_l_a
 3695421292,hei_prop_heist_gold_bar
+3696392863,ba_prop_battle_lights_ceiling_l_h
 3696564356,prop_cash_pile_02
 3696748044,v_res_d_sofa
 3696781377,p_amb_coffeecup_01
@@ -9367,7 +9603,7 @@ hash,key
 3703270035,prop_rail_signals03
 3703365665,imp_mapmarker_lamesa
 3703617970,hei_prop_yah_seat_03
-3703851837,
+3703851837,ba_prop_battle_crates_rifles_03a
 3704064899,prop_paint_wpaper01
 3704096939,v_ilev_mchalkbrd_2
 3704550755,gr_dlc_gr_yacht_props_table_01
@@ -9431,10 +9667,11 @@ hash,key
 3728788550,prop_wall_vent_06
 3729169359,prop_barrier_work04a
 3729265716,v_res_m_lamptbl
-3729477854,
+3729477854,ba_prop_battle_barrier_02a
 3729570874,prop_irish_sign_12
 3729806797,prop_venice_sign_18
 3730182964,gr_prop_gr_target_w_02a
+3730551768,ba_prop_battle_lights_floor_l_b
 3730985457,prop_wheel_06
 3731166393,v_res_fh_coftbldisp
 3731192383,imp_prop_impexp_rear_bars_01a
@@ -9451,6 +9688,7 @@ hash,key
 3735350260,prop_byard_float_01
 3736491494,bkr_prop_weed_bucket_01d
 3736913464,sr_prop_special_bblock_xl2
+3737594966,ba_prop_battle_lights_wall_l_b
 3737764644,sm_hang_floor_1
 3738060543,imp_prop_covered_vehicle_05a
 3739018563,h4_prop_door_club_trad_generic
@@ -9512,6 +9750,7 @@ hash,key
 3753078215,hei_heist_tab_sidesml_02
 3753671591,h4_mp_h_acc_vase_04
 3754184934,v_ret_fh_dinetable
+3754577198,ba_prop_battle_lights_02_bright
 3754954912,ex_cash_scatter_03
 3754967026,prop_freeweight_01
 3755322017,prop_hwbowl_pseat_6x1
@@ -9523,6 +9762,7 @@ hash,key
 3757558833,xm_prop_x17_cover_01
 3758003654,prop_ice_cube_01
 3758249537,sm_floor_decal_8
+3758640924,ba_rig_dj_04_lights_04_c_scr
 3759384755,prop_ped_pic_08
 3759439541,prop_beer_patriot
 3759483304,v_res_tt_flusher
@@ -9620,6 +9860,7 @@ hash,key
 3791244160,proc_sml_stones01
 3791910868,apa_mp_h_acc_vase_flowers_02
 3791949356,prop_pot_plant_05c
+3791992044,ba_prop_club_emis_rig_04
 3792678821,prop_cs_focussheet1
 3792702585,prop_scafold_03f
 3792764623,xm_prop_x17_bag_med_01a
@@ -9682,7 +9923,7 @@ hash,key
 3819674898,v_med_hospseating4
 3819988521,v_res_m_dinechair
 3820241636,prop_flag_russia_s
-3821191767,
+3821191767,ba_prop_battle_crates_wpn_mix_01a
 3821393119,w_sb_assaultsmg
 3821507455,xm_prop_x17_tv_scrn_11
 3821930978,prop_dummy_plane
@@ -9694,6 +9935,7 @@ hash,key
 3823419502,v_res_lest_bigscreen
 3823610955,stt_prop_sign_circuit_13b
 3823776967,v_club_skirtflare
+3824008077,ba_prop_battle_lights_tube_l_a
 3824151676,bkr_prop_biker_boardchair01
 3824529834,ex_mp_h_acc_vase_flowers_04
 3825272565,prop_gas_pump_old2
@@ -9708,6 +9950,7 @@ hash,key
 3826822617,hei_prop_hei_bust_01
 3827379853,prop_bush_ivy_02_l
 3828395012,prop_rub_boxpile_10
+3829151573,ba_prop_battle_lights_prop_battle_ceiling_lampb
 3829157549,sr_prop_stunt_tube_crn2_03a
 3829216027,prop_bush_lrg_02b
 3829569402,prop_balcony_glass_01
@@ -9801,11 +10044,13 @@ hash,key
 3862320355,prop_aircon_m_09
 3862361896,prop_telegwall_02a
 3862517922,h4_prop_x17_sub_lampa_large_blue
+3862530800,ba_rig_dj_01_lights_01_c
 3863799290,v_res_tt_basket
 3863810033,v_ilev_fa_warddoorl
 3865122174,prop_beachbag_combo_02
 3865264441,prop_tree_cedar_s_06
 3865407026,p_phonebox_02_s
+3866528590,ba_rig_dj_01_lights_01_a
 3867420991,h4_prop_h4_chest_01a_uw
 3867468406,lr_prop_supermod_door_01
 3868045065,lts_prop_tumbler_cs2_s2
@@ -9884,12 +10129,12 @@ hash,key
 3895591062,sr_prop_stunt_tube_crn_5d_05a
 3895736074,h4_prop_glass_garage
 3896302989,v_ilev_uvsquiggle
-3896957328,
+3896957328,ba_prop_battle_coke_block_01a
 3897359519,prop_air_trailer_1a
 3897622736,sr_prop_stunt_tube_crn_15d_04a
 3897884812,v_ilev_247_offdorr
 3898224429,rifle_vector
-3898412430,
+3898412430,ba_prop_battle_bag_01a
 3898700932,prop_j_heist_pic_03
 3899039733,imp_prop_tool_draw_01b
 3899069169,prop_sign_road_03n
@@ -9900,6 +10145,7 @@ hash,key
 3903699563,h4_prop_h4_coke_bottle_02a
 3903811192,v_res_fh_sculptmod
 3904337166,port_xr_lightspot
+3904429118,ba_prop_club_champset
 3905523322,ex_office_swag_gem02
 3905536824,h4_prop_h4_ld_keypad_01
 3906588652,v_ret_mirror
@@ -9938,9 +10184,10 @@ hash,key
 3920439939,prop_ss1_10_door_r
 3921316467,hei_heist_stn_sofa2seat_02
 3921476527,test_prop_gravestones_08a
+3922206353,ba_rig_dj_02_lights_02_c
 3922522932,h4_prop_battle_lights_floor
 3922612881,v_serv_bs_clippers
-3922645534,
+3922645534,ba_prop_club_dressing_board_03
 3923352310,gr_prop_gr_fnclink_03h
 3923636159,prop_byard_chains01
 3923886896,prop_t_shirt_row_04
@@ -9967,16 +10214,19 @@ hash,key
 3930042505,v_res_fh_speakerdock
 3931292123,prop_ped_pic_06_sm
 3931595932,v_res_mdbedlamp_off
+3931832659,ba_prop_glass_front_office_opaque
 3932129724,prop_coral_kelp_02_l1
 3932244312,lf_house_05d_
 3933912229,apa_mp_h_stn_sofacorn_05
 3933966507,xm_prop_base_slide_door
+3934178157,ba_prop_club_tonic_can
 3934231669,h4_prop_club_screens_01
 3934246860,lf_house_14d_
 3934630770,prop_ld_dummy_rope
 3934855495,prop_fireescape_02a
 3935345332,prop_couch_lg_06
 3935516207,v_ilev_fh_door01
+3935714681,ba_prop_battle_lights_support
 3935863776,test_tree_forest_trunk_fall_01
 3935874168,prop_j_neck_disp_03
 3936022789,prop_tool_sawhorse
@@ -9995,6 +10245,7 @@ hash,key
 3942774093,v_ilev_methdoorbust
 3943704667,prop_snow_side_spreader_01
 3943907027,prop_plywoodpile_01a
+3943925905,ba_rig_dj_02_lights_01_c
 3944172270,prop_worklight_03a
 3944413438,ex_office_swag_drugstatue2
 3945129724,prop_dumpster_3step
@@ -10027,7 +10278,7 @@ hash,key
 3955885949,prop_fib_ashtray_01
 3955926036,prop_cont_chiller_01
 3956157775,bkr_prop_fakeid_scalpel_01a
-3956240264,
+3956240264,ba_prop_battle_cctv_cam_01a
 3956308608,apa_mp_h_acc_vase_02
 3957119106,prop_snow_field_01
 3957525435,prop_ping_pong
@@ -10069,6 +10320,7 @@ hash,key
 3970904288,sm_prop_smug_crate_l_tobacco
 3971859212,h4_prop_h4_barrel_01a
 3972014083,h4_prop_casino_blckjack_01d
+3973100296,ba_rig_dj_04_lights_03_c
 3973396711,prop_birdbath1
 3974019004,v_ilev_mp_mid_frontdoor
 3974119267,prop_cs_mop_s
@@ -10092,6 +10344,7 @@ hash,key
 3982434908,w_sb_assaultsmg_mag1
 3982908967,hei_p_post_heist_weed_stash
 3983391679,v_ilev_cd_door3
+3983677690,ba_prop_club_emis_rig_02c
 3984195036,prop_air_windsock
 3984344823,v_serv_ct_monitor06
 3984769111,prop_pipes_conc_02
@@ -10103,6 +10356,7 @@ hash,key
 3987304263,prop_distantcar_night
 3987984650,prop_plate_01
 3988057187,prop_ind_light_02c
+3988376689,ba_prop_club_emis_rig_02
 3988959552,v_med_hospseating3
 3989082015,prop_weed_02
 3989683863,prop_ld_rubble_02
@@ -10162,6 +10416,8 @@ hash,key
 4005661348,bkr_prop_coke_powderedmilk
 4005884578,p_rub_binbag_test
 4006142874,prop_fncsec_03a
+4006924238,ba_rig_dj_all_lights_04_off
+4007748861,ba_rig_dj_04_lights_01_a
 4008487755,v_ret_gc_fax
 4008687084,v_res_mousemat
 4009365268,prop_rail_signals02
@@ -10170,8 +10426,9 @@ hash,key
 4010314812,v_ret_gc_bullet
 4010327284,test_tree_forest_trunk_04
 4010713290,pil_prop_fs_safedoor
-4010970645,
+4010970645,ba_prop_club_dressing_sign_03
 4011393200,v_ilev_cor_doorlift02
+4011805566,ba_rig_dj_04_lights_02_b
 4012715304,stt_prop_flagpole_2d
 4013319427,prop_poolball_12
 4014693584,prop_cs_package_01
@@ -10206,6 +10463,7 @@ hash,key
 4024376328,apa_p_mp_door_06
 4024728157,ex_prop_crate_clothing_sc
 4025063102,prop_sign_road_05w
+4025178790,ba_rig_dj_03_lights_02_c
 4025638715,imp_prop_impexp_clamp_02
 4025854455,v_serv_metroelecpolestation
 4027087003,w_sb_compactsmg_boxmag
@@ -10277,6 +10535,7 @@ hash,key
 4050502276,h4_prop_h4_pot_01a
 4050510318,prop_byard_elecbox02
 4051812525,v_ilev_cd_lampal_off
+4051936558,ba_prop_battle_tent_01
 4051979554,prop_rub_matress_04
 4051992145,prop_glass_stack_04
 4052058135,prop_homeless_matress_02
@@ -10314,6 +10573,7 @@ hash,key
 4065419136,stt_prop_stunt_track_dwslope15
 4066193910,v_ilev_ra_door3
 4066370557,prop_bin_07a
+4067001730,ba_prop_battle_decanter_01_s
 4067811127,stt_prop_hoop_tyre_01a
 4067905541,prop_hospital_door_r
 4068232086,prop_buck_spade_09
@@ -10458,11 +10718,13 @@ hash,key
 4124663354,hei_prop_hei_pic_hl_raid
 4124689816,sr_prop_spec_target_m_01a
 4124731398,prop_ld_lab_dorway01
+4125317795,ba_prop_battle_lights_prop_battle_ceiling_lampa
 4125783777,apa_mp_h_acc_artwallm_04
 4125918123,prop_champ_01a
 4126370622,apa_mp_h_stn_foot_stool_01
 4126380171,xm_prop_vancrate_01a
 4127274994,xm_prop_x17_tv_scrn_12
+4129099366,ba_prop_battle_drone_quad_static
 4129844192,hei_heist_str_sideboardl_04
 4129849808,prop_barn_door_l
 4130062952,prop_food_bs_soda_01
@@ -10473,6 +10735,7 @@ hash,key
 4131059884,prop_fragtest_cnst_02
 4131652698,ng_proc_coffee_01a
 4132536783,prop_byard_float_01b
+4133175889,ba_rig_dj_01_lights_04_b_scr
 4133344966,h4_prop_rock_lrg_10
 4133700659,lr2_prop_ibi_02
 4133976338,imp_prop_impexp_tyre_03c
@@ -10494,7 +10757,7 @@ hash,key
 4138610559,prop_sign_road_03m
 4139031726,prop_cctv_unit_02
 4139096503,prop_tree_olive_creator
-4139267193,
+4139267193,ba_prop_battle_tube_fn_05
 4139315959,hei_p_parachute_s_female
 4140358174,prop_rum_bottle
 4140549502,v_ret_ps_ties_03
@@ -10517,6 +10780,7 @@ hash,key
 4146966289,p_cs_15m_rope_s
 4147447507,prop_plant_base_01
 4147641866,xm_prop_iaa_base_door_01
+4149686440,ba_prop_battle_lights_ceiling_l_b
 4149900442,stt_prop_stunt_track_dwslope30
 4150376126,v_res_d_dressdummy
 4151101040,bkr_prop_fakeid_scalpel_03a
@@ -10550,7 +10814,7 @@ hash,key
 4165413875,v_ilev_gendoor01
 4165983644,ng_proc_brkbottle_02b
 4166043228,v_med_hospseating1
-4166617266,
+4166617266,ba_prop_battle_barrier_01c
 4166900065,prop_idol_case
 4166953012,v_res_desklamp
 4167227990,prop_tool_hammer
@@ -10628,6 +10892,7 @@ hash,key
 4202003465,h4_prop_club_dimmer
 4202418026,prop_rub_trukwreck_1
 4204511029,v_ilev_fibl_door01
+4204802902,ba_prop_club_emis_rig_02b
 4205118665,prop_ld_breakmast
 4205603442,h4_prop_h4_glass_cut_01a
 4205611162,v_ret_gc_vent
@@ -10693,6 +10958,7 @@ hash,key
 4225847906,des_smash2_root4
 4226426803,prop_air_stair_04b_cr
 4227061121,prop_plant_int_03c
+4227295468,ba_prop_club_emis_rig_01
 4227668174,prop_venice_sign_08
 4227804924,hei_heist_stn_sofa2seat_03
 4227907903,apa_mp_h_stn_chairstrip_01
@@ -10814,6 +11080,7 @@ hash,key
 4273518235,prop_ld_wallet_pickup
 4273678418,prop_fnclink_03h
 4273940906,prop_fncwood_12a
+4274524819,ba_prop_battle_dj_mixer_01c
 4274906158,h4_prop_battle_trophy_dancer
 4275683791,ex_prop_crate_tob_bc
 4275723553,xm_prop_base_computer_02
@@ -10830,11 +11097,13 @@ hash,key
 4280674851,p_tmom_earrings_s
 4281246358,prop_bucket_02a
 4281368594,hei_ss1_02_grd01
+4281644417,ba_prop_club_screens_01
 4281813547,prop_gate_cult_01_l
 4282045932,sm_prop_smug_hgrdoors_03
+4282323869,ba_prop_battle_dj_mixer_01a
 4282541843,prop_logpile_07b
 4283117964,prop_gnome3
-4283147071,
+4283147071,ba_prop_club_dressing_poster_02
 4284688374,v_serv_metro_advertstand3
 4285129328,prop_gas_tank_04a
 4285458361,v_res_tre_sofa_mess_b
