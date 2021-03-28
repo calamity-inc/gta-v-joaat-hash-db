@@ -1,4 +1,3 @@
-0x17DF1373
 0x3F039CBA
 a_c_boar
 a_c_cat_01
@@ -501,6 +500,7 @@ ig_devin
 ig_dix
 ig_djblamadon
 ig_djblamrupert
+ig_djblamryanh
 ig_djblamryans
 ig_djdixmanager
 ig_djgeneric_01
@@ -634,6 +634,7 @@ ig_vagspeak
 ig_vincent
 ig_vincent_2
 ig_wade
+ig_wendy
 ig_zimbor
 mp_f_bennymech_01
 mp_f_boatstaff_01
