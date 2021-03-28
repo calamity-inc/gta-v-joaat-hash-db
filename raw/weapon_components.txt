@@ -106,7 +106,6 @@
 0x5218C819
 0x538B7B97
 0x54A8437D
-0x54D41361
 0x5646C26A
 0x57EF1CC8
 0x5B1C713C
@@ -132,7 +131,6 @@
 0x7B82145C
 0x7C7FCD9B
 0x7FEA36EC
-0x81786CA9
 0x822060A9
 0x82C10383
 0x833637FF
@@ -155,7 +153,6 @@
 0x909630B7
 0x911B24AF
 0x9186750A
-0x9307D6FA
 0x930CB951
 0x9486246C
 0x94E12DCE
@@ -314,6 +311,9 @@ component_carbinerifle_clip_01
 component_carbinerifle_clip_02
 component_carbinerifle_clip_03
 component_carbinerifle_varmod_luxe
+component_ceramicpistol_clip_01
+component_ceramicpistol_clip_02
+component_ceramicpistol_supp
 component_combatmg_clip_01
 component_combatmg_clip_02
 component_combatmg_varmod_lowrider

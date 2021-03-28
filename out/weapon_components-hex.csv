@@ -147,7 +147,7 @@ hash,key
 0x5218C819,
 0x538B7B97,
 0x54A8437D,
-0x54D41361,
+0x54D41361,component_ceramicpistol_clip_01
 0x5646C26A,
 0x57EF1CC8,
 0x59FF9BF8,component_compactrifle_clip_02
@@ -192,7 +192,7 @@ hash,key
 0x7DECFE30,component_knuckle_varmod_hate
 0x7FEA36EC,
 0x8033ECAF,component_snspistol_varmod_lowrider
-0x81786CA9,
+0x81786CA9,component_ceramicpistol_clip_02
 0x82158B47,component_mg_clip_02
 0x822060A9,
 0x82C10383,
@@ -226,7 +226,7 @@ hash,key
 0x9137A500,component_switchblade_varmod_base
 0x9186750A,
 0x92FECCDD,component_combatmg_varmod_lowrider
-0x9307D6FA,
+0x9307D6FA,component_ceramicpistol_supp
 0x930CB951,
 0x937ED0B7,component_minismg_clip_02
 0x9486246C,
