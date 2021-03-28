@@ -3,14 +3,14 @@ hash,key
 0x107F392C,dinghy2
 0x1149422F,tropic
 0x17DF5EC2,squalo
-0x1A144F2A,
-0x1E5E54EA,
+0x1A144F2A,speeder2
+0x1E5E54EA,dinghy3
 0x33581161,jetmax
-0x33B47F96,
-0x362CAC6D,
+0x33B47F96,dinghy4
+0x362CAC6D,toro2
 0x3D961290,dinghy
 0x3FD5AA2F,toro
-0x56590FE9,
+0x56590FE9,tropic2
 0x6EF89CCC,longfin
 0x82CAC433,tug
 0x9A474B5E,avisa
@@ -19,6 +19,6 @@ hash,key
 0xC58DA34A,dinghy5
 0xDB4388E4,seashark2
 0xE2E7D4AB,predator
-0xED762D49,
+0xED762D49,seashark3
 0xEF2295C9,suntrap
 0xEF813606,patrolboat

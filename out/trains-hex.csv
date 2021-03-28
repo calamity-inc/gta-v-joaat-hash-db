@@ -1,8 +1,8 @@
 hash,key
-0x0AFD22A6,
-0x0E512E79,
+0x0AFD22A6,freightcar
+0x0E512E79,freightcont2
 0x22EDDC30,tankercar
-0x264D9262,
+0x264D9262,freightgrain
 0x33C9E158,metrotrain
-0x36DCFF98,
-0x3D6AAA9B,
+0x36DCFF98,freightcont1
+0x3D6AAA9B,freight

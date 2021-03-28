@@ -13,7 +13,7 @@ hash,key
 0x0612F4B6,trophytruck
 0x067BC037,coquette
 0x06FF6914,btype
-0x07405E08,
+0x07405E08,boxville3
 0x08852855,baller2
 0x097E5533,ardent
 0x0A90ED5C,phantom3
@@ -85,7 +85,7 @@ hash,key
 0x2B26F456,dukes
 0x2B6DC64A,speedo2
 0x2B7F9DE3,slamvan
-0x2BC345D1,
+0x2BC345D1,sadler2
 0x2BEC3CBE,buffalo2
 0x2C1FEA99,vagrant
 0x2C33B46E,pranger
@@ -108,7 +108,7 @@ hash,key
 0x34DBA661,stromberg
 0x34DD8AA1,intruder
 0x34E6BF6B,utillitruck2
-0x353B561D,
+0x353B561D,burrito4
 0x35DED0DD,savestra
 0x35ED670B,mule
 0x360A438E,cog55
@@ -118,7 +118,7 @@ hash,key
 0x378236E1,issi3
 0x381E10BD,ruiner2
 0x3822BDFE,casco
-0x38408341,
+0x38408341,pony2
 0x3944D5A0,furia
 0x39DA2754,sultan
 0x39F9C898,tampa
@@ -149,7 +149,7 @@ hash,key
 0x42F2ED16,superd
 0x432AA566,bfinjection
 0x432EA949,fbi
-0x437CF2A0,
+0x437CF2A0,burrito5
 0x44623884,caddy
 0x4543B74D,rumpo
 0x45D56ADA,ambulance
@@ -215,11 +215,11 @@ hash,key
 0x669EB40A,monster3
 0x66B4FC45,stratum
 0x679450AF,rapidgt2
-0x67B3F020,
+0x67B3F020,bison3
 0x67D2B389,streiter
 0x67D52852,slamvan6
 0x6827CF72,stockade
-0x690A4153,
+0x690A4153,tornado3
 0x698521E3,dloader
 0x69F06B57,washington
 0x6A4BD8F6,mower
@@ -240,7 +240,7 @@ hash,key
 0x71CBEA98,gb200
 0x71D3B6F0,cerberus3
 0x71FA16EA,police3
-0x72435A19,
+0x72435A19,trash
 0x72934BE4,schafter6
 0x72935408,sheriff2
 0x72A4C31E,stalion
@@ -265,7 +265,7 @@ hash,key
 0x7B406EFB,tyrus
 0x7B47A6A7,lurcher
 0x7B7E56F0,insurgent2
-0x7B8297C5,
+0x7B8297C5,bison2
 0x7B8AB45F,carbonizzare
 0x7DE35E7D,pounder
 0x7E8F677F,prototipo
@@ -288,7 +288,7 @@ hash,key
 0x83070B62,impaler
 0x831A21D5,phoenix
 0x8408F33A,gt500
-0x843B73DE,
+0x843B73DE,tractor2
 0x84718D34,coach
 0x84F42E51,mesa3
 0x8526E2F5,slamvan4
@@ -318,7 +318,7 @@ hash,key
 0x8F0E3594,surge
 0x8F49AE28,brutus2
 0x8FB66F9B,premier
-0x8FC3AADC,
+0x8FC3AADC,emperor2
 0x8FD54EBB,trailersmall2
 0x9114EADA,insurgent
 0x91CA96EE,neon
@@ -332,14 +332,14 @@ hash,key
 0x94DA98EF,tornado5
 0x95466BDB,faction2
 0x95F4C618,policeold2
-0x961AFEF7,
+0x961AFEF7,rumpo2
 0x9628879C,granger
 0x9734F3EA,penetrator
 0x97398A4B,seven70
 0x97553C28,everon
 0x97FA4F36,gburrito
 0x9804F4C7,impaler4
-0x98171BD3,
+0x98171BD3,burrito3
 0x98F65A5E,coquette4
 0x9A5B1DCC,rubble
 0x9A9FD3DF,scrap
@@ -382,7 +382,7 @@ hash,key
 0xAF966F3C,caracara2
 0xAFBB2CA4,burrito
 0xB12314E0,towtruck
-0xB1D80E06,
+0xB1D80E06,surfer2
 0xB1D95DA0,cheetah
 0xB2A716A3,jester
 0xB2E046FB,dominator6
@@ -421,7 +421,7 @@ hash,key
 0xBE819C63,rentalbus
 0xBF1691E0,furoregt
 0xC0240885,tampa2
-0xC1632BEB,
+0xC1632BEB,mule2
 0xC1A8A914,slamtruck
 0xC1AE4D16,comet2
 0xC1E908D2,banshee
@@ -449,9 +449,9 @@ hash,key
 0xCE0B9F22,landstalker2
 0xCE44C4B9,komoda
 0xCE6B35A4,btype2
-0xCEB28249,
+0xCEB28249,dune4
 0xCEC6B9B7,vigero
-0xCEEA3F4B,
+0xCEEA3F4B,barracks
 0xCFB3870C,speedo
 0xCFCA3668,baller
 0xCFCFEB3B,patriot
@@ -519,7 +519,7 @@ hash,key
 0xEE6024BC,sultanrs
 0xEEF345EC,rcbandito
 0xF21B33BE,boxville2
-0xF26CEFF9,
+0xF26CEFF9,ruiner
 0xF330CB6A,jester3
 0xF337AB36,stockade3
 0xF34DFB25,barrage

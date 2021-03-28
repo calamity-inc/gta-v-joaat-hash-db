@@ -1,21 +1,3 @@
-0x07405E08
-0x2BC345D1
-0x353B561D
-0x38408341
-0x437CF2A0
-0x67B3F020
-0x690A4153
-0x72435A19
-0x7B8297C5
-0x843B73DE
-0x8FC3AADC
-0x961AFEF7
-0x98171BD3
-0xB1D80E06
-0xC1632BEB
-0xCEB28249
-0xCEEA3F4B
-0xF26CEFF9
 adder
 airbus
 airtug
@@ -36,6 +18,7 @@ baller5
 baller6
 banshee
 banshee2
+barracks
 barracks2
 barracks3
 barrage
@@ -45,6 +28,8 @@ bfinjection
 biff
 bifta
 bison
+bison2
+bison3
 bjxl
 blade
 blazer
@@ -59,6 +44,7 @@ bobcatxl
 bodhi2
 boxville
 boxville2
+boxville3
 boxville4
 boxville5
 brawler
@@ -83,6 +69,9 @@ bulldozer
 bullet
 burrito
 burrito2
+burrito3
+burrito4
+burrito5
 bus
 cablecar
 caddy
@@ -149,6 +138,7 @@ dump
 dune
 dune2
 dune3
+dune4
 dune5
 dynasty
 elegy
@@ -156,6 +146,7 @@ elegy2
 ellie
 emerus
 emperor
+emperor2
 emperor3
 entity2
 entityxf
@@ -287,6 +278,7 @@ moonbeam
 moonbeam2
 mower
 mule
+mule2
 mule3
 mule4
 nebula
@@ -338,6 +330,7 @@ policeold1
 policeold2
 policet
 pony
+pony2
 pounder
 pounder2
 prairie
@@ -377,15 +370,18 @@ rocoto
 romero
 rrocket
 rubble
+ruiner
 ruiner2
 ruiner3
 rumpo
+rumpo2
 rumpo3
 ruston
 s80
 sabregt
 sabregt2
 sadler
+sadler2
 sandking
 sandking2
 savestra
@@ -444,6 +440,7 @@ sultanrs
 superd
 surano
 surfer
+surfer2
 surge
 swinger
 t20
@@ -468,6 +465,7 @@ toreador
 torero
 tornado
 tornado2
+tornado3
 tornado4
 tornado5
 tornado6
@@ -476,9 +474,11 @@ tourbus
 towtruck
 towtruck2
 tractor
+tractor2
 tractor3
 trailerlarge
 trailersmall2
+trash
 trash2
 trophytruck
 trophytruck2
