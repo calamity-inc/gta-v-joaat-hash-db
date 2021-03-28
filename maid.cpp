@@ -155,6 +155,12 @@ int main()
 			copy_db(vehicles, "trains");
 			databases.emplace("vehicles", std::move(vehicles));
 		}
+		{
+			std::map<uint32_t, std::optional<std::string>> entities = {};
+			copy_db(entities, "peds");
+			copy_db(entities, "vehicles");
+			databases.emplace("entities", std::move(entities));
+		}
 		for (const auto& database : databases)
 		{
 			output_db(database.first, database.second);
