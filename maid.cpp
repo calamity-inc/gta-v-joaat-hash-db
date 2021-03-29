@@ -64,10 +64,76 @@ static void output_db(const std::string& name, const std::map<uint32_t, std::opt
 	output_db(std::string(name).append("-dec_signed"), database, &dec_signed);
 }
 
+static void save_db(const std::string& name, const std::map<uint32_t, std::optional<std::string>>& database)
+{
+	std::set<std::string> lines = {};
+	for (const auto& entry : database)
+	{
+		if (entry.second.has_value())
+		{
+			lines.emplace(entry.second.value());
+		}
+		else
+		{
+			lines.emplace(hex(entry.first));
+		}
+	}
+	std::ofstream ofstream(std::string("raw/").append(name).append(".txt"));
+	for (auto&& line : lines)
+	{
+		ofstream << line << std::endl;
+	}
+}
+
+static void load_db(const std::string& name, std::map<uint32_t, std::optional<std::string>>& database)
+{
+	std::ifstream ifstream(std::string("raw/").append(name).append(".txt"));
+	for (std::string line; std::getline(ifstream, line); )
+	{
+		if (line.length() > 4 && line.substr(0, 4) == "dec:")
+		{
+			database.emplace((uint32_t)std::stol(line.substr(4)), std::nullopt);
+		}
+		else if (line.length() > 2 && line.substr(0, 2) == "0x")
+		{
+			database.emplace(std::stoul(line.substr(2), nullptr, 16), std::nullopt);
+		}
+		else if (!line.empty())
+		{
+			std::transform(line.begin(), line.end(), line.begin(), [](unsigned char c) { return std::tolower(c); });
+			uint32_t hash = joaat(line);
+			auto entry = database.find(hash);
+			if (entry == database.end())
+			{
+				database.emplace(std::move(hash), std::move(line));
+			}
+			else if (!entry->second.has_value())
+			{
+				entry->second = std::move(line);
+			}
+			else if (entry->second.value() != line)
+			{
+				std::cout << "COLLISION: " << entry->second.value() << " <-> " << line << std::endl;
+			}
+		}
+	}
+}
+
 static std::map<std::string, std::map<uint32_t, std::optional<std::string>>> databases;
+
+static void load_db(const std::string& name)
+{
+	std::map<uint32_t, std::optional<std::string>> database = {};
+	load_db(name, database);
+	databases.emplace(name, std::move(database));
+}
 
 static void copy_db(std::map<uint32_t, std::optional<std::string>>& target, const char* source)
 {
+	if(databases.find(source) == databases.end())
+	{
+		load_db(source);
+	}
 	auto database = databases.at(source);
 	target.insert(database.begin(), database.end());
 }
@@ -77,67 +143,6 @@ int main()
 	try
 	{
 		databases = {};
-		for (const auto& file : std::filesystem::directory_iterator("raw"))
-		{
-			auto filename = file.path().filename().u8string();
-			if (filename.length() > 4 && filename.substr(filename.length() - 4) == ".txt")
-			{
-				std::map<uint32_t, std::optional<std::string>> database = {};
-				{
-					std::ifstream ifstream(file.path().u8string());
-					for (std::string line; std::getline(ifstream, line); )
-					{
-						if (line.length() > 4 && line.substr(0, 4) == "dec:")
-						{
-							database.emplace((uint32_t)std::stol(line.substr(4)), std::nullopt);
-						}
-						else if (line.length() > 2 && line.substr(0, 2) == "0x")
-						{
-							database.emplace(std::stoul(line.substr(2), nullptr, 16), std::nullopt);
-						}
-						else if (!line.empty())
-						{
-							std::transform(line.begin(), line.end(), line.begin(), [](unsigned char c) { return std::tolower(c); });
-							uint32_t hash = joaat(line);
-							auto entry = database.find(hash);
-							if (entry == database.end())
-							{
-								database.emplace(std::move(hash), std::move(line));
-							}
-							else if (!entry->second.has_value())
-							{
-								entry->second = std::move(line);
-							}
-							else if (entry->second.value() != line)
-							{
-								std::cout << "COLLISION: " << entry->second.value() << " <-> " << line << std::endl;
-								return 1;
-							}
-						}
-					}
-				}
-				{
-					std::set<std::string> lines = {};
-					for (const auto& entry : database)
-					{
-						if (entry.second.has_value())
-						{
-							lines.emplace(entry.second.value());
-						}
-						else
-						{
-							lines.emplace(hex(entry.first));
-						}
-					}
-					std::ofstream ofstream(file.path().u8string());
-					for (auto&& line : lines)
-					{
-						ofstream << line << std::endl;
-					}
-				}
-				databases.emplace(filename.substr(0, filename.length() - 4), std::move(database));
-			}
-		}
 		{
 			std::map<uint32_t, std::optional<std::string>> automobiles_and_trailers = {};
 			copy_db(automobiles_and_trailers, "automobiles");
@@ -161,9 +166,44 @@ int main()
 			copy_db(entities, "vehicles");
 			databases.emplace("entities", std::move(entities));
 		}
+		{
+			std::map<uint32_t, std::optional<std::string>> weapon_types = {};
+			load_db("weapons", weapon_types);
+			databases.emplace("weapons", weapon_types);
+			load_db("weapon_types", weapon_types);
+			databases.emplace("weapon_types", std::move(weapon_types));
+		}
 		for (const auto& database : databases)
 		{
 			output_db(database.first, database.second);
+		}
+		{
+			auto weapons = databases.at("weapons");
+			auto i = databases.at("weapon_types").begin();
+			while (i != databases.at("weapon_types").end())
+			{
+				if (weapons.find(i->first) != weapons.end())
+				{
+					i = databases.at("weapon_types").erase(i);
+				}
+				else
+				{
+					i++;
+				}
+			}
+		}
+		for (const auto& file : std::filesystem::directory_iterator("raw"))
+		{
+			auto filename = file.path().filename().u8string();
+			if (filename.length() > 4 && filename.substr(filename.length() - 4) == ".txt")
+			{
+				auto database_name = filename.substr(0, filename.length() - 4);
+				if(databases.find(database_name) == databases.end())
+				{
+					load_db(database_name);
+				}
+				save_db(database_name, databases.at(database_name));
+			}
 		}
 	}
 	catch (const std::exception& e)
