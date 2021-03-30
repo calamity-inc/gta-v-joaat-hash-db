@@ -7,6 +7,7 @@
 #include <set>
 #include <string>
 #include <unordered_map>
+#include <unordered_set>
 
 static uint32_t joaat(const std::string& str)
 {
@@ -173,9 +174,11 @@ int main()
 			load_db("weapon_types", weapon_types);
 			databases.emplace("weapon_types", std::move(weapon_types));
 		}
+		std::unordered_set<std::string> outputed_dbs = {};
 		for (const auto& database : databases)
 		{
 			output_db(database.first, database.second);
+			outputed_dbs.emplace(database.first);
 		}
 		{
 			auto weapons = databases.at("weapons");
@@ -203,6 +206,10 @@ int main()
 					load_db(database_name);
 				}
 				save_db(database_name, databases.at(database_name));
+				if(outputed_dbs.find(database_name) == outputed_dbs.end())
+				{
+					output_db(database_name, databases.at(database_name));
+				}
 			}
 		}
 	}
