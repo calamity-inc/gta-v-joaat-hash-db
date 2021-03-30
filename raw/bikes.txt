@@ -40,6 +40,7 @@ nightblade
 oppressor
 oppressor2
 pcj
+policeb
 ratbike
 ruffian
 sanchez
