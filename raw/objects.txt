@@ -453,6 +453,7 @@ ar_prop_gate_cp_90d
 ar_prop_gate_cp_90d_01a
 ar_prop_gate_cp_90d_01a_l2
 ar_prop_gate_cp_90d_01b
+ar_prop_gate_cp_90d_01b_l2
 ar_prop_gate_cp_90d_01c
 ar_prop_gate_cp_90d_01c_l2
 ar_prop_gate_cp_90d_h1
@@ -1124,6 +1125,7 @@ bkr_prop_printmachine_6puller
 bkr_prop_printmachine_6rollerp_st
 bkr_prop_printmachine_6rollerpress
 bkr_prop_printmachine_cutter
+bkr_prop_prtmachine_dryer
 bkr_prop_prtmachine_dryer_op
 bkr_prop_prtmachine_dryer_spin
 bkr_prop_prtmachine_moneypage
@@ -1191,6 +1193,7 @@ cable1_root
 cable2_root
 cable3_root
 ce_xr_ctr2
+ch2_05d_upper_res4_dtl
 ch2_lod2_emissive_slod3
 ch2_lod2_slod3
 ch2_lod3_emissive_slod3
@@ -1742,7 +1745,8 @@ cropduster1_skin
 cropduster2_skin
 cropduster3_skin
 cropduster4_skin
-cs1_07_props_combo23_97_lod
+cs1_11_decals17
+cs1_13_houses
 cs2_lod2_emissive_4_21_slod3
 cs2_lod2_emissive_6_21_slod3
 cs2_lod2_rc_slod3
@@ -1760,6 +1764,8 @@ cs2_lod_emissive_6_21_slod3
 cs2_lod_rb2_slod3
 cs2_lod_roads_slod3
 cs2_lod_roadsb_slod3
+cs3_07_glue_05
+cs3_07_props_wire_025
 cs3_lod_1_slod3
 cs3_lod_2_slod3
 cs3_lod_emissive_slod3
@@ -2043,7 +2049,6 @@ des_vaultdoor001_root005
 des_vaultdoor001_root006
 des_vaultdoor001_skin001
 des_vaultdoor001_start
-dlc_gtao_heist_planning_board_heist_board_print
 dt1_03_mp_door
 dt1_05_build1_damage
 dt1_05_build1_damage_lod
@@ -2168,6 +2173,7 @@ ex_mp_h_tab_sidelrg_07
 ex_mp_h_yacht_barstool_01
 ex_mp_h_yacht_coffee_table_01
 ex_mp_h_yacht_coffee_table_02
+ex_office_01c_floorlamp_recept
 ex_office_citymodel_01
 ex_office_swag_booze_cigs
 ex_office_swag_booze_cigs2
@@ -3942,6 +3948,7 @@ ind_prop_firework_02
 ind_prop_firework_03
 ind_prop_firework_04
 kt1_11_mp_door
+kt1_16_dirt0302
 kt1_lod_emi_6_20_proxy
 kt1_lod_emi_6_21_proxy
 kt1_lod_kt1_emissive_slod
@@ -11975,6 +11982,7 @@ v_34_warevents
 v_34_wcorrdirt
 v_34_wcorrtyremks
 v_34_wtyremks
+v_39_ventilation
 v_44_1_daught_cdoor
 v_44_1_daught_cdoor2
 v_44_1_daught_deta
@@ -14551,6 +14559,7 @@ vb_lod_emissive_6_20_proxy
 vb_lod_emissive_6_proxy
 vb_lod_rv_slod4
 vb_lod_slod4
+vb_rd_cablemesh9665_thvy001
 vfx_it1_00
 vfx_it1_01
 vfx_it1_02

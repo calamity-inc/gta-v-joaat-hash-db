@@ -845,6 +845,7 @@ hash,key
 207200483,prop_dt1_20_mp_door_r
 207578973,vw_prop_casino_slot_07a
 208851797,prop_broken_cboard_p2
+208912991,cs1_13_houses
 209313383,gr_prop_inttruck_light_li_b_ol
 209347573,ba_rig_dj_02_lights_02_b
 209943352,prop_glass_panel_01
@@ -5972,6 +5973,7 @@ hash,key
 1492339777,prop_washing_basket_01
 1492389816,v_74_4_emerg_2
 1492402563,prop_wall_vent_02
+1492730239,ex_office_01c_floorlamp_recept
 1492875887,csx_rvrbldr_smlc_
 1493302556,ba_prop_battle_crate_gems_bc
 1493736253,vw_prop_art_resin_guns_01a
@@ -6396,6 +6398,7 @@ hash,key
 1605769687,prop_skip_06a
 1605871746,v_19_vanchngfacings
 1606004099,prop_railstack05
+1606558852,cs1_11_decals17
 1606955579,h4_prop_battle_lights_wall_l_f
 1607136882,prop_ic_rboost_pk
 1607341789,v_44_d_emis
@@ -8268,7 +8271,7 @@ hash,key
 2075346744,prop_rus_olive_wint
 2075712814,p_cs_comb_01
 2076011764,bkr_prop_coke_mixtube_01
-2076733045,dlc_gtao_heist_planning_board_heist_board_print
+2076733045,bkr_prop_prtmachine_dryer
 2076785383,h4_prop_rock_lrg_04
 2077585881,stt_prop_track_bend_30d
 2077750832,apa_mp_h_ceiling_light_01_day
@@ -8875,7 +8878,7 @@ hash,key
 -2059889071,prop_meth_setup_01
 -2059885722,prop_power_cell
 -2059425332,xm_prop_x17_lap_top_01
--2059107235,cs1_07_props_combo23_97_lod
+-2059107235,ar_prop_gate_cp_90d_01b_l2
 -2059029335,prop_toiletfoot_static
 -2058846745,prop_billb_frame01b
 -2058786200,h4_prop_h4_gate_03a
@@ -9111,6 +9114,7 @@ hash,key
 -2000607989,v_ret_gc_ear03
 -2000428138,sm_prop_smug_crate_s_fake
 -2000329784,h4_prop_battle_dj_t_box_01a
+-2000043075,ch2_05d_upper_res4_dtl
 -1999959241,gr_prop_inttruck_light_ca_b_ol
 -1999869780,v_16_low_lng_mesh_armchair
 -1999455180,prop_cs_gascutter_1
@@ -10391,6 +10395,7 @@ hash,key
 -1669330389,prop_peanut_bowl_01
 -1669114072,v_res_mdbedlamp
 -1668478519,prop_cs_silver_tray
+-1668341863,v_39_ventilation
 -1667989881,xm_prop_x17_barge_col_02
 -1667927856,v_corp_sidetblefd
 -1667634658,bkr_prop_biker_scriptrt_table
@@ -10864,6 +10869,7 @@ hash,key
 -1549527174,prop_h4_wall_door_2x1_02a
 -1549164937,ch_prop_ch_tunnel_door_01_r
 -1549132244,sm_attach_geom_lighting_hangar_a
+-1548998552,cs3_07_props_wire_025
 -1548395256,w_ar_carbineriflemk2_mag_tr
 -1548298042,prop_ic_special_ruiner_p
 -1547577184,prop_sign_road_06r
@@ -14067,6 +14073,7 @@ hash,key
 -752497691,prop_pris_door_01_l
 -752487763,ba_prop_battle_weed_bigbag_01a
 -751857837,prop_ped_pic_04
+-751763109,vb_rd_cablemesh9665_thvy001
 -751501685,prop_artgallery_dl
 -750805728,vw_prop_vw_luckylight_on
 -750752204,xm_prop_x17_sub_damage
@@ -14923,6 +14930,7 @@ hash,key
 -528508100,h4_prop_battle_lights_int_03_lr5
 -528401166,v_serv_radio
 -527772679,prop_ld_farm_cnr01
+-527714753,cs3_07_glue_05
 -527639859,vfx_it3_19
 -527552795,prop_beer_bar
 -527501070,prop_compressor_03
@@ -15037,6 +15045,7 @@ hash,key
 -502024136,p_notepad_01_s
 -501934650,v_corp_cd_chair
 -501789288,imp_prop_impexp_spoiler_02a
+-501133420,kt1_16_dirt0302
 -500649904,v_serv_ct_monitor05
 -500555734,prop_coral_kelp_03_l1
 -500493855,imp_prop_impexp_car_door_03a
