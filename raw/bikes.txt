@@ -49,7 +49,6 @@ sanctus
 scorcher
 shotaro
 sovereign
-stryder
 thrust
 tribike
 tribike2
