@@ -1,0 +1,3 @@
+slod_human
+slod_large_quadped
+slod_small_quadped
