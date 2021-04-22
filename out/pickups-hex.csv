@@ -8,6 +8,7 @@ hash,key
 0x0968339D,pickup_weapon_specialcarbine
 0x0977C0F2,pickup_weapon_battleaxe
 0x098D79EF,pickup_vehicle_health_standard
+0x0A72C549,pickup_weapon_flare
 0x0F725239,tsmg
 0x0FE73AB5,pickup_weapon_compactrifle
 0x116FC4E6,pickup_ammo_smg
@@ -31,9 +32,11 @@ hash,key
 0x3A4C2AD2,pickup_weapon_smg
 0x3B0F70A7,pickup_weapon_doubleaction
 0x3B662889,pickup_weapon_appistol
+0x3BA8D4DF,pickup_weapon_rayminigun
 0x3DE942BD,pickup_weapon_snspistol_mk2
 0x41D2CF56,pickup_vehicle_custom_script_low_glow
 0x4316CC09,pickup_vehicle_armour_standard
+0x46E43EBC,pickup_weapon_snowball
 0x499A096A,pickup_weapon_pistol_mk2
 0x4B5259BE,pickup_portable_crate_unfixed_incar
 0x4BFB42D1,pickup_armour_standard
@@ -49,8 +52,10 @@ hash,key
 0x602941D0,pickup_ammo_firework_mp
 0x614BFCAC,pickup_weapon_revolver
 0x624F7213,pickup_weapon_proxmine
+0x64CF4A73,pickup_weapon_unarmed
 0x65948212,pickup_vehicle_money_variable
 0x65A7D8E9,pickup_vehicle_weapon_smokegrenade
+0x6734C837,pickup_weapon_bzgas
 0x6773257D,pickup_parachute
 0x68605A36,pickup_vehicle_weapon_assaultsmg
 0x693583AD,pickup_weapon_heavysniper
@@ -60,6 +65,7 @@ hash,key
 0x6E717A95,pickup_portable_crate_unfixed
 0x711D02A4,pickup_money_paper_bag
 0x741C684A,pickup_weapon_assaultsmg
+0x74C4BDE2,pickup_weapon_raycarbine
 0x763F7121,pickup_weapon_musket
 0x77F3F2DD,pickup_ammo_shotgun
 0x789576E2,pickup_weapon_combatpdw
@@ -104,6 +110,7 @@ hash,key
 0xBFEE6C3B,pickup_weapon_dagger
 0xC01EB678,pickup_weapon_hominglauncher
 0xC02CF125,pickup_ammo_sniper
+0xC22C129D,pickup_weapon_ball
 0xC3CD8B31,pickup_portable_crate_unfixed_incar_small
 0xC5B72713,pickup_weapon_snspistol
 0xC69DE3FF,pickup_weapon_petrolcan
@@ -123,6 +130,7 @@ hash,key
 0xE013E01C,pickup_ammo_flaregun
 0xE175C698,pickup_gang_attack_money
 0xE33D8630,pickup_camera
+0xE342F8F0,pickup_weapon_raypistol
 0xE46E11B4,pickup_weapon_railgun
 0xE4BD2FC6,pickup_ammo_rifle
 0xE5121369,pickup_weapon_wrench

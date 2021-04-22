@@ -68,12 +68,14 @@ pickup_weapon_assaultrifle_mk2
 pickup_weapon_assaultshotgun
 pickup_weapon_assaultsmg
 pickup_weapon_autoshotgun
+pickup_weapon_ball
 pickup_weapon_bat
 pickup_weapon_battleaxe
 pickup_weapon_bottle
 pickup_weapon_bullpuprifle
 pickup_weapon_bullpuprifle_mk2
 pickup_weapon_bullpupshotgun
+pickup_weapon_bzgas
 pickup_weapon_carbinerifle
 pickup_weapon_carbinerifle_mk2
 pickup_weapon_combatmg
@@ -88,6 +90,7 @@ pickup_weapon_dbshotgun
 pickup_weapon_doubleaction
 pickup_weapon_fireextinguisher
 pickup_weapon_firework
+pickup_weapon_flare
 pickup_weapon_flaregun
 pickup_weapon_flashlight
 pickup_weapon_golfclub
@@ -125,6 +128,9 @@ pickup_weapon_proxmine
 pickup_weapon_pumpshotgun
 pickup_weapon_pumpshotgun_mk2
 pickup_weapon_railgun
+pickup_weapon_raycarbine
+pickup_weapon_rayminigun
+pickup_weapon_raypistol
 pickup_weapon_revolver
 pickup_weapon_revolver_mk2
 pickup_weapon_rpg
@@ -133,6 +139,7 @@ pickup_weapon_smg
 pickup_weapon_smg_mk2
 pickup_weapon_smokegrenade
 pickup_weapon_sniperrifle
+pickup_weapon_snowball
 pickup_weapon_snspistol
 pickup_weapon_snspistol_mk2
 pickup_weapon_specialcarbine
@@ -141,6 +148,7 @@ pickup_weapon_stickybomb
 pickup_weapon_stone_hatchet
 pickup_weapon_stungun
 pickup_weapon_switchblade
+pickup_weapon_unarmed
 pickup_weapon_vintagepistol
 pickup_weapon_wrench
 tsmg
