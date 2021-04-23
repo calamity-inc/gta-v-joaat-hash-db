@@ -74,6 +74,33 @@ static void output_db(const std::string& db_name, const std::map<uint32_t, std::
 	});
 }
 
+static void output_dict(const char* name, const std::map<uint32_t, std::vector<std::string>>& dictionary, hash_to_string_t hash_to_string)
+{
+	std::ofstream ofstream(std::string("out/dictionary-").append(name).append(".tsv"));
+	ofstream << "hash\tkey(s)" << std::endl;
+	for (const auto& entry : dictionary)
+	{
+		ofstream << hash_to_string(entry.first) << "\t";
+		for (auto key_it = entry.second.begin(); key_it != entry.second.end(); ++key_it)
+		{
+			if (key_it != entry.second.begin())
+			{
+				ofstream << ", ";
+			}
+			ofstream << *key_it;
+		}
+		ofstream << std::endl;
+	}
+}
+
+static void output_dict(const std::map<uint32_t, std::vector<std::string>>& dictionary)
+{
+	for_each_hash_to_string_algo([&](const char* hts_name, hash_to_string_t hts_algo)
+	{
+		output_dict(hts_name, dictionary, hts_algo);
+	});
+}
+
 static void save_db(const std::string& name, const std::map<uint32_t, std::optional<std::string>>& database)
 {
 	std::set<std::string> lines = {};
@@ -222,6 +249,29 @@ int main()
 					}
 				}
 			}
+		}
+		{
+			std::map<uint32_t, std::vector<std::string>> dictionary = {};
+			for (const auto& database : databases)
+			{
+				for (const auto& db_entry : database.second)
+				{
+					if (!db_entry.second.has_value())
+					{
+						continue;
+					}
+					auto dict_entry = dictionary.find(db_entry.first);
+					if (dict_entry == dictionary.end())
+					{
+						dictionary.emplace(db_entry.first, std::vector<std::string>(1, db_entry.second.value()));
+					}
+					else if (std::find(dict_entry->second.begin(), dict_entry->second.end(), db_entry.second.value()) == dict_entry->second.end())
+					{
+						dict_entry->second.emplace_back(db_entry.second.value());
+					}
+				}
+			}
+			output_dict(dictionary);
 		}
 	}
 	catch (const std::exception& e)
