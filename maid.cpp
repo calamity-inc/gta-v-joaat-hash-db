@@ -1,6 +1,7 @@
 #include <cstdint>
 #include <filesystem>
 #include <fstream>
+#include <functional>
 #include <iostream>
 #include <map>
 #include <optional>
@@ -43,6 +44,13 @@ static std::string dec_signed(uint32_t hash)
 	return std::to_string((int32_t)hash);
 }
 
+static void for_each_hash_to_string_algo(std::function<void(const char*, hash_to_string_t)>&& func)
+{
+	func("hex", &hex);
+	func("dec_unsigned", &dec_unsigned);
+	func("dec_signed", &dec_signed);
+}
+
 static void output_db(const std::string& name, const std::map<uint32_t, std::optional<std::string>>& database, hash_to_string_t hash_to_string)
 {
 	std::ofstream ofstream(std::string("out/").append(name).append(".csv"));
@@ -58,11 +66,12 @@ static void output_db(const std::string& name, const std::map<uint32_t, std::opt
 	}
 }
 
-static void output_db(const std::string& name, const std::map<uint32_t, std::optional<std::string>>& database)
+static void output_db(const std::string& db_name, const std::map<uint32_t, std::optional<std::string>>& database)
 {
-	output_db(std::string(name).append("-hex"), database, &hex);
-	output_db(std::string(name).append("-dec_unsigned"), database, &dec_unsigned);
-	output_db(std::string(name).append("-dec_signed"), database, &dec_signed);
+	for_each_hash_to_string_algo([&](const char* hts_name, hash_to_string_t hts_algo)
+	{
+		output_db(std::string(db_name).append(1, '-').append(hts_name), database, hts_algo);
+	});
 }
 
 static void save_db(const std::string& name, const std::map<uint32_t, std::optional<std::string>>& database)
