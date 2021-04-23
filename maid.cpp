@@ -183,41 +183,43 @@ int main()
 			load_db("weapon_types", weapon_types);
 			databases.emplace("weapon_types", std::move(weapon_types));
 		}
-		std::unordered_set<std::string> outputed_dbs = {};
-		for (const auto& database : databases)
 		{
-			output_db(database.first, database.second);
-			outputed_dbs.emplace(database.first);
-		}
-		{
-			auto weapons = databases.at("weapons");
-			auto i = databases.at("weapon_types").begin();
-			while (i != databases.at("weapon_types").end())
+			std::unordered_set<std::string> outputed_dbs = {};
+			for (const auto& database : databases)
 			{
-				if (weapons.find(i->first) != weapons.end())
+				output_db(database.first, database.second);
+				outputed_dbs.emplace(database.first);
+			}
+			{
+				auto weapons = databases.at("weapons");
+				auto i = databases.at("weapon_types").begin();
+				while (i != databases.at("weapon_types").end())
 				{
-					i = databases.at("weapon_types").erase(i);
-				}
-				else
-				{
-					i++;
+					if (weapons.find(i->first) != weapons.end())
+					{
+						i = databases.at("weapon_types").erase(i);
+					}
+					else
+					{
+						i++;
+					}
 				}
 			}
-		}
-		for (const auto& file : std::filesystem::directory_iterator("raw"))
-		{
-			auto filename = file.path().filename().u8string();
-			if (filename.length() > 4 && filename.substr(filename.length() - 4) == ".txt")
+			for (const auto& file : std::filesystem::directory_iterator("raw"))
 			{
-				auto database_name = filename.substr(0, filename.length() - 4);
-				if(databases.find(database_name) == databases.end())
+				auto filename = file.path().filename().u8string();
+				if (filename.length() > 4 && filename.substr(filename.length() - 4) == ".txt")
 				{
-					load_db(database_name);
-				}
-				save_db(database_name, databases.at(database_name));
-				if(outputed_dbs.find(database_name) == outputed_dbs.end())
-				{
-					output_db(database_name, databases.at(database_name));
+					auto database_name = filename.substr(0, filename.length() - 4);
+					if (databases.find(database_name) == databases.end())
+					{
+						load_db(database_name);
+					}
+					save_db(database_name, databases.at(database_name));
+					if (outputed_dbs.find(database_name) == outputed_dbs.end())
+					{
+						output_db(database_name, databases.at(database_name));
+					}
 				}
 			}
 		}
