@@ -73,7 +73,6 @@ burrito3
 burrito4
 burrito5
 bus
-cablecar
 caddy
 caddy2
 caddy3
