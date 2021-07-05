@@ -5156,6 +5156,7 @@ hash	key(s)
 0x14E45F66	sp1_auto_saved
 0x14E567E4	strikeforce_can_shots
 0x14E56D99	v_ind_plazbags
+0x14E592FA	cs1_09_sea_ufo
 0x14E631A8	ar_prop_ar_arrow_thin_xl
 0x14E68D1C	cs_x_rubsmld
 0x14E7A295	impexppstat_int226
@@ -18112,6 +18113,7 @@ hash	key(s)
 0x499D2F3C	prop_bush_ornament_03
 0x499DAF6B	lrpstat_int11
 0x499E9A5D	char_kit_11_fm_viewed
+0x49A0B184	dt1_01_build
 0x49A0F7EC	dg_defender_initials_7
 0x49A2AC53	mp1_kills_innocents
 0x49A2E587	prop_snow_bush_04
@@ -23293,6 +23295,7 @@ hash	key(s)
 0x5EC8CE86	mp0_impexppstat_int238
 0x5ECA04A4	mp1_tupstat_int140
 0x5ECA8738	sp2_hvyshgn_hits
+0x5ECB544E	ss1_11_flats
 0x5ECB7AA0	mp0_mpsv_impound_time_186
 0x5ECB885E	dlc_apparel_used_198
 0x5ECBF108	cerberus_flame_hits
@@ -30819,6 +30822,7 @@ hash	key(s)
 0x7D797DCE	mp0_heist_role_50
 0x7D79A06E	times_f_init_t_bbuddy
 0x7D79B46D	mp1_headblend_over_blemish_pc
+0x7D79DAD4	dt1_tc_dufo_core
 0x7D7B6BD9	num_gold_medals_obtained
 0x7D7CE507	mp0_gettruckinitials_2
 0x7D7D4084	mp1_mpsv_vehicle_bs_304
@@ -47931,6 +47935,7 @@ hash	key(s)
 0xC3DCFF4B	mp1_admin_clothes_rm_bs_3
 0xC3DDFDCE	tailgater
 0xC3DE831D	mp1_su20pstat_int159
+0xC3DEA728	ap1_lod_slod4
 0xC3DF665F	char_fm_package_2_collect
 0xC3E04817	prop_elecbox_19
 0xC3E0D57D	mp1_mpsv_obtained_time_99

@@ -1423,6 +1423,7 @@ hash,key
 0x14E39CAE,v_19_strpprvrmcrt1
 0x14E3D6EB,prop_inflategate_01
 0x14E56D99,v_ind_plazbags
+0x14E592FA,cs1_09_sea_ufo
 0x14E631A8,ar_prop_ar_arrow_thin_xl
 0x14E68D1C,cs_x_rubsmld
 0x14E7AAB0,lux_prop_cigar_01_luxe
@@ -4961,6 +4962,7 @@ hash,key
 0x49996225,prop_big_bag_01
 0x499C7FDE,v_31_flow_fork_ah1
 0x499D2F3C,prop_bush_ornament_03
+0x49A0B184,dt1_01_build
 0x49A2E587,prop_snow_bush_04
 0x49B39071,xs_propint3_waste_01_garbage_a
 0x49B5E5AB,v_res_mutensils
@@ -6378,6 +6380,7 @@ hash,key
 0x5EBC5C8C,v_ind_cs_tray01
 0x5EBD0F0C,proc_searock_03
 0x5EC74ECB,prop_grapeseed_sign_01
+0x5ECB544E,ss1_11_flats
 0x5ECC1D4C,vw_prop_vw_wallart_108a
 0x5ED9733F,ar_prop_ig_jackal_cp_single_l2
 0x5EDD1FDA,w_ex_grenadesmoke
@@ -8449,6 +8452,7 @@ hash,key
 0x7D6E9CBF,sum_mp_h_acc_dec_sculpt_01
 0x7D7525C0,xm_prop_lab_booth_glass03
 0x7D770186,prop_poolball_13
+0x7D79DAD4,dt1_tc_dufo_core
 0x7D81F60B,vw_prop_vw_key_cabinet_01a
 0x7D883D72,v_74_it3_open_mnds
 0x7D8B006B,v_31_newtun2ol
@@ -13111,6 +13115,7 @@ hash,key
 0xC3D3E6E4,prop_worklight_04d_l1
 0xC3D50A59,des_farmhs_root8
 0xC3D9180E,v_8_sp1decdirt
+0xC3DEA728,ap1_lod_slod4
 0xC3E04817,prop_elecbox_19
 0xC3E2CDC4,prop_prlg_gravestone_05a
 0xC3E76A2A,h4_prop_battle_lights_club_df

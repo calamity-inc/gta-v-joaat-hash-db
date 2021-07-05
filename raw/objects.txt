@@ -1,4 +1,5 @@
 02gate3_l
+ap1_lod_slod4
 apa_heist_apart2_door
 apa_int_garage_wall_plug
 apa_mp_apa_crashed_usaf_01a
@@ -1745,6 +1746,7 @@ cropduster1_skin
 cropduster2_skin
 cropduster3_skin
 cropduster4_skin
+cs1_09_sea_ufo
 cs1_11_decals17
 cs1_13_houses
 cs2_lod2_emissive_4_21_slod3
@@ -2049,6 +2051,7 @@ des_vaultdoor001_root005
 des_vaultdoor001_root006
 des_vaultdoor001_skin001
 des_vaultdoor001_start
+dt1_tc_dufo_core
 ela_wdn_02_
 ela_wdn_02_decal
 ela_wdn_02lod_
@@ -10267,6 +10270,7 @@ sr_prop_track_straight_l_u15
 sr_prop_track_straight_l_u30
 sr_prop_track_straight_l_u45
 sr_prop_track_straight_l_u5
+ss1_11_flats
 ss1_lod_emissive_05
 ss1_lod_emissive_slod3
 ss1_lod_slod3

@@ -1414,6 +1414,7 @@ hash,key
 350461102,v_19_strpprvrmcrt1
 350476011,prop_inflategate_01
 350580121,v_ind_plazbags
+350589690,cs1_09_sea_ufo
 350630312,ar_prop_ar_arrow_thin_xl
 350653724,cs_x_rubsmld
 350726832,lux_prop_cigar_01_luxe
@@ -6327,6 +6328,7 @@ hash,key
 1589402764,v_ind_cs_tray01
 1589448460,proc_searock_03
 1590120139,prop_grapeseed_sign_01
+1590383694,ss1_11_flats
 1590435148,vw_prop_vw_wallart_108a
 1591309119,ar_prop_ig_jackal_cp_single_l2
 1591549914,w_ex_grenadesmoke
@@ -8386,6 +8388,7 @@ hash,key
 2104401087,sum_mp_h_acc_dec_sculpt_01
 2104829376,xm_prop_lab_booth_glass03
 2104951174,prop_poolball_13
+2105137876,dt1_tc_dufo_core
 2105669131,vw_prop_vw_key_cabinet_01a
 2106080626,v_74_it3_open_mnds
 2106261611,v_31_newtun2ol
@@ -13010,6 +13013,7 @@ hash,key
 3285444324,prop_worklight_04d_l1
 3285518937,des_farmhs_root8
 3285784590,v_8_sp1decdirt
+3286148904,ap1_lod_slod4
 3286255639,prop_elecbox_19
 3286420932,prop_prlg_gravestone_05a
 3286723114,h4_prop_battle_lights_club_df
