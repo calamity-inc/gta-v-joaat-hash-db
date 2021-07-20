@@ -42,6 +42,7 @@ hash,key
 0x0ADDD94C,debug
 0x0B5C1070,re_getaway_driver
 0x0B87DC63,gb_transporter
+0x0BA18B4C,am_mp_auto_shop
 0x0BB446FD,flowstartaccept
 0x0C5E8432,missioniaaturret
 0x0C6DAC46,am_hold_up
@@ -90,6 +91,7 @@ hash,key
 0x1AB4168D,atm_trigger
 0x1B67DDEF,appbroadcast
 0x1BBC162A,traffickingsettings
+0x1BE25EB4,tuner_planning
 0x1BEB0BF6,gunclub_shop
 0x1C0F96E7,am_casino_peds
 0x1C2A2AF8,am_mp_island
@@ -122,6 +124,7 @@ hash,key
 0x230D1E0D,am_mp_drone
 0x2334F600,gb_biker_bad_deal
 0x2382AF03,gb_fragile_goods
+0x2385BDC4,am_mp_car_meet_property
 0x240F2E7B,am_crate_drop
 0x244F0BCC,fame_or_shame_set
 0x2495FCB6,building_controller
@@ -285,6 +288,7 @@ hash,key
 0x506CC782,gb_ramped_up
 0x506E4E0D,debug_clone_outfit_testing
 0x514A6D17,fm_horde_controler
+0x5158A9E4,am_mp_car_meet_sandbox
 0x51925081,gb_fortified
 0x51C89B45,ob_mp_bed_med
 0x5202CF8C,ob_telescope
@@ -313,6 +317,7 @@ hash,key
 0x57A3EC48,apphackertruck
 0x57C919E1,am_launcher
 0x57FAD435,appbikerbusiness
+0x581858D7,car_meet_exterior_seating
 0x58557E37,bailbond3
 0x58A83CCF,floating_help_controller
 0x58B3979C,paradise
@@ -395,6 +400,7 @@ hash,key
 0x7030F53F,arena_workshop_seats
 0x7031B9DA,launcher_racing
 0x70A410D4,re_arrests
+0x70B10F84,tuner_property_carmod
 0x70DA15B8,am_prison
 0x70F0B174,fbi5a
 0x70F5DDD6,vehiclespawning
@@ -433,6 +439,7 @@ hash,key
 0x79120DE3,pi_menu
 0x797145EA,country_race
 0x79F32DA5,mp_save_game_global_block
+0x7A4A46AE,auto_shop_seating
 0x7A9A3349,am_king_of_the_castle
 0x7AD2E294,selling_short_2
 0x7AD812E6,range_modern
@@ -478,6 +485,7 @@ hash,key
 0x86B981C7,taxi_followcar
 0x86E06EFD,taxi_takeiteasy
 0x87004181,net_cloud_mission_loader
+0x8758EF91,tuner_sandbox_activity
 0x87D3A61F,thelastone
 0x881750F6,puzzle
 0x8822F9C3,gpb_tonya
@@ -541,6 +549,7 @@ hash,key
 0x966AFE8F,gb_biker_free_prisoner
 0x96C72262,ob_mp_shower_med
 0x974A442B,wardrobe_mp
+0x975E5D41,fm_content_sightseeing
 0x9782808A,am_hi_plane_land_cinematic
 0x97CD8E78,stripclub_mp
 0x98AB77C3,carsteal2
@@ -568,6 +577,7 @@ hash,key
 0x9D9D13EC,gb_illicit_goods_resupply
 0x9DC66994,fbi2
 0x9E2D2DA1,appsecurohack
+0x9E4931D3,fm_content_vehicle_list
 0x9E4E7734,gb_biker_stand_your_ground
 0x9E553AB5,bootycall_debug_controller
 0x9E63309D,solomon1
@@ -654,6 +664,7 @@ hash,key
 0xB4901AB2,gb_rob_shop
 0xB4C17BD2,spawn_activities
 0xB50CF876,fm_intro_cut_dev
+0xB5278C95,fm_content_tuner_robbery
 0xB57685C9,hairdo_shop_mp
 0xB57E86A9,error_thrower
 0xB6076995,michael4
@@ -680,11 +691,11 @@ hash,key
 0xBAF7CD9C,celebration_editor
 0xBB0BE30C,player_scene_mf_traffic
 0xBB296674,appsettings
+0xBB3D7E9D,car_meet_carmod
 0xBB46EA64,solomon3
 0xBB8854D3,re_monkey
 0xBC23FDC4,tennis_family
 0xBC350B6D,am_mp_peds
-0xBCCBDEDF,manhunt_arcade
 0xBCE245C9,agency_heist3a
 0xBCF8A584,ob_sofa_michael
 0xBD08C0E0,me_tracey1
@@ -779,6 +790,7 @@ hash,key
 0xD3AC6BE7,streaming
 0xD4114E8A,launcher_hunting
 0xD41E6264,gb_biker_shuttle
+0xD45729DB,fm_content_slasher
 0xD4C29444,josh4
 0xD4CAA546,gb_biker_race_p2p
 0xD4D41110,gb_bellybeast
@@ -857,6 +869,7 @@ hash,key
 0xE720B4A4,am_beach_washup_cinematic
 0xE7587A49,jewelry_prep1a
 0xE79AE0EF,sclub_front_bouncer
+0xE81212C6,camhedz_arcade
 0xE86536D1,re_drunkdriver
 0xE895E13E,am_rontrevor_cut
 0xE8DA8C5F,gb_security_van
@@ -909,6 +922,7 @@ hash,key
 0xF5FDAF3A,re_stag_do
 0xF60A885B,gb_stockpiling
 0xF625149E,drf1
+0xF699F9CD,fm_content_phantom_car
 0xF6A1905B,launcher_range
 0xF72AB040,gpb_mime
 0xF7D739B9,barry3c
@@ -934,6 +948,7 @@ hash,key
 0xFBE486CA,spaceshipparts
 0xFBF9EF55,spmc_preloader
 0xFC077A4C,fullmap_test
+0xFC4970DC,fm_content_auto_shop_delivery
 0xFC5F9481,gb_biker_safecracker
 0xFC611880,re_abandonedcar
 0xFC7D14A4,racetest
