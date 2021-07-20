@@ -1,3 +1,4 @@
+0x0416CD31
 pickup_ammo_bullet_mp
 pickup_ammo_firework
 pickup_ammo_firework_mp
