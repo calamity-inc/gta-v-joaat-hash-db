@@ -177,7 +177,6 @@ formula
 formula2
 fq2
 freecrawler
-freightcar2
 fugitive
 furia
 furoregt
