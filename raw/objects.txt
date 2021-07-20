@@ -10944,6 +10944,14 @@ test_tree_forest_trunk_04
 test_tree_forest_trunk_base_01
 test_tree_forest_trunk_fall_01
 to_be_swapped
+tr_prop_meth_smashedtray_02
+tr_prop_tr_break_dev_01a
+tr_prop_tr_cctv_cam_01a
+tr_prop_tr_fp_scanner_01a
+tr_prop_tr_fuse_box_01a
+tr_prop_tr_mil_crate_02
+tr_prop_tr_monitor_01a
+tr_prop_tr_monitor_01b
 urbandryfrnds_01
 urbandrygrass_01
 urbangrnfrnds_01

@@ -1187,6 +1187,7 @@ hash,key
 0x116B5C78,prop_forsale_dyn_02
 0x1173612A,ar_prop_ar_arrow_thin_m
 0x117490E3,p_ld_id_card_01
+0x11849F21,tr_prop_meth_smashedtray_02
 0x118A5589,h4_prop_rock_med_02
 0x118B6630,prop_pylon_03
 0x1192824D,vw_prop_casino_art_vase_03a
@@ -1906,6 +1907,7 @@ hash,key
 0x1C14C7DA,sum_prop_ac_rock_01e
 0x1C1C5644,gr_prop_gr_speeddrill_01b
 0x1C1C5A6E,h4_prop_club_tonic_bottle
+0x1C1F652E,tr_prop_tr_mil_crate_02
 0x1C26AC8E,xm_prop_base_work_station_03
 0x1C2A7F48,sr_mp_spec_races_take_flight_sign
 0x1C33108B,v_16_low_bath_over_decal
@@ -3533,6 +3535,7 @@ hash,key
 0x356A0BA7,prop_venice_sign_05
 0x356CF214,ch_prop_west_door_r_01a
 0x356FA8AC,csx_rvrbldr_medc_
+0x3579A159,tr_prop_tr_break_dev_01a
 0x357BEFA7,ar_prop_inflategates_cp_loop
 0x357CBA6D,prop_mb_cargo_04a
 0x357EADDE,prop_rub_binbag_03
@@ -3670,6 +3673,7 @@ hash,key
 0x3737AAA4,v_31a_cablemesh5777513_thvy
 0x373D467B,ex_prop_crate_xldiam
 0x373E51E2,prop_hot_tub_coverd
+0x37403744,tr_prop_tr_fuse_box_01a
 0x37469630,v_ilev_cor_windowsolid
 0x3746E69A,v_ret_ml_sweet9
 0x374D00AF,prop_barbell_30kg
@@ -9005,6 +9009,7 @@ hash,key
 0x875F0385,gr_prop_inttruck_light_li_w_mu
 0x875FF540,v_ilev_rc_door2
 0x876CBCD2,prop_box_wood03a
+0x876DEB81,tr_prop_tr_monitor_01b
 0x8773EB31,des_fib_ceil_rootb
 0x87745309,v_61_hlw_over_normals
 0x877772E0,prop_hat_box_03
@@ -11731,6 +11736,7 @@ hash,key
 0xB11EB1ED,prop_byard_pipe_01
 0xB1209FAE,sum_mpapyacht_glass08
 0xB12AD7EF,prop_rub_trolley03a
+0xB12B77D7,tr_prop_tr_fp_scanner_01a
 0xB13053EF,sum_yachtbthrm3lghts
 0xB131133A,prop_box_wood04a
 0xB131A564,xs_prop_arena_arrow_01a
@@ -12478,6 +12484,7 @@ hash,key
 0xBB895A91,v_16_low_lng_over_shadow
 0xBB8D2E06,prop_sign_road_05n
 0xBB907531,sum_ceilingstarz
+0xBB947154,tr_prop_tr_cctv_cam_01a
 0xBB97E555,prop_jewel_04b
 0xBB9A7B56,prop_tree_log_02
 0xBB9B09AC,prop_const_fence03b_cr
@@ -15240,6 +15247,7 @@ hash,key
 0xE567D04B,prop_food_tray_01
 0xE568BCE2,v_31_emmisve_ext
 0xE56A5A1C,prop_fnclink_03gate3
+0xE56BA797,tr_prop_tr_monitor_01a
 0xE573997B,prop_cs_documents_01
 0xE57ACC50,gr_prop_inttruck_light_li_g_aq
 0xE57E2708,p_med_jet_01_s

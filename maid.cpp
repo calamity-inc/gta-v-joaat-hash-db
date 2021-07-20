@@ -6,6 +6,7 @@
 #include <map>
 #include <optional>
 #include <set>
+#include <sstream>
 #include <string>
 #include <unordered_map>
 #include <unordered_set>
@@ -204,10 +205,13 @@ int main()
 			databases.emplace("peds_complete", std::move(entities));
 		}
 		{
-			std::map<uint32_t, std::optional<std::string>> entities = {};
-			copy_db(entities, "objects");
-			copy_db(entities, "objects_downtown");
-			databases.emplace("objects_complete", std::move(entities));	
+			std::map<uint32_t, std::optional<std::string>> objects = {};
+			load_db("objects_downtown", objects);
+			databases.emplace("objects_downtown", objects);
+			load_db("objects_drawable", objects);
+			databases.emplace("objects_drawable", objects);
+			load_db("objects", objects);
+			databases.emplace("objects_complete", std::move(objects));	
 		}
 		{
 			std::map<uint32_t, std::optional<std::string>> weapon_types = {};
