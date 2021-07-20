@@ -45,6 +45,7 @@ hash,key
 0x18619B7E,kanjo
 0x187D938D,kuruma2
 0x18F25AC7,infernus
+0x196F9418,dominator7
 0x19DD9ED1,nightshark
 0x1A79847A,boxville4
 0x1A7FCEFA,handler
@@ -66,6 +67,7 @@ hash,key
 0x206D1B68,khamelion
 0x2189D250,apc
 0x21EEE87D,packer
+0x2290C50A,warrener2
 0x23CA25F2,hustler
 0x2560B2FC,romero
 0x256E92BA,issi4
@@ -87,6 +89,7 @@ hash,key
 0x2B6DC64A,speedo2
 0x2B7F9DE3,slamvan
 0x2BC345D1,sadler2
+0x2BE8B90A,dominator8
 0x2BEC3CBE,buffalo2
 0x2C1FEA99,vagrant
 0x2C33B46E,pranger
@@ -168,6 +171,7 @@ hash,key
 0x4C3FFF49,deviant
 0x4C80EB0E,airbus
 0x4C8DBA51,zhaba
+0x4DC079D7,growler
 0x4EE74355,emerus
 0x4FB1A214,serrano
 0x506434F6,oracle
@@ -176,8 +180,10 @@ hash,key
 0x50B0215A,flatbed
 0x50D4D19F,technical3
 0x51D83328,warrener
+0x5216AD5E,remus
 0x52FF9437,cyclone
 0x546D8EEE,paragon2
+0x546DA331,previon
 0x5502626C,fmj
 0x55365079,brioso2
 0x562A97BD,tractor3
@@ -220,6 +226,7 @@ hash,key
 0x67D2B389,streiter
 0x67D52852,slamvan6
 0x6827CF72,stockade
+0x68A5D1EF,cypher
 0x690A4153,tornado3
 0x698521E3,dloader
 0x69F06B57,washington
@@ -258,6 +265,7 @@ hash,key
 0x780FFBD2,vetir
 0x7836CE2F,futo
 0x79178F0A,retinue2
+0x7980BDD5,euros
 0x798682A2,brutus3
 0x79DD18AE,menacer
 0x79FBB0C5,police
@@ -322,6 +330,7 @@ hash,key
 0x8FC3AADC,emperor2
 0x8FD54EBB,trailersmall2
 0x9114EADA,insurgent
+0x91373058,zr350
 0x91CA96EE,neon
 0x92EF6E04,pfister811
 0x92F5024E,novak
@@ -342,6 +351,7 @@ hash,key
 0x9804F4C7,impaler4
 0x98171BD3,burrito3
 0x98F65A5E,coquette4
+0x991EFC04,comet6
 0x9A5B1DCC,rubble
 0x9A9FD3DF,scrap
 0x9AE6DDA1,bullet
@@ -358,13 +368,16 @@ hash,key
 0x9F4B77BE,voltic
 0x9F6ED5A2,neo
 0xA1355F67,blazer5
+0xA1B3A871,jester4
 0xA29D6D10,feltzer3
 0xA29F78B0,clique
 0xA31CB573,tornado6
 0xA3FC0F4D,gresley
+0xA42FC3A5,vectre
 0xA46462F7,policeold1
 0xA4A4E453,riata
 0xA4D99B7D,raiden
+0xA6297CC8,futo2
 0xA703E4A9,veto2
 0xA774B5A6,schafter3
 0xA7CE1BC5,brawler
@@ -395,6 +408,7 @@ hash,key
 0xB527915C,trash2
 0xB52B5113,schafter2
 0xB53C6C52,minitank
+0xB5D306A4,tailgater2
 0xB5EF4C33,vigilante
 0xB5FCF74E,emperor3
 0xB6410173,dubsta3
@@ -404,6 +418,7 @@ hash,key
 0xB802DD46,rebel
 0xB820ED5E,blade
 0xB822A1AA,riot
+0xB8D657AD,calico
 0xB8E2AE18,zion2
 0xB9210FD0,sandking
 0xB9CB3B69,issi2
@@ -417,6 +432,7 @@ hash,key
 0xBC993509,dilettante
 0xBCDE91F0,minivan2
 0xBD1B39C3,zion
+0xBDEC3D99,freightcar2
 0xBE0E6126,jester2
 0xBE11EFC6,zr3802
 0xBE819C63,rentalbus
@@ -491,6 +507,7 @@ hash,key
 0xE1C03AB0,schlagen
 0xE2504942,virgo
 0xE33A477B,italigtb2
+0xE505CF99,rt3000
 0xE550775B,paragon
 0xE5A2D6C6,towtruck2
 0xE5BA6858,blazer4
@@ -517,6 +534,7 @@ hash,key
 0xEDC6F847,brickade
 0xEDD516C6,buffalo
 0xEE6024BC,sultanrs
+0xEEA75E63,sultan3
 0xEEF345EC,rcbandito
 0xF21B33BE,boxville2
 0xF26CEFF9,ruiner

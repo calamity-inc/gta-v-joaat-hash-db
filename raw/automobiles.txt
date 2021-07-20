@@ -76,6 +76,7 @@ bus
 caddy
 caddy2
 caddy3
+calico
 camper
 caracara
 caracara2
@@ -105,6 +106,7 @@ comet2
 comet3
 comet4
 comet5
+comet6
 contender
 coquette
 coquette2
@@ -113,6 +115,7 @@ coquette4
 crusader
 cutter
 cyclone
+cypher
 deluxo
 deveste
 deviant
@@ -126,6 +129,8 @@ dominator3
 dominator4
 dominator5
 dominator6
+dominator7
+dominator8
 drafter
 dubsta
 dubsta2
@@ -149,6 +154,7 @@ emperor2
 emperor3
 entity2
 entityxf
+euros
 everon
 exemplar
 f620
@@ -171,11 +177,13 @@ formula
 formula2
 fq2
 freecrawler
+freightcar2
 fugitive
 furia
 furoregt
 fusilade
 futo
+futo2
 gauntlet
 gauntlet2
 gauntlet3
@@ -189,6 +197,7 @@ glendale2
 gp1
 granger
 gresley
+growler
 gt500
 guardian
 habanero
@@ -233,6 +242,7 @@ jb7002
 jester
 jester2
 jester3
+jester4
 journey
 jugular
 kalahari
@@ -334,6 +344,7 @@ pounder2
 prairie
 pranger
 premier
+previon
 primo
 primo2
 prototipo
@@ -354,6 +365,7 @@ rebel
 rebel2
 rebla
 regina
+remus
 rentalbus
 retinue
 retinue2
@@ -367,6 +379,7 @@ ripley
 rocoto
 romero
 rrocket
+rt3000
 rubble
 ruiner
 ruiner2
@@ -435,6 +448,7 @@ stryder
 sugoi
 sultan
 sultan2
+sultan3
 sultanrs
 superd
 surano
@@ -445,6 +459,7 @@ swinger
 t20
 taco
 tailgater
+tailgater2
 taipan
 tampa
 tampa2
@@ -494,6 +509,7 @@ vacca
 vagner
 vagrant
 vamos
+vectre
 verlierer2
 verus
 vetir
@@ -512,6 +528,7 @@ voodoo
 voodoo2
 vstr
 warrener
+warrener2
 washington
 wastelander
 weevil
@@ -534,6 +551,7 @@ zion
 zion2
 zion3
 zorrusso
+zr350
 zr380
 zr3802
 zr3803
