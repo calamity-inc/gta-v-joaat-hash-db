@@ -199,12 +199,6 @@ int main()
 			databases.emplace("vehicles", std::move(vehicles));
 		}
 		{
-			std::map<uint32_t, std::optional<std::string>> entities = {};
-			copy_db(entities, "peds");
-			copy_db(entities, "peds_crash");
-			databases.emplace("peds_complete", std::move(entities));
-		}
-		{
 			std::map<uint32_t, std::optional<std::string>> objects = {};
 			load_db("objects_downtown", objects);
 			databases.emplace("objects_downtown", objects);
