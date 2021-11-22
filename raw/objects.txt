@@ -2946,8 +2946,6 @@ h4_prop_glass_garage
 h4_prop_glass_garage_opaque
 h4_prop_glass_rear_office
 h4_prop_glass_rear_opaque
-h4_prop_grass_med_01
-h4_prop_grass_tropical_lush_01
 h4_prop_h4_air_bigradar
 h4_prop_h4_airmissile_01a
 h4_prop_h4_ante_off_01a
@@ -6869,11 +6867,6 @@ prop_grapes_01
 prop_grapes_02
 prop_grapeseed_sign_01
 prop_grapeseed_sign_02
-prop_grass_001_a
-prop_grass_ca
-prop_grass_da
-prop_grass_dry_02
-prop_grass_dry_03
 prop_gravestones_01a
 prop_gravestones_02a
 prop_gravestones_03a

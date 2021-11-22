@@ -6,6 +6,8 @@ h4_prop_bush_mang_ad
 h4_prop_bush_mang_low_aa
 h4_prop_bush_mang_low_ab
 h4_prop_bush_seagrape_low_01
+h4_prop_grass_med_01
+h4_prop_grass_tropical_lush_01
 h4_prop_grass_wiregrass_01
 h4_prop_weed_groundcover_01
 proc_desert_sage_01
@@ -31,6 +33,11 @@ proc_sml_reeds_01c
 proc_stones_02
 proc_stones_03
 proc_stones_04
+prop_grass_001_a
+prop_grass_ca
+prop_grass_da
+prop_grass_dry_02
+prop_grass_dry_03
 prop_saplin_001_b
 prop_saplin_001_c
 prop_saplin_002_b

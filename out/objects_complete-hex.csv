@@ -4062,7 +4062,6 @@ hash,key
 0x3AD1887D,v_med_p_coffeetable
 0x3AD2A96E,prop_rub_carpart_03
 0x3AD97D39,prop_food_bs_burger2
-0x3ADD57F6,prop_grass_dry_02
 0x3ADE34E7,apa_mp_h_din_chair_09
 0x3AE6A40F,v_34_offdirt
 0x3B023373,sum_mpapyacht_glass00
@@ -5056,7 +5055,6 @@ hash,key
 0x48C15A6C,h4_prop_battle_lights_fx_rigg
 0x48CE84E9,prop_roofvent_02a
 0x48D28F38,tr_int1_coffee_table_style2_007
-0x48D4F3E5,prop_grass_dry_03
 0x48D578C5,w_ar_assaultrifle_smg_mag2
 0x48D5DC1E,imp_prop_impexp_brake_caliper_01a
 0x48DDAB4A,v_34_curtain01
@@ -6151,7 +6149,6 @@ hash,key
 0x584B5F0B,prop_ex_swap_p_tr
 0x584EB54B,h4_prop_battle_lights_02_bright
 0x584EFC8C,xm_prop_x17_tv_scrn_10
-0x5850E7B3,prop_grass_ca
 0x5851096A,p_tumbler_01_bar_s
 0x58535AA1,prop_fnclink_02f
 0x5853974F,xm_prop_x17_barge_01
@@ -6526,7 +6523,6 @@ hash,key
 0x5D6D6EAA,vw_prop_door_country_club_01a
 0x5D71642D,w_at_scope_macro_luxe
 0x5D723B7B,w_ar_bullpuprifle_luxe
-0x5D750529,h4_prop_grass_med_01
 0x5D7980BB,vw_prop_casino_art_deer_01a
 0x5D7BC074,prop_ventsystem_01
 0x5D7D8C19,stt_prop_stunt_bblock_mdm2
@@ -7414,7 +7410,6 @@ hash,key
 0x6AE56D52,v_34_hallsigns2
 0x6AE93235,prop_bar_coasterdisp
 0x6AEBA3DE,v_61_kitc_mesh_board_a
-0x6AED0E4B,prop_grass_da
 0x6AEFA1C1,xm_prop_x17_tv_scrn_19
 0x6AF6741A,ba_prop_battle_fakeid_boxpp_01a
 0x6AFCE249,tr_int1_mod_int_shell
@@ -13642,7 +13637,6 @@ hash,key
 0xC4E43D91,imp_prop_impexp_trunk_02a
 0xC4E748B3,db_apart_07_
 0xC4E8CC6D,v_ilev_chopshopswitch
-0xC4EEC556,h4_prop_grass_tropical_lush_01
 0xC4FEEBCF,tr_prop_tr_flipjam_01b
 0xC503F0BB,imp_prop_transmission_lift_01a
 0xC5043AF4,xs_propintarena_structure_s_06b
@@ -15881,7 +15875,6 @@ hash,key
 0xE5B06B5B,xs_prop_wastel_01_lightset
 0xE5B10E0A,v_corp_desksetb
 0xE5B7FCC7,prop_ic_non_hrocket_p
-0xE5B89D31,prop_grass_001_a
 0xE5BA1F6D,prop_amb_40oz_02
 0xE5BD56D4,bkr_prop_coke_pallet_01a
 0xE5BE2B0D,hei_prop_container_lock

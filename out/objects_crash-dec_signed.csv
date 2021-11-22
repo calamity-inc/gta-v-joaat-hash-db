@@ -7,11 +7,16 @@ hash,key
 849975660,proc_leafyplant_01
 863710036,prop_saplin_002_c
 875648136,proc_sml_reeds_01b
+987584502,prop_grass_dry_02
 1173321732,proc_sml_reeds_01c
+1221915621,prop_grass_dry_03
+1481697203,prop_grass_ca
+1567950121,h4_prop_grass_med_01
 1734157390,h4_prop_bush_ear_aa
 1759812941,h4_prop_bush_fern_low_01
 1775565172,proc_lizardtail_01
 1781006001,proc_drygrassfronds01
+1793920587,prop_grass_da
 1982224326,urbandrygrass_01
 2015249693,proc_drygrasses01
 2040219850,h4_prop_bush_ear_ab
@@ -25,6 +30,7 @@ hash,key
 -1025025503,proc_lupins_01
 -1010825119,proc_grassdandelion01
 -993438434,h4_prop_bush_mang_low_ab
+-990984874,h4_prop_grass_tropical_lush_01
 -964059938,proc_indian_pbrush_01
 -889446717,proc_stones_02
 -818431457,h4_prop_grass_wiregrass_01
@@ -35,5 +41,6 @@ hash,key
 -638302388,proc_grassplantmix_01
 -568850501,h4_prop_bush_mang_low_aa
 -508643576,proc_meadowpoppy_01
+-440885967,prop_grass_001_a
 -429997852,proc_forest_ivy_01
 -412821612,proc_stones_04
