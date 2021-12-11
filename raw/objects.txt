@@ -9059,7 +9059,6 @@ prop_sm_27_gate_02
 prop_sm_27_gate_03
 prop_sm_27_gate_04
 prop_sm_locker_door
-prop_small_bushyba
 prop_smg_holster_01
 prop_snow_bailer_01
 prop_snow_barrel_pile_03

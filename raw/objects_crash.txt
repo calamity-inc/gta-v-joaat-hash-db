@@ -42,4 +42,5 @@ prop_saplin_001_b
 prop_saplin_001_c
 prop_saplin_002_b
 prop_saplin_002_c
+prop_small_bushyba
 urbandrygrass_01
