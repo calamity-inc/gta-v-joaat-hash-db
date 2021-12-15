@@ -16,6 +16,7 @@ hash,key
 0x03E6B021,drf2
 0x042E1EDC,vehicle_stealth_mode
 0x046C8B86,abigail2
+0x0484D815,appfixersecurity
 0x0496B311,cam_coord_sender
 0x050117E8,launcher_mrsphilips
 0x0544B90B,am_cp_collection
@@ -64,6 +65,7 @@ hash,key
 0x114E0BF4,appimportexport
 0x117262D2,taxi_clowncar
 0x11C77BC7,ob_vend2
+0x12117CF0,am_agency_suv
 0x121A26B9,am_mp_smoking_activity
 0x121D5CFE,ob_franklin_tv
 0x122D2565,launcher_tonya
@@ -78,6 +80,7 @@ hash,key
 0x14B3DC00,fbi4_prep3amb
 0x14B421AA,gb_gunrunning_defend
 0x15902B0E,apptrackify
+0x15DAC453,fixer_hq_seating_pq
 0x164E8DEE,xml_menus
 0x16833ADB,base_corridor_seats
 0x17F51AFE,gpb_zombie
@@ -87,6 +90,7 @@ hash,key
 0x1961B859,am_imp_exp
 0x19B6733A,bigwheel
 0x19F4EE3D,ugc_global_registration
+0x1A207399,fixer_hq_seating
 0x1A6E43E3,scriptplayground
 0x1AB4168D,atm_trigger
 0x1B67DDEF,appbroadcast
@@ -132,6 +136,7 @@ hash,key
 0x25C5FCF3,wizard_arcade
 0x26C44B2A,startup_locationtest
 0x26E344D3,epsilontract
+0x26EA9F66,fm_content_security_contract
 0x26EBCE20,am_mp_arena_garage
 0x272557EB,mp_bed_high
 0x276DF3F0,shot_bikejump
@@ -164,6 +169,7 @@ hash,key
 0x2EDB35EC,re_gang_intimidation
 0x2F3F2FFA,launcher_darts
 0x2F5CF78C,pausemenu_example
+0x2F916684,fm_content_payphone_intro
 0x304094ED,luxe_veh_activity
 0x305E9061,fbi4_prep4
 0x30AE7469,blimptest
@@ -230,6 +236,7 @@ hash,key
 0x40396A1F,postrc_barry1and2
 0x418795CC,am_hi_plane_take_off_cinematic
 0x41D6F794,startup
+0x41F74A04,fixer_hq_carmod
 0x4250943E,am_lowrider_int
 0x425F7B6A,barry4
 0x432ECA6C,scaleformprofiling
@@ -423,6 +430,7 @@ hash,key
 0x752F80B5,charanimtest
 0x75804856,fm_hold_up_tut
 0x75B7261C,context_controller
+0x75C7E0D3,fm_content_vip_contract_1
 0x75DF8FBF,freemode_init
 0x7603F3B7,golf_ai_foursome_putting
 0x764BD087,drunk_controller
@@ -544,6 +552,7 @@ hash,key
 0x955AF686,selector_example
 0x957A3C41,lester1
 0x95B61B3C,am_mp_property_int
+0x95F729DB,music_studio_seating
 0x964E5CA7,heatmap_test_flow
 0x96637D06,launcher_epsilon
 0x966AFE8F,gb_biker_free_prisoner
@@ -556,6 +565,7 @@ hash,key
 0x98C20B30,line_activation_test
 0x990A9196,am_plane_takedown
 0x991F8568,ob_huffing_gas
+0x995F4EA5,am_mp_fixer_hq
 0x996F94A8,ambient_ufos
 0x99EF65A4,mp_menuped
 0x9A0AB4F8,nigel1a
@@ -599,6 +609,7 @@ hash,key
 0xA29E8148,gb_carjacking
 0xA332D6DC,forsalesigns
 0xA39C1F72,ob_vend1
+0xA3DEA971,ugc_global_registration_2
 0xA3FB8A5E,fmmc_launcher
 0xA402547D,docks_setup
 0xA44B4D00,re_domestic
@@ -607,6 +618,7 @@ hash,key
 0xA54F9693,am_mp_arcade_claw_crane
 0xA57E7489,fm_deathmatch_creator
 0xA5BFB09F,launcher_nigel
+0xA5C68A5B,music_studio_smoking
 0xA6320C4D,gb_finderskeepers
 0xA6526FA9,business_battles
 0xA74DD6EB,hao1
@@ -728,6 +740,7 @@ hash,key
 0xC5A00EDD,pilot_school_mp
 0xC5C0AA16,base_heist_seats
 0xC62526F5,am_criminal_damage
+0xC6BD80FC,fixer_hq_seating_op_floor
 0xC6C3242D,cablecar
 0xC6D2C1E3,taxitutorial
 0xC74CC971,am_heist_int
@@ -824,6 +837,7 @@ hash,key
 0xDB23F3DC,gunslinger_arcade
 0xDB348B5C,docks_prep1
 0xDBA466EA,fbi4_prep1
+0xDBABAE79,music_studio_seating_external
 0xDC116FCB,cutscenesamples
 0xDC7EF30C,re_mountdance
 0xDCE116A7,nigel3
@@ -926,6 +940,7 @@ hash,key
 0xF6A1905B,launcher_range
 0xF72AB040,gpb_mime
 0xF7D739B9,barry3c
+0xF7F8D71A,fm_content_payphone_hit
 0xF7FC6B86,fullmap_test_flow
 0xF827D5AB,mission_stat_watcher
 0xF84E8E87,re_crashrescue
@@ -956,6 +971,7 @@ hash,key
 0xFCA1A8BF,chinese1
 0xFD0013B3,appcamera
 0xFD2A3542,creator
+0xFD3397AE,am_mp_music_studio
 0xFD4B7439,am_mp_garage_control
 0xFD519148,nightclub_office_seats
 0xFD69440D,gunfighttest

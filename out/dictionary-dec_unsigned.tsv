@@ -1105,6 +1105,7 @@ hash	key(s)
 75579264	vw_prop_book_stack_01c
 75747589	v_ind_rc_overalldrp
 75763343	mp0_manual_saved
+75814933	appfixersecurity
 75862123	dlcsmugcharpstat_int141
 75893305	mp0_mpsv_flags_190
 76069847	ar_prop_inflategates_cp
@@ -4471,6 +4472,7 @@ hash	key(s)
 302914944	v_19_trev_stuff
 302931829	prop_flag_ireland
 303081950	sp0_weap_tint_view_3
+303135984	am_agency_suv
 303150462	mp0_heist_saved_strand_3_m
 303187597	ch_arc_cab_display_slot15
 303234577	p_ld_sax
@@ -5433,6 +5435,7 @@ hash	key(s)
 366458684	sp1_lung_capacity_maxed
 366570299	mp1_hvysniperincenammobought
 366601663	mp0_businessbatpstat_int62
+366658643	fixer_hq_seating_pq
 366677224	mp1_mpsv_lp0_93
 366844417	w_pi_combatpistol_luxe_mag2
 366878518	mp0_sniperrfl_deaths
@@ -6506,6 +6509,7 @@ hash	key(s)
 438104928	factoryupgrades4_1
 438169304	mpsv_lp0_119
 438226522	mp0_h3opt_crewhacker
+438334361	fixer_hq_seating
 438342263	v_res_fa_chair01
 438382675	v_res_mbowl
 438498419	mp0_trlarge_cannon_enemy_kills
@@ -9606,6 +9610,7 @@ hash	key(s)
 652816835	apa_mp_h_din_stool_04
 652840123	mp0_mpsv_price_paid_223
 652874291	mp0_mpsv_model_258
+652910438	fm_content_security_contract
 652987936	am_mp_arena_garage
 652992540	dlc_apparel_used_177
 653067144	sm_hanger_office_moden_01
@@ -11760,6 +11765,7 @@ hash	key(s)
 797856995	mp1_clths_available_special_6
 797895196	arenawarspstat_int42
 797926213	businessbatpstat_int275
+798058116	fm_content_payphone_intro
 798138625	platinum_intchar_3
 798152024	mp0_technical3_turr_enemy_kills
 798153671	tupstat_int93
@@ -16341,6 +16347,7 @@ hash	key(s)
 1106569404	impexppstat_int182
 1106643310	gr_prop_gr_wheel_bolt_01a
 1106723587	su20pstat_int82
+1106725380	fixer_hq_carmod
 1106790148	mp0_impexppstat_int92
 1106807745	mp1_awd_fm25difitemsclothes
 1106811851	mp1_impexppstat_int462
@@ -29280,6 +29287,7 @@ hash	key(s)
 1975812282	mp0_mpsv_vehicle_bs_284
 1975835016	mp0_cr_prison_plane
 1975885609	mp0_businessbatpstat_int45
+1976033491	fm_content_vip_contract_1
 1976202024	prop_haybale_stack_01
 1976273201	mp1_arenawarspstat_int200
 1976339873	prop_fnclink_10d
@@ -37143,6 +37151,7 @@ hash	key(s)
 2515908214	mp1_barrage_r_mg_headshots
 2515970312	prop_billboard_16
 2515981069	mp1_casinohstpstat_int64
+2516003291	music_studio_seating
 2516010209	mp0_ch_arc_love_level8
 2516219122	ba_prop_battle_cameradrone
 2516286026	mp1_dlc_apparel_acquired_167
@@ -37967,6 +37976,7 @@ hash	key(s)
 2572856315	mp0_bikepstat_int159
 2572872310	prop_sign_road_04e
 2573104849	mp1_dlcsmugcharpstat_int249
+2573160101	am_mp_fixer_hq
 2573187970	dlc_apparel_acquired_84
 2573191535	mp0_admin_clothes_gv_bs_26
 2573267978	damage_scar_uvpos_12
@@ -40569,6 +40579,7 @@ hash	key(s)
 2749136956	mc_emblem_setting
 2749155770	fl_co_mic4
 2749175705	stt_prop_flagpole_1c
+2749278577	ugc_global_registration_2
 2749401587	sp1_spcarbine_deaths
 2749419089	prop_poolball_10
 2749448840	awd_quibits
@@ -41008,6 +41019,7 @@ hash	key(s)
 2781144742	mp1_pilot_elapsedtime_4
 2781238098	ba_prop_club_dressing_posters_01
 2781251346	mp1_pilot_formationtimer_6
+2781252187	music_studio_smoking
 2781317046	csb_anton
 2781342479	dlc_apparel_used_211
 2781368946	clths_acquired_props_3
@@ -49181,6 +49193,7 @@ hash	key(s)
 3333947777	xm_prop_base_wall_lampb
 3333970995	p_cs_joint_02
 3334248801	mp1_dlcsmugcharpstat_int194
+3334308092	fixer_hq_seating_op_floor
 3334428286	char_kit_14_fm_unlck
 3334558737	v_34_walkway
 3334595184	mp1_mpsv_model_56
@@ -54390,6 +54403,7 @@ hash	key(s)
 3685375927	mp0_previousseason4exploitlevel
 3685415981	admin_decoration_gv_posix
 3685417577	mpsv_impound_time_10
+3685461625	music_studio_seating_external
 3685463608	mp0_trlarge_cannon_hits
 3685465578	mp1_prop_arcade_value
 3685466227	sp0_crbnrifle_deaths
@@ -61432,6 +61446,7 @@ hash	key(s)
 4160102523	sum_yacht_bridge_glass13
 4160167056	mp0_nightclubdancssetting
 4160274047	dlc_apparel_acquired_156
+4160280346	fm_content_payphone_hit
 4160326921	mp0_tattoo_fm_viewed_6
 4160342346	pilot_elapsedtime_0
 4160366340	sum_mpapyacht_glass18
@@ -62746,6 +62761,7 @@ hash	key(s)
 4247691051	ms_dh1_employee_of_the_month
 4247740810	mp1_casinopstat_int68
 4247747515	mp1_tupstat_int0
+4248016814	am_mp_music_studio
 4248257527	mp0_pstat_int8
 4248345668	prop_table_08_side
 4248370314	mp1_char_weap_viewed

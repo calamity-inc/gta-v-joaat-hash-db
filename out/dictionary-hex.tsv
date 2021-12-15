@@ -1105,6 +1105,7 @@ hash	key(s)
 0x04813F80	vw_prop_book_stack_01c
 0x0483D105	v_ind_rc_overalldrp
 0x04840E8F	mp0_manual_saved
+0x0484D815	appfixersecurity
 0x0485906B	dlcsmugcharpstat_int141
 0x04860A39	mp0_mpsv_flags_190
 0x0488BBD7	ar_prop_inflategates_cp
@@ -4471,6 +4472,7 @@ hash	key(s)
 0x120E1D80	v_19_trev_stuff
 0x120E5F75	prop_flag_ireland
 0x1210A9DE	sp0_weap_tint_view_3
+0x12117CF0	am_agency_suv
 0x1211B57E	mp0_heist_saved_strand_3_m
 0x1212468D	ch_arc_cab_display_slot15
 0x1212FE11	p_ld_sax
@@ -5433,6 +5435,7 @@ hash	key(s)
 0x15D7B73C	sp1_lung_capacity_maxed
 0x15D96B3B	mp1_hvysniperincenammobought
 0x15D9E5BF	mp0_businessbatpstat_int62
+0x15DAC453	fixer_hq_seating_pq
 0x15DB0CE8	mp1_mpsv_lp0_93
 0x15DD9A01	w_pi_combatpistol_luxe_mag2
 0x15DE1F36	mp0_sniperrfl_deaths
@@ -6506,6 +6509,7 @@ hash	key(s)
 0x1A1CF360	factoryupgrades4_1
 0x1A1DEED8	mpsv_lp0_119
 0x1A1ECE5A	mp0_h3opt_crewhacker
+0x1A207399	fixer_hq_seating
 0x1A209277	v_res_fa_chair01
 0x1A213053	v_res_mbowl
 0x1A22F473	mp0_trlarge_cannon_enemy_kills
@@ -9606,6 +9610,7 @@ hash	key(s)
 0x26E931C3	apa_mp_h_din_stool_04
 0x26E98CBB	mp0_mpsv_price_paid_223
 0x26EA1233	mp0_mpsv_model_258
+0x26EA9F66	fm_content_security_contract
 0x26EBCE20	am_mp_arena_garage
 0x26EBE01C	dlc_apparel_used_177
 0x26ED0388	sm_hanger_office_moden_01
@@ -11760,6 +11765,7 @@ hash	key(s)
 0x2F8E54E3	mp1_clths_available_special_6
 0x2F8EEA1C	arenawarspstat_int42
 0x2F8F6345	businessbatpstat_int275
+0x2F916684	fm_content_payphone_intro
 0x2F92A101	platinum_intchar_3
 0x2F92D558	mp0_technical3_turr_enemy_kills
 0x2F92DBC7	tupstat_int93
@@ -16341,6 +16347,7 @@ hash	key(s)
 0x41F4E8BC	impexppstat_int182
 0x41F6096E	gr_prop_gr_wheel_bolt_01a
 0x41F74303	su20pstat_int82
+0x41F74A04	fixer_hq_carmod
 0x41F84704	mp0_impexppstat_int92
 0x41F88BC1	mp1_awd_fm25difitemsclothes
 0x41F89BCB	mp1_impexppstat_int462
@@ -29280,6 +29287,7 @@ hash	key(s)
 0x75C480BA	mp0_mpsv_vehicle_bs_284
 0x75C4D988	mp0_cr_prison_plane
 0x75C59F29	mp0_businessbatpstat_int45
+0x75C7E0D3	fm_content_vip_contract_1
 0x75CA7328	prop_haybale_stack_01
 0x75CB8931	mp1_arenawarspstat_int200
 0x75CC8DA1	prop_fnclink_10d
@@ -37143,6 +37151,7 @@ hash	key(s)
 0x95F5B676	mp1_barrage_r_mg_headshots
 0x95F6A908	prop_billboard_16
 0x95F6D30D	mp1_casinohstpstat_int64
+0x95F729DB	music_studio_seating
 0x95F744E1	mp0_ch_arc_love_level8
 0x95FA74F2	ba_prop_battle_cameradrone
 0x95FB7A4A	mp1_dlc_apparel_acquired_167
@@ -37967,6 +37976,7 @@ hash	key(s)
 0x995AABFB	mp0_bikepstat_int159
 0x995AEA76	prop_sign_road_04e
 0x995E76D1	mp1_dlcsmugcharpstat_int249
+0x995F4EA5	am_mp_fixer_hq
 0x995FBB82	dlc_apparel_acquired_84
 0x995FC96F	mp0_admin_clothes_gv_bs_26
 0x9960F40A	damage_scar_uvpos_12
@@ -40569,6 +40579,7 @@ hash	key(s)
 0xA3DC803C	mc_emblem_setting
 0xA3DCC9BA	fl_co_mic4
 0xA3DD1799	stt_prop_flagpole_1c
+0xA3DEA971	ugc_global_registration_2
 0xA3E089F3	sp1_spcarbine_deaths
 0xA3E0CE51	prop_poolball_10
 0xA3E14288	awd_quibits
@@ -41008,6 +41019,7 @@ hash	key(s)
 0xA5C4E6A6	mp1_pilot_elapsedtime_4
 0xA5C65352	ba_prop_club_dressing_posters_01
 0xA5C68712	mp1_pilot_formationtimer_6
+0xA5C68A5B	music_studio_smoking
 0xA5C787B6	csb_anton
 0xA5C7EB0F	dlc_apparel_used_211
 0xA5C85272	clths_acquired_props_3
@@ -49181,6 +49193,7 @@ hash	key(s)
 0xC6B80181	xm_prop_base_wall_lampb
 0xC6B85C33	p_cs_joint_02
 0xC6BC9961	mp1_dlcsmugcharpstat_int194
+0xC6BD80FC	fixer_hq_seating_op_floor
 0xC6BF567E	char_kit_14_fm_unlck
 0xC6C15411	v_34_walkway
 0xC6C1E270	mp1_mpsv_model_56
@@ -54390,6 +54403,7 @@ hash	key(s)
 0xDBAA5FB7	mp0_previousseason4exploitlevel
 0xDBAAFC2D	admin_decoration_gv_posix
 0xDBAB0269	mpsv_impound_time_10
+0xDBABAE79	music_studio_seating_external
 0xDBABB638	mp0_trlarge_cannon_hits
 0xDBABBDEA	mp1_prop_arcade_value
 0xDBABC073	sp0_crbnrifle_deaths
@@ -61432,6 +61446,7 @@ hash	key(s)
 0xF7F6207B	sum_yacht_bridge_glass13
 0xF7F71C90	mp0_nightclubdancssetting
 0xF7F8BE7F	dlc_apparel_acquired_156
+0xF7F8D71A	fm_content_payphone_hit
 0xF7F98D09	mp0_tattoo_fm_viewed_6
 0xF7F9C94A	pilot_elapsedtime_0
 0xF7FA2704	sum_mpapyacht_glass18
@@ -62746,6 +62761,7 @@ hash	key(s)
 0xFD2E9F2B	ms_dh1_employee_of_the_month
 0xFD2F618A	mp1_casinopstat_int68
 0xFD2F7BBB	mp1_tupstat_int0
+0xFD3397AE	am_mp_music_studio
 0xFD3743F7	mp0_pstat_int8
 0xFD389C44	prop_table_08_side
 0xFD38FC8A	mp1_char_weap_viewed
