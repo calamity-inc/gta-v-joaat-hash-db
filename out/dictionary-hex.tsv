@@ -5343,6 +5343,7 @@ hash	key(s)
 0x1570F1E4	mp1_awd_first_time5
 0x15726773	dominator4_mg50_kills
 0x15727AF6	prop_mp_halo_point_sm
+0x1573422D	baller7
 0x1573671D	v_73_jan_of2_deta
 0x1573797D	mpsv_impound_time_86
 0x15747D0F	arcade_mac_2
@@ -6843,6 +6844,7 @@ hash	key(s)
 0x1B80FA79	mp0_mpsv_model_267
 0x1B811E31	mp1_casinopstat_int64
 0x1B813495	sp1_bullrifle_db_heldtime
+0x1B8165D3	jubilee
 0x1B81E7BD	vfx_it1_16
 0x1B826C9C	mp0_businessbatpstat_int28
 0x1B82A7D8	gangopspstat_int64
@@ -9647,6 +9649,7 @@ hash	key(s)
 0x2711105D	awd_odd_jobs
 0x2712A51D	mp0_dg_defender_initials_7
 0x271396D6	vehbomb_i_kills
+0x2714AA93	zeno
 0x2716A3DB	mp1_scarab3_mg50_heldtime
 0x2716B4CA	prop_buck_spade_04
 0x27170EE4	mp0_mpsv_model_132
@@ -9736,6 +9739,7 @@ hash	key(s)
 0x277E84C0	mp1_char_kit_26_fm_unlck
 0x277EC694	mp0_cmbmg_mk2_kills
 0x277FD202	sum_mpyacht_seatingflrtrim
+0x27816B7E	iwagen
 0x27822E70	mp0_mpsv_impound_time_201
 0x2782BF44	prop_bush_lrg_01e_cr
 0x2783FD53	cmpgl_aquired_as_gift
@@ -16855,6 +16859,7 @@ hash	key(s)
 0x44060EBE	mp0_damage_scar_rotation_9
 0x440615A2	mp1_musket_shots
 0x44083A8F	prop_ballistic_shield
+0x440851D8	comet7
 0x440AB63B	tupstat_int164
 0x440E4788	weapon_golfclub
 0x440E88BF	mp1_bruiser3_mg50_heldtime
@@ -19887,6 +19892,7 @@ hash	key(s)
 0x50168FC6	tattoo_fm_unlocks_24
 0x501707C8	prop_ch3_04_door_01r
 0x50182E54	prop_watertower02
+0x501AC93C	mule5
 0x501C0403	mp0_mpsv_impound_time_292
 0x501ED421	xs_terrain_rockpile_1_01_small
 0x501EF414	pilot_school_lastmedal_0
@@ -20033,6 +20039,7 @@ hash	key(s)
 0x50A471FD	mpsv_flags_238
 0x50A52507	miss_switch_trevor1
 0x50A607D0	prop_buck_spade_08
+0x50A6FB9C	shinobi
 0x50A75764	mp1_timelastsuccsellmission4
 0x50A8255C	mp0_multi_property_7
 0x50A9BB6D	mp1_impexppstat_int484
@@ -22018,6 +22025,7 @@ hash	key(s)
 0x5896E318	ch_prop_arc_love_btn_clam
 0x5898027C	v_res_m_statue
 0x5899F8D7	sp0_planes_exploded
+0x589A840C	youga4
 0x589AA4AD	mp1_insurgent3_mini_headshots
 0x589F99CC	mp0_apapstat_int76
 0x58A00D1E	mp0_imperator_mg50_hits
@@ -22701,6 +22709,7 @@ hash	key(s)
 0x5B50C153	mp1_dlcsmugcharpstat_int188
 0x5B514D41	mp0_pilot_lastlanddistance_8
 0x5B5224E2	p_yacht_sofa_01_s
+0x5B531351	deity
 0x5B550E04	boxville5_turr_enemy_kills
 0x5B5745D7	sum_mpapyacht_pants2
 0x5B5859C0	buzzard_rocket_deaths
@@ -29549,6 +29558,7 @@ hash	key(s)
 0x76D592BD	su20pstat_int107
 0x76D5F2CE	dlcsmugcharpstat_int121
 0x76D66F44	hei_prop_hei_tree_fallen_02
+0x76D7C404	reever
 0x76DA8DDE	mp1_awd_fm_dm_totalkills
 0x76DB4AEF	prop_mask_motox_trip
 0x76DD1CD1	mp0_rcmine_kin_hits
@@ -40838,6 +40848,7 @@ hash	key(s)
 0xA4F01993	tattoo_fm_current_14
 0xA4F1F5A3	v_74_it1_shell
 0xA4F31F28	mpply_perszolapuma3
+0xA4F52C13	cinquemila
 0xA4F5C0F0	v_24_lngb_mesh_mags
 0xA4F69F2A	v_74_it2_stai_deta
 0xA4F6BB38	mp1_tupstat_int82
@@ -42072,6 +42083,7 @@ hash	key(s)
 0xA9EB3479	mp1_dlc_apparel_used_206
 0xA9EB4148	mp0_stromberg_miss_deaths
 0xA9EB43F0	mpsv_premium_paid_116
+0xA9EC907B	ignus
 0xA9ED56DF	pyro_miss_heldtime
 0xA9EE63BC	bkr_prop_coke_mortalpestle
 0xA9EEF7B3	lifetime_bkr_sell_earnings4
@@ -49894,6 +49906,7 @@ hash	key(s)
 0xC971A90F	v_res_fa_sponge01
 0xC971E42D	mp1_clths_acquired_props_4
 0xC971EA4A	imp_prop_impexp_half_cut_rack_01b
+0xC972A155	champion
 0xC972C9D5	prop_rub_carwreck_3
 0xC974CDEE	prop_gd_ch2_08
 0xC9751EF7	p_orleans_mask_s
@@ -53502,6 +53515,7 @@ hash	key(s)
 0xD80D4447	v_74_ofc_debrizz012
 0xD80EAC04	mp1_starter_pack_veh_bs
 0xD80F2BB6	businessbatpstat_int259
+0xD80F4A44	patriot3
 0xD811FD1D	hei_mph_selectclothslrig
 0xD8133249	am_boat_taxi
 0xD8136BE6	mp1_mpsv_impound_time_249
@@ -54241,6 +54255,7 @@ hash	key(s)
 0xDB0489DD	pilot_school_lastmedal_6
 0xDB07E979	autoshgn_shots
 0xDB08CFA7	sp2_unarmed_kills
+0xDB0C9B04	buffalo4
 0xDB0CBEB0	mp0_cl_surv_a_bounty
 0xDB0D9EFF	gr_dlc_gr_yacht_props_glass_01
 0xDB0E79D9	sp2_cmbtmg_ammo_bought
@@ -59636,6 +59651,7 @@ hash	key(s)
 0xF06ADBCB	impexppstat_int513
 0xF06B849D	s_m_m_autoshop_02
 0xF06B8D6C	ms_exl1_accuracy
+0xF06C29C7	granger2
 0xF06D2CF5	iap_challenge_2
 0xF06D3B5B	mp0_admin_clothes_rm_bs_18
 0xF06E694E	gr_prop_inttruck_light_ca_w_mu

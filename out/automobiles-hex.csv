@@ -36,6 +36,7 @@ hash,key
 0x149BD32A,pbus2
 0x14D22159,gauntlet2
 0x14D69010,chino
+0x1573422D,baller7
 0x163F8520,slamvan5
 0x16E478C1,surano
 0x171C92C4,hauler2
@@ -51,6 +52,7 @@ hash,key
 0x1A7FCEFA,handler
 0x1A861243,imperator
 0x1B38E955,policet
+0x1B8165D3,jubilee
 0x1BB290BC,tornado
 0x1BF8D381,lguard
 0x1C09CF5E,baller5
@@ -74,7 +76,9 @@ hash,key
 0x2592B5CF,barracks3
 0x25C5AF13,banshee2
 0x25CBE2E2,baller4
+0x2714AA93,zeno
 0x276D98A3,comet5
+0x27816B7E,iwagen
 0x27B4E6B0,baller6
 0x27D79225,bruiser
 0x287FA449,cerberus2
@@ -154,6 +158,7 @@ hash,key
 0x432AA566,bfinjection
 0x432EA949,fbi
 0x437CF2A0,burrito5
+0x440851D8,comet7
 0x44623884,caddy
 0x4543B74D,rumpo
 0x45D56ADA,ambulance
@@ -174,6 +179,7 @@ hash,key
 0x4DC079D7,growler
 0x4EE74355,emerus
 0x4FB1A214,serrano
+0x501AC93C,mule5
 0x506434F6,oracle
 0x50732C82,sentinel
 0x5097F589,sc1
@@ -192,6 +198,7 @@ hash,key
 0x56D42971,tulip
 0x57F682AF,rumpo3
 0x586765FB,deluxo
+0x589A840C,youga4
 0x58B3979C,paradise
 0x58CF185C,schafter4
 0x58E49664,forklift
@@ -201,6 +208,7 @@ hash,key
 0x59E0FBF3,picador
 0x5A82F9AE,hauler
 0x5B42A5C4,tornado2
+0x5B531351,deity
 0x5BA0FF1E,issi5
 0x5BEB3CE0,scarab2
 0x5C23AF9B,stinger
@@ -377,6 +385,7 @@ hash,key
 0xA46462F7,policeold1
 0xA4A4E453,riata
 0xA4D99B7D,raiden
+0xA4F52C13,cinquemila
 0xA6297CC8,futo2
 0xA703E4A9,veto2
 0xA774B5A6,schafter3
@@ -385,6 +394,7 @@ hash,key
 0xA7EDE74D,stanier
 0xA8E38B01,ninef2
 0xA988D3A2,prairie
+0xA9EC907B,ignus
 0xAA699BB6,bodhi2
 0xAA6F980A,khanjali
 0xAC33179C,infernus2
@@ -452,6 +462,7 @@ hash,key
 0xC7824E5E,tiptruck2
 0xC7E55211,locust
 0xC96B73D9,dominator2
+0xC972A155,champion
 0xC98BBAD6,glendale2
 0xC9E8FF76,burrito2
 0xCA62927A,virgo2
@@ -486,6 +497,7 @@ hash,key
 0xD756460C,buccaneer
 0xD757D97D,zorrusso
 0xD7C56D39,raptor
+0xD80F4A44,patriot3
 0xD83C13CE,ratloader
 0xD86A0247,krieger
 0xD876DBE2,trophytruck2
@@ -493,6 +505,7 @@ hash,key
 0xDA5819A3,massacro2
 0xDA5EC7DA,penumbra2
 0xDAC67112,jackal
+0xDB0C9B04,buffalo4
 0xDBF2D57A,cognoscenti2
 0xDC19D101,btype3
 0xDC434E51,sadler
@@ -535,6 +548,7 @@ hash,key
 0xEE6024BC,sultanrs
 0xEEA75E63,sultan3
 0xEEF345EC,rcbandito
+0xF06C29C7,granger2
 0xF21B33BE,boxville2
 0xF26CEFF9,ruiner
 0xF330CB6A,jester3

@@ -16,6 +16,7 @@ baller3
 baller4
 baller5
 baller6
+baller7
 banshee
 banshee2
 barracks
@@ -65,6 +66,7 @@ buccaneer2
 buffalo
 buffalo2
 buffalo3
+buffalo4
 bulldozer
 bullet
 burrito
@@ -87,6 +89,7 @@ cavalcade2
 cerberus
 cerberus2
 cerberus3
+champion
 cheburek
 cheetah
 cheetah2
@@ -94,6 +97,7 @@ chernobog
 chimera
 chino
 chino2
+cinquemila
 clique
 club
 coach
@@ -107,6 +111,7 @@ comet3
 comet4
 comet5
 comet6
+comet7
 contender
 coquette
 coquette2
@@ -116,6 +121,7 @@ crusader
 cutter
 cyclone
 cypher
+deity
 deluxo
 deveste
 deviant
@@ -195,6 +201,7 @@ glendale
 glendale2
 gp1
 granger
+granger2
 gresley
 growler
 gt500
@@ -210,6 +217,7 @@ hotknife
 hotring
 huntley
 hustler
+ignus
 imorgon
 impaler
 impaler2
@@ -235,6 +243,7 @@ italigtb
 italigtb2
 italigto
 italirsx
+iwagen
 jackal
 jb700
 jb7002
@@ -243,6 +252,7 @@ jester2
 jester3
 jester4
 journey
+jubilee
 jugular
 kalahari
 kamacho
@@ -289,6 +299,7 @@ mule
 mule2
 mule3
 mule4
+mule5
 nebula
 neo
 neon
@@ -314,6 +325,7 @@ paragon2
 pariah
 patriot
 patriot2
+patriot3
 pbus
 pbus2
 penetrator
@@ -543,7 +555,9 @@ yosemite3
 youga
 youga2
 youga3
+youga4
 z190
+zeno
 zentorno
 zhaba
 zion

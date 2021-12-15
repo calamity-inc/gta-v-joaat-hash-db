@@ -5343,6 +5343,7 @@ hash	key(s)
 359723492	mp1_awd_first_time5
 359819123	dominator4_mg50_kills
 359824118	prop_mp_halo_point_sm
+359875117	baller7
 359884573	v_73_jan_of2_deta
 359889277	mpsv_impound_time_86
 359955727	arcade_mac_2
@@ -6843,6 +6844,7 @@ hash	key(s)
 461437561	mp0_mpsv_model_267
 461446705	mp1_casinopstat_int64
 461452437	sp1_bullrifle_db_heldtime
+461465043	jubilee
 461498301	vfx_it1_16
 461532316	mp0_businessbatpstat_int28
 461547480	gangopspstat_int64
@@ -9647,6 +9649,7 @@ hash	key(s)
 655429725	awd_odd_jobs
 655533341	mp0_dg_defender_initials_7
 655595222	vehbomb_i_kills
+655665811	zeno
 655795163	mp1_scarab3_mg50_heldtime
 655799498	prop_buck_spade_04
 655822564	mp0_mpsv_model_132
@@ -9736,6 +9739,7 @@ hash	key(s)
 662602944	mp1_char_kit_26_fm_unlck
 662619796	mp0_cmbmg_mk2_kills
 662688258	sum_mpyacht_seatingflrtrim
+662793086	iwagen
 662842992	mp0_mpsv_impound_time_201
 662880068	prop_bush_lrg_01e_cr
 662961491	cmpgl_aquired_as_gift
@@ -16855,6 +16859,7 @@ hash	key(s)
 1141247678	mp0_damage_scar_rotation_9
 1141249442	mp1_musket_shots
 1141389967	prop_ballistic_shield
+1141395928	comet7
 1141552699	tupstat_int164
 1141786504	weapon_golfclub
 1141803199	mp1_bruiser3_mg50_heldtime
@@ -19887,6 +19892,7 @@ hash	key(s)
 1343655878	tattoo_fm_unlocks_24
 1343686600	prop_ch3_04_door_01r
 1343762004	prop_watertower02
+1343932732	mule5
 1344013315	mp0_mpsv_impound_time_292
 1344197665	xs_terrain_rockpile_1_01_small
 1344205844	pilot_school_lastmedal_0
@@ -20033,6 +20039,7 @@ hash	key(s)
 1352954365	mpsv_flags_238
 1353000199	miss_switch_trevor1
 1353058256	prop_buck_spade_08
+1353120668	shinobi
 1353144164	mp1_timelastsuccsellmission4
 1353196892	mp0_multi_property_7
 1353300845	mp1_impexppstat_int484
@@ -22018,6 +22025,7 @@ hash	key(s)
 1486283544	ch_prop_arc_love_btn_clam
 1486357116	v_res_m_statue
 1486485719	sp0_planes_exploded
+1486521356	youga4
 1486529709	mp1_insurgent3_mini_headshots
 1486854604	mp0_apapstat_int76
 1486884126	mp0_imperator_mg50_hits
@@ -22701,6 +22709,7 @@ hash	key(s)
 1532019027	mp1_dlcsmugcharpstat_int188
 1532054849	mp0_pilot_lastlanddistance_8
 1532110050	p_yacht_sofa_01_s
+1532171089	deity
 1532300804	boxville5_turr_enemy_kills
 1532446167	sum_mpapyacht_pants2
 1532516800	buzzard_rocket_deaths
@@ -29549,6 +29558,7 @@ hash	key(s)
 1993708221	su20pstat_int107
 1993732814	dlcsmugcharpstat_int121
 1993764676	hei_prop_hei_tree_fallen_02
+1993851908	reever
 1994034654	mp1_awd_fm_dm_totalkills
 1994083055	prop_mask_motox_trip
 1994202321	mp0_rcmine_kin_hits
@@ -40838,6 +40848,7 @@ hash	key(s)
 -1527768685	tattoo_fm_current_14
 -1527646813	v_74_it1_shell
 -1527570648	mpply_perszolapuma3
+-1527436269	cinquemila
 -1527398160	v_24_lngb_mesh_mags
 -1527341270	v_74_it2_stai_deta
 -1527334088	mp1_tupstat_int82
@@ -42072,6 +42083,7 @@ hash	key(s)
 -1444203399	mp1_dlc_apparel_used_206
 -1444200120	mp0_stromberg_miss_deaths
 -1444199440	mpsv_premium_paid_116
+-1444114309	ignus
 -1444063521	pyro_miss_heldtime
 -1443994692	bkr_prop_coke_mortalpestle
 -1443956813	lifetime_bkr_sell_earnings4
@@ -49894,6 +49906,7 @@ hash	key(s)
 -915298033	v_res_fa_sponge01
 -915282899	mp1_clths_acquired_props_4
 -915281334	imp_prop_impexp_half_cut_rack_01b
+-915234475	champion
 -915224107	prop_rub_carwreck_3
 -915091986	prop_gd_ch2_08
 -915071241	p_orleans_mask_s
@@ -53502,6 +53515,7 @@ hash	key(s)
 -670219193	v_74_ofc_debrizz012
 -670127100	mp1_starter_pack_veh_bs
 -670094410	businessbatpstat_int259
+-670086588	patriot3
 -669909731	hei_mph_selectclothslrig
 -669830583	am_boat_taxi
 -669815834	mp1_mpsv_impound_time_249
@@ -54241,6 +54255,7 @@ hash	key(s)
 -620459555	pilot_school_lastmedal_6
 -620238471	autoshgn_shots
 -620179545	sp2_unarmed_kills
+-619930876	buffalo4
 -619921744	mp0_cl_surv_a_bounty
 -619864321	gr_dlc_gr_yacht_props_glass_01
 -619808295	sp2_cmbtmg_ammo_bought
@@ -59636,6 +59651,7 @@ hash	key(s)
 -261432373	impexppstat_int513
 -261389155	s_m_m_autoshop_02
 -261386900	ms_exl1_accuracy
+-261346873	granger2
 -261280523	iap_challenge_2
 -261276837	mp0_admin_clothes_rm_bs_18
 -261199538	gr_prop_inttruck_light_ca_w_mu

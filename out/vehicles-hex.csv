@@ -49,6 +49,7 @@ hash,key
 0x14D69010,chino
 0x1517D4D9,polmav
 0x153E1B0A,proptrailer
+0x1573422D,baller7
 0x15F27762,cargoplane
 0x163F8520,slamvan5
 0x16E478C1,surano
@@ -72,6 +73,7 @@ hash,key
 0x1AAD0DED,volatol
 0x1ABA13B5,cruiser
 0x1B38E955,policet
+0x1B8165D3,jubilee
 0x1BB290BC,tornado
 0x1BF8D381,lguard
 0x1C09CF5E,baller5
@@ -102,7 +104,9 @@ hash,key
 0x25CBE2E2,baller4
 0x26321E67,lectro
 0x264D9262,freightgrain
+0x2714AA93,zeno
 0x276D98A3,comet5
+0x27816B7E,iwagen
 0x27B4E6B0,baller6
 0x27D79225,bruiser
 0x287FA449,cerberus2
@@ -214,6 +218,7 @@ hash,key
 0x4339CD69,tribike
 0x43779C54,bmx
 0x437CF2A0,burrito5
+0x440851D8,comet7
 0x44623884,caddy
 0x4543B74D,rumpo
 0x45D56ADA,ambulance
@@ -239,9 +244,11 @@ hash,key
 0x4FAF0D70,kosatka
 0x4FB1A214,serrano
 0x4FF77E37,vestra
+0x501AC93C,mule5
 0x506434F6,oracle
 0x50732C82,sentinel
 0x5097F589,sc1
+0x50A6FB9C,shinobi
 0x50B0215A,flatbed
 0x50D4D19F,technical3
 0x51D83328,warrener
@@ -259,6 +266,7 @@ hash,key
 0x56D42971,tulip
 0x57F682AF,rumpo3
 0x586765FB,deluxo
+0x589A840C,youga4
 0x58B3979C,paradise
 0x58CDAF30,thruster
 0x58CF185C,schafter4
@@ -270,6 +278,7 @@ hash,key
 0x59E0FBF3,picador
 0x5A82F9AE,hauler
 0x5B42A5C4,tornado2
+0x5B531351,deity
 0x5BA0FF1E,issi5
 0x5BEB3CE0,scarab2
 0x5BFA5C4B,valkyrie2
@@ -345,6 +354,7 @@ hash,key
 0x74998082,tanker2
 0x761E2AD3,titan
 0x767164D6,osiris
+0x76D7C404,reever
 0x77934CEE,daemon
 0x779B4F2D,voodoo
 0x779F23AA,cavalcade
@@ -494,6 +504,7 @@ hash,key
 0xA46462F7,policeold1
 0xA4A4E453,riata
 0xA4D99B7D,raiden
+0xA4F52C13,cinquemila
 0xA52F6866,alphaz1
 0xA5325278,manchez
 0xA6297CC8,futo2
@@ -506,6 +517,7 @@ hash,key
 0xA8E38B01,ninef2
 0xA960B13E,sanchez2
 0xA988D3A2,prairie
+0xA9EC907B,ignus
 0xAA699BB6,bodhi2
 0xAA6F980A,khanjali
 0xAC33179C,infernus2
@@ -595,6 +607,7 @@ hash,key
 0xC7824E5E,tiptruck2
 0xC7E55211,locust
 0xC96B73D9,dominator2
+0xC972A155,champion
 0xC98BBAD6,glendale2
 0xC9CEAF06,pcj
 0xC9E8FF76,burrito2
@@ -640,6 +653,7 @@ hash,key
 0xD756460C,buccaneer
 0xD757D97D,zorrusso
 0xD7C56D39,raptor
+0xD80F4A44,patriot3
 0xD83C13CE,ratloader
 0xD86A0247,krieger
 0xD876DBE2,trophytruck2
@@ -649,6 +663,7 @@ hash,key
 0xDA5819A3,massacro2
 0xDA5EC7DA,penumbra2
 0xDAC67112,jackal
+0xDB0C9B04,buffalo4
 0xDB20A373,wolfsbane
 0xDB4388E4,seashark2
 0xDB6B4924,blimp2
@@ -707,6 +722,7 @@ hash,key
 0xEEF345EC,rcbandito
 0xEF2295C9,suntrap
 0xEF813606,patrolboat
+0xF06C29C7,granger2
 0xF0C2A91F,hakuchou2
 0xF1B44F44,diablous
 0xF21B33BE,boxville2
