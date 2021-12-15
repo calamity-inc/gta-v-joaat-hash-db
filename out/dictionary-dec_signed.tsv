@@ -6053,6 +6053,7 @@ hash	key(s)
 406735128	mp0_arenagarage_mod_interiorb
 406759018	mp1_tupstat_int44
 406902160	mp1_wvm_flow_impexp_num
+406929569	weapon_fertilizercan
 407018194	minitank_mg_heldtime
 407065242	mp1_casino_apt_decoration_2
 407181954	v_44_g_scubagear
@@ -17312,6 +17313,7 @@ hash	key(s)
 1170996341	mp0_dlc_apparel_used_99
 1171045694	v_ind_cm_grinder
 1171081930	ch_prop_ch_vault_blue_04
+1171102963	weapon_stungun_mp
 1171118571	xs_terrain_set_dystopian_09
 1171197889	prop_tree_log_01
 1171262106	mp1_su20pstat_int184
@@ -49383,6 +49385,7 @@ hash	key(s)
 -947415121	mp0_mpsv_impound_time_159
 -947362047	mp1_minismg_enemy_kills
 -947094591	mp1_casinopstat_int39
+-947031628	weapon_heavyrifle
 -947026431	cerberus2_flame_hits
 -946958088	as_prop_as_target_medium
 -946956202	prop_plant_group_05e
@@ -54258,6 +54261,7 @@ hash	key(s)
 -618339469	prop_gaffer_leg_bind
 -618324578	mp1_apc_miss_shots
 -618291214	arcade_mac_10
+-618237638	weapon_emplauncher
 -618087962	mp0_mpsv_lp0_120
 -618037942	mpsv_price_paid_299
 -617932891	annihl_bullet_enemy_kills

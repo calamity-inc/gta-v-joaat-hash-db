@@ -27,6 +27,8 @@ weapon_crowbar
 weapon_dagger
 weapon_dbshotgun
 weapon_doubleaction
+weapon_emplauncher
+weapon_fertilizercan
 weapon_fireextinguisher
 weapon_firework
 weapon_flare
@@ -42,6 +44,7 @@ weapon_hammer
 weapon_hatchet
 weapon_hazardcan
 weapon_heavypistol
+weapon_heavyrifle
 weapon_heavyshotgun
 weapon_heavysniper
 weapon_heavysniper_mk2
@@ -91,6 +94,7 @@ weapon_specialcarbine_mk2
 weapon_stickybomb
 weapon_stone_hatchet
 weapon_stungun
+weapon_stungun_mp
 weapon_switchblade
 weapon_vintagepistol
 weapon_wrench

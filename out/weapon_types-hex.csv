@@ -27,6 +27,7 @@ hash,key
 0x166218FF,weapon_passenger_rocket
 0x1670C4A8,vehicle_weapon_tula_minigun
 0x178605E2,vehicle_weapon_khanjali_gl
+0x184140A1,weapon_fertilizercan
 0x19044EE0,weapon_wrench
 0x19B95679,vehicle_weapon_akula_minigun
 0x1B06D571,weapon_pistol
@@ -74,6 +75,7 @@ hash,key
 0x4497AC40,vehicle_weapon_volatol_dualmg
 0x44A56189,vehicle_weapon_apc_missile
 0x44DB5498,vehicle_weapon_turret_insurgent
+0x45CD9CF3,weapon_stungun_mp
 0x461DDDB0,vehicle_weapon_subcar_mg
 0x4635DD15,vehicle_weapon_thruster_missile
 0x46B89C8E,vehicle_weapon_player_buzzard
@@ -207,6 +209,7 @@ hash,key
 0xC44E4341,vehicle_weapon_ardent_mg
 0xC4E0216C,vehicle_weapon_microlight_mg
 0xC734385A,weapon_marksmanrifle
+0xC78D71B4,weapon_heavyrifle
 0xC7FCF93C,vehicle_weapon_speedo4_mg
 0xCA46F87D,vehicle_weapon_dogfighter_missile
 0xCB96392F,weapon_revolver_mk2
@@ -227,6 +230,7 @@ hash,key
 0xD9322EDD,vehicle_weapon_oppressor_mg
 0xDAC57AAD,vehicle_weapon_tampa_fixedminigun
 0xDB1AA450,weapon_machinepistol
+0xDB26713A,weapon_emplauncher
 0xDB894608,vehicle_weapon_technical_minigun
 0xDBBD7280,weapon_combatmg_mk2
 0xDC4DB296,weapon_marksmanpistol

@@ -27,6 +27,7 @@ hash,key
 375527679,weapon_passenger_rocket
 376489128,vehicle_weapon_tula_minigun
 394659298,vehicle_weapon_khanjali_gl
+406929569,weapon_fertilizercan
 419712736,weapon_wrench
 431576697,vehicle_weapon_akula_minigun
 453432689,weapon_pistol
@@ -74,6 +75,7 @@ hash,key
 1150790720,vehicle_weapon_volatol_dualmg
 1151689097,vehicle_weapon_apc_missile
 1155224728,vehicle_weapon_turret_insurgent
+1171102963,weapon_stungun_mp
 1176362416,vehicle_weapon_subcar_mg
 1177935125,vehicle_weapon_thruster_missile
 1186503822,vehicle_weapon_player_buzzard
@@ -207,6 +209,7 @@ hash,key
 3293463361,vehicle_weapon_ardent_mg
 3303022956,vehicle_weapon_microlight_mg
 3342088282,weapon_marksmanrifle
+3347935668,weapon_heavyrifle
 3355244860,vehicle_weapon_speedo4_mg
 3393648765,vehicle_weapon_dogfighter_missile
 3415619887,weapon_revolver_mk2
@@ -227,6 +230,7 @@ hash,key
 3643944669,vehicle_weapon_oppressor_mg
 3670375085,vehicle_weapon_tampa_fixedminigun
 3675956304,weapon_machinepistol
+3676729658,weapon_emplauncher
 3683206664,vehicle_weapon_technical_minigun
 3686625920,weapon_combatmg_mk2
 3696079510,weapon_marksmanpistol

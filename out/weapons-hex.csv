@@ -10,6 +10,7 @@ hash,key
 0x0C472FE2,weapon_heavysniper
 0x12E82D3D,weapon_autoshotgun
 0x13532244,weapon_microsmg
+0x184140A1,weapon_fertilizercan
 0x19044EE0,weapon_wrench
 0x1B06D571,weapon_pistol
 0x1D073A89,weapon_pumpshotgun
@@ -26,6 +27,7 @@ hash,key
 0x3AABBBAA,weapon_heavyshotgun
 0x42BF8A85,weapon_minigun
 0x440E4788,weapon_golfclub
+0x45CD9CF3,weapon_stungun_mp
 0x476BF155,weapon_raycarbine
 0x47757124,weapon_flaregun
 0x497FACC3,weapon_flare
@@ -79,11 +81,13 @@ hash,key
 0xC0A3098D,weapon_specialcarbine
 0xC1B3C3D1,weapon_revolver
 0xC734385A,weapon_marksmanrifle
+0xC78D71B4,weapon_heavyrifle
 0xCB96392F,weapon_revolver_mk2
 0xCD274149,weapon_battleaxe
 0xD205520E,weapon_heavypistol
 0xD8DF3C3C,weapon_knuckle
 0xDB1AA450,weapon_machinepistol
+0xDB26713A,weapon_emplauncher
 0xDBBD7280,weapon_combatmg_mk2
 0xDC4DB296,weapon_marksmanpistol
 0xDD5DF8D9,weapon_machete
