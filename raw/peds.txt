@@ -613,6 +613,7 @@ ig_kerrymcintosh
 ig_kerrymcintosh_02
 ig_lacey_jones_02
 ig_lamardavis
+ig_lamardavis_02
 ig_lazlow
 ig_lazlow_2
 ig_lestercrest
