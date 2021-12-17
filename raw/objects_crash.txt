@@ -2,6 +2,7 @@ h4_prop_bush_buddleia_low_01
 h4_prop_bush_ear_aa
 h4_prop_bush_ear_ab
 h4_prop_bush_fern_low_01
+h4_prop_bush_fern_tall_cc
 h4_prop_bush_mang_ad
 h4_prop_bush_mang_low_aa
 h4_prop_bush_mang_low_ab

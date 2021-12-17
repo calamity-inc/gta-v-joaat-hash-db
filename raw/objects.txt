@@ -2877,7 +2877,6 @@ h4_prop_bush_boxwood_med_01
 h4_prop_bush_buddleia_sml_01
 h4_prop_bush_cocaplant_01
 h4_prop_bush_cocaplant_01_row
-h4_prop_bush_fern_tall_cc
 h4_prop_bush_mang_aa
 h4_prop_bush_mang_ac
 h4_prop_bush_mang_lg_aa
