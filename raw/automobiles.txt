@@ -9,6 +9,7 @@ asbo
 asea
 asea2
 asterope
+astron
 autarch
 baller
 baller2

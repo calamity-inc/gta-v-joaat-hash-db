@@ -9285,6 +9285,7 @@ hash	key(s)
 0x258886EA	mp0_impexppstat_int666
 0x25898007	mp0_sniperrfl_in_possession
 0x258A93A3	impexppstat_int405
+0x258C9364	astron
 0x258C9C7F	mp0_businessbatpstat_int267
 0x258D0A04	sp0_mg_range_smg3_hiscore
 0x258D187B	hei_prop_hei_pic_pb_break
