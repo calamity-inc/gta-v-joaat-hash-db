@@ -199,13 +199,26 @@ int main()
 			databases.emplace("vehicles", std::move(vehicles));
 		}
 		{
+			std::map<uint32_t, std::optional<std::string>> objects_crash = {};
+			load_db("objects_crash", objects_crash);
+			databases.emplace("objects_crash", objects_crash);
 			std::map<uint32_t, std::optional<std::string>> objects = {};
-			load_db("objects_downtown", objects);
-			databases.emplace("objects_downtown", objects);
-			load_db("objects_drawable", objects);
-			databases.emplace("objects_drawable", objects);
 			load_db("objects", objects);
-			databases.emplace("objects_complete", std::move(objects));	
+			for (auto i = objects.begin(); i != objects.end(); )
+			{
+				if (objects_crash.find(i->first) != objects_crash.end())
+				{
+					i = objects.erase(i);
+				}
+				else
+				{
+					++i;
+				}
+			}
+			databases.emplace("objects", objects);
+			copy_db(objects, "objects_downtown");
+			copy_db(objects, "objects_drawable");
+			databases.emplace("objects_complete", std::move(objects));
 		}
 		{
 			std::map<uint32_t, std::optional<std::string>> weapon_types = {};
