@@ -65,6 +65,7 @@ hash,key
 984313451,vehicle_weapon_slamvan4_50cal
 984333226,weapon_heavyshotgun
 1000258817,vehicle_weapon_barrage_top_minigun
+1007245390,vehicle_weapon_mine_kinetic
 1015268368,vehicle_weapon_tampa_mortar
 1030357398,vehicle_weapon_bruiser2_50cal_laser
 1097917585,vehicle_weapon_nose_turret_valkyrie
@@ -88,6 +89,7 @@ hash,key
 1223143800,weapon_barbed_wire
 1226518132,vehicle_weapon_halftrack_quadmg
 1233104067,weapon_flare
+1259576109,vehicle_weapon_player_bullet
 1305664598,weapon_grenadelauncher_smoke
 1317494643,weapon_hammer
 1331922171,vehicle_weapon_halftrack_dualmg
@@ -98,8 +100,10 @@ hash,key
 1392289305,vehicle_weapon_rctank_gun
 1416047217,vehicle_weapon_dune_minigun
 1432025498,weapon_pumpshotgun_mk2
+1459276487,vehicle_weapon_mine_slick
 1470379660,weapon_gadgetpistol
 1475488848,vehicle_weapon_rctank_lazer
+1508567460,vehicle_weapon_mine
 1566990507,vehicle_weapon_enemy_laser
 1593441988,weapon_combatpistol
 1595421922,vehicle_weapon_dogfighter_mg
@@ -115,6 +119,7 @@ hash,key
 1744687076,vehicle_weapon_tampa_dualminigun
 1752584910,weapon_stinger
 1757914307,vehicle_weapon_brutus2_50cal_laser
+1776356704,vehicle_weapon_mine_emp
 1785463520,weapon_marksmanrifle_mk2
 1790524546,vehicle_weapon_zr380_50cal
 1817275304,vehicle_weapon_caracara_mg
@@ -171,6 +176,7 @@ hash,key
 2640438543,weapon_bullpupshotgun
 2656583842,vehicle_weapon_tampa_missile
 2667462330,vehicle_weapon_speedo4_turret_mini
+2669318622,vehicle_weapon_player_hunter
 2694266206,weapon_bzgas
 2700898573,vehicle_weapon_dune_grenadelauncher
 2722615358,vehicle_weapon_cherno_missile
@@ -186,6 +192,7 @@ hash,key
 2937143193,weapon_advancedrifle
 2939590305,weapon_raypistol
 2966510603,vehicle_weapon_tula_dualmg
+2971687502,vehicle_weapon_rotors
 2982836145,weapon_rpg
 3003147322,vehicle_weapon_flamethrower
 3022285407,vehicle_weapon_dominator5_50cal_laser
@@ -228,6 +235,7 @@ hash,key
 3628350041,vehicle_weapon_bombushka_cannon
 3638508604,weapon_knuckle
 3643944669,vehicle_weapon_oppressor_mg
+3647840364,vehicle_weapon_mine_spike
 3670375085,vehicle_weapon_tampa_fixedminigun
 3675956304,weapon_machinepistol
 3676729658,weapon_emplauncher
@@ -251,12 +259,15 @@ hash,key
 3884172218,vehicle_weapon_subcar_torpedo
 3909880809,vehicle_weapon_deathbike2_minigun_laser
 3936892403,vehicle_weapon_comet_mg
+3940737434,vehicle_weapon_granger2_mg
 3946965070,vehicle_weapon_savestra_mg
 3948829706,vehicle_weapon_brutus_50cal
 3959029566,vehicle_weapon_cannon_blazer
 4019527611,weapon_dbshotgun
 4024951519,weapon_assaultsmg
+4026335563,vehicle_weapon_player_laser
 4094131943,vehicle_weapon_vigilante_mg
+4097936288,vehicle_weapon_mine_tar
 4109257098,vehicle_weapon_rctank_flame
 4128808778,vehicle_weapon_mogul_nose
 4148791700,vehicle_weapon_barrage_top_mg

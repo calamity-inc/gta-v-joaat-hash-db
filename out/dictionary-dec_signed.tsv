@@ -15183,6 +15183,7 @@ hash	key(s)
 1007060889	impexppstat_int388
 1007188066	mp0_cl_play_one_on_one_dm
 1007229801	mp0_mpsv_model_226
+1007245390	vehicle_weapon_mine_kinetic
 1007474952	vampires on the beach shirt
 1007493885	sm_vecstolsht
 1007657010	mp1_damage_scar_rotation_1
@@ -19035,6 +19036,7 @@ hash	key(s)
 1259133634	mp1_qub3d_score_7
 1259154991	sm_vecdmgvap
 1259231872	miss_switch_michael3
+1259576109	vehicle_weapon_player_bullet
 1259624006	hei_prop_hei_pic_hl_keycodes
 1259658426	dlc_apparel_acquired_129
 1259673243	air_launches_over_40m
@@ -22063,6 +22065,7 @@ hash	key(s)
 1459077717	mpsv_lp0_97
 1459092192	stt_prop_corner_sign_02
 1459243828	akula_turr_kills
+1459276487	vehicle_weapon_mine_slick
 1459623836	main_persistent
 1459646432	xm_prop_x17_l_frame_02
 1459799151	mp1_tampa3_miss_shots
@@ -22829,6 +22832,7 @@ hash	key(s)
 1508366658	apa_prop_flag_eu_yt
 1508416345	mp0_heist_saved_strand_0
 1508551686	w_at_railcover_01
+1508567460	vehicle_weapon_mine
 1508578673	raypistol_fm_ammo_bought
 1508814378	vehmine_sli_deaths
 1508817102	mp0_mpsv_flags_273
@@ -26814,6 +26818,7 @@ hash	key(s)
 1776116008	mp0_impexppstat_int478
 1776188009	mpsv_price_paid_66
 1776189468	mp0_lrpstat_int25
+1776356704	vehicle_weapon_mine_emp
 1776497632	prop_studio_light_02
 1776634081	mp0_char_hair_unlck10
 1776671180	prop_roofvent_14a
@@ -40200,6 +40205,7 @@ hash	key(s)
 -1625755590	char_kit_23_fm_unlck
 -1625716612	gangopspstat_int9
 -1625667924	prop_aircon_m_06
+-1625648674	vehicle_weapon_player_hunter
 -1625644230	tr_prop_tr_sign_gf_ll_01a
 -1625600273	mp0_bombushka_cann_deaths
 -1625479312	prop_target_arm_b
@@ -44745,6 +44751,7 @@ hash	key(s)
 -1323444709	mp0_mpsv_lp0_300
 -1323434454	rhino_rocket_shots
 -1323388435	prop_byard_pipe_01
+-1323279794	vehicle_weapon_rotors
 -1323262034	sum_mpapyacht_glass08
 -1323216997	component_assaultrifle_clip_02
 -1323123230	mp0_mkrifle_mk2_deaths
@@ -54933,6 +54940,7 @@ hash	key(s)
 -647434215	mp1_heist_saved_strand_8_l
 -647371094	near_miss_precise
 -647140963	comms_controller
+-647126932	vehicle_weapon_mine_spike
 -647043732	v_44_cablemesh3833165_tstd015
 -647020973	v_31a_jh_tunn_02b
 -646980099	mp0_clths_acquired_special_6
@@ -59387,6 +59395,7 @@ hash	key(s)
 -354612937	mp1_mpsv_price_paid_30
 -354452611	mp1_mpsv_price_paid_246
 -354384652	ch_prop_ch_sec_cabinet_01f
+-354229862	vehicle_weapon_granger2_mg
 -354221800	prop_cctv_cam_01b
 -354127927	mp1_arenawarspstat_int210
 -354047108	sum_prop_track_pit_garage_05a
@@ -60702,6 +60711,7 @@ hash	key(s)
 -268916790	tr_int1_mod_pillars01
 -268669450	clths_available_jbib_6
 -268644119	ngpstat_int14
+-268631733	vehicle_weapon_player_laser
 -268289060	char_fm_clothes_3_owned
 -268241836	sp2_mkpistol_headshots
 -268200275	v_31a_worklight_03b
@@ -61800,6 +61810,7 @@ hash	key(s)
 -197147162	prop_door_balcony_left
 -197122485	bkr_prop_bkr_cashpile_04
 -197086206	h4_rig_dj_02_lights_02_b
+-197031008	vehicle_weapon_mine_tar
 -196950037	mp0_grnlaunch_fm_ammo_bought
 -196894684	mp0_impexppstat_int52
 -196880926	mp1_damage_scar_rotation_17
