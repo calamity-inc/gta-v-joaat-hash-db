@@ -27634,6 +27634,7 @@ hash	key(s)
 0x6D19CCBC	peyote
 0x6D1A3515	sf_int1_stairs_wpaper_9
 0x6D1B90C0	tattoo_fm_unlocks_40
+0x6D1BB815	urbanweeds02_l1
 0x6D1C21F2	prop_snow_tree_03_e
 0x6D1CDFCF	w_pi_pistolmk2_mag_hp
 0x6D1CE09D	mp0_spcarb_mk2_deaths
@@ -32566,6 +32567,7 @@ hash	key(s)
 0x8073ADAD	sp1_extinguisher_heldtime
 0x8073F3BD	mp1_char_weap_addon_18_viewed
 0x807526AE	mp1_casinohstpstat_int76
+0x8077CE20	prop_tall_grass_ba
 0x8077DAC9	bicycle_exploded
 0x80789C93	mp0_gold_floatchar_0
 0x8078D9DD	clths_used_special_3
