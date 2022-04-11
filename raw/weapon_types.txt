@@ -1,3 +1,4 @@
+object
 vehicle_weapon_akula_barrage
 vehicle_weapon_akula_minigun
 vehicle_weapon_akula_missile
