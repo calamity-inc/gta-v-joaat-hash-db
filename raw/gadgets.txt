@@ -1,0 +1,2 @@
+gadget_nightvision
+gadget_parachute

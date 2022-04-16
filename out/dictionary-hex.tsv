@@ -42280,6 +42280,7 @@ hash	key(s)
 0xA71D9E23	mp0_damage_scar_zone_13
 0xA71E97A2	stt_prop_sign_circuit_11b
 0xA71F5EDA	mp1_hunter_barr_enemy_kills
+0xA720365C	gadget_nightvision
 0xA72060F8	prop_pot_plant_bh1
 0xA7207864	p_cs1_14b_train_s
 0xA7208366	tr_int2_rails_new
@@ -63764,6 +63765,7 @@ hash	key(s)
 0xFBA89B2D	mp0_mpsv_obtained_time_35
 0xFBAA6EBB	mp1_apapstat_int37
 0xFBAAE5F9	hub_prod_total_1
+0xFBAB5776	gadget_parachute
 0xFBABE1B4	rankap_equip_2
 0xFBAD1023	scarab2_mg50_enemy_kills
 0xFBAE3175	mp1_dlc_apparel_acquired_207
