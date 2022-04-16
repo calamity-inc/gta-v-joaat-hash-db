@@ -17,6 +17,7 @@ hash,key
 0x0A914799,weapon_heavysniper_mk2
 0x0B56E4E4,vehicle_weapon_apc_mg
 0x0C472FE2,weapon_heavysniper
+0x0D28BCA3,vehicle_weapon_bomb_cluster
 0x0DCE6112,vehicle_weapon_scramjet_mg
 0x12E82D3D,weapon_autoshotgun
 0x13532244,weapon_microsmg
@@ -43,6 +44,7 @@ hash,key
 0x22D8FE39,weapon_appistol
 0x23C9F95C,weapon_ball
 0x24B17070,weapon_molotov
+0x252AF560,vehicle_weapon_mine_kinetic_rc
 0x2A00AB1A,vehicle_weapon_hunter_cannon
 0x2A6F8E1D,vehicle_weapon_khanjali_mg
 0x2B5EF5EC,weapon_ceramicpistol
@@ -55,6 +57,8 @@ hash,key
 0x32FE9EEF,vehicle_weapon_havok_minigun
 0x33058E22,weapon_remotesniper
 0x34A67B97,weapon_petrolcan
+0x34FDFF66,weapon_arena_machine_gun
+0x35D8CC90,vehicle_weapon_annihilator2_barrage
 0x364A29EC,weapon_exhaustion
 0x3656C8C1,weapon_stungun
 0x373AD53C,vehicle_weapon_jb700_mg
@@ -91,6 +95,7 @@ hash,key
 0x491B2E74,vehicle_weapon_halftrack_quadmg
 0x497FACC3,weapon_flare
 0x4B139B2D,vehicle_weapon_player_bullet
+0x4C2FB4E9,vehicle_weapon_patrolboat_dualmg
 0x4DD2DC56,weapon_grenadelauncher_smoke
 0x4E875F73,weapon_hammer
 0x4F6384FB,vehicle_weapon_halftrack_dualmg
@@ -99,7 +104,9 @@ hash,key
 0x519543AE,vehicle_weapon_slamvan5_50cal_laser
 0x51B8D4E8,vehicle_weapon_seabreeze_mg
 0x52FCA619,vehicle_weapon_rctank_gun
+0x5454B4C6,vehicle_weapon_mine_emp_rc
 0x54672A71,vehicle_weapon_dune_minigun
+0x5540A91E,vehicle_weapon_bomb_gas
 0x555AF99A,weapon_pumpshotgun_mk2
 0x56FACAC7,vehicle_weapon_mine_slick
 0x57A4368C,weapon_gadgetpistol
@@ -112,8 +119,10 @@ hash,key
 0x61012683,weapon_gusenberg
 0x61A31349,vehicle_weapon_player_savage
 0x624FE830,weapon_compactrifle
+0x62E2140E,vehicle_weapon_kosatka_torpedo
 0x632A22FD,vehicle_weapon_mortar_kinetic
 0x63AB0442,weapon_hominglauncher
+0x648A81D0,weapon_arena_homing_missile
 0x652E1D9D,vehicle_weapon_thruster_mg
 0x678B81B1,weapon_nightstick
 0x67D18297,vehicle_weapon_water_cannon
@@ -123,9 +132,11 @@ hash,key
 0x69E10D60,vehicle_weapon_mine_emp
 0x6A6C02E0,weapon_marksmanrifle_mk2
 0x6AB93C82,vehicle_weapon_zr380_50cal
+0x6AF7A717,vehicle_weapon_bomb_incendiary
 0x6C516BA8,vehicle_weapon_caracara_mg
 0x6C88E47D,vehicle_weapon_rogue_missile
 0x6D544C99,weapon_railgun
+0x6EA548D0,vehicle_weapon_bomb_standard_wide
 0x736F5990,weapon_drowning_in_vehicle
 0x73F7C04B,vehicle_weapon_tank
 0x753A78F1,vehicle_weapon_oppressor2_missile
@@ -137,7 +148,9 @@ hash,key
 0x7817C526,vehicle_weapon_imperator2_50cal_laser
 0x7846A318,weapon_sawnoffshotgun
 0x78A97CD0,weapon_smg_mk2
+0x7C2AFE51,vehicle_weapon_mine_spike_rc
 0x7CBE304C,vehicle_weapon_akula_missile
+0x7D3474D6,vehicle_weapon_mine_tar_rc
 0x7F229F94,weapon_bullpuprifle
 0x7F7497E5,weapon_firework
 0x7FD2EA0B,vehicle_weapon_turret_technical
@@ -149,6 +162,7 @@ hash,key
 0x84558727,vehicle_weapon_mule4_mg
 0x84BD7BFD,weapon_crowbar
 0x84D6FAFD,weapon_bullpuprifle_mk2
+0x84E87B17,vehicle_weapon_mine_slick_rc
 0x86E6F84E,vehicle_weapon_pounder2_mini
 0x87A02E06,vehicle_weapon_viseris_mg
 0x880D14F2,vehicle_weapon_akula_barrage
@@ -158,6 +172,7 @@ hash,key
 0x8BB05FD7,weapon_flashlight
 0x8BB7C63E,vehicle_weapon_oppressor_missile
 0x8CBDFC88,vehicle_weapon_impaler3_50cal_laser
+0x90F4C94C,vehicle_weapon_seasparrow2_minigun
 0x917F6C8C,weapon_navyrevolver
 0x926B8CE4,vehicle_weapon_pounder2_barrage
 0x92A27487,weapon_dagger
@@ -171,6 +186,7 @@ hash,key
 0x9867203B,vehicle_weapon_avenger_cannon
 0x99AEEB3B,weapon_pistol50
 0x99B507EA,weapon_knife
+0x9AF0B90C,vehicle_weapon_bomb
 0x9AFF6376,vehicle_weapon_deluxo_mg
 0x9D07F764,weapon_mg
 0x9D1F17E6,weapon_militaryrifle
@@ -180,6 +196,7 @@ hash,key
 0x9F1A91DE,vehicle_weapon_player_hunter
 0xA0973D5E,weapon_bzgas
 0xA0FC710D,vehicle_weapon_dune_grenadelauncher
+0xA1A8CCD2,vehicle_weapon_mortar_explosive
 0xA247D03E,vehicle_weapon_cherno_missile
 0xA2719263,weapon_unarmed
 0xA284510B,weapon_grenadelauncher
@@ -189,6 +206,7 @@ hash,key
 0xA61AC574,vehicle_weapon_nightshark_mg
 0xA89CB99E,weapon_musket
 0xAA886DF8,vehicle_weapon_insurgent_minigun
+0xAAE74AC1,vehicle_weapon_sub_missile_homing
 0xAB564B93,weapon_proxmine
 0xAF113F99,weapon_advancedrifle
 0xAF3696A1,weapon_raypistol
@@ -196,6 +214,7 @@ hash,key
 0xB1205A4E,vehicle_weapon_rotors
 0xB1CA77B1,weapon_rpg
 0xB300643A,vehicle_weapon_flamethrower
+0xB3B155FD,vehicle_weapon_turret_dinghy5_50cal
 0xB4246A5F,vehicle_weapon_dominator5_50cal_laser
 0xB4F96934,vehicle_weapon_deluxo_missile
 0xB54F4918,vehicle_weapon_turret_boxville
@@ -217,9 +236,11 @@ hash,key
 0xC44E4341,vehicle_weapon_ardent_mg
 0xC4E0216C,vehicle_weapon_microlight_mg
 0xC734385A,weapon_marksmanrifle
+0xC76BC6B7,vehicle_weapon_annihilator2_missile
 0xC78D71B4,weapon_heavyrifle
 0xC7FCF93C,vehicle_weapon_speedo4_mg
 0xCA46F87D,vehicle_weapon_dogfighter_missile
+0xCAF6CD41,vehicle_weapon_annihilator2_mini
 0xCB96392F,weapon_revolver_mk2
 0xCC34325E,weapon_hit_by_water_cannon
 0xCD274149,weapon_battleaxe
@@ -245,6 +266,7 @@ hash,key
 0xDC4DB296,weapon_marksmanpistol
 0xDD124A65,vehicle_weapon_mule4_turret_gl
 0xDD5DF8D9,weapon_machete
+0xDF4EA041,vehicle_weapon_turret_patrolboat_50cal
 0xDF8E89EB,weapon_fire
 0xDFCAF8A4,vehicle_weapon_menacer_mg
 0xDFE37640,weapon_switchblade
