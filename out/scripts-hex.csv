@@ -40,6 +40,7 @@ hash,key
 0x09004973,epsrobes
 0x095B7C6A,stripclub
 0x0A55C91F,test_startup
+0x0A9A080C,fm_content_mp_intro
 0x0ADDD94C,debug
 0x0B5C1070,re_getaway_driver
 0x0B87DC63,gb_transporter
@@ -346,6 +347,7 @@ hash,key
 0x5BA58F0F,launcher_barry
 0x5C0238A9,am_penthouse_peds
 0x5C053F56,flyunderbridges
+0x5D1074BD,landing_pre_startup
 0x5D5A5ED8,family1taxi
 0x5D7DC952,flowintrotitle
 0x5D94ED7B,gb_target_pursuit
@@ -513,6 +515,7 @@ hash,key
 0x8C56B7FE,am_mp_nightclub
 0x8C56D5FD,initial
 0x8C9C5FB8,am_mp_arena_box
+0x8C9FEB33,fm_content_hsw_setup
 0x8CD0BFF0,gb_gunrunning
 0x8D055FE8,base_entrance_seats
 0x8D608FF1,towing
@@ -576,6 +579,7 @@ hash,key
 0x9B9330A1,am_hs4_isd_take_vel
 0x9BF88E0E,fm_content_movie_props
 0x9C0D6F05,exile3
+0x9C273413,fm_content_hsw_time_trial
 0x9C6F5716,am_mp_armory_aircraft
 0x9C79666D,re_dealgonewrong
 0x9CB1A0A1,yoga
@@ -650,6 +654,7 @@ hash,key
 0xADE8F290,flow_help
 0xAE47D94E,appjipmp
 0xAEB9F318,re_chasethieves
+0xAEC3C263,car_meet_interior_seating
 0xAEFE99BE,exile_city_denial
 0xAF19CABA,paparazzo3b
 0xAF23F171,ob_abatdoor

@@ -2713,6 +2713,7 @@ hash	key(s)
 177629259	mp0_shopfm_clothes_h_02_b
 177632919	sp2_weap_purch_0
 177789876	h4_prop_casino_blckjack_01a
+177866764	fm_content_mp_intro
 177994479	xs_propint3_waste_01_bottles
 178072857	mp1_impexppstat_int466
 178124031	sf_int2_1_shell_bottom_garage02
@@ -23677,6 +23678,7 @@ hash	key(s)
 1561088805	a_m_m_mlcrisis_01
 1561233577	num_oddjobs_completed
 1561304841	xm_prop_lab_lamp_wall_b
+1561359549	landing_pre_startup
 1561392089	mp0_impexppstat_int71
 1561415466	mp0_hunter_barr_kills
 1561422368	mp0_gbtelnofm_sessions_ent
@@ -35724,6 +35726,7 @@ hash	key(s)
 2359058360	am_mp_arena_box
 2359102343	mp1_impexppstat_int237
 2359281212	prop_barrel_exp_01c
+2359290675	fm_content_hsw_setup
 2359306256	mp0_grenade_kills
 2359315592	v_44_cablemesh3833165_tstd003
 2359345766	a_f_m_trampbeac_01
@@ -39575,6 +39578,7 @@ hash	key(s)
 2619696297	mp0_lrpstat_int24
 2619696551	mpsv_model_4
 2619806508	dlc_apparel_used_0
+2619814931	fm_content_hsw_time_trial
 2619835017	v_31_cablemesh5785290_hvstd
 2619875695	sp1_hunter_bullet_shots
 2619890975	kills_friendly_gang_members
@@ -44290,6 +44294,7 @@ hash	key(s)
 2931958459	mp0_mpsv_premium_paid_169
 2931972772	gbtelnogoon_quit
 2932053753	mpsv_lp0_164
+2932064867	car_meet_interior_seating
 2932118831	mp0_impexppstat_int491
 2932241184	apa_mp_apa_y2_l1b
 2932295747	mp1_pilot_checkpointcount_2
