@@ -503,7 +503,6 @@ tractor
 tractor2
 tractor3
 trailerlarge
-trailersmall2
 trash
 trash2
 trophytruck
