@@ -28054,6 +28054,7 @@ hash	key(s)
 1853615184	snspistol_deaths
 1853643035	awd_first_time4
 1853704671	mp0_mpsv_obtained_time_1
+1853742572	weapon_precisionrifle
 1853808356	sp1_money_spent_in_cop_bribes
 1853921277	v_ilev_cd_dust
 1853930700	prop_exer_bike_mg
@@ -53192,6 +53193,7 @@ hash	key(s)
 -774920224	prop_oil_valve_02
 -774854218	asltrifle_deaths
 -774819503	businessbatpstat_int338
+-774507221	weapon_tacticalrifle
 -774492251	mp0_impexppstat_int502
 -774413467	mp1_wrench_deaths
 -774310561	mp1_bikes_exploded
@@ -55651,6 +55653,7 @@ hash	key(s)
 -610197996	impexppstat_int65
 -610175083	mp0_impexppstat_int623
 -610165006	mp0_apapstat_int85
+-610080759	weapon_metaldetector
 -610079412	mp0_streetlegscore_7
 -610054759	v_ilev_fa_roomdoor
 -610037665	mp1_impexppstat_int178

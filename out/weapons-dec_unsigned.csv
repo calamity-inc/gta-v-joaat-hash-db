@@ -42,6 +42,7 @@ hash,key
 1737195953,weapon_nightstick
 1785463520,weapon_marksmanrifle_mk2
 1834241177,weapon_railgun
+1853742572,weapon_precisionrifle
 2017895192,weapon_sawnoffshotgun
 2024373456,weapon_smg_mk2
 2132975508,weapon_bullpuprifle
@@ -84,10 +85,12 @@ hash,key
 3347935668,weapon_heavyrifle
 3415619887,weapon_revolver_mk2
 3441901897,weapon_battleaxe
+3520460075,weapon_tacticalrifle
 3523564046,weapon_heavypistol
 3638508604,weapon_knuckle
 3675956304,weapon_machinepistol
 3676729658,weapon_emplauncher
+3684886537,weapon_metaldetector
 3686625920,weapon_combatmg_mk2
 3696079510,weapon_marksmanpistol
 3713923289,weapon_machete

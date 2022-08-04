@@ -136,6 +136,7 @@ hash,key
 0x6C516BA8,vehicle_weapon_caracara_mg
 0x6C88E47D,vehicle_weapon_rogue_missile
 0x6D544C99,weapon_railgun
+0x6E7DDDEC,weapon_precisionrifle
 0x6EA548D0,vehicle_weapon_bomb_standard_wide
 0x736F5990,weapon_drowning_in_vehicle
 0x73F7C04B,vehicle_weapon_tank
@@ -248,6 +249,7 @@ hash,key
 0xCDC174B0,weapon_fall
 0xCF0896E0,vehicle_weapon_plane_rocket
 0xD11507CF,vehicle_weapon_dune_mg
+0xD1D5F52B,weapon_tacticalrifle
 0xD205520E,weapon_heavypistol
 0xD276317E,vehicle_weapon_radar
 0xD4897C0E,vehicle_weapon_subcar_missile
@@ -262,6 +264,7 @@ hash,key
 0xDB1AA450,weapon_machinepistol
 0xDB26713A,weapon_emplauncher
 0xDB894608,vehicle_weapon_technical_minigun
+0xDBA2E809,weapon_metaldetector
 0xDBBD7280,weapon_combatmg_mk2
 0xDC4DB296,weapon_marksmanpistol
 0xDD124A65,vehicle_weapon_mule4_turret_gl

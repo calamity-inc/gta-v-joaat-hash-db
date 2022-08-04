@@ -56,6 +56,7 @@ weapon_machinepistol
 weapon_marksmanpistol
 weapon_marksmanrifle
 weapon_marksmanrifle_mk2
+weapon_metaldetector
 weapon_mg
 weapon_microsmg
 weapon_militaryrifle
@@ -71,6 +72,7 @@ weapon_pistol
 weapon_pistol50
 weapon_pistol_mk2
 weapon_poolcue
+weapon_precisionrifle
 weapon_proxmine
 weapon_pumpshotgun
 weapon_pumpshotgun_mk2
@@ -96,5 +98,6 @@ weapon_stone_hatchet
 weapon_stungun
 weapon_stungun_mp
 weapon_switchblade
+weapon_tacticalrifle
 weapon_vintagepistol
 weapon_wrench
