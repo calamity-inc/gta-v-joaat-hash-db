@@ -1,9 +1,11 @@
 hash,key
 6774487,chimera
 11251904,carbonrs
+15214558,brioso3
 15219735,hermes
 16646064,virgo3
 37348240,hotknife
+40817712,greenwood
 48339065,tiptruck
 55628203,faggio2
 65402552,youga
@@ -31,6 +33,7 @@ hash,key
 237764926,buffalo3
 240201337,freightcont2
 272929391,tempesta
+274946574,tenf2
 276773164,dinghy2
 290013743,tropic
 295054921,annihilator2
@@ -135,6 +138,7 @@ hash,key
 758895617,ztype
 767087018,alpha
 771711535,submersible
+775514032,sm722
 777714999,ruiner3
 782665360,rhino
 784565758,coquette3
@@ -303,6 +307,7 @@ hash,key
 1682114128,dilettante2
 1692272545,strikeforce
 1693751655,yosemite2
+1706945532,ruiner4
 1717532765,manana2
 1721676810,monster3
 1723137093,stratum
@@ -443,6 +448,7 @@ hash,key
 -1881846085,trailersmall2
 -1860900134,insurgent
 -1858654120,zr350
+-1855505138,rhinehart
 -1848994066,neon
 -1845487887,volatus
 -1842748181,faggio
@@ -461,6 +467,7 @@ hash,key
 -1775728740,granger
 -1770643266,tvtrailer
 -1763555241,microlight
+-1758379524,vigero2
 -1758137366,penetrator
 -1757836725,seven70
 -1756021720,everon
@@ -530,6 +537,7 @@ hash,key
 -1372848492,kuruma
 -1361687965,chino2
 -1358197432,tigon
+-1356880839,sentinel4
 -1353081087,vindicator
 -1352468814,trflat
 -1349095620,caracara2
@@ -598,6 +606,7 @@ hash,key
 -1007528109,howard
 -1006919392,cutter
 -998177792,visione
+-994371320,weevil2
 -988501280,cheburek
 -986944621,dominator3
 -982130927,turismo2
@@ -614,6 +623,7 @@ hash,key
 -907477130,burrito2
 -901163259,dodo
 -899509638,virgo2
+-893984159,tenf
 -893578776,ruffian
 -891462355,bati2
 -888242983,schafter5
@@ -639,8 +649,10 @@ hash,key
 -777275802,freighttrailer
 -777172681,omnis
 -769147461,caddy3
+-768236378,draugur
 -757735410,fcr2
 -755532233,imperator3
+-754687673,corsita
 -749299473,mogul
 -748008636,mesa2
 -746882698,schwarzer
@@ -681,9 +693,11 @@ hash,key
 -537896628,caddy2
 -511601230,oracle2
 -507495760,schlagen
+-505223465,omnisegt
 -498054846,virgo
 -488123221,predator
 -482719877,italigtb2
+-477831899,conada
 -452604007,rt3000
 -447711397,paragon
 -442313018,towtruck2
@@ -719,6 +733,7 @@ hash,key
 -305727417,brickade
 -304802106,buffalo
 -295689028,sultanrs
+-294678663,postlude
 -291021213,sultan3
 -286046740,rcbandito
 -282946103,suntrap
@@ -734,6 +749,7 @@ hash,key
 -210308634,winky
 -208911803,jugular
 -186537451,scorcher
+-165394758,torero2
 -159126838,innovation
 -150975354,blimp
 -142942670,massacro
@@ -746,6 +762,7 @@ hash,key
 -102335483,squaddie
 -89291282,felon2
 -82626025,savage
+-64075878,kanjosj
 -54332285,freecrawler
 -50547061,cargobob
 -49115651,vamos
@@ -757,4 +774,5 @@ hash,key
 -27326686,deathbike
 -16948145,bison
 -14495224,regina
+-10917683,lm87
 -5153954,exemplar

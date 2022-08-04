@@ -53,6 +53,7 @@ brawler
 brickade
 brioso
 brioso2
+brioso3
 bruiser
 bruiser2
 bruiser3
@@ -118,6 +119,7 @@ coquette
 coquette2
 coquette3
 coquette4
+corsita
 crusader
 cutter
 cyclone
@@ -139,6 +141,7 @@ dominator6
 dominator7
 dominator8
 drafter
+draugur
 dubsta
 dubsta2
 dubsta3
@@ -203,6 +206,7 @@ glendale2
 gp1
 granger
 granger2
+greenwood
 gresley
 growler
 gt500
@@ -258,6 +262,7 @@ jugular
 kalahari
 kamacho
 kanjo
+kanjosj
 khamelion
 khanjali
 komoda
@@ -269,6 +274,7 @@ landstalker2
 le7b
 lguard
 limo2
+lm87
 locust
 lurcher
 lynx
@@ -312,6 +318,7 @@ ninef
 ninef2
 novak
 omnis
+omnisegt
 openwheel1
 openwheel2
 oracle
@@ -351,6 +358,7 @@ policeold2
 policet
 pony
 pony2
+postlude
 pounder
 pounder2
 prairie
@@ -383,6 +391,7 @@ retinue
 retinue2
 revolter
 rhapsody
+rhinehart
 rhino
 riata
 riot
@@ -396,6 +405,7 @@ rubble
 ruiner
 ruiner2
 ruiner3
+ruiner4
 rumpo
 rumpo2
 rumpo3
@@ -426,6 +436,7 @@ seminole2
 sentinel
 sentinel2
 sentinel3
+sentinel4
 serrano
 seven70
 sheava
@@ -438,6 +449,7 @@ slamvan3
 slamvan4
 slamvan5
 slamvan6
+sm722
 specter
 specter2
 speedo
@@ -481,6 +493,8 @@ technical
 technical2
 technical3
 tempesta
+tenf
+tenf2
 terbyte
 tezeract
 thrax
@@ -489,6 +503,7 @@ tiptruck
 tiptruck2
 toreador
 torero
+torero2
 tornado
 tornado2
 tornado3
@@ -527,6 +542,7 @@ vetir
 veto
 veto2
 vigero
+vigero2
 vigilante
 virgo
 virgo2
@@ -543,6 +559,7 @@ warrener2
 washington
 wastelander
 weevil
+weevil2
 windsor
 windsor2
 winky
