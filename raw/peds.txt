@@ -69,6 +69,7 @@ a_f_m_eastsa_02
 a_f_m_fatbla_01
 a_f_m_fatcult_01
 a_f_m_fatwhite_01
+a_f_m_genbiker_01
 a_f_m_ktown_01
 a_f_m_ktown_02
 a_f_m_prolhost_01
@@ -149,6 +150,7 @@ a_m_m_eastsa_01
 a_m_m_eastsa_02
 a_m_m_farmer_01
 a_m_m_fatlatin_01
+a_m_m_genbiker_01
 a_m_m_genfat_01
 a_m_m_genfat_02
 a_m_m_golfer_01
@@ -479,6 +481,7 @@ g_m_m_chiboss_01
 g_m_m_chicold_01
 g_m_m_chigoon_01
 g_m_m_chigoon_02
+g_m_m_genthug_01
 g_m_m_goons_01
 g_m_m_korboss_01
 g_m_m_mexboss_01
@@ -515,6 +518,7 @@ hc_hacker
 ig_abigail
 ig_agatha
 ig_agent
+ig_agent_02
 ig_amandatownley
 ig_andreas
 ig_ary
@@ -626,6 +630,7 @@ ig_malc
 ig_manuel
 ig_marnie
 ig_maryann
+ig_mason_duggan
 ig_maude
 ig_michelle
 ig_miguelmadrazo
@@ -702,6 +707,7 @@ ig_vincent
 ig_vincent_2
 ig_vincent_3
 ig_wade
+ig_warehouseboss
 ig_wendy
 ig_zimbor
 mp_f_bennymech_01
@@ -753,6 +759,7 @@ s_f_m_maid_01
 s_f_m_shop_high
 s_f_m_studioassist_01
 s_f_m_sweatshop_01
+s_f_m_warehouse_01
 s_f_y_airhostess_01
 s_f_y_bartender_01
 s_f_y_baywatch_01
@@ -833,6 +840,7 @@ s_m_m_studiosoueng_02
 s_m_m_trucker_01
 s_m_m_ups_01
 s_m_m_ups_02
+s_m_m_warehouse_01
 s_m_o_busker_01
 s_m_y_airworker
 s_m_y_ammucity_01
@@ -963,6 +971,7 @@ u_m_y_gunvend_01
 u_m_y_hippie_01
 u_m_y_imporage
 u_m_y_juggernaut_01
+u_m_y_juggernaut_02
 u_m_y_justin
 u_m_y_mani
 u_m_y_militarybum

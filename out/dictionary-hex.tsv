@@ -9936,6 +9936,7 @@ hash	key(s)
 0x27540E49	sp1_weap_tint_view_10
 0x275523DE	mp0_mpsv_price_paid_90
 0x27562CC3	mp1_cr_hooker_tut
+0x27589791	s_m_m_warehouse_01
 0x275D1BB6	vw_prop_flowers_vase_03a
 0x275E6F1C	mp0_cmprifle_kills
 0x275F83CF	mp0_scgw_initials_5
@@ -16764,6 +16765,7 @@ hash	key(s)
 0x420FD713	component_at_sights
 0x42104CE9	prop_paper_bag_01
 0x42106EC4	mp0_rhino_rocket_enemy_kills
+0x42107CA3	ig_warehouseboss
 0x42115D27	mp0_spawn_location_setting
 0x421443A3	mp0_arenawarspstat_int264
 0x4214A61D	mp1_awd_jock
@@ -17942,6 +17944,7 @@ hash	key(s)
 0x46829E3C	mp0_brutus_mg50_deaths
 0x46830130	mp1_su20pstat_int160
 0x4683E187	ex_mp_h_acc_coffeemachine_01
+0x46850B27	ig_agent_02
 0x4685EDAA	prop_ch1_07_door_01r
 0x4686C61B	mp0_casinopstat_int85
 0x46870780	xm_prop_facility_glass_01n
@@ -18586,6 +18589,7 @@ hash	key(s)
 0x48FE301D	menacer_mg_deaths
 0x48FF4CA9	csb_vagspeak
 0x49000D3C	mp1_mpsv_premium_paid_227
+0x49004F25	ig_mason_duggan
 0x4901A678	mp0_mpsv_model_14
 0x4902AD27	mp1_mpsv_lp0_266
 0x4904929F	mp1_bullpup_fm_ammo_bought
@@ -29720,6 +29724,7 @@ hash	key(s)
 0x749A833C	tampa3_fmini_enemy_kills
 0x749AFDAA	mp0_mpsv_model_15
 0x749B4973	mp0_casinopstat_int100
+0x749B5065	a_f_m_genbiker_01
 0x749DBE47	v_ilev_bk_door
 0x749DBE66	mp0_factoryupgrades1_1
 0x749FA287	mp1_number_of_orange_bought
@@ -41380,6 +41385,7 @@ hash	key(s)
 0xA3400916	mp0_bombushka_dual_heldtime
 0xA34066AD	vw_prop_chip_1kdollar_st
 0xA3407261	mp0_ruiner2_rocket_kills
+0xA340F5D7	u_m_y_juggernaut_02
 0xA341DFB2	mp1_mpsv_flags_2
 0xA342C53B	imp_prop_impexp_postlift
 0xA342F462	mp1_mesh_tex2
@@ -53477,6 +53483,7 @@ hash	key(s)
 0xD3014D0F	h4_prop_h4_turntable_01a
 0xD301FBAF	mp1_casinopstat_int103
 0xD302F7A6	_profile_setting_5
+0xD303008B	g_m_m_genthug_01
 0xD3036156	mp1_char_kit_fm_purchase20
 0xD303CC23	mpsv_price_paid_203
 0xD304373D	ch_prop_ch_vault_slide_door_sm
@@ -56520,6 +56527,7 @@ hash	key(s)
 0xDEDF2544	mp0_heist_saved_strand_7
 0xDEDF4A5B	pilot_aspassedlesson_6
 0xDEE0D7D8	prop_rub_table_02
+0xDEE17D7E	a_m_m_genbiker_01
 0xDEE4071C	issi4_mg50_deaths
 0xDEE583B9	mp0_mpsv_premium_paid_97
 0xDEE5D2AD	mp1_vehmine_sli_deaths
@@ -58151,6 +58159,7 @@ hash	key(s)
 0xE52FFB62	ch_prop_ch_ld_bomb_01a
 0xE534038E	damage_scar_rotation_10
 0xE5367FCD	mp0_admin_veh_rm_nonby_posix
+0xE5371B92	s_f_m_warehouse_01
 0xE537BAD2	mp0_tattoo_fm_current_23
 0xE539C011	prop_cash_note_01
 0xE53B7672	mpsv_price_paid_214

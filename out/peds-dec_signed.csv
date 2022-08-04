@@ -130,6 +130,7 @@ hash,key
 653210662,g_m_y_mexgoon_01
 653289389,s_m_m_fiboffice_02
 658984954,ig_johnny_guns
+660117393,s_m_m_warehouse_01
 662575004,
 663522487,g_m_y_salvagoon_01
 664399832,a_f_y_business_01
@@ -244,6 +245,7 @@ hash,key
 1097048408,s_m_y_factory_01
 1099321454,mp_m_weapwork_01
 1099825042,s_m_m_hairdress_01
+1108376739,ig_warehouseboss
 1123963760,cs_tanisha
 1125994524,a_c_poodle
 1126154828,a_c_shepherd
@@ -267,6 +269,7 @@ hash,key
 1179785778,cs_russiandrunk
 1182012905,ig_dale
 1182156569,ig_talmm
+1183124263,ig_agent_02
 1189322339,u_m_o_finguru_01
 1191403201,cs_fabien
 1191548746,u_m_y_militarybum
@@ -279,6 +282,7 @@ hash,key
 1221043248,s_m_y_waretech_01
 1224306523,a_f_m_tramp_01
 1224690857,csb_vagspeak
+1224757029,ig_mason_duggan
 1226102803,g_m_m_mexboss_02
 1240094341,s_m_m_gardener_01
 1240128502,ig_chef
@@ -453,6 +457,7 @@ hash,key
 1943971979,mp_f_deadhooker
 1951946145,a_f_m_soucent_01
 1952555184,ig_devin
+1956335717,a_f_m_genbiker_01
 1975732938,ig_car3guy2
 1976765073,s_m_y_dwservice_01
 1982350912,a_m_y_bevhills_01
@@ -630,6 +635,7 @@ hash,key
 -1567908307,csb_jio
 -1567723049,csb_g
 -1561829034,g_m_y_pologoon_02
+-1556023849,u_m_y_juggernaut_02
 -1555576182,csb_chef
 -1552967674,ig_maryann
 -1549575121,cs_drfriedlander
@@ -818,6 +824,7 @@ hash,key
 -761757122,csb_englishdave
 -760054079,mp_f_meth_01
 -756833660,u_f_y_princess
+-754777973,g_m_m_genthug_01
 -745300483,a_c_seagull
 -742733856,
 -730659924,s_m_m_doctor_01
@@ -864,6 +871,7 @@ hash,key
 -567724045,csb_trafficwarden
 -566941131,ig_tracydisanto
 -559488763,
+-555647618,a_m_m_genbiker_01
 -554721426,ig_ramp_hipster
 -544533759,cs_patricia
 -541762431,a_c_rabbit_01
@@ -885,6 +893,7 @@ hash,key
 -466345309,ig_talcc
 -459818001,s_m_y_dealer_01
 -449965460,ig_ramp_gang
+-449373294,s_f_m_warehouse_01
 -442429178,s_m_y_barman_01
 -429715051,ig_cletus
 -424905564,ig_ramp_mex
