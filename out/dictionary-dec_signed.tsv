@@ -2900,6 +2900,7 @@ hash	key(s)
 190736965	sp0_buzzard_rocket_shots
 190752731	mp1_arenawarspstat_int78
 190770132	v_ilev_lostdoor
+191074589	cs_lestercrest_2
 191204969	mp1_pim_job_hide_help_counter
 191299790	mp1_parachute_in_possession
 191309943	sf_int2_wallpaper00_08
@@ -17802,6 +17803,7 @@ hash	key(s)
 1173839314	mp0_weap_fm_addon_purch8
 1173877749	xm_prop_x17_hatch_lights
 1173889820	mp0_awd_tempawardint
+1173958009	mp_headtargets
 1173979795	impexppstat_int551
 1174056912	mp0_mpsv_obtained_time_32
 1174133050	mp1_help_sugoi
