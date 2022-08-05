@@ -1,29 +1,5 @@
-0x00BD1F24
-0x068C3112
 0x0B63911D
-0x1F0CA79D
-0x21B4080F
-0x277E179C
-0x371B9DA9
-0x389258FE
 0x45F92D79
-0x685FF8D4
-0x73D1907B
-0x784F9C95
-0x86C1FFE8
-0x89FEFCE0
-0x8D7EE5A4
-0x97D144B3
-0x9AD98D99
-0x9C1F1A19
-0xBF71EF93
-0xC19C2462
-0xC41743EB
-0xC80DF962
-0xD3BAC7E0
-0xDEA6E105
-0xF0837160
-0xFD08C54B
 a_c_boar
 a_c_cat_01
 a_c_chickenhawk
@@ -98,6 +74,7 @@ a_f_y_business_01
 a_f_y_business_02
 a_f_y_business_03
 a_f_y_business_04
+a_f_y_carclub_01
 a_f_y_clubcust_01
 a_f_y_clubcust_02
 a_f_y_clubcust_03
@@ -213,6 +190,7 @@ a_m_y_busicas_01
 a_m_y_business_01
 a_m_y_business_02
 a_m_y_business_03
+a_m_y_carclub_01
 a_m_y_clubcust_01
 a_m_y_clubcust_02
 a_m_y_clubcust_03
@@ -268,6 +246,7 @@ a_m_y_stwhi_01
 a_m_y_stwhi_02
 a_m_y_sunbathe_01
 a_m_y_surfer_01
+a_m_y_tattoocust_01
 a_m_y_vindouche_01
 a_m_y_vinewood_01
 a_m_y_vinewood_02
@@ -369,6 +348,7 @@ csb_anton
 csb_ary
 csb_ary_02
 csb_avery
+csb_avischwartzman_02
 csb_avon
 csb_ballas_leader
 csb_ballasog
@@ -390,6 +370,7 @@ csb_customer
 csb_denise_friend
 csb_dix
 csb_djblamadon
+csb_drugdealer
 csb_englishdave
 csb_englishdave_02
 csb_fos_rep
@@ -401,6 +382,7 @@ csb_groom
 csb_grove_str_dlr
 csb_gustavo
 csb_hao
+csb_hao_02
 csb_helmsmanpavel
 csb_huang
 csb_hugh
@@ -419,9 +401,11 @@ csb_johnny_guns
 csb_juanstrickler
 csb_maude
 csb_miguelmadrazo
+csb_mimi
 csb_mjo
 csb_mjo_02
 csb_money
+csb_moodyman_02
 csb_mp_agent14
 csb_mrs_r
 csb_musician_00
@@ -445,6 +429,7 @@ csb_req_officer
 csb_roccopelosi
 csb_screen_writer
 csb_security_a
+csb_sessanta
 csb_sol
 csb_soundeng_00
 csb_sss
@@ -486,6 +471,8 @@ g_m_m_goons_01
 g_m_m_korboss_01
 g_m_m_mexboss_01
 g_m_m_mexboss_02
+g_m_m_prisoners_01
+g_m_m_slasher_01
 g_m_y_armgoon_02
 g_m_y_azteca_01
 g_m_y_ballaeast_01
@@ -525,12 +512,14 @@ ig_ary
 ig_ary_02
 ig_ashley
 ig_avery
+ig_avischwartzman_02
 ig_avon
 ig_ballas_leader
 ig_ballasog
 ig_bankman
 ig_barry
 ig_benny
+ig_benny_02
 ig_bestmen
 ig_beverly
 ig_billionaire
@@ -569,6 +558,7 @@ ig_djtalignazio
 ig_dom
 ig_dreyfuss
 ig_drfriedlander
+ig_drugdealer
 ig_englishdave
 ig_englishdave_02
 ig_entourage_a
@@ -583,6 +573,7 @@ ig_golfer_b
 ig_groom
 ig_gustavo
 ig_hao
+ig_hao_02
 ig_helmsmanpavel
 ig_huang
 ig_hunter
@@ -625,6 +616,7 @@ ig_lestercrest_2
 ig_lestercrest_3
 ig_lifeinvad_01
 ig_lifeinvad_02
+ig_lildee
 ig_magenta
 ig_malc
 ig_manuel
@@ -635,10 +627,12 @@ ig_maude
 ig_michelle
 ig_miguelmadrazo
 ig_milton
+ig_mimi
 ig_mjo
 ig_mjo_02
 ig_molly
 ig_money
+ig_moodyman_02
 ig_mp_agent14
 ig_mrk
 ig_mrs_thornhill
@@ -674,6 +668,7 @@ ig_russiandrunk
 ig_sacha
 ig_screen_writer
 ig_security_a
+ig_sessanta
 ig_siemonyetarian
 ig_sol
 ig_solomon
@@ -754,8 +749,10 @@ p_franklin_02
 player_one
 player_two
 player_zero
+s_f_m_autoshop_01
 s_f_m_fembarber
 s_f_m_maid_01
+s_f_m_retailstaff_01
 s_f_m_shop_high
 s_f_m_studioassist_01
 s_f_m_sweatshop_01
@@ -788,6 +785,7 @@ s_m_m_armoured_01
 s_m_m_armoured_02
 s_m_m_autoshop_01
 s_m_m_autoshop_02
+s_m_m_autoshop_03
 s_m_m_bouncer_01
 s_m_m_bouncer_02
 s_m_m_ccrew_01
@@ -828,6 +826,7 @@ s_m_m_pilot_02
 s_m_m_postal_01
 s_m_m_postal_02
 s_m_m_prisguard_01
+s_m_m_raceorg_01
 s_m_m_scientist_01
 s_m_m_security_01
 s_m_m_snowcop_01
@@ -837,6 +836,7 @@ s_m_m_strvend_01
 s_m_m_studioassist_02
 s_m_m_studioprod_01
 s_m_m_studiosoueng_02
+s_m_m_tattoo_01
 s_m_m_trucker_01
 s_m_m_ups_01
 s_m_m_ups_02
