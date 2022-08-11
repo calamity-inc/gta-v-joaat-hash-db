@@ -1,7 +1,7 @@
 <?php
 // Search OpenIV for "statssetup", extract all results into the same folder as this script.
 
-$fh = fopen("raw/stats.txt", "a");
+$fh = fopen("raw/stats.txt", "w");
 function processCharStat($mp, $name)
 {
 	global $fh;
