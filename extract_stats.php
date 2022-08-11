@@ -1,5 +1,5 @@
 <?php
-// Search OpenIV for "statssetup", extract all results into the same folder as this script.
+// Before running: Search OpenIV for "statssetup" and extract all results into the same folder as this script.
 
 $fh = fopen("raw/stats.txt", "w");
 function processCharStat($mp, $name)
