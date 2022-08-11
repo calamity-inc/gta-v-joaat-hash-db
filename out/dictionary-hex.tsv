@@ -74,6 +74,7 @@ hash	key(s)
 0x005F6883	mp0_ulp_mission_current
 0x005FA570	mp1_mpsv_impound_time_171
 0x00615B5C	mp1_fixer_veh_help
+0x0061FEAB	dlc_mp_x17_m_outfit_scuba_21
 0x0062359E	mp1_gettruckinitials_8
 0x00624ADA	mp1_damage_scar_forceframe_0
 0x00633DDF	prop_scafold_06c
@@ -200,6 +201,7 @@ hash	key(s)
 0x00E51D17	heatmap_test
 0x00E5ADEC	agency_heist1
 0x00E5FECF	vw_prop_vw_barrel_01a
+0x00E7579F	ie_draw_5
 0x00E813DD	base_carmod
 0x00E827DE	brioso3
 0x00E83C17	hermes
@@ -254,6 +256,7 @@ hash	key(s)
 0x011DBAF5	mp0_mpsv_premium_paid_173
 0x011F3E7F	mp0_clths_available_special_5
 0x011F5FED	mp1_dominator4_mg50_deaths
+0x012432FD	draw_11
 0x01243F5A	xs_arenalights_track_storm
 0x01244022	vw_prop_flowers_potted_02a
 0x0124DF10	v_ilev_bl_doorpool
@@ -286,6 +289,7 @@ hash	key(s)
 0x01456112	vw_prop_vw_casino_door_02a
 0x01457D66	ex_prop_crate_biohazard_bc
 0x01458F6B	ex_prop_exec_cigar_01
+0x01465AE0	arena_draw_9
 0x01466CE6	component_snspistol_mk2_clip_01
 0x0147EBE4	prop_bush_lrg_03b
 0x01485152	mp1_mpsv_lp0_30
@@ -427,6 +431,7 @@ hash	key(s)
 0x01EF9257	v_res_tt_pornmag04
 0x01F242A3	w_me_bat
 0x01F2AC7F	mp1_clths_used_legs_6
+0x01F61AD6	fitted_hood
 0x01F74028	mp0_tupstat_int108
 0x01F90A8B	mp1_bg_script_int_21
 0x01FA1861	mp0_appartment_var_7
@@ -455,6 +460,7 @@ hash	key(s)
 0x020CEEE6	mp1_dlc_apparel_used_121
 0x020E30EA	mp0_halftrack_quad_enemy_kills
 0x020E9795	sp1_weap_addon_purch_6
+0x020EAF2E	h3_cloth
 0x020F10EA	mp1_dlc12022pstat_int39
 0x0212717F	mp1_damage_scar_rotation_18
 0x0214A2DF	sp0_entered_cover_and_shot
@@ -859,6 +865,7 @@ hash	key(s)
 0x03D30282	mp0_valkyrie_turr_enemy_kills
 0x03D4F2A2	prop_oil_wellhead_03
 0x03D6A96C	mp1_awd_win_gold_medal_heists
+0x03D6B041	dlc_mp_luxe_f_jbib_3_0
 0x03D74636	mp0_toreador_miss_kills
 0x03D84598	mp0_businessbatpstat_int94
 0x03DA33B2	mp0_casinopstat_int7
@@ -872,6 +879,7 @@ hash	key(s)
 0x03EB3FA6	mp0_pstat_bool1
 0x03EC0795	mp1_mpsv_premium_paid_261
 0x03EFF9F0	mp0_mpsv_obtained_time_87
+0x03F07F4C	hair_shrink
 0x03F55737	mp0_mpsv_price_paid_31
 0x03F6A90F	ba_prop_battle_crate_m_tobacco
 0x03F87738	app_engine
@@ -1289,6 +1297,7 @@ hash	key(s)
 0x05C81E6F	mp1_dlc_apparel_acquired_47
 0x05C8603F	ch_prop_ch_vaultdoor_frame01
 0x05CAC91E	prop_hx_special_vehicle_p
+0x05CB9F45	glasses
 0x05CBA6A9	mp1_arcade_owned
 0x05CCA634	v_ilev_gc_door04
 0x05CCACF6	prop_roofvent_08a
@@ -1377,6 +1386,7 @@ hash	key(s)
 0x0628D54E	apa_p_mp_door_mpa2_frnt
 0x062BAD80	mp1_rhino_rocket_shots
 0x062BDF65	mp0_contact_miss_hash_28
+0x062BE456	luxe_sweat
 0x062C4685	mp1_impexppstat_int59
 0x062E2D64	mp0_admin_clothes_gv_bs_1
 0x062EB31D	ms_fbi4_helishot
@@ -1593,6 +1603,7 @@ hash	key(s)
 0x0710FFBC	mpply_total_contact_4
 0x07121AC4	prop_xmas_ext
 0x0712A013	mp0_tacrifle_headshots
+0x07132EAF	h3_draw_8
 0x07142767	mp1_impexppstat_int458
 0x07144763	prop_barry_table_detail
 0x07152BD6	mp1_mpsv_model_3
@@ -1739,6 +1750,7 @@ hash	key(s)
 0x07B3657A	mp1_car_club_membership
 0x07B4DF37	mp1_mpsv_lp0_22
 0x07B54BF2	mp1_platinum_intchar_3
+0x07B5C65C	dlc_mp_beach_f_accs0_4
 0x07B64D37	sf_prop_wheel_balancer_01a
 0x07B68AF4	mp1_lrpstat_int33
 0x07B6ACC1	mp0_impexppstat_int355
@@ -1835,6 +1847,7 @@ hash	key(s)
 0x08250B39	prop_generator_03a
 0x0827E835	xs_prop_arena_pit_double_01b_sf
 0x0828A0AE	p_michael_scuba_mask_s
+0x082AA07D	apart_draw_19
 0x082B695A	mp1_prop_businesshub_value
 0x082C8451	mp0_ie_wh_owned_vehicle_24
 0x082CB8DF	mp0_warehouse_crates62
@@ -1870,6 +1883,7 @@ hash	key(s)
 0x08521FB4	fib_cl2_cbl_root
 0x0852AB3D	mp1_su20pstat_int212
 0x0853114F	prop_ic_bomb_p
+0x08532B41	gun_draw_13
 0x08534479	tr_int4_methkit_lightproxy
 0x08536CAA	mp0_mpsv_premium_paid_210
 0x08559552	mp1_warhouseslot3
@@ -1884,6 +1898,7 @@ hash	key(s)
 0x086117CE	ch_prop_casino_drinks_trolley01
 0x0861972F	mp1_discount_hsw_mod11
 0x08634EA8	mp0_fixerpstat_bool0
+0x086366E0	heist_draw_0
 0x0863CA08	prop_sub_trans_05b
 0x0863DBC2	xs_prop_arena_jump_m_01a_wl
 0x08644AE1	prop_runlight_g
@@ -2041,6 +2056,7 @@ hash	key(s)
 0x09291218	mp1_dg_defender_initials_4
 0x0929430C	vfx_it1_13
 0x092A042B	prop_boxpile_06b
+0x092AAF8A	heist_draw_12
 0x092B85B9	mp0_bikepstat_int47
 0x092D9CC1	a_f_y_indian_01
 0x092E3365	mp1_arenawarspstat_int140
@@ -2085,6 +2101,7 @@ hash	key(s)
 0x096FB932	vw_prop_cas_card_spd_king
 0x096FB97C	mp1_arenawarspstat_int191
 0x097099E6	stt_prop_stunt_track_dwslope45
+0x0970B44F	high_roller_tie
 0x09717A2E	mp1_impexppstat_int532
 0x097206BC	v_res_r_figdancer
 0x097230E6	ch_prop_vault_painting_01d
@@ -2624,6 +2641,7 @@ hash	key(s)
 0x0BD4A60D	mp1_jubilee_mg_hits
 0x0BD4BFA0	mp1_dlc12022pstat_int206
 0x0BD61764	mp0_crbnrifle_headshots
+0x0BD70779	biker_draw_26
 0x0BD75200	w_pi_wep2_gun_mag1
 0x0BD8BDA0	xm_prop_x17_osphatch_40m
 0x0BD90497	mp0_mpsv_impound_time_312
@@ -2663,6 +2681,7 @@ hash	key(s)
 0x0BFDE384	mp1_hvypistol_headshots
 0x0BFF3EA4	mp1_mpsv_price_paid_254
 0x0C006A65	mp0_minismg_deaths
+0x0C018AC5	biker_draw_1
 0x0C0522A1	prop_cs_brain_chunk
 0x0C077372	mp1_char_fm_clothes_11_owned
 0x0C0B5A28	v_serv_bs_foam1
@@ -2749,6 +2768,7 @@ hash	key(s)
 0x0C68B94C	mp0_issi6_mg50_kills
 0x0C69931F	script_task_aim_gun_scripted
 0x0C69BB4C	mp0_hvyrifle_in_possession
+0x0C6A63CF	top_hat
 0x0C6B30AC	mp0_mpsv_model_65
 0x0C6DAC46	am_hold_up
 0x0C6E903B	mp1_multi_property_value_8
@@ -3172,6 +3192,7 @@ hash	key(s)
 0x0E53387E	ar_prop_ar_tube_4x_l
 0x0E539013	mp1_damage_scar_uvpos_8
 0x0E54B8A6	mp0_bunker_crate_cooldown
+0x0E556105	over_jacket
 0x0E55AEF4	gr_prop_gr_drillcage_01a
 0x0E55CA8B	mp1_repeat_offender_1_time
 0x0E5A4609	tr_int2_ducting_05
@@ -3222,6 +3243,7 @@ hash	key(s)
 0x0E9E8C70	w_ex_vehiclemissile_2
 0x0E9F7718	mp0_arn_veh_cerberus3
 0x0EA06756	mp1_damage_scar_forceframe_1
+0x0EA0F312	ie_draw_4
 0x0EA11991	mp0_fixer_hq_veh_workshop
 0x0EA45DFB	mp0_mpsv_model_137
 0x0EA68AF9	mp1_clths_available_jbib_4
@@ -3258,6 +3280,7 @@ hash	key(s)
 0x0ECA100B	mp0_businessbatpstat_int142
 0x0ECA3934	mp0_impexppstat_int172
 0x0ECB18BD	mp0_dlc12022pstat_int162
+0x0ECB259F	luxe_bomb
 0x0ECB925C	mp1_tupstat_int57
 0x0ECD97A7	mp1_mpsv_flags_134
 0x0ECE531E	mp0_tunerpstat_int73
@@ -3473,6 +3496,7 @@ hash	key(s)
 0x0FB4AD8F	v_ret_hd_unit1_
 0x0FB4CE32	mp0_using_hair_sa_stat
 0x0FB6624C	mp1_casinoapt_mod_k
+0x0FB6927F	biker_draw_7
 0x0FB6EB54	mp1_imperator_kin_enemy_kills
 0x0FB88620	mp0_mpsv_premium_paid_283
 0x0FB9A4F1	prop_ventsystem_02
@@ -3500,6 +3524,7 @@ hash	key(s)
 0x0FC7E74C	mp1_char_is_ng_version_sa
 0x0FC7F8A7	mp1_impexppstat_int173
 0x0FC9C6BE	p_cash_envelope_01_s
+0x0FCAF5B3	heist_draw_9
 0x0FCBEB9E	mp1_bikepstat_int36
 0x0FCCA9D5	mp0_impexppstat_int529
 0x0FCFCE48	v_ret_fh_noodle
@@ -3735,6 +3760,7 @@ hash	key(s)
 0x10D47B5D	mp0_limo2_turr_deaths
 0x10D5F8A3	bkr_prop_meth_tray_01a
 0x10D6EAD7	sp2_hvyshgn_headshots
+0x10D9423B	h3_draw_7
 0x10D970DD	mp1_mpsv_obtained_time_42
 0x10D98651	mp0_casinopstat_int63
 0x10D9F7DB	mp0_dlc12022pstat_int19
@@ -3944,6 +3970,7 @@ hash	key(s)
 0x11BC6D68	xs_prop_trophy_pegasus_01a
 0x11BE72D2	prop_sealife_01
 0x11C0AA06	sm_prop_portaglass_02
+0x11C1127D	biker_draw_13
 0x11C4A0CD	mp0_arenawarspstat_int80
 0x11C50B32	mp1_mpsv_vehicle_bs_104
 0x11C626C6	ba_rig_dj_04_lights_04_b_scr
@@ -4108,6 +4135,7 @@ hash	key(s)
 0x1279EF62	mp0_monster5_kin_heldtime
 0x127A5D31	mpply_unique_lts_v
 0x127A8F5E	mp1_total_damage_quadbikes
+0x127B13D9	biker_draw_17
 0x127BC443	mp1_spcarb_mk2_in_possession
 0x127BF163	v_44_master_movebot
 0x127DFD55	mp1_cl_play_foot_race
@@ -4122,6 +4150,7 @@ hash	key(s)
 0x12868B62	ba_prop_battle_trophy_no1
 0x1286B147	prop_fragtest_cnst_04
 0x1287A641	sp1_total_legitimate_kills
+0x1288D5C6	draw_12
 0x128BABA2	mp0_damage_scar_rotation_1
 0x128D95E1	prop_fncply_01gate
 0x128DAB13	mp0_cerberus_flame_enemy_kills
@@ -4247,6 +4276,7 @@ hash	key(s)
 0x13192914	sm_prop_smug_crate_m_hazard
 0x13193B7D	mp1_dlc_apparel_acquired_66
 0x13196BFD	v_ilev_ph_door002
+0x1319D76E	silk_robe
 0x131B1888	mp0_tattoo_fm_current_46
 0x131B4B89	mp1_char_kit_9_fm_viewed
 0x131BD1AA	ex_prop_ex_laptop_01a
@@ -4326,6 +4356,7 @@ hash	key(s)
 0x1373CCE5	sf_mp_h_acc_vase_flowers_04
 0x13745374	mp0_property_house
 0x1375EA96	mp1_mpsv_model_340
+0x137604C8	dlc_mp_ie_m_decl_2_0
 0x1377B45A	mp0_gen9_intro_bs
 0x1377BD39	mp0_prop_office_gar2_var
 0x137D35F4	prop_streetlight_05_b
@@ -4657,6 +4688,7 @@ hash	key(s)
 0x14D7B4E0	s_m_m_dockwork_01
 0x14D8D512	cs_x_rubmedc
 0x14DE34B6	v_34_boxes02
+0x14E0E0C1	x17_draw_3
 0x14E18CEA	mp0_dg_monkey_initials_9
 0x14E39CAE	v_19_strpprvrmcrt1
 0x14E3D6EB	prop_inflategate_01
@@ -4673,6 +4705,7 @@ hash	key(s)
 0x14F0E148	mp0_savestra_mg_heldtime
 0x14F0F943	mp1_warehouse_crates30
 0x14F16D5F	mp1_mpsv_impound_time_143
+0x14F3A275	scuba_gear
 0x14F6BD6D	prop_rock_3_f
 0x14F74358	mp0_pistol_shots
 0x14F7BD85	mp0_su20pstat_int173
@@ -4806,6 +4839,7 @@ hash	key(s)
 0x1597C21D	v_28_an2_dirt
 0x1599126C	mp0_mpsv_lp0_346
 0x159A3BAC	mp1_mpsv_premium_paid_102
+0x159B376C	tat_decl_no_save
 0x159C8038	mp0_businessbatpstat_int331
 0x159D4F86	mp1_bruiser_mg50_enemy_kills
 0x159E12C2	sr_mp_spec_races_ron_sign
@@ -4992,6 +5026,7 @@ hash	key(s)
 0x16826EC7	hei_prop_heist_wooden_box
 0x16833ADB	base_corridor_seats
 0x16853903	mp0_impaler3_las_kills
+0x1685DA24	dlc_mp_beach_m_feet0_10
 0x16865DC7	h4_prop_h4_coke_tube_01
 0x168775F6	a_m_y_eastsa_02
 0x16887740	award_white_hawk_and_little_hoodie
@@ -5173,6 +5208,7 @@ hash	key(s)
 0x1757F566	component_carbinerifle_mk2_clip_tracer
 0x17582850	prop_ic_15
 0x17588D03	sp2_hunter_bullet_headshots
+0x17595F61	haz_hood
 0x1759C0D7	mp0_su20pstat_int203
 0x175B05E6	mp0_admin_clothes_rm_bs_20
 0x175B8DCD	mp0_mpsv_lp0_355
@@ -5247,6 +5283,7 @@ hash	key(s)
 0x179FF756	mp1_dlc12022pstat_int149
 0x17A0B24D	mp1_mpsv_model_131
 0x17A0C6D0	prop_box_wood02a
+0x17A179AA	heist_gear
 0x17A534A4	mp1_mpsv_premium_paid_305
 0x17A5C114	mp1_kills_cop
 0x17A6B335	tr_int2_cable_trays
@@ -5265,6 +5302,7 @@ hash	key(s)
 0x17B5B96A	mp0_mpsv_impound_time_163
 0x17B77A3E	mp1_mpsv_model_261
 0x17B89DAB	sp2_dist_running
+0x17B94D0E	arena_draw_17
 0x17B94E3E	ch_p_m_bag_var05_arm_s
 0x17B9AD8A	stt_prop_tyre_wall_0l05
 0x17BC482D	mp1_tattoo_fm_unlocks_32
@@ -5762,6 +5800,7 @@ hash	key(s)
 0x19D9BA44	mp1_admin_clothes_gv_bs_16
 0x19DB3C6C	mp0_bikepstat_int87
 0x19DD9ED1	nightshark
+0x19DFDD3A	battle_draw_2
 0x19DFE0BB	ch_prop_ch_camera_01
 0x19E64EEE	v_74_v_14_it3_cor1_mnds
 0x19E6F190	mp1_autoshgn_deaths
@@ -5864,6 +5903,7 @@ hash	key(s)
 0x1A4DBC89	sp0_buzzard_bullet_headshots
 0x1A4F9094	cd_vip_mc_work_29
 0x1A518828	mp1_cmbtmgincenammocurrent
+0x1A540AC5	heist_draw_8
 0x1A56F513	mp1_vpistol_headshots
 0x1A5843AE	mp1_mpsv_flags_348
 0x1A59758E	mp0_gb_htb_prev_loc
@@ -6248,6 +6288,7 @@ hash	key(s)
 0x1C095830	v_73_cur_over2
 0x1C098996	mp0_dlc_apparel_used_204
 0x1C09CF5E	baller5
+0x1C0E1C72	open_jacket
 0x1C0EBB26	sp0_appistol_db_heldtime
 0x1C0ECF89	mp1_dlcsmugcharpstat_int209
 0x1C0F010C	num_destroyed_signs_0
@@ -6399,6 +6440,7 @@ hash	key(s)
 0x1CB6C36C	mp0_mpsv_impound_time_165
 0x1CB6DDDC	mp0_shopfm_clothes_m_03_h
 0x1CB6E6B1	prop_hx_special_buggy_pk_tr
+0x1CB89DAE	smug_draw_1
 0x1CB8EDE3	mp1_ngpstat_int21
 0x1CB904DB	sm_hanger_bedroom_tradbed
 0x1CBB8812	mp1_businessbatpstat_int98
@@ -6509,6 +6551,7 @@ hash	key(s)
 0x1D36FFE4	sp1_money_spent_on_tattoos
 0x1D372779	mp0_scarab2_las_hits
 0x1D3745D9	mp1_lrpstat_int100
+0x1D38296B	biker_draw_11
 0x1D3B8E52	sf_int3_lightswitch_01b010
 0x1D3CB04D	mp0_clths_used_berd_6
 0x1D3D1BA0	mp0_damage_scar_zone_2
@@ -6541,6 +6584,7 @@ hash	key(s)
 0x1D5B492E	v_res_tt_pornmag02
 0x1D5C1B6D	v_serv_aboxes_02
 0x1D5C52F2	mp0_akula_barr_shots
+0x1D5CCACD	apart_draw_14
 0x1D5D15DD	mp0_mpsv_premium_paid_226
 0x1D5D586A	mp1_contact_miss_hash_35
 0x1D5DEBBA	mp1_hvys_mk2_fm_ammo_current
@@ -6590,6 +6634,7 @@ hash	key(s)
 0x1D876B19	mp1_gangopspstat_int22
 0x1D87F925	prop_ing_crowbar
 0x1D8A4162	prop_hotel_clock_01
+0x1D8A6E6C	biker_skull
 0x1D8AD6C5	mp1_arenawarspstat_int226
 0x1D8B5056	hei_prop_carrier_crate_01b_s
 0x1D8C18CD	prop_cs_frank_photo
@@ -6628,6 +6673,7 @@ hash	key(s)
 0x1DBB5FE8	mp0_mpsv_lp0_245
 0x1DBC352F	gr_prop_inttruck_light_gu_w_br
 0x1DBE4E92	mp0_sparrow2_mini_hits
+0x1DBEEBA3	block_earrings
 0x1DBF1350	mp1_crew_local_time_0
 0x1DC0BA53	fusilade
 0x1DC247FA	prop_dock_ropetyre1
@@ -6694,6 +6740,7 @@ hash	key(s)
 0x1E17A90C	sf_mp_h_acc_dec_sculpt_01
 0x1E17BE6B	mp0_su20pstat_int0
 0x1E1B0A75	sp0_stungun_deaths
+0x1E1D0F31	tux_shirt
 0x1E20AFE0	mp0_mpsv_premium_paid_338
 0x1E20EF85	mp1_bikepstat_int108
 0x1E218CC1	mp1_mpsv_obtained_time_34
@@ -6969,6 +7016,7 @@ hash	key(s)
 0x1F545F65	vehicle_weapon_barrage_rear_minigun
 0x1F550C17	prop_chair_01a
 0x1F55BD9C	prop_skid_box_05
+0x1F56BE8B	alt_chain
 0x1F570A54	prop_ld_pipe_single_01
 0x1F584B2E	ind_prop_dlc_roller_car_02
 0x1F588A1A	hei_prop_hei_drug_pack_01a
@@ -7024,6 +7072,7 @@ hash	key(s)
 0x1FAC5F4C	mp1_iap_gold_tank
 0x1FAD22FB	prop_flattruck_01a
 0x1FAD924E	mp0_awd_fm_tdm_wins
+0x1FB12BF9	epsilon_chain
 0x1FB24910	mp0_char_fm_weap_addon_11_equip
 0x1FB32A9C	ms_rh1p_convoy_stopped
 0x1FB4622C	h4_prop_battle_lights_ceiling_l_c
@@ -7097,6 +7146,7 @@ hash	key(s)
 0x2008E97A	mp1_dlc_apparel_acquired_244
 0x2009F3F7	sp1_crbnrifle_ammo_bought
 0x200A4C10	mp0_impexppstat_int503
+0x200BEAA8	shrink_hair
 0x200C883B	vw_prop_toy_sculpture_01a
 0x20102B30	mp1_apapstat_int79
 0x201145C2	ba_prop_battle_club_chair_01
@@ -7238,6 +7288,7 @@ hash	key(s)
 0x20A56BAF	h4_mp_h_yacht_side_table_02
 0x20A6F85D	sum_mpapyacht_glass16
 0x20A9E57F	mp1_mpsv_flags_21
+0x20AA5E89	heist_draw_17
 0x20AA7882	h4_rig_dj_01_lights_04_c
 0x20AA7FC5	mp1_mpsv_price_paid_71
 0x20AB3F04	mp1_money_earn_daily_objective
@@ -7376,6 +7427,7 @@ hash	key(s)
 0x213E73D2	mp0_warehouse_crates41
 0x21410E5C	w_at_armk2_camo5
 0x2142346F	mp0_hydra_rocket_kills
+0x2143A8CE	high_roller_shirt
 0x21486EEE	prop_snow_t_ml_01
 0x214913F4	mp0_mpsv_flags_89
 0x21493C3C	vw_prop_casino_art_miniature_05a
@@ -7430,6 +7482,7 @@ hash	key(s)
 0x217FEF28	vehicle_weapon_scarab_50cal
 0x2180EB52	sum_mp_h_acc_box_trinket_02
 0x21837393	mp0_lts_start
+0x21848427	full_face
 0x2185065A	prop_plant_fern_01b
 0x21856513	paparazzo1
 0x21856D92	2017 christmas day gift 2
@@ -7575,6 +7628,7 @@ hash	key(s)
 0x2218FD68	component_smg_mk2_camo_09
 0x221A3F87	sp2_longest_playing_time
 0x221B4A50	mp0_su20pstat_int132
+0x221E6171	heist_draw_14
 0x221EE0FD	prop_shelves_01
 0x221F2217	v_28_ha1_cover001
 0x221F520C	mp0_su20pstat_int101
@@ -7584,6 +7638,7 @@ hash	key(s)
 0x222846CB	prop_cs_sheers
 0x222ADEA5	mp1_arenawarspstat_int216
 0x222D391A	prop_telegraph_05b
+0x222DB697	dlc_mp_beach_f_lowr111
 0x2231808B	prop_scafold_frame1c
 0x22329440	lr_prop_clubstool_01
 0x22359F4F	mp0_dlc_apparel_acquired_208
@@ -7881,6 +7936,7 @@ hash	key(s)
 0x238A97EC	mp0_char_kit_fm_purchase28
 0x238B1D13	mp0_average_speed
 0x238B2F88	mp0_pounder2_mini_kills
+0x238B39D9	chain
 0x238D4915	mp0_dlc12022pstat_int147
 0x238DB1AB	mp0_su20pstat_int26
 0x238FAD7D	mp0_apapstat_int92
@@ -7967,6 +8023,7 @@ hash	key(s)
 0x23E63F41	mp0_stngnmp_headshots
 0x23E64FB8	w_smug_bomb_03
 0x23E9A09E	u_f_y_poppymich
+0x23EBB6D2	biker_draw_14
 0x23EC44C0	xm_prop_x17_add_door_01
 0x23EF392E	mp0_su20pstat_int44
 0x23F0161A	mp1_autoshgn_heldtime
@@ -7978,6 +8035,7 @@ hash	key(s)
 0x23FEBCC3	v_club_stagechair
 0x23FF8C7E	mpply_total_earned
 0x240056A7	sf_int2_light_lp_workshop
+0x2400BD0A	x17_draw_12
 0x2402C36A	mp1_awd_bigbro
 0x2403555A	mp1_mpsv_model_124
 0x24045732	sum_mpapyacht_pants1
@@ -7997,6 +8055,7 @@ hash	key(s)
 0x2418BD30	prop_shopping_bags01
 0x2418C430	a_m_y_stwhi_01
 0x241B4A4A	mp1_use_second_tut_spawn_pos
+0x241C2C4D	hood_hat
 0x241DBE3F	mp0_rogue_cann_enemy_kills
 0x2420D929	mp1_mkrifle_db_heldtime
 0x2424737F	sp2_grenade_kills
@@ -8006,6 +8065,7 @@ hash	key(s)
 0x2426AE17	award_rockstar_logo_blacked_out_tee
 0x2429B3C6	mp1_cmbshgn_heldtime
 0x2429B45C	mp0_fixerpstat_int53
+0x2429B736	biker_draw_18
 0x242C34A7	mp_f_cardesign_01
 0x242D0E51	mp1_mpsv_vehicle_bs_300
 0x242D32CC	mp0_casinopstat_int37
@@ -8159,6 +8219,7 @@ hash	key(s)
 0x24E6B0FB	sr_prop_sr_track_block_01
 0x24E7E8B1	mp0_mpsv_premium_paid_16
 0x24EA00A0	mp0_lrpstat_int74
+0x24EB006B	dlc_mp_ind_f_jbib_1_1
 0x24ECE0AF	mp0_mpsv_model_77
 0x24ED0FC8	prop_mask_scuba04
 0x24EF4D61	v_31a_cablemesh5777750_thvy
@@ -8296,6 +8357,7 @@ hash	key(s)
 0x257E5600	xs_combined_dyst_03_build_c
 0x257EA7C6	mp1_mpsv_premium_paid_258
 0x257EFC60	mp0_annihlator2_bar_kills
+0x2582C55E	ski_mask
 0x258532E8	mp1_sawnoff_in_possession
 0x25853F1F	hei_prop_hei_timetable
 0x25875D39	mp0_average_wanted_time
@@ -8521,6 +8583,7 @@ hash	key(s)
 0x269DB74F	mp0_clths_available_berd_4
 0x269F04AC	prop_mug_06
 0x269F18C6	ms_ass4_mirror_percentage
+0x269F54C6	alt_special
 0x269FC210	sm_hanger_office_tradlamp1
 0x26A01094	mp1_machete_heldtime
 0x26A086C4	mp1_admin_clothes_rm_bs_39
@@ -8531,8 +8594,10 @@ hash	key(s)
 0x26A3FE61	mp1_tuner_contract4_posix
 0x26A562B7	ig_ortega
 0x26A684AB	mp0_mpsv_model_143
+0x26A70926	tux_pants
 0x26A7D0E3	v_61_hlw_mesh_cdoor
 0x26A90359	sp0_asltsmg_deaths
+0x26A97EB3	h4_cloth
 0x26AB2928	sp1_number_stolen_bicycles
 0x26AE3735	mp1_dlc_apparel_acquired_8
 0x26B1F30F	mp1_arcade_help_bitset
@@ -8561,6 +8626,7 @@ hash	key(s)
 0x26CE7098	ex_mp_h_lit_lamptable_02
 0x26CEACE1	mp0_rebuildscplatelist
 0x26CF04DB	prop_cs_bin_02
+0x26CFD936	tux_vest
 0x26D13BC8	mp1_mpsv_lp0_5
 0x26D18804	mp0_mpsv_vehicle_bs_311
 0x26D1B899	mp1_dlcsmugcharpstat_int111
@@ -8595,6 +8661,7 @@ hash	key(s)
 0x26FA4116	sum_mpapyacht_base_01
 0x26FA778B	mp1_fixerpstat_int151
 0x26FC1A9C	vw_prop_casino_art_vase_02a
+0x26FC3F7A	bead_necklace
 0x26FC7C06	mp0_dominator5_mg50_hits
 0x26FF0664	ch_prop_ch_arcade_fan_axis
 0x26FFD0A3	mp1_mpsv_premium_paid_42
@@ -8617,9 +8684,11 @@ hash	key(s)
 0x2709D29F	mp0_ch_getaway_mod_up2
 0x2709FCEA	prop_pliers_01
 0x270B7FB5	mp1_fixerpstat_int163
+0x270BBE67	hipster_dress
 0x270EA78C	pvc_daily_additions
 0x2710F871	w_at_ar_flsh_pdluxe
 0x2712A51D	mp0_dg_defender_initials_7
+0x27143E03	biker_draw_21
 0x2714AA93	zeno
 0x2715122D	sf_int2_wallpaper02_03
 0x2715C896	mp0_mpsv_premium_paid_350
@@ -9002,6 +9071,7 @@ hash	key(s)
 0x28D145C7	mp0_dlc_apparel_acquired_51
 0x28D216FF	launcher_basejumppack
 0x28D3BC73	mp0_bikepstat_int167
+0x28D427C5	heist_draw_5
 0x28D52704	sp1_bicycle_exploded
 0x28D53FCE	v_31_walltext020
 0x28D625D6	sr_prop_stunt_tube_xs_04a
@@ -9064,6 +9134,7 @@ hash	key(s)
 0x291C1DEB	mc_delivery_timer_12
 0x291C9EBB	imp_prop_impexp_car_door_02a
 0x291CEA47	w_sg_pumpshotgun
+0x29217F5B	dlc_mp_beach_m_feet0_11
 0x2922A227	v_19_payboothtrim
 0x2925302D	mp1_mpsv_impound_time_12
 0x292541D9	ch_prop_ch_moneybag_01a
@@ -9130,6 +9201,7 @@ hash	key(s)
 0x29682514	mp0_marksniparmorpierccurrent
 0x296A6654	prop_rock_3_d
 0x296A8242	vfx_it1_03
+0x296E7E5B	air_draw_2
 0x296FCF37	v_corp_cashpack
 0x2970A494	mp_f_stripperlite
 0x29751FC6	v_28_waste_over
@@ -9154,6 +9226,7 @@ hash	key(s)
 0x2987EB29	tr_int1_mod_int_grind_col_proxy
 0x2987F4B7	mp0_casinohstpstat_int103
 0x29882423	component_combatmg_mk2_clip_armorpiercing
+0x2989693C	vwd_cloth
 0x298D7490	turn_on_halloween_vehicles
 0x298EA54D	mp0_discount_hsw_mod16
 0x299020E4	w_pi_pistolmk2_camo4
@@ -9178,6 +9251,7 @@ hash	key(s)
 0x29A900BF	hei_p_attache_case_shut
 0x29ABEEC4	_profile_setting_309
 0x29AC8AAF	ex_mp_h_din_chair_08
+0x29AD7649	luxe_draw_11
 0x29ADDDF9	mp1_cl_mod_car_using_app
 0x29AF224A	v_74_it1_void_deta
 0x29AFF11C	mp1_headblend_tex_blend
@@ -9200,6 +9274,7 @@ hash	key(s)
 0x29C0B2BF	mp0_casinopstat_int16
 0x29C189D0	xs_propint2_building_03
 0x29C26335	sum_prop_ac_rock_01d
+0x29C334E5	apart_draw_9
 0x29C367AB	prop_h4_room_6x6_01a
 0x29C4D8DB	mp1_mpsv_premium_paid_303
 0x29C53DD9	mp1_casinopstat_int96
@@ -9368,6 +9443,7 @@ hash	key(s)
 0x2A842C9B	mp0_awd_dont_mess_dre
 0x2A8513DE	mp1_mpsv_impound_time_101
 0x2A8544EF	mp1_awd_kill_carrier_capture
+0x2A857E85	battle_draw_1
 0x2A878046	mp0_awd_hot_lap
 0x2A88C695	sum_prop_ac_grandstand_01a
 0x2A89B8A7	script_task_follow_nav_mesh_to_coord
@@ -9640,6 +9716,7 @@ hash	key(s)
 0x2BAD8C26	apa_mp_h_acc_tray_01
 0x2BAD9310	mp0_dlcsmugcharpstat_int125
 0x2BAE2568	_profile_setting_214
+0x2BAEF0C4	dlc_mp_val_f_accs1_0
 0x2BAF34D6	prop_coral_flat_01
 0x2BB00A8B	mp1_axefuryinitials_0
 0x2BB25046	prop_roofvent_10b
@@ -9780,6 +9857,7 @@ hash	key(s)
 0x2C3F7471	mp0_ammo_used_snipers
 0x2C42D982	nigel1c
 0x2C43C1A2	v_8_farmshad08
+0x2C460944	draw_13
 0x2C47FAA0	mp0_char_weap_addon_7_viewed
 0x2C486C4F	prop_barriercrash_01
 0x2C49641C	mp1_tunerpstat_bool8
@@ -9813,6 +9891,7 @@ hash	key(s)
 0x2C711C8B	mp1_tupstat_int118
 0x2C7299FD	mp0_arenawarspstat_int333
 0x2C741198	mp0_impexppstat_int89
+0x2C7468FC	apart_draw_11
 0x2C75F0DD	buzzard2
 0x2C7A8C90	mp0_businessbatpstat_int42
 0x2C7B71C5	ex_mp_h_din_table_05
@@ -10104,6 +10183,7 @@ hash	key(s)
 0x2DCB2D19	mp0_dlc_apparel_used_203
 0x2DCB8FCB	mp0_char_fm_package_7_collect
 0x2DCB9D71	prop_sign_road_03t
+0x2DCBD0A0	x17_draw_13
 0x2DCBDFDD	tr_prop_tr_roller_door_09a
 0x2DCE183E	mp1_char_kit_fm_purchase37
 0x2DCE592E	mp1_tunerpstat_int44
@@ -10174,6 +10254,7 @@ hash	key(s)
 0x2E0A4F4A	ig_imani
 0x2E0A86BC	sp0_prxmine_deaths
 0x2E0C541E	xs_prop_arena_crate_01a
+0x2E0C88A6	ie_draw_11
 0x2E0CAB7C	mp1_mpsv_model_221
 0x2E0CFFE0	mp0_revolter_mg_deaths
 0x2E0D51E5	vw_prop_casino_slot_spin
@@ -10683,6 +10764,7 @@ hash	key(s)
 0x306F4CB9	mp1_deathbike3_mini_heldtime
 0x30704B2F	mp0_dlc12022pstat_int205
 0x3072768B	mp1_mpsv_lp0_297
+0x3072BD61	skinny
 0x3074428D	mp0_admin_progress_posix
 0x30760FEC	mp0_tupstat_int73
 0x30766EB4	mp0_heist_end
@@ -10785,6 +10867,7 @@ hash	key(s)
 0x30E91B2B	mp1_mpsv_premium_paid_358
 0x30E9CB46	mp0_entered_cover_and_shot
 0x30EEF51B	hei_prop_hei_warehousetrolly
+0x30F1B77D	draw_0
 0x30F2A56F	vw_prop_casino_calc
 0x30F34068	mp1_mpsv_lp0_78
 0x30F5F32F	mp1_arenawarspstat_int291
@@ -10938,6 +11021,7 @@ hash	key(s)
 0x31A445C2	gr_prop_inttruck_light_li_g_bl
 0x31A46239	prop_skid_box_03
 0x31A59860	mp0_dlcsmugcharpstat_int189
+0x31A6DAF5	crew_lock
 0x31A72CF2	mp0_dlc_apparel_acquired_212
 0x31A760D3	mp0_cr_narc_bikers
 0x31A77983	mp1_dist_driving_car
@@ -11026,6 +11110,7 @@ hash	key(s)
 0x31F86270	ba_prop_club_dressing_board_04
 0x31F8E6A6	vom_ow0
 0x31F9D194	mp1_awd_spinner
+0x31FC232E	force_prop
 0x31FC6D3C	vw_prop_vw_player_01a
 0x31FD5263	prop_indus_meet_door_l
 0x31FF22CC	ch_prop_track_bend_bar_lc
@@ -11487,6 +11572,7 @@ hash	key(s)
 0x342952E8	mp1_h3_cr_subterfuge_3b
 0x342A338B	mp1_mpsv_model_268
 0x342CBDB4	stt_prop_tyre_wall_0r2
+0x3430EEAF	gun_cloth
 0x34315488	proc_sml_reeds_01b
 0x3435828B	mp0_ruiner2_bullet_headshots
 0x3436E6BC	mp1_arenawarspstat_int332
@@ -11880,6 +11966,7 @@ hash	key(s)
 0x35ED2AF9	v_34_hallmarks
 0x35ED670B	mule
 0x35EF27CF	mp1_inv_yacht_name_id
+0x35F1DAC6	biker_draw_15
 0x35F40D2B	mp0_impexppstat_int380
 0x35F42A65	ceo_bunker_delivery_timer_5
 0x35F4B3A4	prop_snow_tree_03_i
@@ -11989,6 +12076,7 @@ hash	key(s)
 0x36629C77	w_mg_combatmgmk2_camo10
 0x36630270	mp0_mpsv_flags_68
 0x3663BE1B	mp0_msg_flashgt
+0x36644F6A	low_draw_9
 0x3665128B	mp1_dg_monkey_score_8
 0x366564B8	sp1_boats_exploded
 0x3665B56F	mp1_dlc_apparel_used_101
@@ -12045,6 +12133,7 @@ hash	key(s)
 0x369F2697	mp1_mpsv_premium_paid_359
 0x36A0E83E	v_res_r_silvrtray
 0x36A167E0	rrocket
+0x36A2C362	heist_draw_6
 0x36A36504	mp1_su20pstat_int75
 0x36A37430	des_plog_light_root
 0x36A4B17F	v_ind_cs_screwdrivr3
@@ -12467,6 +12556,7 @@ hash	key(s)
 0x3875165B	mp0_issi5_las_heldtime
 0x38792EF7	sf_prop_sf_bag_weed_open_01c
 0x38798053	mp0_fixerpstat_int13
+0x387C043F	apart_draw_25
 0x387C58D9	mp1_casinohstpstat_int33
 0x387C9CA5	mp0_tupstat_int80
 0x387E7980	nightclub_timer_16
@@ -12736,6 +12826,7 @@ hash	key(s)
 0x39A9AACB	mp1_mpsv_lp0_125
 0x39AC5284	u_f_y_lauren
 0x39AECBF0	vfx_it2_09
+0x39AFE621	biker_draw_2
 0x39B089A6	sf_int1_dropdownlight022
 0x39B1DA93	mp0_jb7002_mg_shots
 0x39B2537D	mp0_factoryupgrades4_2
@@ -12838,9 +12929,11 @@ hash	key(s)
 0x3A14487C	mp1_impexppstat_int3
 0x3A14D170	mp1_mpsv_premium_paid_89
 0x3A160D27	mp0_impexppstat_int115
+0x3A16F6AA	dome_helmet
 0x3A183C2F	mp1_mpsv_vehicle_bs_167
 0x3A184289	mp1_menacer_mg_headshots
 0x3A1853D4	mp1_pilot_aspassedlesson_4
+0x3A1870FE	block_chains
 0x3A18D960	bkr_prop_meth_sacid
 0x3A192E04	mp1_dune3_gl_enemy_kills
 0x3A1B3BEC	_screenwidth
@@ -13102,6 +13195,7 @@ hash	key(s)
 0x3B4D63B9	prop_fnclog_03a
 0x3B4D63E9	mp0_mpsv_vehicle_bs_172
 0x3B4DBA44	mp1_tupstat_int119
+0x3B4DCEEE	arena_draw_5
 0x3B4E561E	sf_int3_wall_speaker_01
 0x3B4E7D48	mp0_h4_cr_smugglerdirect
 0x3B4FA26F	w_pi_pistolmk2
@@ -13156,6 +13250,7 @@ hash	key(s)
 0x3B7F286C	mp0_casinopstat_int90
 0x3B8053EC	mp1_totalweekcompleted
 0x3B811FB0	mp1_cr_fingerprint
+0x3B812D97	dlc_mp_ind_f_jbib_1_0
 0x3B827A2F	mp1_ruiner2_bullet_headshots
 0x3B829C8B	prop_bin_14b
 0x3B8461C5	mp1_tupstat_int66
@@ -13277,6 +13372,7 @@ hash	key(s)
 0x3C005CD7	mp1_mpsv_model_88
 0x3C00AFED	component_at_scope_small_02
 0x3C0104D9	mp1_cr_narc_bikers
+0x3C011892	h3_draw_5
 0x3C04504A	ig_oldrichguy
 0x3C04751E	am_hot_target
 0x3C04C081	stt_prop_track_bend_180d
@@ -13450,6 +13546,7 @@ hash	key(s)
 0x3CB86054	mp1_dlc12022pstat_int89
 0x3CBB90AF	apa_mp_apa_yacht_option3_cold
 0x3CBBE265	ch_prop_ch_lobay_gate01
+0x3CBC09D5	alt_helmet
 0x3CBC48B3	sm_zititcnt
 0x3CBDCD72	mp0_mpsv_vehicle_bs_87
 0x3CBFB92B	mp1_dlc_apparel_acquired_210
@@ -13486,6 +13583,7 @@ hash	key(s)
 0x3CDB43E2	mpply_offensive_language
 0x3CDC0D39	mp0_mpsv_model_327
 0x3CDCA742	s_m_y_mime
+0x3CDE1C07	scruffy_jacket
 0x3CDE7F56	prop_sign_road_restriction_10
 0x3CDEBA62	mp1_ngpstat_int12
 0x3CDF8A3E	mp1_dlc12022pstat_int44
@@ -13621,6 +13719,7 @@ hash	key(s)
 0x3D8CD78C	h4_prop_h4_gold_coin_01a
 0x3D8D634F	mp0_mpsv_flags_116
 0x3D8FA25C	ninef
+0x3D90B02E	stunt_cloth
 0x3D928EF9	mp0_hislandpstat_bool0
 0x3D937910	mp0_at_flow_vehicle_bs
 0x3D946731	fm_content_skydive
@@ -13909,6 +14008,7 @@ hash	key(s)
 0x3EB026C2	prop_ic_special_vehicle_bl
 0x3EB13F58	mp1_tattoo_fm_alpha_9
 0x3EB3EE07	mp1_arcade_floor
+0x3EB5290F	dungarees
 0x3EB58C09	prop_ped_pic_01_sm
 0x3EB69523	mp0_pilot_formationtimer_4
 0x3EB7A218	mp1_casinohstpstat_int47
@@ -13962,6 +14062,7 @@ hash	key(s)
 0x3EE6F406	mp1_clths_used_feet_4
 0x3EE84258	mp1_mpsv_impound_time_137
 0x3EE99573	mp1_tattoo_fm_unlocks_24
+0x3EEA0DE7	apart_draw_12
 0x3EEA2A56	prop_toaster_02
 0x3EEA81E1	mp0_multi_property_8
 0x3EEB4D39	mp1_mpsv_model_222
@@ -14159,6 +14260,7 @@ hash	key(s)
 0x3FE25CFA	mp_last_mission_name
 0x3FE27BAE	prop_skid_chair_02
 0x3FE4D149	v_11_aboffplatfrm
+0x3FE8A9A0	h4_draw_0
 0x3FE9A30E	h4_prop_h4_big_bag_02a
 0x3FE9CEEF	hei_prop_yah_glass_06
 0x3FE9D986	prop_flag_lsservices
@@ -14593,6 +14695,7 @@ hash	key(s)
 0x41EA9B3C	mp0_dlc_apparel_used_104
 0x41EC850A	got_ow0
 0x41EC913E	sp2_weap_tint_purch_3
+0x41ED59B2	ie_draw_8
 0x41EE5902	sr_prop_track_refill_t2
 0x41EF0726	mp1_fixerpstat_int84
 0x41EF61A8	mp1_mpsv_model_323
@@ -14699,6 +14802,7 @@ hash	key(s)
 0x4263DBA6	mp0_arenawarspstat_int147
 0x4264E6AA	mp0_mpsv_impound_time_330
 0x42650B5D	microsmg_kills
+0x42663926	tat_decl
 0x42663AE2	mp1_timelastsuccsellmission3
 0x42678835	fl_co_fb4p1
 0x42697971	pistol50_kills
@@ -14910,6 +15014,7 @@ hash	key(s)
 0x4357EDC3	xs_propint4_waste_09_lollywall
 0x43581281	v_club_comb
 0x43595670	cs_martinmadrazo
+0x435B28AA	dlc_mp_val_m_accs0_4
 0x435C29D5	mp1_speedo4_mini_hits
 0x435C5FF7	mp1_char_weap_unlocked
 0x435C6FCF	sp1_machete_deaths
@@ -15144,11 +15249,14 @@ hash	key(s)
 0x446615ED	v_res_msidetblemod
 0x4468BF01	h4_prop_h4_table_07
 0x446A217A	vfx_it3_26
+0x446A712A	watch
 0x446B9515	mp0_mpsv_impound_time_143
+0x446C2C70	long_sleeve
 0x446CF0A2	mp1_char_fm_weap_addon_1_equip
 0x446DB77D	mp0_fixerpstat_int164
 0x446F2EB1	mp1_pilot_lastlanddistance_5
 0x44703906	mp1_asltriflearmpierammocurrent
+0x44736287	jugg_suit
 0x4473E28C	mp1_appartment_var_1
 0x447C0A9A	mp1_cmpgl_kills
 0x447C4C83	sf_int3_noise_damper_wood_03xx002
@@ -15470,6 +15578,7 @@ hash	key(s)
 0x45C35F6A	prop_dock_shippad
 0x45C3D35A	mp1_objectivedailyobjectives1
 0x45C4140B	nightclub_timer_14
+0x45C574B5	open_short
 0x45C5C3C5	component_smg_mk2_camo_10
 0x45C5D235	apa_mp_h_yacht_stool_01
 0x45CBFC75	mp0_dlc_apparel_used_99
@@ -15930,6 +16039,7 @@ hash	key(s)
 0x47C14801	prop_log_ad
 0x47C34EFF	mp0_brutus_mg50_shots
 0x47C48D43	mp1_lrpstat_int56
+0x47C57E6D	biker_draw_16
 0x47C86CCF	mp1_impexppstat_int142
 0x47C8B840	vfx_it2_37
 0x47CA185D	mp0_dlc_apparel_used_22
@@ -15979,6 +16089,7 @@ hash	key(s)
 0x47F62FE8	mp1_arenawarspstat_int177
 0x47F6F488	mp1_impexppstat_int159
 0x47F7E505	v_res_tre_table001
+0x47F86843	arena_draw_4
 0x47FA57FE	mp1_dlc12022pstat_int145
 0x47FAAEA9	mp0_vehmine_kin_enemy_kills
 0x47FB22D9	sp1_bullrifle_shots
@@ -15989,6 +16100,7 @@ hash	key(s)
 0x480028AE	vfx_it3_23
 0x48007E13	prop_pipes_ld_01
 0x4802239D	v_ret_fh_emptybot2
+0x48077F09	biker_draw_12
 0x4808EC81	mp0_weapon_pickup_bitset
 0x4809DE6C	p_cs_sub_hook_01_s
 0x480ACE92	ceo_bunker_delivery_timer_4
@@ -16054,6 +16166,7 @@ hash	key(s)
 0x4850FE23	imp_prop_impexp_bonnet_06a
 0x48511BFB	ex_mp_h_acc_candles_06
 0x4854610C	w_at_smgmk2_camo3
+0x4856ABEB	skirt
 0x48572973	mp0_impexppstat_int242
 0x48575E4C	mp0_mg_heldtime
 0x4857A9AA	mp0_impexppstat_int114
@@ -16534,6 +16647,7 @@ hash	key(s)
 0x4A6A9218	mp0_arenawarspstat_int87
 0x4A6B5ED5	mp1_arenawars_skill_level
 0x4A6C1F05	v_ilev_ct_doorl
+0x4A6E7919	smug_draw_0
 0x4A7037B2	v_73_elev_sec3
 0x4A7047B7	mp0_deathbike3_mini_kills
 0x4A710317	mp1_hunter_cannon_deaths
@@ -16682,6 +16796,7 @@ hash	key(s)
 0x4B3D240F	prop_wheelchair_01
 0x4B3D473E	money_spent_betting
 0x4B3E056A	h4_prop_h4_airmissile_01a
+0x4B3E979F	dlc_mp_apa_f_phead_1_1
 0x4B3F9C21	mp1_lrpstat_int157
 0x4B3FC1C2	mp0_asltmg_aquired_as_gift
 0x4B3FEE65	mp0_no_times_cinema
@@ -16975,6 +17090,7 @@ hash	key(s)
 0x4C7EA2CE	mp1_casinopstat_int155
 0x4C7F28E9	mp0_clths_available_props_10
 0x4C80EB0E	airbus
+0x4C82142A	ear_piece
 0x4C82CFE6	mp1_pegasusyachtvehicle
 0x4C848F6B	sp0_grnlaunch_kills
 0x4C8579D7	mp0_arena_hm_hits
@@ -17093,6 +17209,7 @@ hash	key(s)
 0x4D16B269	prop_wall_light_16d
 0x4D172765	prop_irish_sign_04
 0x4D193220	mp1_dlc_apparel_acquired_86
+0x4D19C402	h4_draw_1
 0x4D1AE98A	prop_sealife_04
 0x4D1EADE3	prop_ic_5_g
 0x4D1F1E21	mp0_cc_rep_tm_sb_posix
@@ -17101,6 +17218,7 @@ hash	key(s)
 0x4D2185C6	sp2_time_driving_bicycle
 0x4D224942	mp1_crbnrifle_heldtime
 0x4D22A2EE	sum_yacht_tv_ref_blocker
+0x4D22B5AA	apart_cloth
 0x4D23F7EB	mp1_money_spent_job_activity
 0x4D2428B3	sp2_molotov_deaths
 0x4D270E2B	mp0_mpsv_lp0_301
@@ -17185,6 +17303,7 @@ hash	key(s)
 0x4D73EC8E	_profile_setting_6
 0x4D74FFBC	mpply_golf_losses
 0x4D75CFE1	v_16_low_lng_over_decal
+0x4D79BCF3	dlc_mp_val_m_accs0_3
 0x4D79C304	fl_co_sol2
 0x4D7A24F8	h4_prop_int_edgy_table_01
 0x4D7BB06B	mp1_rogue_miss_heldtime
@@ -17503,6 +17622,7 @@ hash	key(s)
 0x4ECECFD5	sp1_asltsmg_headshots
 0x4ECEE39B	stt_prop_stunt_tube_speeda
 0x4ECF2F15	prop_fnclink_08b
+0x4ED03ADC	heist_draw_16
 0x4ED0470C	tr_int2_ducting_02
 0x4ED2073F	component_musket_clip_01
 0x4ED35AEB	sp0_fires_extinguished
@@ -17874,6 +17994,7 @@ hash	key(s)
 0x50732C82	sentinel
 0x5075559A	mp1_mpsv_price_paid_131
 0x50763097	mp0_clths_available_hair_1
+0x5076863F	dlc_mp_ie_f_decl_1_0
 0x5076A73B	s_m_y_blackops_03
 0x50781F0E	mp1_dlc_apparel_acquired_19
 0x507C582D	mp0_heist_mission_rcont_id_1
@@ -18025,6 +18146,7 @@ hash	key(s)
 0x511824C1	ms_dh2b_killed_all_merryweather
 0x51187226	mp0_insurgent3_mini_hits
 0x51188CB0	prop_tool_jackham
+0x5118F088	stunt_draw_7
 0x5119ACE9	mp1_dlcsmugcharpstat_int185
 0x511B66F7	mp1_tupstat_int122
 0x511CDB56	mp1_businessbatpstat_int159
@@ -18277,6 +18399,7 @@ hash	key(s)
 0x5249C614	mp1_arenawarspstat_bool3
 0x5249D40C	prop_streetlight_09
 0x524A1B1A	w_sg_sweeper
+0x524A5D78	biker_draw_30
 0x524A6D38	v_ind_cs_spanner03
 0x524B2ED5	mp1_ch_getaway_mod_liv1
 0x524BAE5C	mp1_casinopstat_int150
@@ -18486,6 +18609,7 @@ hash	key(s)
 0x533A4E2C	prop_h4_wall_01b
 0x533E8912	tr_prop_meth_tray_01b
 0x533F7F80	mpply_prevseasonexploitlevel
+0x53427BB0	jacket_scarf
 0x5342BEEE	hei_prop_carrier_stair_01b
 0x53431606	minute3
 0x5343625F	mp0_impexppstat_int667
@@ -18623,6 +18747,7 @@ hash	key(s)
 0x53D2018F	mp0_mpsv_price_paid_109
 0x53D21585	mp0_pilot_elapsedtime_8
 0x53D3F835	sp1_sawnoff_heldtime
+0x53D4018A	earring
 0x53D44A53	sf_int3_logo
 0x53D491F7	mp1_rogue_cann_shots
 0x53D4B5CC	mp0_impexppstat_int564
@@ -18781,6 +18906,7 @@ hash	key(s)
 0x5471F400	tr_int1_comp_barrels00dark
 0x54722330	mp1_prop_whouse_sl4_val
 0x54726BC9	mp0_tunerpstat_int34
+0x5472C83F	luxe_draw_9
 0x547720A1	v_res_tre_tvstand
 0x54773CB8	mp0_admin_veh_rm_nonby_6
 0x54776A53	prop_logpile_07
@@ -18957,6 +19083,7 @@ hash	key(s)
 0x555212FA	mp1_cr_pacific_finale
 0x5552B94A	v_lirg_shop_mid
 0x5553234F	mp1_clths_acquired_jbib_6
+0x555369F8	jan_draw_1
 0x55540F6E	gr_prop_inttruck_light_e1
 0x5554B9C7	xs_prop_arena_pipe_bend_01b
 0x5554E493	extreme3
@@ -19053,6 +19180,7 @@ hash	key(s)
 0x55C15E87	mp1_mpsv_price_paid_202
 0x55C21701	v_ilev_cd_door
 0x55C32205	prop_hwbowl_seat_02
+0x55C45BAD	headscarf
 0x55C4C5BD	mp1_pstat_bool1
 0x55C5627B	s_f_y_clubbar_02
 0x55C5736B	sp2_dist_plane
@@ -19319,6 +19447,7 @@ hash	key(s)
 0x56F55184	mp0_mpsv_flags_12
 0x56F56335	mp0_prop_auto_shop_value
 0x56F57D5B	mp0_clths_used_feet
+0x56F58384	draw_3
 0x56F672DF	mp0_highest_wantd_level_escape
 0x56F7FAE0	stt_prop_corner_sign_02
 0x56FACAC7	vehicle_weapon_mine_slick
@@ -19416,6 +19545,7 @@ hash	key(s)
 0x575CF388	prop_tyre_wall_04
 0x575ECE33	prop_paper_box_04
 0x57605117	v_ilev_uvtext
+0x5760E0D5	air_cloth
 0x5761F4AD	g_m_m_mexboss_01
 0x57620010	hcs_penalty_jewel_funeral
 0x57636DEB	v_ind_ss_thread2
@@ -19425,6 +19555,7 @@ hash	key(s)
 0x57688211	h4_prop_battle_dj_mixer_01b
 0x57691694	mp0_vehicle_weaponhash
 0x576AB4F6	prop_dryweed_001_a
+0x576B84AE	ie_draw_2
 0x5770ABB0	mp1_mpsv_vehicle_bs_138
 0x57712A5C	mp1_mpsv_lp0_341
 0x577442FE	ceo_bunker_delivery_timer_15
@@ -19941,6 +20072,7 @@ hash	key(s)
 0x59D605A2	sm_kilcivshr
 0x59D615E8	v_serv_bs_comb
 0x59D644B9	mp1_awd_finish_heist_no_damage
+0x59D7EAA2	x17_draw_1
 0x59D80204	mp1_dlc_apparel_acquired_161
 0x59D89CD9	mp0_help_rocket_heist_text
 0x59DA2751	vw_prop_vw_wallart_07a
@@ -20078,6 +20210,7 @@ hash	key(s)
 0x5A6DF96A	prop_hockey_bag_01
 0x5A6F3A5F	ob_mp_stripper
 0x5A70AA24	prop_forsale_lrg_04
+0x5A70FA47	gas_mask
 0x5A7269F8	w_at_scope_small_2
 0x5A73936D	died_in_fall
 0x5A73A10E	ar_prop_ar_tube_qg
@@ -20244,6 +20377,7 @@ hash	key(s)
 0x5B28D7E7	prop_stripmenu
 0x5B2A1053	sf_int1_ledpanel011b
 0x5B2A7A25	mp1_pyro_mg_hits
+0x5B2B5856	dlc_mp_val_m_accs0_2
 0x5B2C2858	hei_prop_dt1_20_mp_gar2
 0x5B2DB305	pausemenu_sp_repeat
 0x5B2F64C0	mp0_mpsv_impound_time_21
@@ -20287,6 +20421,7 @@ hash	key(s)
 0x5B5C1340	mp1_overlay_body_3
 0x5B5C4263	prop_chip_fryer
 0x5B5C919A	sf_int1_stairs_wpaper_6
+0x5B5D91FD	parachute
 0x5B5ECC70	mp1_casinopstat_int5
 0x5B5F6885	mp0_awd_first_time3
 0x5B5FE9D2	mp0_vehmine_sli_kills
@@ -20345,6 +20480,7 @@ hash	key(s)
 0x5B9ABB82	mp0_dlc_apparel_used_69
 0x5B9B0272	am_mp_armory_truck
 0x5B9B9A25	sum_mp_h_acc_candles_02
+0x5B9DFEFC	bowtie
 0x5B9F3CCF	mp0_dlc_apparel_used_72
 0x5BA0F13E	tr_int1_clotheslocker
 0x5BA0FF1E	issi5
@@ -20569,6 +20705,7 @@ hash	key(s)
 0x5C9B374C	stt_prop_tyre_wall_0l08
 0x5C9B633B	sf_int1_lightswitch002
 0x5C9C42B4	prop_tea_trolly
+0x5C9C9885	open_collar
 0x5C9E53E5	mp0_technical3_turr_hits
 0x5C9EB7DE	h4_prop_h4_coke_testtubes
 0x5C9F1C35	prop_tv_test
@@ -20765,6 +20902,7 @@ hash	key(s)
 0x5D8B8FE9	mp0_mpsv_vehicle_bs_99
 0x5D8CA4CC	mp0_shatchet_kills
 0x5D90B94B	mp0_heist_mission_player_3_3
+0x5D90DF25	hood_down
 0x5D92CBD7	mp1_fm_cellphone_ringtone
 0x5D92DA78	mp1_dlcsmugcharpstat_int75
 0x5D9377D3	p_s_scuba_tank_s
@@ -20924,6 +21062,7 @@ hash	key(s)
 0x5E49C989	mp1_dlcsmugcharpstat_int166
 0x5E4BC9D3	ex_cash_pile_02
 0x5E4C2CF0	mp0_ch_arc_cab_display_slot7
+0x5E4E14EE	arena_draw_2
 0x5E4EC22E	mp0_dlc_apparel_used_78
 0x5E4EF8CF	cloudhat_nimbus_a
 0x5E533D52	mp1_mpsv_price_paid_302
@@ -21132,6 +21271,7 @@ hash	key(s)
 0x5F37C0FF	prop_anim_cash_note
 0x5F392CB3	mp0_qub3d_score_1
 0x5F39E26B	mp1_scarab_mg50_headshots
+0x5F3A2C96	dlc_mp_val_m_jbib0_2
 0x5F3C111E	mp0_dlc12022pstat_int69
 0x5F3D39F2	p_watch_03
 0x5F3E18F6	mp1_impexppstat_int167
@@ -21472,6 +21612,7 @@ hash	key(s)
 0x60DE7366	prop_ic_non_hrocket_g
 0x60E0E1B4	mp1_imperator3_kin_enemy_kills
 0x60E147A1	mp0_mpsv_price_paid_189
+0x60E29AC4	tux_jacket
 0x60E2A57D	reh_prop_reh_hatch_01a
 0x60E2B7B5	mp1_tupstat_int47
 0x60E4F366	mp1_cmbtpistol_kills
@@ -21505,6 +21646,7 @@ hash	key(s)
 0x61020559	h4_prop_rock_lrg_03
 0x6102409E	mp1_lrpstat_int63
 0x6103FFB8	mp1_mpsv_vehicle_bs_43
+0x6105982B	heist_draw_4
 0x6105ED0C	prop_shopsign_01
 0x61060CBC	mp1_biker_client_vehicle_possix
 0x6106AFD7	prop_flag_canada
@@ -21694,6 +21836,7 @@ hash	key(s)
 0x61D4D17F	mp1_dlcsmugcharpstat_int179
 0x61D60932	mp1_mpsv_vehicle_bs_309
 0x61D6BA8C	tractor
+0x61D7669C	luxe_draw_10
 0x61D7CF66	v_74_3_emerg_010
 0x61D7D7E9	mp1_dlc_apparel_acquired_56
 0x61D7F0A0	prop_bison_winch
@@ -21758,6 +21901,7 @@ hash	key(s)
 0x622AFDE6	vw_prop_vw_wallart_114a
 0x622C8DC0	mp1_rogue_mg_shots
 0x622DFDF4	xm_prop_facility_door_01
+0x6230E50A	dlc_mp_x17_f_outfit_scuba_21
 0x6230FDB3	mp1_gangopspstat_int36
 0x6231E019	mp1_cl_play_gta_race
 0x623305B2	mp0_fm_cut_done_2
@@ -22157,6 +22301,7 @@ hash	key(s)
 0x641C7FE9	stt_prop_tyre_wall_0l014
 0x641E963F	mp1_mpsv_model_212
 0x64200C40	vehexported
+0x642AB227	tails_version
 0x642BDA4C	ba_prop_battle_poster_promo_01
 0x642C09EA	mp0_mpsv_model_278
 0x642C53F1	mp1_tunerpstat_bool5
@@ -22294,6 +22439,7 @@ hash	key(s)
 0x64C7153A	stt_prop_corner_sign_11
 0x64C82957	mp1_vigilante_mg_shots
 0x64C889E1	mp0_awd_team_work
+0x64C997FD	stunt_draw_6
 0x64CA96DB	mp1_grnlaunch_heldtime
 0x64CD0789	tr_int4_door
 0x64CF4A73	pickup_weapon_unarmed
@@ -22547,12 +22693,14 @@ hash	key(s)
 0x65F0071B	family1
 0x65F1BB20	mp1_zr3802_las_enemy_kills
 0x65F2B00C	prop_valet_04
+0x65F36B40	luxe_draw_8
 0x65F5CFFB	mp1_raypistol_db_heldtime
 0x65F70E37	v_res_mkniferack
 0x65F7C554	ms_ah3b_innocents_killed
 0x65F7EABF	v_16_hi_apt_s_books
 0x65F966B0	vehiclekit_independenceday_patriot_tire_smoke
 0x65FE6AC0	mp1_factoryupgrades3_1
+0x65FF21D5	ie_draw_1
 0x6601511B	mp1_mogul_dnose_headshots
 0x6602819B	mp0_businessbatpstat_int22
 0x6602FB56	sum_prop_hangerdoor_01a
@@ -22611,6 +22759,7 @@ hash	key(s)
 0x66369F63	mp0_advrifle_kills
 0x6636CCB6	sp2_weap_tint_view_0
 0x6636E356	mp0_cerberus_flame_hits
+0x66385C83	apart_draw_10
 0x66387150	mp1_trsmall2_miss_enemy_kills
 0x663BC045	mp0_tuner_client_veh_mission_1
 0x663CF1BB	v_ind_cfkeyboard
@@ -22639,6 +22788,7 @@ hash	key(s)
 0x66528B33	mp0_casino_apt_decoration_13
 0x66544A00	prop_protest_sign_01
 0x66559D11	mp0_businessbatpstat_int379
+0x6656B510	braces
 0x6658ECC4	mp0_char_hair_viewed12
 0x665AAF6A	mp0_casinohstpstat_int84
 0x665B3E10	mp0_char_weap_addon_14_viewed
@@ -22646,6 +22796,7 @@ hash	key(s)
 0x665F415A	miss_switch_carsteal1
 0x665F785D	manana2
 0x665FA715	mp0_total_accum_passenger
+0x66609F83	race_gloves
 0x666400A7	mp1_buzzard_rocket_enemy_kills
 0x6666B2B9	magdemo2
 0x66681509	mp1_lrpstat_int200
@@ -22689,6 +22840,7 @@ hash	key(s)
 0x66994D4F	mp1_ngpstat_int9
 0x6699F9A1	mp0_minitank_lz_shots
 0x669B7041	gr_prop_gr_target_5_01b
+0x669BFAF3	overcoat_jbib
 0x669D3C04	mp0_ch_arc_cab_display_slot12
 0x669E12F6	prop_lift_overlay_01
 0x669E8300	mp1_mpsv_price_paid_144
@@ -22710,6 +22862,7 @@ hash	key(s)
 0x66B5B4BC	vw_prop_casino_till
 0x66B628DB	hei_prop_hei_cs_stape_01
 0x66B7EDEC	omega2
+0x66B90CC3	jan_draw_2
 0x66BB93BA	mp0_damage_scar_uvpos_4
 0x66BE5653	mp0_bullpup_fm_ammo_bought
 0x66BE6882	v_34_strips
@@ -23308,6 +23461,7 @@ hash	key(s)
 0x6973E5B5	apa_mp_h_yacht_table_lamp_03
 0x69740364	mp0_impexppstat_int602
 0x69742CA1	apa_mp_h_str_sideboards_02
+0x69743DF9	luxe2_draw_0
 0x69751F5E	des_vaultdoor001_root001
 0x69760EA4	mp0_dlcsmugcharpstat_int122
 0x69766974	mp1_mpsv_price_paid_119
@@ -23502,10 +23656,12 @@ hash	key(s)
 0x6A4CC2F0	v_ilev_gunsign_progar
 0x6A50323C	v_28_an2_deta
 0x6A57B2BB	w_ar_assaultrifle_luxe_mag1
+0x6A57B764	low_draw_2
 0x6A5813D3	ch_prop_ch_vault_blue_07
 0x6A59902D	tr3
 0x6A5B9D18	mp0_twr_initials_5
 0x6A5BC9C6	mp1_char_weap_equipped
+0x6A5C2949	dlc_mp_beach_f_feet011
 0x6A5C6B5B	mp0_pilot_lastlanddistance_1
 0x6A5D50DD	mp0_knife_deaths
 0x6A5DE110	prop_air_lights_01a
@@ -23901,6 +24057,7 @@ hash	key(s)
 0x6C00165E	v_31_cablemesh5785287_hvstd
 0x6C00CF53	mp1_char_onmission
 0x6C00D27C	mp1_barrage_r_gl_deaths
+0x6C01028D	alt_feet
 0x6C01775C	script_task_seek_cover_to_coords
 0x6C032BC3	gr_prop_inttruck_light_co_g_aq
 0x6C034DD9	mp0_clths_used_berd_7
@@ -23917,6 +24074,7 @@ hash	key(s)
 0x6C104FE2	prop_worklight_04b
 0x6C10F02B	mp1_admin_weapon_rm_bs_3
 0x6C11A0FD	percent_story_missions
+0x6C11B075	arena_draw_1
 0x6C1536E0	mp1_mpsv_premium_paid_50
 0x6C166DD6	mp0_mpsv_flags_67
 0x6C187E47	mp1_impexppstat_int374
@@ -24093,6 +24251,7 @@ hash	key(s)
 0x6CDAC8B0	sf_int1_top_flr_olays
 0x6CDCD9C5	sf_int1_computerscreen_temp009
 0x6CE234EC	mp1_tupstat_int164
+0x6CE6313B	rebreather
 0x6CE67C20	mp1_char_hair_viewed17
 0x6CE844A0	dt1_lod_f3_slod3
 0x6CE8B0B8	mp1_spplayer_laser_shots
@@ -24106,6 +24265,7 @@ hash	key(s)
 0x6CF3B174	sf_int3_floorbox019
 0x6CF41527	family3
 0x6CF43A8C	mp1_dlc_apparel_used_202
+0x6CF835E3	alt_tie
 0x6CF8A946	mp0_shopfm_clothes_car_meet
 0x6D015000	mp1_impexppstat_int243
 0x6D0182FA	mp0_issi6_kin_heldtime
@@ -24129,6 +24289,7 @@ hash	key(s)
 0x6D19E92C	mp1_mpsv_flags_346
 0x6D1A3515	sf_int1_stairs_wpaper_9
 0x6D1B0753	mp1_fixerpstat_int120
+0x6D1BA8A1	stunt_draw_9
 0x6D1BB815	urbanweeds02_l1
 0x6D1C21F2	prop_snow_tree_03_e
 0x6D1CDFCF	w_pi_pistolmk2_mag_hp
@@ -24144,6 +24305,7 @@ hash	key(s)
 0x6D28B8DB	mp1_mc_toggle_friendly_fire
 0x6D2910DD	mp0_impexppstat_int482
 0x6D2937BA	mp1_tupstat_int183
+0x6D294950	biker_draw_19
 0x6D2AE12D	mp0_twr_score_9
 0x6D2C3C95	mpply_unique_paras_v
 0x6D2DB400	ms_fbi1_accuracy
@@ -24298,6 +24460,7 @@ hash	key(s)
 0x6DE6824F	prop_box_ammo01a
 0x6DE7E497	ch_prop_ch_lamp_wall_01a
 0x6DE86BB2	mp1_bat_fm_ammo_bought
+0x6DE8AE30	combat_top
 0x6DE978C7	prop_weight_10k
 0x6DEA4A93	v_61_bd1_mesh_delta
 0x6DEA7A76	mp0_lrpstat_int169
@@ -24337,6 +24500,7 @@ hash	key(s)
 0x6E150129	v_corp_bombplant
 0x6E15D391	xs_prop_arena_wall_rising_02a_wl
 0x6E180BAC	prop_streetlight_08
+0x6E1AA3FF	shirt_braces
 0x6E1B8A6F	tr_int2_large_duct_04
 0x6E1D060A	mp1_tattoo_fm_viewed_44
 0x6E1F2574	sf_int3_light_spotlight_106
@@ -24557,6 +24721,7 @@ hash	key(s)
 0x6F139B54	csb_hugh
 0x6F153272	cash_fix_evc_correction
 0x6F15AC09	mp1_fastest_arm_wrestling_win
+0x6F19B453	heist_draw_1
 0x6F19B692	v_11_mincertrolley
 0x6F1B3AD9	v_74_it2_cor2_debr
 0x6F1B7286	mp0_tunerpstat_bool8
@@ -24742,6 +24907,7 @@ hash	key(s)
 0x6FE26D2A	mp0_impexppstat_int471
 0x6FE279B4	prop_cs_fuel_hose
 0x6FE2D8FC	xm_prop_cannon_room_door
+0x6FE696CB	x17_draw_7
 0x6FE7AD9A	mp1_arn_bs_unlck_itm_view_6
 0x6FE88B16	stt_prop_tyre_wall_01
 0x6FE8CEF0	mp0_bikepstat_int122
@@ -24943,6 +25109,7 @@ hash	key(s)
 0x70DB6564	w_ar_bullpupriflemk2_camo4
 0x70DBB7A4	mp1_mpsv_obtained_time_27
 0x70DC299F	mp1_mpsv_impound_time_187
+0x70DD8114	luxe_draw_7
 0x70DDFBEB	mp1_admin_veh_rm_nonby_2
 0x70DF24A2	mp0_tunerpstat_int32
 0x70E25A9F	mp1_raypistol_fm_ammo_current
@@ -25432,6 +25599,7 @@ hash	key(s)
 0x72E2A100	mp1_impexppstat_int47
 0x72E2F577	h4_prop_h4_fence_arches_x2_01a
 0x72E32F7F	prop_cctv_pole_01a
+0x72E39144	air_draw_0
 0x72E3EBA7	sf_int1_lightproxy_armory
 0x72E60427	apa_p_mp_door_mpa
 0x72E6AB5A	mp1_hvys_mk2_kills
@@ -25467,6 +25635,7 @@ hash	key(s)
 0x7304DE1F	mp1_businessbatpstat_int354
 0x7305E0F3	prop_garden_dreamcatch_01
 0x7307B380	h4_prop_h4_ld_bomb_01a
+0x7309FFF4	hoop_necklace
 0x730A3FCB	xs_prop_arena_telescope_01
 0x730A8978	mp1_ngdlcpstat_int4
 0x730B01F4	v_19_strpshellref
@@ -25662,13 +25831,16 @@ hash	key(s)
 0x73D22E7F	sum_prop_track_pit_garage_02a
 0x73D30B3A	hei_prop_dlc_tablet
 0x73D41E77	ex_mapmarker_19_cypress_flats_3
+0x73D5226D	basic_vest
 0x73D78DAA	mp1_dlc_apparel_acquired_230
+0x73D79EAE	dlc_mp_beach_f_accs0_5
 0x73D83FDD	sp2_sawnoff_heldtime
 0x73D8E220	mp1_mpsv_vehicle_bs_112
 0x73D951B2	mp0_dune3_mg_hits
 0x73DC26D7	mp0_combatpdw_shots
 0x73DC8263	mp1_help_weevil
 0x73DCFB3C	mp1_arenawarspstat_int274
+0x73DE3DB1	draw_5
 0x73DEA88B	mp_f_deadhooker
 0x73E0B848	csx_seabed_bldr5_
 0x73E1E914	mp1_arenawarspstat_int90
@@ -25832,6 +26004,7 @@ hash	key(s)
 0x749AFDAA	mp0_mpsv_model_15
 0x749B4973	mp0_casinopstat_int100
 0x749B5065	a_f_m_genbiker_01
+0x749C09C3	h3_draw_0
 0x749CF5F2	mp1_mpsv_flags_360
 0x749DBE47	v_ilev_bk_door
 0x749DBE66	mp0_factoryupgrades1_1
@@ -25920,6 +26093,7 @@ hash	key(s)
 0x750044A0	mp1_cr_prison_station
 0x7500FE7A	mp1_asltrifle_headshots
 0x75017942	mp0_tupstat_int96
+0x7501A102	dlc_mp_beach_f_accs0_6
 0x7501E509	xs_arenalights_track_hell
 0x75022247	cutscenemetrics
 0x750350B4	mp0_mpsv_premium_paid_281
@@ -25951,6 +26125,7 @@ hash	key(s)
 0x7524DC4B	sp0_weap_addon_unlock_4
 0x7526574C	prop_wall_light_03b
 0x75274B18	sp0_weap_tint_view_10
+0x752833F4	vest_shirt
 0x75293B02	vw_prop_vw_wallart_105a
 0x752C73BE	ms_fbi3_wrench
 0x752C824B	mp0_fixer_story_bs
@@ -26086,6 +26261,7 @@ hash	key(s)
 0x75CB8931	mp1_arenawarspstat_int200
 0x75CC8DA1	prop_fnclink_10d
 0x75CFC9DE	v_74_it2_cor1_dirt
+0x75D24E59	low_draw_4
 0x75D2C038	prop_starfish_02
 0x75D30A91	s_m_y_dwservice_01
 0x75D4AE28	ch_prop_table_casino_tall_01a
@@ -26469,6 +26645,7 @@ hash	key(s)
 0x77917C3D	vw_prop_vw_contr_01d_ld
 0x7791ADDD	csb_bryony
 0x77934CEE	daemon
+0x77958CBD	arena_draw_14
 0x7796BAA8	mp0_mpsv_price_paid_235
 0x7796CA41	mp1_dlc_apparel_used_232
 0x7796E3CB	mp1_impexppstat_int252
@@ -26753,6 +26930,7 @@ hash	key(s)
 0x78C37982	mp1_prop_fac_slot4
 0x78C4B643	mpply_casino_chips_wontim
 0x78CBA39A	mp0_terbyte_hmiss_deaths
+0x78CBC617	tails_jacket
 0x78CDE107	prop_scafold_rail_01
 0x78CF874F	sm_kilwuma
 0x78D44F47	maibatsu tee
@@ -26796,6 +26974,7 @@ hash	key(s)
 0x79026F65	mp0_crgolf
 0x7903126D	mp0_char_crewunlock_5_fm_equip
 0x79044812	sf_prop_sf_amp_s_01a
+0x790496F4	exec_draw_14
 0x790501C5	mp1_dg_monkey_initials_3
 0x7905255A	v_med_cor_wheelbench
 0x7906B296	tr_prop_tr_container_01i
@@ -26975,12 +27154,14 @@ hash	key(s)
 0x79DA2CC1	mp0_casinopstat_int81
 0x79DB5B83	mp1_su20pstat_int54
 0x79DB7AF1	prop_palm_sm_01e
+0x79DC15F7	low2_draw_0
 0x79DC6C34	tr_int1_mod_sofa_8
 0x79DCC136	mp0_char_isactive
 0x79DD18AE	menacer
 0x79DE0C16	mp1_dlcsmugcharpstat_int217
 0x79DE70B4	prop_cs_pour_tube
 0x79DF53E5	mp1_dlc_apparel_used_44
+0x79E30E5F	gun_draw_19
 0x79E33687	mp1_issi5_mg50_shots
 0x79E35ABC	mp1_microlight_mg_heldtime
 0x79E3649E	xs_combined2_dyst_glue_09
@@ -27025,6 +27206,7 @@ hash	key(s)
 0x7A0E19EF	mp1_mpsv_impound_time_167
 0x7A0F96E9	prop_aviators_01
 0x7A0F9740	mp1_fixerpstat_int173
+0x7A164A21	draw_7
 0x7A1DB952	brute tee
 0x7A20B8EA	buckingham luxe tee
 0x7A219F5D	mp0_tunerpstat_int118
@@ -27105,6 +27287,7 @@ hash	key(s)
 0x7A7C43F8	mp1_asltr_mk2_in_possession
 0x7A7CA9CB	xm_prop_lab_tube_lampa_group6_p
 0x7A7F5E03	sp1_mg_range_rg3_hiscore
+0x7A814A9B	draw_1
 0x7A826A11	sp1_hvypistol_deaths
 0x7A845307	ex_prop_crate_ammo_sc
 0x7A84DB8F	mp1_h4_cr_direct3
@@ -27236,6 +27419,7 @@ hash	key(s)
 0x7B24AFF5	h4_int_lev_sub_chair_01
 0x7B24B461	ms_arm2_petrol_fire
 0x7B279A5C	prostitutes_frequented
+0x7B28577B	outfit_checks
 0x7B28AFA3	prop_hx_special_vehicle_g_tr
 0x7B28F203	mp1_tampa3_dmini_kills
 0x7B2A72AE	mp1_mpsv_lp0_332
@@ -27459,6 +27643,7 @@ hash	key(s)
 0x7C2A244A	mp1_impexppstat_int594
 0x7C2AAF9A	mp0_awd_auto_shop
 0x7C2AFE51	vehicle_weapon_mine_spike_rc
+0x7C2C0636	long_necklace
 0x7C308255	mp0_dlc_apparel_used_30
 0x7C35BED8	carsteal4
 0x7C36AE1B	apa_mp_apa_y3_l1c
@@ -27661,6 +27846,7 @@ hash	key(s)
 0x7D1B2EF8	mp0_total_chase_time
 0x7D1B3C89	w_pi_sns_pistolmk2_sl_camo5
 0x7D1D9CD5	mp0_impexppstat_int395
+0x7D1DDCDC	low_draw_5
 0x7D1E0178	ba_rig_dj_04_lights_01_b
 0x7D1E148A	sf_int1_office_wpaper_6
 0x7D20A1C3	mp0_tunerpstat_int107
@@ -27744,6 +27930,7 @@ hash	key(s)
 0x7D8986F7	cd_vip_mc_work_6
 0x7D89C4BC	mp0_prop_clubhouse
 0x7D8A2AC0	mp0_mpsv_lp0_229
+0x7D8A5134	heist_draw_2
 0x7D8B006B	v_31_newtun2ol
 0x7D8C1D47	mp1_arenawarspstat_int158
 0x7D8C7E0E	mp1_char_mission_failed
@@ -27986,6 +28173,7 @@ hash	key(s)
 0x7EA4A671	hei_prop_carrier_radar_1
 0x7EA4CED2	player_scene_t_tie
 0x7EA4FFA6	s_m_m_mariachi_01
+0x7EA5B883	deadline_outfit
 0x7EA80183	mp1_nokota_miss_deaths
 0x7EA8A20F	mp0_dlc12022pstat_int1
 0x7EA9FF92	mp0_su20pstat_int9
@@ -28141,8 +28329,10 @@ hash	key(s)
 0x7F54B74C	mp1_mpsv_lp0_139
 0x7F570B1A	prop_mk_ring_flat
 0x7F577C2A	mp0_awd_trade_in_your_property
+0x7F586F73	dlc_mp_low_m_jbib_10_0
 0x7F5A1275	h4_p_mp_yacht_door_02
 0x7F5C91F1	rocoto
+0x7F5D4D24	stunt_draw_8
 0x7F5F9B11	v_34_wareracks
 0x7F6095AE	prop_rub_scrap_03
 0x7F6256DD	mp0_mpsv_model_82
@@ -28393,6 +28583,7 @@ hash	key(s)
 0x807997B9	mp1_bikepstat_int197
 0x807A158B	vw_prop_casino_stool_02a
 0x807C698C	v_serv_metro_ceilingvent
+0x807F40AF	gun_draw_24
 0x807F4DE9	sp0_mkrifle_heldtime
 0x807F692F	mp0_casinohstpstat_int92
 0x807F975B	mp1_mpsv_premium_paid_8
@@ -28581,6 +28772,7 @@ hash	key(s)
 0x81587576	ch_prop_casino_roulette_01a
 0x815A9E6F	mp0_pistol50_in_possession
 0x815C950C	mp0_junkengysdives_allcheckp
+0x815CB9B7	x17_draw_6
 0x815D66E8	pickup_weapon_bullpuprifle
 0x815DE602	v_ind_cs_toolbox3
 0x815E52EB	pil_p_para_pilot_sp_s
@@ -28642,6 +28834,7 @@ hash	key(s)
 0x81A15694	mp1_mpsv_vehicle_bs_344
 0x81A32DC5	mp0_tupstat_int32
 0x81A634A1	mp0_dsp_ctl_played_bit_set
+0x81A71690	apart_draw_22
 0x81A90F37	mp1_dlcsmugcharpstat_int198
 0x81A9CDDF	faction
 0x81ACAD01	xs_prop_arena_jump_m_01a
@@ -28838,6 +29031,7 @@ hash	key(s)
 0x8277199B	fake le chien crew t-shirt
 0x82777D66	mp0_completedailyobjtotalsa
 0x827892F7	mp1_arenawarspstat_int261
+0x827B244F	luxe_draw_6
 0x827BDC84	sf_int3_floorbox016
 0x827D39C4	hei_prop_drug_statue_top
 0x827E3CCA	mp0_businessbatpstat_int85
@@ -28866,6 +29060,7 @@ hash	key(s)
 0x829F6A75	prop_air_stair_04a_cr
 0x829FB8D9	mp1_auto_shop_car_lift
 0x829FC6D1	mp0_mpsv_model_276
+0x829FDD91	arena_draw_0
 0x829FF484	mp1_ce_starter_pack_cp
 0x82A02405	mp1_mpsv_impound_time_57
 0x82A11AED	mp1_pilot_school_lastmedal_8
@@ -28873,6 +29068,7 @@ hash	key(s)
 0x82A2EB62	vw_prop_vw_wallart_66a
 0x82A2FDD1	mp0_ngpstat_int8
 0x82A821CD	mp0_dlcsmugcharpstat_int210
+0x82A8E806	low_draw_1
 0x82A92065	sp0_swblade_deaths
 0x82A92A26	mp1_iap_score_6
 0x82A9910B	times_t_init_m_bbuddy
@@ -29089,6 +29285,7 @@ hash	key(s)
 0x838342AE	w_mg_combatmgmk2_camo_ind1
 0x8383A09E	prop_bath_dirt_01
 0x8384FC9F	a_m_y_polynesian_01
+0x83896870	apart_draw_3
 0x838A13A8	mp1_parachute_red_deployed
 0x838A22D6	ex_office_swag_electronic2
 0x838AB5D3	v_31a_cablemesh5777663_thvy
@@ -29582,6 +29779,7 @@ hash	key(s)
 0x85C30D9F	sp1_firewrk_kills
 0x85C40F1C	xs_propintarena_structure_l_02a
 0x85C41C75	prop_ic_deton_p
+0x85C5D476	outfit_only
 0x85C6989D	miss_switch_franklin1
 0x85C69BD1	mp1_money_earn_sell_nc_goods
 0x85C6B0B9	prop_tool_spanner01
@@ -29703,6 +29901,7 @@ hash	key(s)
 0x863B972C	mp1_dlcsmugcharpstat_int183
 0x863BDFF3	sp2_mg_hits
 0x863D9FAA	v_res_fashmag1
+0x863FBD2B	alt_legs
 0x86407A61	mp0_pilot_elapsedtime_7
 0x8641D626	mp0_dlc_apparel_acquired_215
 0x8644331A	bruiser3
@@ -29854,6 +30053,7 @@ hash	key(s)
 0x86F49365	prop_ventsystem_04
 0x86F9FECF	v_44_1_master_deta
 0x86FA5371	mp1_dlcsmugcharpstat_int230
+0x86FC2E87	h3_draw_9
 0x86FD4BA2	v_ilev_sol_off_door01
 0x86FD82BE	mp0_warhouseslot4
 0x86FE0B60	cognoscenti
@@ -29984,12 +30184,14 @@ hash	key(s)
 0x878AC059	sf_int1_plant_3
 0x878C68AE	xm_attach_geom_lighting_hangar_c
 0x878D66CA	stt_prop_tyre_wall_0r015
+0x878DB15A	low2_draw_1
 0x878E5CDE	mp1_help_futo2
 0x878F3310	sp1_weap_tint_view_1
 0x878F4E41	ch_prop_ch_vault_blue_08
 0x878F6190	mp1_mpsv_vehicle_bs_313
 0x878F63B6	mp1_menacer_mg_hits
 0x87906E1E	sp2_pistol50_hits
+0x8790C472	gun_draw_2
 0x87915C35	prop_plant_group_04
 0x8791883B	stt_prop_stunt_track_turnice
 0x8792C101	mp0_mpsv_lp0_207
@@ -30026,6 +30228,7 @@ hash	key(s)
 0x87B25415	a_f_y_soucent_03
 0x87B44C74	bahamamamas shirt
 0x87B577DE	mp1_mpsv_lp0_151
+0x87B7C5E2	silk_pyjamas
 0x87B95931	mp1_havok_mini_hits
 0x87B9A382	script_task_play_anim
 0x87BA152F	sp0_weap_tint_view_1
@@ -30263,6 +30466,7 @@ hash	key(s)
 0x88C9C3BD	ch2_05d_upper_res4_dtl
 0x88CB0B37	gr_prop_inttruck_light_ca_b_ol
 0x88CC13C5	mp1_gangopspstat_int98
+0x88CC678D	draw_6
 0x88CC68AC	v_16_low_lng_mesh_armchair
 0x88CD257A	mp1_unarmed_enemy_kills
 0x88CD9C06	mp1_heist_mission_depth_lv_0
@@ -30325,6 +30529,7 @@ hash	key(s)
 0x8909E2D4	prop_arc_blueprints_01
 0x890A7F17	v_31_walltext015
 0x890C3539	mp1_fixerpstat_int176
+0x890C803A	dlc_mp_val_m_jbib0_3
 0x890E3B83	mp0_tupstat_int26
 0x890F1DA4	sf_int1_gold_disc006
 0x8910FD16	mp1_dlcsmugcharpstat_int113
@@ -30357,6 +30562,7 @@ hash	key(s)
 0x8937FD24	josh1
 0x8938DBEC	h4_mp_apa_yacht_jacuzzi_ripple1
 0x893BA3A0	prop_rub_tyre_03
+0x893BE810	draw_2
 0x893C6E3A	stt_prop_stunt_tube_fn_05
 0x893D6805	cs_stretch
 0x893E1390	mpply_helpful
@@ -30445,6 +30651,7 @@ hash	key(s)
 0x8996C5DB	mp0_pstat_int13
 0x899705A4	vw_prop_vw_arcade_04b_screen
 0x89993CB1	mp1_awd_fm_tennis_stasetwin
+0x8999B582	low2_draw_9
 0x8999FD7D	mp0_dlc12022pstat_int209
 0x899A30D6	ms_finb_killmic
 0x899ABB38	fameorshame_eps_1
@@ -30592,6 +30799,7 @@ hash	key(s)
 0x8A402081	mp1_tutorial_bitset
 0x8A403342	sp1_dist_boat
 0x8A408F1F	ms_mic4_headshot_rescue
+0x8A42B683	has_tails_version
 0x8A42E67A	special_ability_unlocked
 0x8A434CBE	mp1_tunerpstat_int80
 0x8A451C5C	prop_ferris_car_01
@@ -30680,6 +30888,7 @@ hash	key(s)
 0x8AA68CC3	mp0_issi4_kin_heldtime
 0x8AA86A29	v_res_fa_grater
 0x8AA8F00B	mp1_awd_going_alone
+0x8AA9EB2A	ie_draw_3
 0x8AAA110B	prop_test_rocks03
 0x8AAA3842	mp1_dlcsmugcharpstat_int81
 0x8AAC613B	prop_sub_trans_06b
@@ -30692,6 +30901,7 @@ hash	key(s)
 0x8AB6FEAE	imp_prop_sand_blaster_01a
 0x8AB7FA83	prop_trafficdiv_02
 0x8AB83876	mp0_dlc12022pstat_int70
+0x8ABAC5B8	dlc_mp_heist_m_jbib_11_0
 0x8ABB2493	mp1_shopfm_pers_gun_fixer
 0x8ABB8440	mp0_ch_arc_cab_display_slot19
 0x8ABBCD7E	tr_sc1_28_tuner_slod
@@ -30884,6 +31094,7 @@ hash	key(s)
 0x8BB6758B	mp1_headblend_overlay_blusher
 0x8BB68A9B	ex_mp_h_yacht_coffee_table_01
 0x8BB6C25A	v_res_j_lowtable
+0x8BB705C5	vest_tie
 0x8BB7C63E	vehicle_weapon_oppressor_missile
 0x8BB8DC9C	v_61_lng_mesh_windows2
 0x8BBA8B25	pvc_balance
@@ -31016,6 +31227,7 @@ hash	key(s)
 0x8C60CCE5	prop_golfflag
 0x8C62027B	num_hidden_packages_7
 0x8C651F5C	mp1_mpsv_model_149
+0x8C676EEE	heist_draw_7
 0x8C68EDFA	mp1_dlc_apparel_acquired_123
 0x8C691CA8	mp0_arn_w_theme_cons
 0x8C69988E	mp1_mpsv_premium_paid_269
@@ -31246,6 +31458,7 @@ hash	key(s)
 0x8D608FF1	towing
 0x8D620511	mp0_dlc12022pstat_int202
 0x8D640491	mp0_mpsv_vehicle_bs_160
+0x8D655F35	luxe2_draw_10
 0x8D65EC08	mp0_mpsv_flags_82
 0x8D66D862	mp0_dlcsmugcharpstat_int49
 0x8D67EE7D	cs_movpremmale
@@ -31356,6 +31569,7 @@ hash	key(s)
 0x8DDF7137	v_31_newtun2reflect001
 0x8DDFA3F8	v_ret_ml_beerpride
 0x8DE25AE6	mp0_trsmall2_quad_kills
+0x8DE4D482	closed_collar
 0x8DE4EDBB	mp0_heist_outfit_t_1
 0x8DE4F79E	prop_air_luggtrolley
 0x8DE552AB	prop_sign_road_05l
@@ -31665,6 +31879,7 @@ hash	key(s)
 0x8F543A17	_profile_setting_308
 0x8F543FAB	ch_prop_casino_chair_01a
 0x8F57B787	tr_int2_plaster_chips_decal
+0x8F5A68FF	hood_up
 0x8F5D0A49	v_res_tre_bed2
 0x8F5E1462	h4_prop_h4_casino_button_01a
 0x8F5E3C84	mp1_dbase_privacy_glass
@@ -31743,6 +31958,7 @@ hash	key(s)
 0x8FC340AE	mp0_kills_friendly_gang_members
 0x8FC3AADC	emperor2
 0x8FC476D9	prop_rail_sigbox02
+0x8FC4EBAA	combat_gear
 0x8FC57887	mp1_mpsv_flags_336
 0x8FC79391	mp1_tula_mg_enemy_kills
 0x8FC85D6B	mp0_arenawarspstat_int329
@@ -31958,6 +32174,7 @@ hash	key(s)
 0x90C6B58B	mp1_arenawarspstat_int272
 0x90CADAD8	sf_mpapyacht_tvrm_glass
 0x90CBE15B	w_ar_advancedrifle_mag2
+0x90CD762B	dlc_mp_beach_f_feet010
 0x90CEB0B1	prop_ic_deadl_p
 0x90CF8C4C	sp1_mkrifle_deaths
 0x90D1A7AD	mp1_discount_hsw_mod15
@@ -32092,6 +32309,7 @@ hash	key(s)
 0x91635743	mp0_arenawarspstat_int26
 0x91638D37	gr_prop_gr_basepart_f
 0x9163995C	mp0_cmbtmg_enemy_kills
+0x91658256	morph_suit
 0x916726A6	p_amb_lap_top_02
 0x9167280B	p_watch_02_s
 0x91673D0E	rhinehart
@@ -32365,6 +32583,7 @@ hash	key(s)
 0x92A6608C	vw_prop_vw_wallart_87a
 0x92A732DB	mp1_akula_mini_headshots
 0x92A87ABC	mp0_clubchallengescompleted
+0x92A89065	luxe2_draw_1
 0x92A8F8B6	mp1_char_hair_viewed3
 0x92A901E5	sp1_last_mission_name
 0x92AA724F	mp0_dlc_apparel_acquired_243
@@ -32626,6 +32845,7 @@ hash	key(s)
 0x93E84BDD	mp1_dlc12022pstat_bool4
 0x93E9BD99	component_flaregun_clip_01
 0x93EB58EC	sp1_died_in_explosion
+0x93EC9AE9	biker_draw_6
 0x93ECB96E	heist_ctrl_jewel
 0x93ED7276	v_28_ha2_deta
 0x93ED984B	mp0_clths_available_feet_1
@@ -32939,6 +33159,7 @@ hash	key(s)
 0x9563221D	a_c_rottweiler
 0x9564C966	mp0_char_kit_1_fm_equip
 0x9567808E	v_med_p_sofa
+0x956821BA	luxe_cloth
 0x95692B15	ch_prop_swipe_card_01a
 0x956974FD	apa_mp_apa_yacht_door2
 0x95697C61	mp0_mpsv_price_paid_54
@@ -32968,6 +33189,7 @@ hash	key(s)
 0x957FE140	sf_int1_snack_display
 0x95800701	mp0_mpsv_premium_paid_216
 0x95831BC1	w_pi_vintage_pistol_mag2
+0x9584F963	stunt_draw_1
 0x9585534D	v_med_whickerchair1
 0x958760D1	mp1_mpsv_price_paid_147
 0x9587FA2D	mp1_businessbatpstat_int319
@@ -33008,6 +33230,7 @@ hash	key(s)
 0x95BD60DD	mp0_ruiner2_rocket_hits
 0x95BDE8E1	pump_kills
 0x95BE1005	mpply_dlc_veh_count
+0x95BF60CF	gun_draw_3
 0x95BFC00B	mp0_fixerpstat_int127
 0x95C23285	mp0_prop_ie_warehouse_ver
 0x95C2502E	mp0_tampa3_mort_heldtime
@@ -33326,6 +33549,7 @@ hash	key(s)
 0x9738BC30	mp1_dailycollect_skydives7
 0x97398A4B	seven70
 0x973B587E	sf_int1_lightswitch004
+0x973DE809	hat
 0x973F6204	mp1_bikepstat_int148
 0x9740993E	mp1_pilot_checkpointcount_5
 0x974101E9	stt_prop_ramp_spiral_l_m
@@ -33417,6 +33641,7 @@ hash	key(s)
 0x9794688B	mp0_arenawarspstat_int300
 0x979479F9	imp_prop_impexp_liftdoor_l
 0x97965927	mp0_heist_mission_player_2_3
+0x9796C69E	cu_xmas_clothes
 0x9796D63E	mp0_stromberg_mg_enemy_kills
 0x9797CC48	mp0_lfetime_ie_export_completed
 0x97981D2D	mp0_businessbatpstat_int180
@@ -33858,6 +34083,7 @@ hash	key(s)
 0x9983BABB	mp0_dlc_apparel_used_54
 0x99845B37	mp0_tupstat_int50
 0x99849A0D	v_ind_ss_box01
+0x9984F91C	low2_open_check
 0x9985C31A	tr_prop_tr_door7
 0x99869017	mp1_tuner_client_veh_mission_1
 0x99873E13	mp1_su20pstat_int103
@@ -34054,6 +34280,7 @@ hash	key(s)
 0x9A753742	prop_cs_sol_glasses
 0x9A76569C	sp0_vpistol_heldtime
 0x9A77FCC3	mp0_tuner_contract4_posix
+0x9A7854B8	closed_jacket
 0x9A785F1F	mp0_ce_sp_flow_notifications
 0x9A7B4474	mp1_arenawarspstat_int237
 0x9A7BC869	gtest_divingfromcarwhilefleeing
@@ -34587,6 +34814,7 @@ hash	key(s)
 0x9CD22CE4	mp0_apapstat_int104
 0x9CD28CE4	h4_prop_battle_dj_mixer_01f
 0x9CD33F45	prop_sub_release
+0x9CD35738	arena_draw_12
 0x9CD39715	mp0_badland_initials_7
 0x9CD3E8B0	mp0_char_mc_started
 0x9CD4D924	mission iv tee
@@ -34714,6 +34942,7 @@ hash	key(s)
 0x9D570E4A	h4_prop_battle_emis_rig_02
 0x9D576767	v_19_maindressingstuff
 0x9D57CC01	mp1_mpsv_premium_paid_114
+0x9D585A09	luxe_draw_5
 0x9D58B3EE	mp0_raypistol_kills
 0x9D5B6E70	mp0_casinohstpstat_bool1
 0x9D5BD4EA	xs_propint2_path_short_r
@@ -34727,6 +34956,7 @@ hash	key(s)
 0x9D616537	mp1_no_bought_epic_snacks
 0x9D61E50F	weapon_bullpupshotgun
 0x9D62495E	mp0_hunter_cannon_deaths
+0x9D62D685	arena_cloth
 0x9D62FEBF	mp0_molotok_miss_enemy_kills
 0x9D6325BB	mp1_mp_char_armour_5_count
 0x9D65035D	mp0_gangopspstat_int82
@@ -35338,6 +35568,7 @@ hash	key(s)
 0xA027BA2D	xs_combined2_dyst_07_rear_hull
 0xA027FCDB	reh_p_para_bag_reh_s_01a
 0xA028837F	h4_prop_club_emis_rig_02b
+0xA028A30D	low_draw_3
 0xA0290276	prop_sign_road_03j
 0xA02DD2B5	ar_prop_ig_shark_cp_single_l2
 0xA02DE6CA	sf_int3_rec_frame
@@ -35374,6 +35605,7 @@ hash	key(s)
 0xA054FE3C	mp0_bullrifarmorpiercingcurrent
 0xA05553D6	xs_propint2_stand_thick_01_ring
 0xA055E2D6	mp1_arenawarspstat_int156
+0xA056F170	draw_14
 0xA05821C3	prop_cap_row_02b
 0xA0591BE3	prop_ind_conveyor_01
 0xA05EF149	mp0_clths_acquired_jbib_1
@@ -35395,6 +35627,7 @@ hash	key(s)
 0xA06B4E14	mp1_arenawarspstat_int258
 0xA06B70A7	mp0_char_fm_weap_addon_5_unlck
 0xA06EA1E9	mp0_fixerpstat_int1
+0xA0712FD0	use_jacket_scarf
 0xA0721622	mp0_mpsv_price_paid_96
 0xA073047A	mp1_dlc12022pstat_int103
 0xA0743A7A	prop_bush_neat_06
@@ -35750,6 +35983,7 @@ hash	key(s)
 0xA1F9F11D	mp1_char_kit_5_fm_equip
 0xA1FC3345	mp1_impexppstat_int555
 0xA1FEE596	mpply_awd_tempawardfloat
+0xA1FF99D1	ie_draw_7
 0xA1FFF5B9	mp0_awd_elite_thief
 0xA2023E64	prop_feeder1_cr
 0xA2029362	mp0_asltr_mk2_shots
@@ -36616,6 +36850,7 @@ hash	key(s)
 0xA621BB9F	mp1_help_minitank
 0xA62365D7	mp0_vipclubaccesssetting
 0xA623CD97	mp1_h3_skipcount
+0xA624DF8B	apart_draw_24
 0xA62549C9	ig_djtalignazio
 0xA625557D	prop_billboard_09
 0xA625C2D7	p_barier_test_s
@@ -36638,6 +36873,7 @@ hash	key(s)
 0xA633F4B8	sf_mp_h_acc_vase_05
 0xA634392E	mp0_asltriflearmpierammocurrent
 0xA634D56D	sf_int3_disc_frames_weed
+0xA6369AC6	stunt_draw_0
 0xA638479C	mp0_scarab2_las_shots
 0xA638E698	mp1_helps80
 0xA63A42AB	mp1_clths_used_feet_5
@@ -36721,6 +36957,7 @@ hash	key(s)
 0xA6A173EA	mp1_mpsv_price_paid_255
 0xA6A1B971	mp1_apapstat_int84
 0xA6A2D488	mp1_char_fm_clothes_10_owned
+0xA6A38444	x17_draw_2
 0xA6A4B65F	prop_weeds_nxg06
 0xA6A52920	v_ret_windowair
 0xA6A7730F	ch_prop_ch_service_door_02a
@@ -36754,6 +36991,7 @@ hash	key(s)
 0xA6C3D0B0	mp0_lrpstat_int114
 0xA6C448E8	component_bullpuprifle_mk2_camo_03
 0xA6C81227	sum_prop_ac_barge_col_01
+0xA6C825ED	arena_draw_7
 0xA6C85DBF	w_ar_specialcarbinemk2_camo1
 0xA6C89CCC	mp1_mpsv_impound_time_320
 0xA6CA64F6	mp0_dlc_apparel_used_107
@@ -36853,6 +37091,7 @@ hash	key(s)
 0xA7408994	mp0_tunerpstat_int24
 0xA743583C	v_8_hall4ovrly
 0xA7441EE3	mp1_mpsv_impound_time_338
+0xA7483138	low_draw_6
 0xA7488F71	mp1_mpsv_impound_time_295
 0xA749466F	mp1_lrpstat_int83
 0xA749BA1B	mp1_crheist
@@ -36864,6 +37103,7 @@ hash	key(s)
 0xA75083B7	mp0_impexppstat_int33
 0xA7528D23	mp1_mpsv_price_paid_79
 0xA75373BC	mp1_mpsv_flags_36
+0xA753C1F1	crew_logo
 0xA753C734	mp1_impaler3_mg50_headshots
 0xA755F7B6	sp0_musket_ammo_bought
 0xA756944E	prop_life_ring_01
@@ -37058,6 +37298,7 @@ hash	key(s)
 0xA8254104	mpply_crew_local_time_1
 0xA8268E87	prop_dock_crane_04
 0xA826F786	mp1_vehbomb_c_deaths
+0xA82768BB	scarf
 0xA8294244	mp0_ctf_help_counter
 0xA8298B35	mp0_impexppstat_int29
 0xA8298F7A	mp1_tuner_arc_cab_display_slot2
@@ -37141,8 +37382,10 @@ hash	key(s)
 0xA87D8592	sf_prop_sf_mic_rec_02a
 0xA87DF40C	player_scene_m_cinema
 0xA87E8413	v_club_brablk
+0xA8827D94	ie_draw_15
 0xA8831AEF	ex_p_ex_tumbler_02_empty
 0xA8846A84	mp0_tupstat_bool3
+0xA884EF53	multi_decal
 0xA884F6A8	mp1_char_carpaintsec_view_0
 0xA885CE65	mp1_mpsv_flags_129
 0xA885D4B5	content_heli_veh
@@ -37428,6 +37671,7 @@ hash	key(s)
 0xA9C6065D	mp0_raycarbine_headshots
 0xA9C65995	mp1_tattoo_fm_viewed_0
 0xA9CA4BA9	mp1_businessbatpstat_int358
+0xA9CAB4F2	apart_draw_4
 0xA9CAD6C4	mp0_djboothaccesssetting
 0xA9CBC8B3	mp0_stngnmp_kills
 0xA9CBDBEE	mp0_impexppstat_int287
@@ -37612,6 +37856,7 @@ hash	key(s)
 0xAA8760C6	prop_mk_thermal
 0xAA87AFD5	gr_prop_gr_tool_draw_01b
 0xAA886DF8	vehicle_weapon_insurgent_minigun
+0xAA89394D	smug_draw_4
 0xAA8B2EC1	mp1_rcmine_emp_deaths
 0xAA908D84	v_8_hall6decdirt
 0xAA918FF9	ms_ni1b_clothes_taken_no_alerts
@@ -37769,6 +38014,7 @@ hash	key(s)
 0xAB2988D6	v_44_cablemesh3833165_tstd010
 0xAB29C28F	mpply_bg_script_int_04
 0xAB2A69CF	mp1_impexppstat_int683
+0xAB2A82E4	ie_draw_18
 0xAB2ADB9C	mp1_prop_nightclub_value
 0xAB2B066D	prop_front_seat_04
 0xAB2B5DE2	mp0_clths_used_special_7
@@ -37805,6 +38051,7 @@ hash	key(s)
 0xAB4D1D84	mp0_mpsv_price_paid_284
 0xAB4D4FD0	mp0_su20pstat_int11
 0xAB4E8510	sum_mp_h_yacht_strip_chair_01
+0xAB4FECC6	gorka_suit
 0xAB4FEED6	sf_int1_int2_elevator_details_001
 0xAB50AC64	mp0_molotov_aquired_as_gift
 0xAB51CFE0	mp0_char_kit_24_fm_unlck
@@ -37821,6 +38068,7 @@ hash	key(s)
 0xAB5B5EF1	mp0_swblade_kills
 0xAB5CC8CB	v_19_strpprvrmcrt004
 0xAB5D94A7	mp0_zr3802_mg50_enemy_kills
+0xAB5F78FD	low2_draw_3
 0xAB60C3AF	bobo t-shirt
 0xAB6123D0	time_walking
 0xAB621AE8	mp0_businessbatpstat_int214
@@ -37888,6 +38136,7 @@ hash	key(s)
 0xABA5EF27	sf_prop_sf_shutter_01a
 0xABA72223	tr_int2_chainlinkfence
 0xABA7E9F4	prop_foodprocess_01
+0xABA8CF43	alt_special_5
 0xABAA1FB7	prop_letterbox_03
 0xABACAD14	mp0_h3_cr_subterfuge_3a
 0xABACD54F	mp1_mpsv_vehicle_bs_144
@@ -37945,6 +38194,7 @@ hash	key(s)
 0xABE35664	ba_prop_battle_amb_phone
 0xABE4C8C4	mp0_dlc_apparel_acquired_89
 0xABE64158	mp0_char_kit_10_fm_unlck
+0xABE76B56	smoking_jacket
 0xABE7AFC8	mp1_streetlegscore_3
 0xABE84060	mp0_apapstat_int74
 0xABE99A65	mp0_dm_highest_killstreak
@@ -37972,6 +38222,7 @@ hash	key(s)
 0xABFCB97C	deprecated_script_task_swim_to_coord
 0xABFCE173	mp1_minismg_deaths
 0xABFD035B	mp1_objectivehistory16
+0xABFD87AB	haz_mask
 0xABFEE32D	v_ret_gc_mugdisplay
 0xABFFB402	mp1_slamvan5_las_headshots
 0xAC023029	mp0_imperator_mg50_kills
@@ -37994,6 +38245,7 @@ hash	key(s)
 0xAC188E70	v_74_vfx_it3_3b_02
 0xAC190F7F	v_19_jetdncflrlights
 0xAC191D09	mp1_qub3d_score_0
+0xAC1983B3	air_draw_3
 0xAC19C632	dt1_21_ground2
 0xAC1CCC3E	mp0_arn_bs_unlck_itm_view_16
 0xAC232000	mp0_lfetime_biker_sell_complet1
@@ -38143,6 +38395,7 @@ hash	key(s)
 0xACDA4F79	mp1_clths_available_special_7
 0xACDB2476	prop_mask_motobike_b
 0xACDB8F30	mp0_arcade_mac_4
+0xACDBAFAF	draw_9
 0xACDBE419	mp0_rcmine_spi_enemy_kills
 0xACDC3186	mp1_vehbomb_w_kills
 0xACDE073F	sp1_asltrifle_hits
@@ -38161,6 +38414,7 @@ hash	key(s)
 0xACEF559B	mp1_zr3802_mg50_hits
 0xACF07F3A	prop_fnclink_06a
 0xACF202D4	mp0_arn_veh_bruiser2
+0xACF61FA2	jacket
 0xACF6C3FC	ch_prop_ch_vault_green_04
 0xACF847EC	w_sb_pdw
 0xACF9F1C2	mp0_firework_type_1_white
@@ -38230,6 +38484,7 @@ hash	key(s)
 0xAD4B5EAC	h4_prop_int_plants_02
 0xAD4C724C	s_m_y_waiter_01
 0xAD4CD615	deprecated_script_task_greet_partner
+0xAD4D1046	gun_draw_1
 0xAD4D97D4	mp0_total_time_spent_on_phone
 0xAD4DAB49	tr_int2_sandbox_barrier
 0xAD4DD658	mp1_tuner_earnings
@@ -38329,6 +38584,7 @@ hash	key(s)
 0xADA892EF	mp0_impexppstat_int55
 0xADA8EDC4	mp0_sparrow2_rocket_heldtime
 0xADA98C3C	xs_wasteland_pitstop
+0xADAA2E70	dlc_mp_beach_f_feet009
 0xADAA8444	mp1_musket_in_possession
 0xADAB9003	mp1_bruiser_mg50_heldtime
 0xADABC379	mp0_mpsv_impound_time_254
@@ -38400,6 +38656,7 @@ hash	key(s)
 0xADFAAA90	bkr_prop_biker_jump_m
 0xADFB0820	bkr_prop_printmachine_6rollerp_st
 0xADFC9DD0	ar_prop_ar_stunt_block_01b
+0xADFDC1AF	assault_draw_0
 0xAE0051D5	mp1_hangar_furniture
 0xAE007DB8	mp1_dlc12022pstat_int180
 0xAE022ADC	v_ilev_gangsafedoor
@@ -38455,6 +38712,7 @@ hash	key(s)
 0xAE4055B7	component_bullpuprifle_mk2_camo
 0xAE407C37	mp0_char_fm_weap_addon_16_unlck
 0xAE40DE64	v_ind_cs_box01
+0xAE41BBC4	tux_tie
 0xAE421744	mp1_arn_w_theme_scifi
 0xAE426B85	mp0_tunerpstat_int2
 0xAE433E1C	mp1_mpsv_flags_195
@@ -38509,6 +38767,7 @@ hash	key(s)
 0xAE84F61E	w_sg_pumpshotgunmk2_camo4
 0xAE85EDBE	mp1_cr_gangop_serverfarm
 0xAE86FDB4	a_f_y_business_03
+0xAE8B8693	battle_draw_0
 0xAE8C6A4E	sp2_bottle_headshots
 0xAE8CE67E	miss_switch_jewelry_prep2a
 0xAE8D2FA8	prop_rub_carwreck_15
@@ -38600,6 +38859,7 @@ hash	key(s)
 0xAEFCEB8C	xs_combined_set_dyst_01_build_07
 0xAEFE99BE	exile_city_denial
 0xAF007050	hei_p_pre_heist_biker
+0xAF010050	low2_draw_5
 0xAF03DDE1	ig_molly
 0xAF045D86	tr_int1_mod_ceillinglights_006
 0xAF05064F	mp0_mpsv_flags_311
@@ -38703,6 +38963,7 @@ hash	key(s)
 0xAF70A88D	mp0_dlcsmugcharpstat_int97
 0xAF70F696	mp0_pilot_formationtimer_3
 0xAF7144A5	mp1_tattoo_fm_current_44
+0xAF71F225	apart_draw_21
 0xAF72A061	mp1_char_crewunlock_1_unlck
 0xAF76AAEC	mp1_char_kit_31_fm_unlck
 0xAF786CF9	sp0_sawnoff_headshots
@@ -38752,6 +39013,7 @@ hash	key(s)
 0xAFAA214F	ba_prop_battle_lights_ceiling_l_g
 0xAFACE1AE	mp1_lrpstat_int12
 0xAFAEDD0C	xs_prop_lplate_wall_01c_wl
+0xAFAEFEB6	luxe_draw_4
 0xAFB0E6C7	mp1_kills_enemy_gang_members
 0xAFB280B8	truffade tee
 0xAFB4A78E	mp1_h3opt_modveh
@@ -39038,11 +39300,13 @@ hash	key(s)
 0xB0F6ADE5	mp0_no_hair_unlock
 0xB0F81A16	prop_cs_mopbucket_01
 0xB0F82E33	sp0_dist_as_passenger_taxi
+0xB0F9B04C	stunt_draw_3
 0xB0F9C857	re_bus_tours
 0xB0FA13B7	prop_fnclog_02a
 0xB0FFBB50	mp0_char_fm_weap_addon_1_unlck
 0xB1016268	mp1_mpsv_premium_paid_63
 0xB101F00C	mp0_char_change_tank_admin
+0xB103E93F	hood_tucked
 0xB10406B1	w_mg_combatmgmk2
 0xB1048AAB	ba_prop_battle_emis_rig_03
 0xB104DE5B	mp1_mpsv_vehicle_bs_240
@@ -39118,6 +39382,7 @@ hash	key(s)
 0xB14D9B12	mp0_dlcsmugcharpstat_int191
 0xB14DD20F	prop_yacht_seat_02
 0xB1500F97	mp1_seabreeze_mg_hits
+0xB15044C8	cuff
 0xB152B87E	mp0_businessbatpstat_int349
 0xB152ED53	mp1_dlc12022pstat_int51
 0xB1540D85	sp0_bullpup_heldtime
@@ -39842,6 +40107,7 @@ hash	key(s)
 0xB47F0EC8	bkr_prop_coke_bakingsoda_o
 0xB481158D	prop_fncwood_06a
 0xB4815502	v_serv_ct_monitor03
+0xB481DC13	biker_draw_4
 0xB485AA82	mp0_dlcsmugcharpstat_int114
 0xB4861EB7	prop_c4_final
 0xB486B038	xs_propint5_waste_border
@@ -39914,6 +40180,7 @@ hash	key(s)
 0xB4D236E3	w_at_scope_nv
 0xB4D23C7E	des_plog_door_end
 0xB4D3FD4C	prop_ic_5_b
+0xB4D4A969	gun_draw_21
 0xB4D530A8	mp1_block_ceo_work
 0xB4D5EFF3	mp0_adversarymission_cr
 0xB4D5F6A0	mp1_dlcsmugcharpstat_int164
@@ -40203,6 +40470,7 @@ hash	key(s)
 0xB632FDA9	prop_ic_special_vehicle_b
 0xB634FE20	mp1_revolver_shots
 0xB63674B8	vfx_it3_39
+0xB6372884	biker_vest
 0xB638539D	mp1_casinopstat_int61
 0xB6390D88	mp0_vpistol_fm_ammo_current
 0xB63CC215	ba_prop_battle_lights_prop_battle_wall_lampb
@@ -40333,6 +40601,7 @@ hash	key(s)
 0xB6DB4607	ex_prop_crate_furjacket_bc
 0xB6DB777C	mp1_mpsv_model_119
 0xB6DBC1D1	mp1_zr380_mg50_heldtime
+0xB6DCC03F	vwd_draw_1
 0xB6DD67D9	mp0_slamvan4_mg50_shots
 0xB6DD8D72	v_74_3_emerg_7
 0xB6DE3E04	gr_prop_inttruck_light_li_g_re
@@ -40374,6 +40643,7 @@ hash	key(s)
 0xB70ED1AB	sp2_pump_deaths
 0xB7106E51	mp1_impexppstat_int276
 0xB7126C6D	ch_prop_ch_race_gantry_03
+0xB712AA9F	stockings
 0xB712EC62	apa_mp_h_str_avunitl_01_b
 0xB713610A	mp0_damage_scar_forceframe_14
 0xB716E023	prop_gar_door_03_ld
@@ -40448,6 +40718,7 @@ hash	key(s)
 0xB7631B41	prop_pile_dirt_03
 0xB7638F2D	mp0_mogul_turr_hits
 0xB7646434	mp1_su20pstat_int90
+0xB7660DB2	scruffy_balaclava
 0xB7663ABF	mp0_mchpist_aquired_as_gift
 0xB7668240	bkr_prop_weed_bag_pile_01a
 0xB76A2988	mp0_mpsv_model_113
@@ -40576,6 +40847,7 @@ hash	key(s)
 0xB7E6AFD4	prop_palm_huge_01a
 0xB7E6BEE8	hcs_bigs_crew1_choice
 0xB7E6ECB6	mp1_lrpstat_int42
+0xB7E84FF1	back_crew_logo
 0xB7E8E517	street crimes red gangs tee
 0xB7E8F8AC	mp1_bg_script_int_47
 0xB7E9A58E	mp1_char_total_time_mission
@@ -40612,6 +40884,7 @@ hash	key(s)
 0xB807FBD8	mp0_dlc_apparel_used_196
 0xB8081009	armytanker
 0xB8089454	mp1_mpsv_impound_time_311
+0xB80A5171	apart_draw_1
 0xB80BFB24	script_task_go_to_entity_while_aiming_at_entity
 0xB80DF14A	mp0_mpsv_flags_193
 0xB80EB57F	mp0_dlc_apparel_acquired_7
@@ -40704,6 +40977,7 @@ hash	key(s)
 0xB86FD000	mp0_hunter_rocket_kills
 0xB870622E	mp0_su20pstat_int41
 0xB870D344	prop_byard_steps_01
+0xB8719F3E	vest
 0xB8725613	mp1_awd_smashngrab
 0xB87499EA	mpply_last_report_penalty
 0xB8771DB6	prop_fncwood_18a
@@ -40861,6 +41135,7 @@ hash	key(s)
 0xB92C72F9	mp0_jukeboxplaylisttime0
 0xB92C8C39	mp1_mpsv_lp0_251
 0xB92D629E	xs_propintarena_structure_c_03a
+0xB92E342B	night_vision
 0xB92EF5A4	mp1_fixerpstat_int88
 0xB92FF324	v_73_off_st2_ref
 0xB9307A33	prop_table_07_l1
@@ -40895,6 +41170,7 @@ hash	key(s)
 0xB9579FFA	prop_bumper_03
 0xB957BDE2	mp1_awd_win_last_team_standings
 0xB9588622	sp1_weap_addon_purch_1
+0xB958A9AE	x17_draw_5
 0xB959C5C6	mp1_bruiser2_las_kills
 0xB959D4D6	mp0_weap_fm_addon_purch17
 0xB95A6A91	mp1_lrpstat_int82
@@ -40970,6 +41246,7 @@ hash	key(s)
 0xB9CC4494	mamba tee
 0xB9CD65FD	mp1_tupstat_int76
 0xB9CDE633	mp1_damage_scar_number
+0xB9D11302	luxe_draw_3
 0xB9D135F6	gen9_mp_windfall
 0xB9D174F8	v_med_lab_elecbox1
 0xB9D24B50	mp0_arn_l_monster_jam
@@ -41013,6 +41290,7 @@ hash	key(s)
 0xB9F623D9	ba_prop_club_dressing_sign_02
 0xB9F65A39	prop_sky_cover_01
 0xB9F671E2	mp1_mpsv_vehicle_bs_145
+0xB9F8134C	luxe_draw_1
 0xB9F8444F	mp1_mpsv_impound_time_335
 0xB9F9B5C0	p_int_jewel_plant_01
 0xB9F9D770	prop_sign_road_04g_l1
@@ -41282,6 +41560,7 @@ hash	key(s)
 0xBB188579	prop_fnclink_03gate5
 0xBB1A7D65	sf_mp_h_yacht_barstool_01
 0xBB1B0D0D	mp0_mpsv_model_74
+0xBB1B4682	dlc_mp_beach_m_lowr2_11
 0xBB1D4556	mp0_admin_weapon_rm_bs_3
 0xBB1F61FC	v_24_wrd_mesh_boxes
 0xBB201587	xs_prop_x18_wheel_balancer_01a
@@ -41513,6 +41792,7 @@ hash	key(s)
 0xBC1C27CD	cs4_lod_02_slod3
 0xBC1C7942	mp0_limo2_turr_headshots
 0xBC1EDE35	mp0_insurgent_turr_shots
+0xBC1FF031	alt_special_2
 0xBC22517F	ba_prop_battle_whiskey_bottle_2_s
 0xBC235771	mp1_scramjet_miss_shots
 0xBC23FDC4	tennis_family
@@ -41662,6 +41942,7 @@ hash	key(s)
 0xBCC4EF36	mp0_mpsv_obtained_time_107
 0xBCC5654D	prop_bmu_02_ld
 0xBCC5C1F2	pickup_weapon_autoshotgun
+0xBCC696C3	heist_draw_10
 0xBCC7F321	prop_bush_neat_04
 0xBCC804A8	mpply_casino_chips_pur_gd
 0xBCC81BB7	mp0_mpsv_lp0_268
@@ -41775,6 +42056,7 @@ hash	key(s)
 0xBD44120E	mp0_awd_gunman
 0xBD48EFB9	mp1_apapstat_int53
 0xBD49BC09	sf_int1_apart_wpaper_2
+0xBD49DD4F	low_draw_0
 0xBD49E24F	mpply_bg_script_int_40
 0xBD4A8AD1	prop_sign_road_07b
 0xBD4AFD3A	sum_prop_ac_qub3d_cube_02
@@ -41937,6 +42219,7 @@ hash	key(s)
 0xBDE777B6	prop_skid_chair_03
 0xBDE7A7AA	xs_prop_trinket_skull_01a
 0xBDE84447	kills_since_safehouse_visit
+0xBDE99C5D	h3_draw_4
 0xBDEC3D99	freightcar2
 0xBDECB7B6	mp0_arenawarspstat_int271
 0xBDEFB4A9	mp1_arcade_help_bitsettwo
@@ -41985,6 +42268,7 @@ hash	key(s)
 0xBE25D751	mp0_mpsv_price_paid_156
 0xBE2632CC	mpply_shootingrange_losses
 0xBE2A20CD	mp1_smg_mk2_fm_ammo_bought
+0xBE2DFDCD	dlc_mp_ie_m_decl_1_0
 0xBE328392	mp0_mpsv_lp0_115
 0xBE339912	sf_prop_sf_golf_bag_01b
 0xBE33CF8F	mp1_multi_property_5
@@ -42027,6 +42311,7 @@ hash	key(s)
 0xBE605FCB	mp1_no_weapons_unlock
 0xBE60FC1B	xm_prop_x17_screens_02a_02
 0xBE616E06	sp1_combatpdw_heldtime
+0xBE63036F	dress_legs
 0xBE63AAF9	mp1_arenawarspstat_int106
 0xBE643E32	prop_proxy_chateau_table
 0xBE655D61	mp1_dlc_apparel_used_209
@@ -42138,6 +42423,7 @@ hash	key(s)
 0xBEE0B82C	prop_crate_11d
 0xBEE3A0F3	prop_arena_icon_flag_yellow
 0xBEE54649	sp2_tanks_destroyed_on_spree
+0xBEE62E92	draw_15
 0xBEE65A57	xs_prop_arena_trophy_double_01b
 0xBEE74D31	v_44_g_kitche_deca
 0xBEE92CBE	mp0_char_fm_carmod_6_unlck
@@ -42272,6 +42558,7 @@ hash	key(s)
 0xBF94FF8C	v_11_abbconduit
 0xBF9672F4	ig_michelle
 0xBF9771C9	ch_prop_casino_slot_01a
+0xBF97B4DB	gun_draw_0
 0xBF9AF76E	xs_prop_trophy_goldbag_01a
 0xBF9D0FD3	ms_sol1_time
 0xBF9D7B86	mp1_tunerpstat_int20
@@ -42464,6 +42751,7 @@ hash	key(s)
 0xC08E80E1	mp1_su20pstat_int198
 0xC08F1F4D	to_be_swapped
 0xC08F71CE	sum_mpapyacht_study_shell
+0xC090A35F	low2_draw_2
 0xC092EE17	sp1_db_kills
 0xC0937202	cs_siemonyetarian
 0xC0943E95	sum_mpapyacht_glass01
@@ -42600,6 +42888,7 @@ hash	key(s)
 0xC12B6818	csx_coastboulder_04_
 0xC12CA895	prop_forsale_sign_fs
 0xC12E1306	apa_prop_yacht_glass_09
+0xC12FA4AD	low2_draw_4
 0xC13254D1	sp2_machete_hits
 0xC133E6F5	ng_proc_sodacan_03b
 0xC135E006	prop_rock_4_d
@@ -42632,6 +42921,7 @@ hash	key(s)
 0xC15B03F1	stt_prop_sign_circuit_05
 0xC15B3018	sf_int2_wallpaper01_06
 0xC15B3738	meltdown shirt
+0xC15C1D54	gun_draw_18
 0xC1615682	xs_prop_barrier_5m_01a
 0xC16217AA	prop_rub_trainers_01
 0xC162360A	prop_gate_frame_05
@@ -42687,6 +42977,7 @@ hash	key(s)
 0xC19BC1D2	prop_elecbox_22
 0xC19C2462	s_f_m_retailstaff_01
 0xC19D2CDA	mp1_fixerpstat_int157
+0xC19E5934	draw_4
 0xC19E5E7E	sp2_lazer_rocket_shots
 0xC19E8E57	mp1_heist_mission_player_5_3
 0xC1A041EA	mp1_impexppstat_int94
@@ -42790,6 +43081,7 @@ hash	key(s)
 0xC21F2376	mp1_pstat_int7
 0xC2217F02	v_28_prh_dirt
 0xC221EE24	v_31_newtun01water
+0xC2241DB0	dlc_mp_val_f_accs1_1
 0xC228FEAA	mp1_businessbatpstat_int332
 0xC229ADB1	sp1_pstat_bool1
 0xC22A2061	mp1_awd_undetected
@@ -42845,6 +43137,7 @@ hash	key(s)
 0xC261D86F	sp0_knuckle_deaths
 0xC2629700	mp0_tattoo_fm_viewed_49
 0xC2634285	total_chase_time
+0xC2670CD3	helmet
 0xC2679225	boars hat
 0xC2682721	prop_steps_big_01
 0xC26C25DC	mp1_mpsv_impound_time_37
@@ -43132,6 +43425,7 @@ hash	key(s)
 0xC3B52966	a_c_rat
 0xC3B57DFB	v_11_cooler_drs
 0xC3B5BD5E	sp2_mkpistol_db_heldtime
+0xC3B5F8F5	alt_vest
 0xC3B5FB66	fake enema t-shirt
 0xC3BA8182	mp1_mpsv_flags_137
 0xC3BB2084	mp0_ch_arc_love_level2
@@ -43143,6 +43437,7 @@ hash	key(s)
 0xC3BFC30F	mp1_gangopspstat_int53
 0xC3BFD23F	prop_mask_motobike_a
 0xC3C00861	proc_grassdandelion01
+0xC3C055D9	stunt_draw_2
 0xC3C09E9B	mp1_awd_hot_lap
 0xC3C0CE85	mp1_awd_first_time3
 0xC3C19C64	mp0_impexppstat_int589
@@ -43390,6 +43685,7 @@ hash	key(s)
 0xC4AD8BEC	mp1_dlcsmugcharpstat_int13
 0xC4B383BD	p_cs_locker_01
 0xC4B5775D	prop_ld_suitcase_01
+0xC4B605F4	low_sweat
 0xC4B64B22	mp0_jb7002_mg_enemy_kills
 0xC4B700C9	mp1_multi_property_value_9
 0xC4B715D2	ig_benny
@@ -43573,6 +43869,7 @@ hash	key(s)
 0xC57F7121	mp1_ie_wh_owned_vehicle_35
 0xC582F04D	vw_prop_vw_club_char_10a
 0xC58300AE	mp0_mpsv_lp0_biker_clt
+0xC5834216	gun_accs
 0xC584F8D7	mp0_char_fm_clothes_2_unlck
 0xC5869322	h4_rig_dj_02_lights_03_b
 0xC586E750	mp0_mpsv_premium_paid_52
@@ -43601,6 +43898,7 @@ hash	key(s)
 0xC59C83A6	prop_ic_bomb_pk
 0xC59CF0FD	mp0_casinopstat_int158
 0xC59DF994	ch3_lod_emissive3_slod3
+0xC59E7E4C	biker_draw_5
 0xC59F9379	mp0_char_weap_equipped2
 0xC5A00EDD	pilot_school_mp
 0xC5A12F80	component_bullpuprifle_clip_01
@@ -43677,6 +43975,7 @@ hash	key(s)
 0xC5FB5491	sm_price_uma
 0xC5FC4AC6	mp1_hvyshgn_db_heldtime
 0xC5FD8A79	mp1_sparrow2_rocket_enemy_kills
+0xC5FDF036	smug_draw_6
 0xC5FEFADE	s_m_y_construct_02
 0xC5FF0F38	mp1_cmbtpistol_headshots
 0xC5FF5491	ex_prop_door_lowbank_roof
@@ -44061,6 +44360,7 @@ hash	key(s)
 0xC7C84C1C	mp0_auto_shop_stff_dl_two_posix
 0xC7C8DA63	pb_preacher
 0xC7C8F796	sf_prop_sf_door_apt_r_01a
+0xC7C96EDC	scuba_flippers
 0xC7CBC850	ng_proc_sodacup_02b001
 0xC7CC5446	v_serv_metro_tunnellight1
 0xC7CCD065	v_ret_ml_beerbar
@@ -44117,6 +44417,7 @@ hash	key(s)
 0xC7FCF93C	vehicle_weapon_speedo4_mg
 0xC7FE1BE2	mp1_awd_wrecker
 0xC7FFAFE4	mp0_char_fm_clothes_5_unlck
+0xC7FFFB13	luxe2_draw_2
 0xC800C8FF	xs_prop_x18_tool_draw_01b
 0xC80116BC	prop_rail_boxcar5_d
 0xC801429D	mp1_char_kit_16_fm_viewed
@@ -44366,6 +44667,7 @@ hash	key(s)
 0xC90AE498	stt_prop_track_funnel
 0xC90D77CF	mp0_mpsv_premium_paid_295
 0xC90EB9A6	prop_barrel_pile_03
+0xC90FD1FD	shrink_head
 0xC91177F1	scripttest1
 0xC9121540	sp0_machete_hits
 0xC9138FDD	mp1_dist_plane
@@ -44382,6 +44684,7 @@ hash	key(s)
 0xC91DF269	sp2_molotov_ammo_bought
 0xC920DDBF	mp0_mpsv_price_paid_236
 0xC920FAEA	v_serv_bs_cliipbit3
+0xC921C3B4	tie
 0xC9220A52	v_ret_ml_sweet6
 0xC923247C	a_m_y_musclbeac_02
 0xC92793F4	v_16_shadowobject69
@@ -44434,6 +44737,7 @@ hash	key(s)
 0xC96FBF39	mp0_lrpstat_int27
 0xC9704711	vfx_rnd_wave_01
 0xC9705575	sf_prop_welder_01a
+0xC970D2A1	gun_draw_20
 0xC970D63E	mp1_businessbatpstat_int73
 0xC971A90F	v_res_fa_sponge01
 0xC971E42D	mp1_clths_acquired_props_4
@@ -44580,6 +44884,7 @@ hash	key(s)
 0xCA1BE08D	vw_prop_casino_art_plant_03a
 0xCA1E8B0E	mp1_dune3_mini_kills
 0xCA1F1766	mp0_lrpstat_int116
+0xCA1F2D46	light_up
 0xCA213512	prop_cablespool_01b
 0xCA2416FC	mp0_dlc_apparel_acquired_182
 0xCA25A88E	p_cs_laz_ptail_s
@@ -44805,6 +45110,7 @@ hash	key(s)
 0xCB1B467E	ba_prop_battle_control_seat
 0xCB1B9647	mp1_impexppstat_int275
 0xCB1F49CB	mpply_total_time_load_screen
+0xCB1F4D3B	x17_draw_4
 0xCB20F9AC	mp1_cl_gone_off_radar
 0xCB228307	h4_prop_palmeto_sap_aa
 0xCB22F3AC	mp0_ammo_purchased_pistols
@@ -45022,6 +45328,7 @@ hash	key(s)
 0xCC1DF818	sm_charlie_bed
 0xCC20FD9C	mp0_mpsv_impound_time_324
 0xCC2151ED	h4_int_lev_sub_chair_02
+0xCC23B7A3	luxe_draw_0
 0xCC23D613	vw_prop_vw_barrel_pile_02a
 0xCC27642F	mp0_dlc_apparel_used_253
 0xCC27D237	mp0_vehmine_emp_shots
@@ -45047,6 +45354,7 @@ hash	key(s)
 0xCC35FB8A	ms_chi1_unmarked
 0xCC36A897	w_ar_specialcarbinemk2_camo7
 0xCC36BEEC	ig_lacey_jones_02
+0xCC38B7D1	luxe_draw_2
 0xCC391A79	v_ilev_gasdoor
 0xCC396693	mp0_dlc_apparel_used_239
 0xCC3A1C09	mp0_mpsv_lp0_121
@@ -45131,6 +45439,7 @@ hash	key(s)
 0xCC8B3905	pickup_vehicle_weapon_appistol
 0xCC8C6F08	mp1_mpsv_obtained_time_25
 0xCC8CB2DC	mp0_mpsv_flags_240
+0xCC8EEBA3	vwd_draw_0
 0xCC90A373	pickup_weapon_stone_hatchet
 0xCC929B7D	mp0_pilot_school_medal_1
 0xCC94A609	mp0_dlc_apparel_used_189
@@ -45286,6 +45595,7 @@ hash	key(s)
 0xCD526F3E	w_sr_heavysniper_mag1
 0xCD56690B	mp1_warehouse_crates65
 0xCD571B40	mp1_mpsv_price_paid_308
+0xCD587C0D	apart_draw_2
 0xCD58AE4C	mp0_su20pstat_int176
 0xCD59810A	sm_14_mp_door_r
 0xCD599095	sp2_hvypistol_kills
@@ -45443,6 +45753,7 @@ hash	key(s)
 0xCE04A359	mp1_rew_play_other_miss_count
 0xCE07F528	mp0_mpsv_premium_paid_245
 0xCE0AF9BA	xs_combined2_dyst_build_02b_09
+0xCE0B0BF2	biker_draw_20
 0xCE0B9F22	landstalker2
 0xCE0BCF17	mp0_vigilante_mg_heldtime
 0xCE0C0424	mp0_awd_arena_legend
@@ -45589,6 +45900,7 @@ hash	key(s)
 0xCE9C7531	mp1_streetlegscore_1
 0xCE9CB458	sf_mp_apa_y1_l2a
 0xCE9D8311	mp1_casinohstpstat_int11
+0xCE9E6B95	stunt_draw_5
 0xCEA06D73	mp1_tupstat_bool6
 0xCEA06F22	mp0_weap_fm_addon_purch6
 0xCEA1470E	mp0_mpsv_impound_time_65
@@ -45686,6 +45998,7 @@ hash	key(s)
 0xCF0C7037	ig_ary
 0xCF11444F	mp0_mpsv_obtained_time_59
 0xCF148859	cloudhat_rain_a
+0xCF14BB5F	heist_draw_11
 0xCF152445	mp0_su20pstat_int137
 0xCF153F7D	sp2_hvyshgn_db_heldtime
 0xCF178F7C	mp0_su20pstat_int40
@@ -45754,6 +46067,7 @@ hash	key(s)
 0xCF551C30	michael3
 0xCF55AF7F	ex_prop_door_lowbank_ent_r
 0xCF55F5BC	mp1_silver_boolchar_1
+0xCF564B3B	ie_draw_16
 0xCF58FCF2	p_f_duster_head_01
 0xCF5B672A	v_corp_conftable
 0xCF5BD99E	sp1_nightstick_hits
@@ -45809,6 +46123,7 @@ hash	key(s)
 0xCF989620	bkr_prop_biker_tube_crn2
 0xCF99B3CB	mp0_tattoo_fm_unlocks_41
 0xCF9AACAC	apa_mp_h_acc_jar_03
+0xCF9B3FC0	h3_draw_3
 0xCF9C12BF	mpgen_bronze_intgen_0
 0xCF9C496B	ng_proc_paintcan02a
 0xCF9D132F	mp0_ie_wh_owned_vehicle_20
@@ -45825,6 +46140,7 @@ hash	key(s)
 0xCFA9963D	gr_prop_gr_drill_01a
 0xCFABD85D	xs_prop_ar_pipe_01a_sf
 0xCFAC1F29	blue bleeder festive sweater
+0xCFADB9F7	gun_draw_17
 0xCFAE9412	mp0_su20pstat_int52
 0xCFAFAB1D	vw_prop_vw_wallart_48a
 0xCFB0377D	mp1_bikepstat_int186
@@ -46166,6 +46482,7 @@ hash	key(s)
 0xD121EA99	mp0_slamvan6_mg50_shots
 0xD1241BA3	mp0_mpsv_model_171
 0xD125DB74	mp0_businessbatpstat_int51
+0xD12783AF	apart_draw_5
 0xD128D554	mp1_dist_driving_quadbike
 0xD128FF9D	mp_f_misty_01
 0xD12A5045	fake seesanta nove t-shirt
@@ -46250,6 +46567,7 @@ hash	key(s)
 0xD181D8B2	mp1_droneshirtunlock
 0xD1832CF9	mp0_dlc_apparel_used_31
 0xD1840FCC	hei_prop_hst_usb_drive
+0xD184A7B3	xmas2_draw_0
 0xD185E12D	mp1_ammo_purchased_thrown
 0xD18611F8	mp1_casinopstat_int57
 0xD1865C32	mp1_valkyrie_cannon_hits
@@ -46483,6 +46801,7 @@ hash	key(s)
 0xD29AF7B4	w_mg_combatmgmk2_mag1
 0xD29B3AE7	mp1_casinopstat_int6
 0xD29BA9E1	mp0_mpsv_flags_164
+0xD29CFB58	heist_draw_3
 0xD29D2382	ch_prop_ch_race_gantry_05
 0xD29F2A37	mp0_blrifle_mk2_fm_ammo_bought
 0xD2A1E994	mp0_mpsv_model_250
@@ -46653,8 +46972,10 @@ hash	key(s)
 0xD3679C8A	mp0_apapstat_int42
 0xD36A4B44	mesa2
 0xD36B4073	sp0_explosives_used
+0xD36C95D5	biker_draw_10
 0xD36E081F	sf_int1_recessed010
 0xD36F90A2	mp1_mogul_turr_kills
+0xD370C92F	low2_draw_7
 0xD3710472	mp1_businessbatpstat_int13
 0xD3722A5B	pickup_weapon_minismg
 0xD373A20F	mp0_dlc12022pstat_int165
@@ -46706,6 +47027,7 @@ hash	key(s)
 0xD3A9B7FD	apa_prop_yacht_glass_06
 0xD3A9D101	mp0_fm_cellphone_theme
 0xD3AA9B9F	mp0_car_sold_time_16
+0xD3AAFD27	ie_draw_0
 0xD3AB3074	mp1_admin_clothes_gv_bs_38
 0xD3AC6BE7	streaming
 0xD3ACFF45	apa_mp_h_str_shelffreel_01
@@ -46747,6 +47069,7 @@ hash	key(s)
 0xD3E08775	sr_prop_sr_start_line_02
 0xD3E33B67	mp0_damage_scar_hash_value_4
 0xD3E67EB5	sp2_flaregun_kills
+0xD3E6BB0E	apart_draw_23
 0xD3E79E91	mp1_fixerpstat_int38
 0xD3E99B45	apa_prop_apa_bankdoor_new
 0xD3E9C64E	gr_prop_gr_adv_case
@@ -46829,6 +47152,7 @@ hash	key(s)
 0xD44163BA	prop_sign_road_09c
 0xD44174BE	mp1_bikepstat_int30
 0xD44295DD	p_cablecar_s
+0xD4433897	apart_draw_18
 0xD445436D	mp0_mpsv_flags_232
 0xD4455FAE	prop_fncconstruc_ld
 0xD446D00C	mp1_shopfm_carmod_08_cs6
@@ -47107,6 +47431,7 @@ hash	key(s)
 0xD5755903	mp1_impexppstat_int344
 0xD5755DA7	mp0_businessbatpstat_int31
 0xD5756EF3	mp1_mpsv_model_208
+0xD575D399	pilot_suit
 0xD577C962	bus
 0xD579E802	mp1_businessbatpstat_int192
 0xD57B5902	mp1_gangopspstat_int13
@@ -47289,6 +47614,7 @@ hash	key(s)
 0xD6678401	w_pi_raygun
 0xD6682DCA	mp1_fixerpstat_int64
 0xD66932DE	mp1_tattoo_fm_viewed_6
+0xD66A9CA1	biker_draw_27
 0xD66C2C85	mp1_dlc12022pstat_int26
 0xD66C4531	mp1_dlcsmugcharpstat_int219
 0xD66F9BFD	sm_price_spu
@@ -47320,6 +47646,7 @@ hash	key(s)
 0xD6873E63	mp1_mpsv_premium_paid_110
 0xD6874B78	mp0_imperator_kin_shots
 0xD6882564	mp1_minitank_rk_shots
+0xD688685B	slack_tie
 0xD68938AD	mp1_mpsv_flags_359
 0xD689E062	general_test
 0xD68A4347	prop_h4_corridor_2x1_01a
@@ -47340,6 +47667,7 @@ hash	key(s)
 0xD69A718C	mp0_trsmall2_quad_enemy_kills
 0xD69C44D9	mp1_help_vectre
 0xD69CFE5F	db_kills
+0xD69D87D7	thermal_vision
 0xD69DA3FD	mp1_fixerpstat_int37
 0xD6A00A43	mp1_headblend_dad_beard
 0xD6A04635	mp1_mpsv_premium_paid_185
@@ -47360,6 +47688,7 @@ hash	key(s)
 0xD6B258AD	prop_snow_streetlight_01_frag_
 0xD6B330E6	mp1_lrpstat_int176
 0xD6B3BA55	mp1_tunerpstat_int5
+0xD6B4381D	biker_mask
 0xD6B52DAD	sp2_weap_tint_view_7
 0xD6B67547	mp1_dlcbikepstat_bool2
 0xD6B8EC0C	prop_elecbox_25
@@ -47484,6 +47813,7 @@ hash	key(s)
 0xD7280F5B	mp0_fixerpstat_int0
 0xD72A802E	mp0_bruiser_mg50_heldtime
 0xD72A8FC5	mp1_mpsv_model_90
+0xD72B2165	biker_draw_3
 0xD72B4C75	sf_mpapyacht_yacht_bedroom2_glow
 0xD72BBABF	xs_terrain_rockpile_1_03_small
 0xD72DAD80	sf_prop_sf_win_blind_01a
@@ -47636,6 +47966,7 @@ hash	key(s)
 0xD7E020F8	sp0_db_kills
 0xD7E24F63	xs_propint3_waste_03_bikerim
 0xD7E2E913	mp1_scramjet_mg_heldtime
+0xD7E4CCFF	heist_draw_13
 0xD7EA79EB	mp1_damage_scar_forceframe_7
 0xD7EBE951	mp1_stkybmb_shots
 0xD7EC0EDD	prop_loggneon
@@ -47988,6 +48319,7 @@ hash	key(s)
 0xD96D699D	comms_controller
 0xD96DA06C	vehicle_weapon_mine_spike
 0xD96E4DA6	mp1_dinghy5_turr_deaths
+0xD96E5366	h3_draw_2
 0xD96EE56C	v_44_cablemesh3833165_tstd015
 0xD96F3E53	v_31a_jh_tunn_02b
 0xD96FDDFD	mp0_clths_acquired_special_6
@@ -48044,6 +48376,7 @@ hash	key(s)
 0xD9B42F84	mp0_speedo4_mg_kills
 0xD9B94D6D	mpply_mcmwin
 0xD9BD6A8A	mpply_curr_spec_series_hash
+0xD9C1C6C4	apart_draw_20
 0xD9C2371D	hei_heist_acc_rughidel_01
 0xD9C3A82A	mp0_apapstat_int59
 0xD9C4D5A5	ex_p_ex_tumbler_01_s
@@ -48733,6 +49066,7 @@ hash	key(s)
 0xDCE53D24	mp0_cr_humane_finale
 0xDCE83CA6	mp0_fixerpstat_int89
 0xDCE98BDF	sp0_explosive_damage_shots
+0xDCEBD473	gun_draw_16
 0xDCED54DC	mp1_ch_arc_cab_display_slot20
 0xDCEDCEA4	csb_golfer_b
 0xDCF1ED25	prop_gate_frame_01
@@ -49289,6 +49623,7 @@ hash	key(s)
 0xDF366EC2	sf_int3_screen_music_dre002
 0xDF36C3E6	mp1_dune3_mg_headshots
 0xDF37CA2C	mp0_mpsv_lp0_150
+0xDF3A0CD0	stunt_draw_4
 0xDF3A5148	mp0_rockstar_verified_hash_5
 0xDF3AE7C5	w_at_ar_afgrip
 0xDF3D7C30	gtest_helicopter
@@ -49421,6 +49756,7 @@ hash	key(s)
 0xDFC5257B	mp1_mpsv_flags_156
 0xDFC6003D	mp1_mpsv_price_paid_51
 0xDFC75730	mp1_mpsv_price_paid_121
+0xDFC997E7	arena_draw_3
 0xDFCA4D2E	ba_prop_battle_lights_02_bright
 0xDFCAF8A4	vehicle_weapon_menacer_mg
 0xDFCD2BC7	mp1_apapstat_int80
@@ -49451,6 +49787,7 @@ hash	key(s)
 0xDFE5323D	mp1_businessbatpstat_int286
 0xDFE6E64C	mp1_tattoo_fm_viewed_38
 0xDFE77C3B	v_ilev_fib_door3
+0xDFE8FF91	gun_draw_23
 0xDFE9B223	mp1_impexppstat_int232
 0xDFEEAD02	ch_prop_arcade_degenatron_01a
 0xDFEEC433	controller_towing
@@ -49566,6 +49903,7 @@ hash	key(s)
 0xE06429E4	mp1_impexppstat_int118
 0xE065247B	mp1_mpsv_flags_174
 0xE0658DE6	tr_int2_rebar_decals
+0xE067789F	dress
 0xE067AB34	vw_prop_vw_bblock_huge_01
 0xE0682331	mp0_bottle_in_possession
 0xE06EC0B5	mpply_char_peak_exploit_level
@@ -49674,6 +50012,7 @@ hash	key(s)
 0xE0E69974	a_m_m_tranvest_01
 0xE0E7FDC6	mpply_heistnodeathprogreitset
 0xE0E9B10D	mp1_tupstat_int22
+0xE0E9EE62	ie_draw_19
 0xE0EA5ACB	mp0_mpsv_model_52
 0xE0EA76F7	v_74_it3_offi_mnds
 0xE0EC3457	mp0_vigilante_mg_shots
@@ -49683,6 +50022,7 @@ hash	key(s)
 0xE0ECE9B8	v_28_hazmat2_deta
 0xE0ED7EB6	dilettante tee
 0xE0ED938F	prop_bar_napkindisp
+0xE0EF1B6F	dlc_mp_ie_f_decl_2_0
 0xE0F06397	mp1_dlc12022pstat_int184
 0xE0F1256E	mp1_mkrifle_mk2_enemy_kills
 0xE0F3D2B3	v_16_ap_hi_pants5
@@ -49693,6 +50033,7 @@ hash	key(s)
 0xE0F81515	sf_mpapyacht_hall_shell
 0xE0F9CBA0	cash_gift_label_1
 0xE0FA2554	ig_casey
+0xE0FB431A	dlc_mp_apa_f_phead_1_2
 0xE0FB6CCB	xm_prop_lab_booth_glass05
 0xE0FC9542	mp0_minismg_enemy_kills
 0xE0FD67E7	mp0_mp_char_armour_3_count
@@ -49999,6 +50340,7 @@ hash	key(s)
 0xE258032E	mp0_tupstat_int167
 0xE2581673	mp1_bikepstat_int83
 0xE258D3CE	prop_cablespool_06
+0xE259A925	no_crew_emblem
 0xE25B2DD4	mp1_money_earn_good_sport
 0xE25E4B5F	mp1_damage_scar_zone_20
 0xE25F15AE	mp0_awd_kills_machinegun
@@ -50075,6 +50417,7 @@ hash	key(s)
 0xE2B001BF	mp1_mpsv_obtained_time_4
 0xE2B007B7	mp1_mpsv_model_337
 0xE2B1DB1E	mp0_mpsv_model_343
+0xE2B2F2F5	jacket_only
 0xE2B3DE2B	mp0_mpsv_flags_39
 0xE2B4CF0A	mp0_mpsv_lp0_175
 0xE2B54196	mp0_dlc12022pstat_int138
@@ -50282,6 +50625,7 @@ hash	key(s)
 0xE3BD66FC	sp0_longest_cam_time_driving
 0xE3BD9E44	component_pumpshotgun_mk2_camo
 0xE3BE025F	mp1_dagger_aquired_as_gift
+0xE3BF0EAF	high_heels
 0xE3C07C64	mp1_bkr_prod_stop_cout_s3_4
 0xE3C22746	mp0_wvm_flow_mission_progress
 0xE3C28643	mp0_stromberg_mg_hits
@@ -50613,6 +50957,7 @@ hash	key(s)
 0xE52B135C	v_74_str2_deta
 0xE52E126C	ig_ramp_gang
 0xE52E1BE0	mp0_dlc_apparel_used_200
+0xE52EDAE3	casino_item
 0xE52F8F21	mp1_tupstat_int125
 0xE52FFB62	ch_prop_ch_ld_bomb_01a
 0xE5367FCD	mp0_admin_veh_rm_nonby_posix
@@ -50713,6 +51058,7 @@ hash	key(s)
 0xE5B0D20F	mp1_admin_clothes_gv_bs_10
 0xE5B10E0A	v_corp_desksetb
 0xE5B1F681	mp0_clths_acquired_special_7
+0xE5B26DB2	low2_draw_6
 0xE5B6D201	mp0_shootingrange_grid_score
 0xE5B7D4DE	mp1_hammer_aquired_as_gift
 0xE5B7FCC7	prop_ic_non_hrocket_p
@@ -50778,6 +51124,7 @@ hash	key(s)
 0xE608B35E	component_at_sr_supp
 0xE608E7B2	mp0_gold_floatchar_2
 0xE6097175	mp1_mpsv_impound_time_300
+0xE60A3052	smug_draw_2
 0xE60A7FCC	mp0_arenawarspstat_int194
 0xE60ACD68	mp1_arenawarspstat_int98
 0xE60C43BF	mp1_multi_property_value_1
@@ -51000,6 +51347,7 @@ hash	key(s)
 0xE6EAE263	prop_bar_pump_06
 0xE6EC7663	mp1_hvysniper_aquired_as_gift
 0xE6EE8415	mp0_nightstick_deaths
+0xE6EEC2E7	x17_draw_10
 0xE6F064E5	mp0_brutus_mg50_kills
 0xE6F0CF26	prop_forsale_tri_01
 0xE6F0DF81	xs_propintxmas_terror_2018
@@ -51052,6 +51400,7 @@ hash	key(s)
 0xE72821B8	mp0_arenawarspstat_int179
 0xE72A11B0	mp1_businessbatpstat_int71
 0xE72ABBC2	vehicle_weapon_rogue_cannon
+0xE72ADE66	apart_draw_15
 0xE72B8916	mp1_gangopspstat_int43
 0xE72D9C16	mp1_mpsv_obtained_time_97
 0xE72E0828	sf_int2_art_gf_option_1_f0
@@ -51311,6 +51660,7 @@ hash	key(s)
 0xE83DCCA5	mp1_mpsv_premium_paid_216
 0xE83E7EEF	mp0_mpsv_lp0_253
 0xE840A89C	mp0_mpsv_model_80
+0xE843C053	biker_draw_28
 0xE844A003	mp1_prop_hangar_var
 0xE846D990	ba_prop_battle_coke_block_01a
 0xE846E641	mp1_char_weap_viewed2
@@ -51538,6 +51888,7 @@ hash	key(s)
 0xE95EDE5A	mp0_mpsv_price_paid_198
 0xE95FB5A8	mp0_akula_mini_deaths
 0xE96081E4	v_24_lga_mesh_delta
+0xE96147E2	assault_cloth
 0xE961642B	sf_int1_ledpanel004
 0xE9625C02	sf_mp_h_yacht_armchair_03
 0xE9634105	mp0_sr_highscore_2
@@ -51546,6 +51897,7 @@ hash	key(s)
 0xE9655DAF	weapons_independenceday_musket
 0xE9664634	mpply_total_time_endjob
 0xE96A374C	mpply_aw_joinspec
+0xE96A5734	loose_tie
 0xE96A5A2D	v_73_cur_el2_deta
 0xE96B0D57	mp0_ie_wh_owned_vehicle_3
 0xE96C0679	prop_ic_repair_b
@@ -51632,6 +51984,7 @@ hash	key(s)
 0xE9C36CC1	v_19_strpshell
 0xE9C397C7	sf_int2_wallpaper02_09
 0xE9C50234	mp1_mpsv_vehicle_bs_14
+0xE9C63848	epsilon_chain_alt
 0xE9C69995	sp2_sniperrfl_headshots
 0xE9C78775	mp0_molotok_mg_kills
 0xE9C81E91	ba_rig_dj_02_lights_02_c
@@ -51738,6 +52091,7 @@ hash	key(s)
 0xEA473A40	w_pi_sns_pistolmk2_mag_fmj
 0xEA481E55	mp1_dlc_apparel_used_111
 0xEA487326	mp0_pistol50_aquired_as_gift
+0xEA4A03FA	cowboy_boots
 0xEA4CFFF6	mp0_grnlaunch_kills
 0xEA4D09EA	mp1_flying_ability
 0xEA4E9D1C	mp1_mpsv_lp0_234
@@ -51861,6 +52215,7 @@ hash	key(s)
 0xEABB217E	agency_heist3b
 0xEABBA31B	sp_pstat_bool2
 0xEABCEFD1	mp0_fixer_veh_help
+0xEABE0032	gloves
 0xEABEF023	ex_mp_h_acc_dec_plate_01
 0xEABFA98F	mp0_char_kit_fm_purchase32
 0xEABFB375	hcs_bigs_crew4_choice
@@ -51905,6 +52260,7 @@ hash	key(s)
 0xEAF2CAB2	v_ilev_bank4door02
 0xEAF32501	v_ilev_mchalkbrd_1
 0xEAF3AF27	mp0_businessbatpstat_int323
+0xEAF49202	luxe_scarf
 0xEAF5E000	mp1_mpsv_premium_paid_133
 0xEAF6A488	mp1_mpsv_obtained_time_87
 0xEAF6C20A	prop_jewel_02b
@@ -51943,8 +52299,10 @@ hash	key(s)
 0xEB174AEE	prop_worklight_03a
 0xEB176014	ig_req_officer
 0xEB1789B9	mp0_toreador_mg_heldtime
+0xEB1870CC	gun_draw_15
 0xEB194D6A	mp1_businessbatpstat_int345
 0xEB19606B	mp0_impexppstat_int526
+0xEB198D27	x17_draw_0
 0xEB1AF8FE	ex_office_swag_drugstatue2
 0xEB1E6067	mp0_damage_scar_uvpos_15
 0xEB23E1E4	mp1_mpsv_lp0_352
@@ -52219,6 +52577,7 @@ hash	key(s)
 0xEC591965	mp0_mpsv_model_139
 0xEC594444	mp0_admin_clothes_rm_bs_33
 0xEC5A6BB7	mp1_mkpistol_fm_ammo_current
+0xEC5A91A7	big_mask
 0xEC5B10C8	v_club_vutongs
 0xEC5CBC76	mp0_arn_w_arcade_race
 0xEC5D2A29	mp1_mpsv_obtained_time_68
@@ -52347,6 +52706,7 @@ hash	key(s)
 0xECF320E8	mp1_tupstat_int148
 0xECF3217C	v_74_v_fib02_it1_010
 0xECF3572D	tr_int1_drinkscabinet_006
+0xECF3C417	big_chain
 0xECF5B985	mp0_dailycollect_trickortreat2
 0xECF62B1D	tr_int2_kerbs
 0xECF74D9A	mp1_impexppstat_int220
@@ -52375,6 +52735,7 @@ hash	key(s)
 0xED0F848F	sp2_lung_capacity_maxed
 0xED10295E	mp1_mpsv_impound_time_324
 0xED10FF9F	prop_mp_halo_rotate
+0xED110F62	hooded_jacket
 0xED1178A9	mp0_zr3803_mg50_kills
 0xED11F141	tr_int2_sliding_door_004
 0xED1312C8	mp0_tupstat_int130
@@ -52388,6 +52749,7 @@ hash	key(s)
 0xED205E6F	mp1_mpsv_price_paid_268
 0xED216641	mp1_deathbike3_mini_deaths
 0xED21F814	tr_int2_round_column
+0xED22A8B4	overcoat_accs
 0xED236E7D	sf_int1_2_details_cabinets
 0xED24A256	mp1_char_weap_addon_13_viewed
 0xED25F13B	prop_rub_scrap_02
@@ -52405,6 +52767,7 @@ hash	key(s)
 0xED334E21	mp1_film4shirtunlock
 0xED349469	mp0_damage_scar_number
 0xED373264	sf_ych_mod_glass3wang
+0xED396F9A	block_glasses
 0xED3A289B	dt1_21_gd1_dz5
 0xED3A2D23	mp0_bikepstat_int2
 0xED3B943A	mp0_bg_script_int_29
@@ -52462,6 +52825,7 @@ hash	key(s)
 0xED82C057	prop_pipes_conc_02
 0xED83830D	v_ilev_mm_fridgeint
 0xED866A5A	mp0_fixerpstat_int17
+0xED874E1D	biker_draw_8
 0xED8816EA	mp0_casino_apt_decoration_5
 0xED88DC67	sp2_kills_cop
 0xED897963	mp0_pass_rocket_kills
@@ -52510,9 +52874,11 @@ hash	key(s)
 0xEDB42F3F	mp_m_meth_01
 0xEDB4EC63	prop_ind_light_02c
 0xEDB5D1C6	mp1_su20pstat_int82
+0xEDB71453	biker_draw_32
 0xEDB79DC2	mp1_arn_veh_issi6
 0xEDB7C758	mp0_bikepstat_int111
 0xEDB9CC71	ba_prop_club_emis_rig_02
+0xEDBB9B36	gun_draw_22
 0xEDBBCD9B	mp0_bikepstat_int187
 0xEDBBDB35	mp1_mpsv_premium_paid_260
 0xEDBC7546	s_m_m_fiboffice_01
@@ -52610,6 +52976,7 @@ hash	key(s)
 0xEE28754A	mp1_heist_saved_strand_7_l
 0xEE2A1500	xs_propint2_building_base_02
 0xEE2A3E46	mpply_knowndozersold3
+0xEE2C423D	cat_suit
 0xEE2D057A	mp0_paytier_goon3
 0xEE2FE2EA	mp1_mpsv_price_paid_281
 0xEE3333BE	v_res_fh_fruitbowl
@@ -52630,6 +52997,7 @@ hash	key(s)
 0xEE436CC0	mp1_impexppstat_int631
 0xEE447D65	prop_venice_sign_09
 0xEE44CEEB	bkr_prop_fakeid_clipboard_01a
+0xEE44EE90	accs_decl
 0xEE469416	mp1_mpsv_lp0_128
 0xEE4745FB	v_ret_gc_cashreg
 0xEE474A01	mp0_feature_15
@@ -52900,6 +53268,7 @@ hash	key(s)
 0xEF70FB90	mp1_jukeboxplaylisttime3
 0xEF7135AE	s_m_y_ranger_01
 0xEF72A727	mp1_damage_scar_hash_value_9
+0xEF72EB66	tux_tie_alt
 0xEF73D357	mp1_mpsv_flags_214
 0xEF73F981	mp1_clths_acquired_props
 0xEF75EA22	v_31_newtun_mech_05c
@@ -53014,6 +53383,7 @@ hash	key(s)
 0xEFECF212	mp1_mpsv_premium_paid_122
 0xEFED7E84	mp1_ch_arc_cab_display_slot19
 0xEFF25F3B	imp_prop_impexp_clamp_02
+0xEFF352E5	biker_draw_0
 0xEFF4CD47	ms_fbi4_accuracy
 0xEFF569BF	sp1_rpg_ammo_bought
 0xEFF5A9F7	v_serv_metroelecpolestation
@@ -53046,6 +53416,7 @@ hash	key(s)
 0xF017467C	archenemy_kills
 0xF017500D	prop_rock_1_d
 0xF018E784	v_34_offoverlay
+0xF019D26C	dlc_mp_beach_f_lowr110
 0xF01A1992	mp1_tunerpstat_int76
 0xF01B8652	mp0_flaregun_deaths
 0xF01C1B4A	mp0_tunerpstat_int28
@@ -53373,6 +53744,7 @@ hash	key(s)
 0xF19F18D8	mp1_ngpstat_int32
 0xF1A26E18	mp1_tula_dualmg_enemy_kills
 0xF1A2FF99	ex_p_mp_door_apart_doorwhite01
+0xF1A35203	big_glasses
 0xF1A3AC71	vw_prop_vw_cinema_tv_01
 0xF1A5DE89	mp0_platinum_intchar_4
 0xF1A5E6DE	mp1_scarab_mg50_enemy_kills
@@ -53659,6 +54031,7 @@ hash	key(s)
 0xF2EB291F	v_8_spare1stuff
 0xF2EB8744	ms_finpc3_mod_gauntlet
 0xF2EBF978	v_ilev_gcshape_asssnip_25
+0xF2EC48D2	fake_hat
 0xF2F113ED	mp1_gangopspstat_int11
 0xF2F4326D	mp1_char_kit_21_fm_unlck
 0xF2F47DA7	w_lr_rpg
@@ -53699,6 +54072,7 @@ hash	key(s)
 0xF31989E3	mp0_ggsm_initials_7
 0xF319E3C4	mp1_akula_dturr_headshots
 0xF31CC7E0	mp0_menacer_turr_deaths
+0xF31CC8C5	smug_cloth
 0xF31D0BAF	prop_fnclink_09crnr1
 0xF32086F8	mp1_streetleginitials_3
 0xF3209354	mp1_fixerpstat_int123
@@ -53832,6 +54206,7 @@ hash	key(s)
 0xF3B0AF64	mp1_mc_race_objective_disabled
 0xF3B1DA5E	sum_mp_yacht_worldmap
 0xF3B2D58A	mp1_sparrow_mini_deaths
+0xF3B2E335	ie_cloth
 0xF3B38B02	prop_ball_box
 0xF3B3E801	mp0_bs_franklin_dialogue_0
 0xF3B59915	v_16_high_hall_over_dirt
@@ -53972,6 +54347,7 @@ hash	key(s)
 0xF44B0B49	mp0_mpsv_flags_29
 0xF44DDF59	nightclub_timer_7
 0xF44E3F0C	mp0_iap_score_7
+0xF44F85D4	heist_draw_15
 0xF4515C63	mp1_vehmine_enemy_kills
 0xF4532F83	mp0_bruiser_mg50_headshots
 0xF453AC86	sp1_number_crashes_quadbikes
@@ -53990,6 +54366,7 @@ hash	key(s)
 0xF45F0F3A	mp1_vehbomb_w_deaths
 0xF4614A77	sp2_weap_addon_purch_1
 0xF4622AEB	ms_ass3_mirror_cash
+0xF462D10F	crew_jacket
 0xF465790E	mp0_mpsv_impound_time_108
 0xF46594AD	mp0_tattoo_fm_alpha_3
 0xF466D73D	mp1_impexppstat_int561
@@ -54347,6 +54724,7 @@ hash	key(s)
 0xF5F36B3E	apa_mp_h_stn_foot_stool_01
 0xF5F3908B	xm_prop_vancrate_01a
 0xF5F40EEC	mp0_dlc12022pstat_int74
+0xF5F763DF	alt_special_6
 0xF5F7D20E	mp0_silver_intchar_3
 0xF5F8A394	mp1_vigilante_miss_kills
 0xF5FBEBC9	sp0_peds_kills_on_spree
@@ -54423,6 +54801,7 @@ hash	key(s)
 0xF65BF08F	tr_int1_mod_int_style_5
 0xF65D5AE4	mp1_time_underwater
 0xF65DD6C6	h4_prop_rock_lrg_10
+0xF65E5D17	biker_cloth
 0xF6611F6A	sp2_asltsmg_headshots
 0xF661547D	mpply_bg_script_int_44
 0xF6628BDD	mp0_apapstat_int6
@@ -54584,6 +54963,7 @@ hash	key(s)
 0xF71C9677	mp1_flashlight_kills
 0xF71E3328	prop_fire_hosereel
 0xF71F096C	prop_fnclink_08post
+0xF71F88DA	gun_draw_14
 0xF7207C09	mp0_money_earn_daily_objective
 0xF72131F9	mp1_mpsv_model_344
 0xF721E2B6	prop_tree_cedar_s_05
@@ -54626,6 +55006,7 @@ hash	key(s)
 0xF75B3B1B	mp0_helpdropzone
 0xF75BEB08	mp1_mpsv_vehicle_bs_243
 0xF75C49EE	mp1_dlc_apparel_used_8
+0xF75E1F71	draw_10
 0xF75E6544	prop_ex_hidden_g
 0xF75F6472	sp1_bullpup_hits
 0xF75F830D	mp0_char_current_health
@@ -55036,6 +55417,7 @@ hash	key(s)
 0xF96A2520	mp1_heist_cuts_done_ornate
 0xF96CE42A	mp0_scramjet_miss_heldtime
 0xF96DD20E	mp0_mpsv_lp0_352
+0xF971C8DA	draw_8
 0xF972F419	mp1_char_kit_40_fm_unlck
 0xF9734B34	mp1_dlc_apparel_used_253
 0xF97492BF	sum_mpapyacht_deck2_carpets
@@ -55058,6 +55440,7 @@ hash	key(s)
 0xF989B29D	hei_prop_hei_cash_trolly_02
 0xF989CEC4	mp1_mpsv_flags_106
 0xF989DB20	friends_controller
+0xF98B0B5D	loose_bowtie
 0xF98B3119	mp1_issi6_mg50_enemy_kills
 0xF98B9423	mp0_mpsv_lp0_99
 0xF98D8473	mp1_mpsv_premium_paid_113
@@ -55181,6 +55564,7 @@ hash	key(s)
 0xFA139AD8	mp0_pump_mk2_fm_ammo_bought
 0xFA157F2C	prop_snow_gate_farm_03
 0xFA173BE5	mp0_dailycollect_buriedstash1
+0xFA1863FC	biker_draw_25
 0xFA1892DC	lr_bobbleheadlightrig
 0xFA18F05B	mp1_mpsv_premium_paid_217
 0xFA1BA689	mp_sessions_started
@@ -55311,6 +55695,7 @@ hash	key(s)
 0xFAAE449A	mp1_mpsv_impound_time_325
 0xFAB08750	sp2_musket_headshots
 0xFAB1D7E8	v_16_low_lng_over_normal
+0xFAB1E872	biker_draw_9
 0xFAB2D8E8	ex_p_mp_door_apart_door_black
 0xFAB328EE	mp1_bikepstat_int143
 0xFAB42332	v_24_knt_mesh_mags
@@ -55447,6 +55832,7 @@ hash	key(s)
 0xFB4753CE	mp1_impexppstat_int140
 0xFB47CC4A	mp1_casinopstat_int108
 0xFB490597	mpply_current_crew_rank
+0xFB490FF9	dlc_mp_val_f_accs1_2
 0xFB494423	mp1_heist_mission_rcont_id_6
 0xFB4964CD	v_74_it3_cor1_mnds
 0xFB496984	mp0_gunrpstat_int11
@@ -55593,6 +55979,7 @@ hash	key(s)
 0xFBED41D8	w_ar_bullpupriflemk2_camo_ind1
 0xFBEEB0F7	mp1_businessbatpstat_int155
 0xFBEF26EC	mp0_warehouse_crates22
+0xFBEFAB7B	bulletproof
 0xFBF14ED6	mp1_dominator5_las_hits
 0xFBF21132	xs_propintarena_structure_c_01a
 0xFBF35AD6	mp1_mpsv_premium_paid_94
@@ -55659,6 +56046,7 @@ hash	key(s)
 0xFC310BFE	mp1_knuckle_deaths
 0xFC31160E	mp1_mpsv_model_2
 0xFC31F983	unlockindependence_beer_hat_5
+0xFC333FEA	block_scarfs
 0xFC36768D	hei_prop_heist_sec_door
 0xFC374B02	bkr_prop_coke_spatula_04
 0xFC3818C4	v_8_livstuff
@@ -55670,6 +56058,7 @@ hash	key(s)
 0xFC3F62A1	mp0_gangops_flow_impexp_num
 0xFC3FB67E	mp1_mpsv_impound_time_263
 0xFC43B487	prop_dock_sign_01
+0xFC44EFC4	x17_cloth
 0xFC45C263	sp1_pstat_int5
 0xFC46994E	sm_hanger_left_gantry
 0xFC46D7FE	mp0_mpsv_price_paid_116
@@ -55727,6 +56116,7 @@ hash	key(s)
 0xFC82E7DD	mp1_impexppstat_int420
 0xFC8394AC	prop_dumpster_02b
 0xFC8463D7	mp1_oppressor2_miss_deaths
+0xFC84B1EE	biker_draw_33
 0xFC858363	tr_prop_tr_v_door_disp_01a
 0xFC85EF85	mp0_barrage_r_mg_deaths
 0xFC85F283	mp1_businessbatpstat_int325
@@ -55753,6 +56143,7 @@ hash	key(s)
 0xFCA239B8	v_11_midrackingsection
 0xFCA3030C	mp1_casinopstat_int153
 0xFCA454B2	imp_prop_impexp_front_bars_01a
+0xFCA56A6C	has_alt_version
 0xFCA7308A	prop_mk_num_1
 0xFCA772CC	mpply_became_badsport_dt
 0xFCA8B981	mp1_businessbatpstat_int40
@@ -55763,6 +56154,7 @@ hash	key(s)
 0xFCAD8600	mp_most_friends_in_one_match
 0xFCAE20E0	mp0_tunerpstat_int102
 0xFCAE770A	mp1_terbyte_miss_deaths
+0xFCB05D9A	smug_draw_5
 0xFCB35C40	mp1_fixerpstat_int94
 0xFCB385B9	sp2_time_driving_quadbike
 0xFCB3C6BE	mp1_tula_mini_kills
@@ -56054,6 +56446,7 @@ hash	key(s)
 0xFE05BDC3	mp1_prcsrifle_fm_ammo_current
 0xFE0644F7	xs_prop_arena_turret_post_01a
 0xFE0714AA	mp0_arenagarage_mod_interiorc
+0xFE07FA71	high_waist
 0xFE0A508C	bombushka
 0xFE0C5288	mp0_iap_score_8
 0xFE0CAE77	sm_ramcom
@@ -56383,6 +56776,7 @@ hash	key(s)
 0xFF8AF3B8	mp0_apapstat_int58
 0xFF91E7BE	mpply_bg_script_int_14
 0xFF927889	mp1_technical2_turr_kills
+0xFF93855A	sweat_vest
 0xFF93AA35	prop_display_unit_01
 0xFF958462	prop_cctv_pole_03
 0xFF990A7F	mp1_buzzard_rocket_kills
