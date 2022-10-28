@@ -4,12 +4,14 @@ airtug
 alpha
 ambulance
 apc
+arbitergt
 ardent
 asbo
 asea
 asea2
 asterope
 astron
+astron2
 autarch
 baller
 baller2
@@ -123,6 +125,7 @@ corsita
 crusader
 cutter
 cyclone
+cyclone2
 cypher
 deity
 deluxo
@@ -223,6 +226,7 @@ hotring
 huntley
 hustler
 ignus
+ignus2
 imorgon
 impaler
 impaler2
@@ -411,6 +415,7 @@ rumpo2
 rumpo3
 ruston
 s80
+s95
 sabregt
 sabregt2
 sadler

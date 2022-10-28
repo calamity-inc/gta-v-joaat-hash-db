@@ -9732,6 +9732,7 @@ hash	key(s)
 0x17026804	dlc_mp_gr_f_torso_30_7
 0x17026B79	mp1_mpsv_impound_time_115
 0x1702CE19	prop_table_03
+0x170341C2	cyclone2
 0x17038825	dlc_mp_ie_f_special_4_0
 0x1703B4C8	sf_int1_lobby_chairs
 0x17057E20	femaleuppers_valentines2016_black_column_dress
@@ -24309,6 +24310,7 @@ hash	key(s)
 0x39052F2D	dlc_mp_fixer_f_jbib_9_24
 0x3906FA59	biker_disable_purchase_documents_2
 0x3907EA82	dlc_mp_luxe_m_teeth_7_1
+0x39085F47	ignus2
 0x39086E2A	mp0_mpsv_price_paid_315
 0x390890ED	mp1_arenawarspstat_int168
 0x39096C7D	mp0_mpsv_premium_paid_351
@@ -28886,6 +28888,7 @@ hash	key(s)
 0x438DA2BA	mp0_impexppstat_int177
 0x438DFCE7	dlc_mp_pilot_f_hand_8_25
 0x438E1985	sum_mp_h_acc_vase_05
+0x438F6593	s95
 0x4390C3E1	gb_belly_cooldown
 0x43917412	dlc_mp_gr_m_jbib_9_10
 0x4391CE65	dlc_mp_sum2_f_feet_4_0
@@ -39611,6 +39614,7 @@ hash	key(s)
 0x5C53530F	dlc_mp_luxe2_f_teeth_15_1
 0x5C53BDED	mp0_impexppstat_int449
 0x5C53C809	mp1_dlcsmugcharpstat_int149
+0x5C54030C	arbitergt
 0x5C55CB39	brioso
 0x5C55EAE9	impexp_lowers_white_leather_low_crotch_jeans
 0x5C55EB3A	dlc_mp_heist_m_berd_14_12
@@ -71512,6 +71516,7 @@ hash	key(s)
 0xA719D6DC	mp0_impexppstat_int432
 0xA71AD06E	dlc_mp_h3_f_outfit_jan_4
 0xA71CF87C	dlc_mp_vwd_f_jbib_6_19
+0xA71D0D4F	astron2
 0xA71D9E23	mp0_damage_scar_zone_13
 0xA71E51B5	dlc_mp_fixer_m_peyes_4_3
 0xA71E97A2	stt_prop_sign_circuit_11b
