@@ -13,6 +13,8 @@ hash,key
 0x0438A4AE,a_f_y_eastsa_02
 0x04430687,csb_car3guy1
 0x04498DDE,s_m_y_clown_01
+0x04757FEA,ig_nervousron_02
+0x04D2C4EC,g_m_m_friedlandergoons_01
 0x0609B130,cs_tracydisanto
 0x062547E7,cs_floyd
 0x068C3112,s_m_m_autoshop_03
@@ -122,6 +124,7 @@ hash,key
 0x24604B2B,u_m_y_chip
 0x246AF208,ig_agent
 0x247502A9,g_m_y_korean_01
+0x24F8ACE6,g_m_m_fooliganz_01
 0x25305EEE,a_m_y_runner_01
 0x267630FE,ig_popov
 0x26A562B7,ig_ortega
@@ -144,6 +147,7 @@ hash,key
 0x2A797197,u_m_m_edtoh
 0x2AD8921B,a_m_o_soucent_01
 0x2B6E1BB6,u_m_m_filmdirector
+0x2B94B98E,cs_nervousron_02
 0x2BACC2DB,u_m_o_filmnoir
 0x2BC9001C,csb_security_a
 0x2BE886B2,ig_vincent
@@ -204,6 +208,7 @@ hash,key
 0x380C4DE6,ig_rashcosvki
 0x382121C8,ig_stevehains
 0x38430167,mp_m_marston_01
+0x384D56FC,ig_fooliganz_02
 0x3862EEA8,ig_mrsphillips
 0x389258FE,csb_drugdealer
 0x38951A1B,cs_lazlow
@@ -246,6 +251,7 @@ hash,key
 0x4186506E,mp_m_weapwork_01
 0x418DFF92,s_m_m_hairdress_01
 0x42107CA3,ig_warehouseboss
+0x429D6FF3,csb_dax
 0x42FE5370,cs_tanisha
 0x431D501C,a_c_poodle
 0x431FC24C,a_c_shepherd
@@ -288,6 +294,7 @@ hash,key
 0x49EADBF6,ig_chef
 0x49FEC1F9,ig_djsolfotios
 0x4A8E5536,s_f_y_baywatch_01
+0x4B2B9D79,a_f_m_genstreet_01
 0x4B64199D,a_m_y_vinewood_01
 0x4B652906,a_m_y_musclbeac_01
 0x4B657AF8,mp_f_cocaine_01
@@ -309,12 +316,14 @@ hash,key
 0x4F3FBA06,g_m_y_pologoon_01
 0x4F46D607,g_m_y_lost_01
 0x4F921E6E,cs_mrs_thornhill
+0x50262DB9,ig_furry
 0x5048B328,u_m_y_paparazzi
 0x505603B9,a_f_m_tourist_01
 0x50610C43,a_f_y_femaleagent
 0x5076A73B,s_m_y_blackops_03
 0x50F73C0C,a_m_y_hiker_01
 0x51C03FA4,a_f_y_eastsa_03
+0x51D861F2,csb_luchadora
 0x52060D92,s_m_m_bouncer_02
 0x5244247D,u_m_y_baygor
 0x52580019,s_f_y_stripper_01
@@ -349,12 +358,14 @@ hash,key
 0x5816C61A,cs_magenta
 0x585C0B52,cs_fbisuit_01
 0x58D696FE,s_m_y_marine_02
+0x58E45333,csb_labrat
 0x59511A6C,s_m_m_trucker_01
 0x5972CCF0,mp_f_execpa_02
 0x59C62B90,ig_taocheng2
 0x5A185477,ig_tylerdix_02
 0x5A8EF9CF,a_f_y_soucent_02
 0x5AA42C21,g_f_y_vagos_01
+0x5AA61D4E,ig_gunvanseller
 0x5B1FA0C3,csb_paige
 0x5B3BD90D,ig_kerrymcintosh
 0x5B44892C,cs_hunter
@@ -363,6 +374,7 @@ hash,key
 0x5C26040A,cs_tenniscoach
 0x5C2CF7F8,a_f_y_bevhills_02
 0x5C366C83,s_m_m_drugprocess_01
+0x5C9D564B,a_c_rabbit_02
 0x5CDEF405,mp_m_fibsec_01
 0x5D0C5325,a_m_m_mlcrisis_01
 0x5D15BD00,a_m_y_vinewood_02
@@ -471,6 +483,7 @@ hash,key
 0x77FE10A4,ig_lestercrest_3
 0x780C01BD,s_f_y_bartender_01
 0x781A3CF8,mp_f_forgery_01
+0x783BC80F,ig_hippyleader
 0x784F9C95,ig_mimi
 0x787FA588,a_m_m_beach_02
 0x7896DA94,cs_nervousron
@@ -491,6 +504,7 @@ hash,key
 0x7DC3908F,u_m_y_justin
 0x7DD8FB58,a_f_y_golfer_01
 0x7E0961B8,a_m_y_beachvesp_01
+0x7E0C64AA,a_c_chimp_02
 0x7E4F763F,g_m_m_chigoon_01
 0x7E5F1188,csb_golfer_a
 0x7E6A64B7,a_m_m_business_01
@@ -518,6 +532,7 @@ hash,key
 0x84302B09,g_m_y_famfor_01
 0x843D9D0F,a_m_y_runner_02
 0x84A1B11A,g_f_importexport_01
+0x84DBF6C1,csb_chef_03
 0x84F9E937,ig_car3guy1
 0x8502B6B2,s_f_y_sweatshop_01
 0x850446EC,ig_lazlow_2
@@ -625,9 +640,12 @@ hash,key
 0x9FC37F22,s_m_m_ups_01
 0x9FC7F637,s_f_y_ranger_01
 0x9FD4292D,s_m_m_bouncer_01
+0x9FDD5DD2,ig_labrat
 0xA039335F,a_f_m_bevhills_02
+0xA07FED91,ig_drfriedlander_02
 0xA0FDA755,csb_mjo
 0xA1435105,a_m_y_business_03
+0xA143CBCD,g_f_m_fooliganz_01
 0xA148614D,a_c_stingray
 0xA20899E7,u_f_m_promourn_01
 0xA217F345,s_m_y_westsec_01
@@ -728,6 +746,7 @@ hash,key
 0xBCA2CCEA,g_m_importexport_01
 0xBCC475CB,csb_maude
 0xBD006AF1,ig_nervousron
+0xBD66A514,cs_drfriedlander_02
 0xBD7713C6,csb_vernon
 0xBDA21E5C,ig_beverly
 0xBDBB4922,ig_brad
@@ -825,6 +844,7 @@ hash,key
 0xD2B27EC1,mp_f_meth_01
 0xD2E3A284,u_f_y_princess
 0xD303008B,g_m_m_genthug_01
+0xD32EEFAD,u_m_m_yulemonster
 0xD3939DFD,a_c_seagull
 0xD3BAC7E0,csb_sessanta
 0xD47303AC,s_m_m_doctor_01
@@ -843,6 +863,7 @@ hash,key
 0xD85E6D28,s_m_m_movprem_01
 0xD86B5A95,a_c_deer
 0xD8F9CD47,s_m_y_busboy_01
+0xD94DFFEA,a_m_m_bankrobber_01
 0xD9D7588C,a_m_m_skater_01
 0xDA116E7E,u_m_y_babyd
 0xDA2C984E,mp_m_securoguard_01
@@ -857,6 +878,7 @@ hash,key
 0xDB9C0997,s_m_m_linecook
 0xDBB17082,csb_miguelmadrazo
 0xDBCB9834,cs_clay
+0xDBD333D9,s_m_m_hazmatworker_01
 0xDC59940D,u_m_y_pogo_01
 0xDC5C5EA5,ig_taocheng
 0xDCB110B0,csb_jio_02
@@ -887,6 +909,7 @@ hash,key
 0xE1AB915C,ig_sol
 0xE2210515,a_m_y_clubcust_04
 0xE2A32E68,ig_isldj_00
+0xE313AC8A,ig_fooliganz_01
 0xE3420BDB,csb_imran
 0xE3A30BBF,s_m_m_studioprod_01
 0xE433179F,ig_taostranslator2
@@ -942,6 +965,7 @@ hash,key
 0xF0D4BE2E,u_f_y_jewelass_01
 0xF0EC56E2,u_m_m_aldinapoli
 0xF161D212,s_m_m_highsec_01
+0xF16844EC,ig_dax
 0xF1BCA919,ig_malc
 0xF1E823A2,g_m_m_armboss_01
 0xF2DAA2ED,s_m_m_marine_01
@@ -955,11 +979,14 @@ hash,key
 0xF6157D8F,g_m_m_chemwork_01
 0xF63DE8E1,s_m_m_pilot_02
 0xF64ED7D0,csb_ramp_mex
+0xF6B39BD3,ig_chef_03
 0xF6D1E04E,cs_solomon
 0xF70EC5C4,a_m_m_tranvest_02
 0xF760D12C,u_m_y_caleb
 0xF7A74139,mp_m_waremech_01
 0xF8056A75,u_m_m_curtis
+0xF82E3A89,ig_luchadora
+0xF977B829,ig_acidlabcook
 0xF9A6F53F,a_m_m_eastsa_01
 0xF9AB1C8B,u_m_o_dean
 0xF9FD068C,ig_vagspeak

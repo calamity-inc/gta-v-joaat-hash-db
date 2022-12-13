@@ -2,6 +2,7 @@ a_c_boar
 a_c_cat_01
 a_c_chickenhawk
 a_c_chimp
+a_c_chimp_02
 a_c_chop
 a_c_chop_02
 a_c_cormorant
@@ -22,6 +23,7 @@ a_c_pigeon
 a_c_poodle
 a_c_pug
 a_c_rabbit_01
+a_c_rabbit_02
 a_c_rat
 a_c_retriever
 a_c_rhesus
@@ -44,6 +46,7 @@ a_f_m_fatbla_01
 a_f_m_fatcult_01
 a_f_m_fatwhite_01
 a_f_m_genbiker_01
+a_f_m_genstreet_01
 a_f_m_ktown_01
 a_f_m_ktown_02
 a_f_m_prolhost_01
@@ -116,6 +119,7 @@ a_f_y_vinewood_04
 a_f_y_yoga_01
 a_m_m_acult_01
 a_m_m_afriamer_01
+a_m_m_bankrobber_01
 a_m_m_beach_01
 a_m_m_beach_02
 a_m_m_bevhills_01
@@ -272,6 +276,7 @@ cs_devin
 cs_dom
 cs_dreyfuss
 cs_drfriedlander
+cs_drfriedlander_02
 cs_fabien
 cs_fbisuit_01
 cs_floyd
@@ -311,6 +316,7 @@ cs_mrs_thornhill
 cs_mrsphillips
 cs_natalia
 cs_nervousron
+cs_nervousron_02
 cs_nigel
 cs_old_man1a
 cs_old_man2
@@ -362,10 +368,12 @@ csb_car3guy2
 csb_celeb_01
 csb_chef
 csb_chef2
+csb_chef_03
 csb_chin_goon
 csb_cletus
 csb_cop
 csb_customer
+csb_dax
 csb_denise_friend
 csb_dix
 csb_djblamadon
@@ -398,6 +406,8 @@ csb_jio
 csb_jio_02
 csb_johnny_guns
 csb_juanstrickler
+csb_labrat
+csb_luchadora
 csb_maude
 csb_miguelmadrazo
 csb_mimi
@@ -449,6 +459,7 @@ csb_vincent
 csb_vincent_2
 csb_wendy
 g_f_importexport_01
+g_f_m_fooliganz_01
 g_f_y_ballas_01
 g_f_y_families_01
 g_f_y_lost_01
@@ -465,6 +476,8 @@ g_m_m_chiboss_01
 g_m_m_chicold_01
 g_m_m_chigoon_01
 g_m_m_chigoon_02
+g_m_m_fooliganz_01
+g_m_m_friedlandergoons_01
 g_m_m_genthug_01
 g_m_m_goons_01
 g_m_m_korboss_01
@@ -502,6 +515,7 @@ hc_driver
 hc_gunman
 hc_hacker
 ig_abigail
+ig_acidlabcook
 ig_agatha
 ig_agent
 ig_agent_02
@@ -531,6 +545,7 @@ ig_casey
 ig_celeb_01
 ig_chef
 ig_chef2
+ig_chef_03
 ig_chengsr
 ig_chrisformage
 ig_clay
@@ -538,6 +553,7 @@ ig_claypain
 ig_cletus
 ig_dale
 ig_davenorton
+ig_dax
 ig_denise
 ig_devin
 ig_dix
@@ -557,6 +573,7 @@ ig_djtalignazio
 ig_dom
 ig_dreyfuss
 ig_drfriedlander
+ig_drfriedlander_02
 ig_drugdealer
 ig_englishdave
 ig_englishdave_02
@@ -565,15 +582,20 @@ ig_entourage_b
 ig_fabien
 ig_fbisuit_01
 ig_floyd
+ig_fooliganz_01
+ig_fooliganz_02
+ig_furry
 ig_g
 ig_georginacheng
 ig_golfer_a
 ig_golfer_b
 ig_groom
+ig_gunvanseller
 ig_gustavo
 ig_hao
 ig_hao_02
 ig_helmsmanpavel
+ig_hippyleader
 ig_huang
 ig_hunter
 ig_imani
@@ -605,6 +627,7 @@ ig_karen_daniels
 ig_kaylee
 ig_kerrymcintosh
 ig_kerrymcintosh_02
+ig_labrat
 ig_lacey_jones_02
 ig_lamardavis
 ig_lamardavis_02
@@ -616,6 +639,7 @@ ig_lestercrest_3
 ig_lifeinvad_01
 ig_lifeinvad_02
 ig_lildee
+ig_luchadora
 ig_magenta
 ig_malc
 ig_manuel
@@ -639,6 +663,7 @@ ig_mrsphillips
 ig_musician_00
 ig_natalia
 ig_nervousron
+ig_nervousron_02
 ig_nigel
 ig_old_man1a
 ig_old_man2
@@ -803,6 +828,7 @@ s_m_m_gaffer_01
 s_m_m_gardener_01
 s_m_m_gentransport
 s_m_m_hairdress_01
+s_m_m_hazmatworker_01
 s_m_m_highsec_01
 s_m_m_highsec_02
 s_m_m_highsec_03
@@ -946,6 +972,7 @@ u_m_m_spyactor
 u_m_m_streetart_01
 u_m_m_vince
 u_m_m_willyfist
+u_m_m_yulemonster
 u_m_o_dean
 u_m_o_filmnoir
 u_m_o_finguru_01

@@ -1844,6 +1844,7 @@ hash	key(s)
 0x0473D4E4	mp0_mpsv_price_paid_48
 0x04742187	dlc_mp_gr_m_berd_1_10
 0x04746B2F	dlc_mp_stunt_f_phead_15_13
+0x04757FEA	ig_nervousron_02
 0x0475A3E8	iindividual_weapon_sale_hash_labels_55
 0x04765251	biker_disable_hit_and_ride_se
 0x04767B3C	mp1_impexppstat_int234
@@ -2026,6 +2027,7 @@ hash	key(s)
 0x04D14AB3	male_uppers_gray_football_shirt
 0x04D2452D	vc_red_retro_sneakers
 0x04D29792	discount_male_helmets_skull_helmet
+0x04D2C4EC	g_m_m_friedlandergoons_01
 0x04D30170	enable_vehicle_kanjo
 0x04D30A9C	mp1_tunerpstat_int66
 0x04D39E41	mp0_admin_clothes_gv_bs_44
@@ -15745,6 +15747,7 @@ hash	key(s)
 0x24F76895	mp0_lrpstat_int162
 0x24F7F568	gr_prop_inttruck_light_co_w_br
 0x24F896BA	mp1_mpsv_impound_time_342
+0x24F8ACE6	g_m_m_fooliganz_01
 0x24F8FCC5	discount_female_uppers_prison_bitches_racerback
 0x24F9AF65	dlc_mp_ie_f_jbib_4_25
 0x24F9B6D4	biker_website_western_nightblade
@@ -18546,6 +18549,7 @@ hash	key(s)
 0x2B9212AF	dlc_mp_bh_m_jbib_9_11
 0x2B921613	dlc_mp_h3_m_phead_1_2
 0x2B922BFE	dlc_mp_sum_m_jbib_14_20
+0x2B94B98E	cs_nervousron_02
 0x2B950C72	dlc_mp_h3_m_outfit_dl_24
 0x2B955D9A	h2_replay_cooldown_3_player_iaa
 0x2B96D271	prop_billb_frame04a
@@ -23990,6 +23994,7 @@ hash	key(s)
 0x38493DB9	mp0_dlc_apparel_used_249
 0x384C02EF	sf_int1_ledpanel016
 0x384C4BC8	mp0_impexppstat_int197
+0x384D56FC	ig_fooliganz_02
 0x384D60EF	sum_street_wheel_organic_type_ii
 0x384E6AFD	mp0_minitank_rk_kills
 0x384EC044	dlc_mp_gr_f_feet_3_0
@@ -28505,6 +28510,7 @@ hash	key(s)
 0x429916E0	mp1_dlcsmugcharpstat_int124
 0x429A5DE0	times_m_init_t_bbuddy
 0x429A78F3	dlc_mp_val_f_accs0_2
+0x429D6FF3	csb_dax
 0x429D787A	mp1_dg_penetrator_initials_4
 0x429EB859	mp0_impexppstat_int16
 0x429F540E	bkr_prop_fakeid_laminator
@@ -32202,6 +32208,7 @@ hash	key(s)
 0x4B2A0EFD	mp1_clths_acquired_jbib_7
 0x4B2A8870	dlc_mp_biker_m_special_3_3
 0x4B2B2C07	vc_sale_price_zorrusso
+0x4B2B9D79	a_f_m_genstreet_01
 0x4B2BC684	mp0_warehouse_crates17
 0x4B2C6747	cap_for_exploit_level_7
 0x4B2C8168	mp1_apapstat_int76
@@ -34330,6 +34337,7 @@ hash	key(s)
 0x5024671A	mp0_shatchet_fm_ammo_current
 0x5024F460	sp1_kills_stealth
 0x50262621	h4_mp_h_yacht_table_lamp_02
+0x50262DB9	ig_furry
 0x50268E70	v_31_walltext025
 0x5026C618	sum_female_blue_slacks
 0x502A4ACF	dlc_hipster_peace
@@ -35064,6 +35072,7 @@ hash	key(s)
 0x51D7BD2E	mp1_cerberus3_flame_heldtime
 0x51D7D14F	dlc_mp_gr_m_legs_2_1
 0x51D83328	warrener
+0x51D861F2	csb_luchadora
 0x51D9351F	w_pi_sns_pistolmk2_camo5
 0x51D99014	tattoo_love_hustle
 0x51D9C9C0	prop_abat_roller_static
@@ -38109,6 +38118,7 @@ hash	key(s)
 0x58E36DA8	male_uppers_white_68_football_shirt
 0x58E3A8C0	dlc_mp_fixer_m_legs_5_12
 0x58E3B977	mp1_dlcsmugcharpstat_int6
+0x58E45333	csb_labrat
 0x58E49664	forklift
 0x58E52466	dlc_mp_pilot_m_hand_8_8
 0x58E63E5E	smug_male_and_female_uppers_red_guffy_shortsleeve
@@ -38881,6 +38891,7 @@ hash	key(s)
 0x5AA53948	vw_aw_wh_13
 0x5AA545FF	w_ar_carbineriflemk2
 0x5AA589FB	dlc_mp_x17_f_feet_2_22
+0x5AA61D4E	ig_gunvanseller
 0x5AA66153	mp1_zr380_mg50_headshots
 0x5AA6E8E6	dlc_mp_h4_f_berd_0_12
 0x5AA70FA3	dlc_mp_sum2_m_feet_2_10
@@ -39741,6 +39752,7 @@ hash	key(s)
 0x5C9C3AEB	dlc_mp_ie_f_jbib_18_1
 0x5C9C42B4	prop_tea_trolly
 0x5C9C9885	open_collar
+0x5C9D564B	a_c_rabbit_02
 0x5C9D58CF	lts_f_the_heavy_urban
 0x5C9E53E5	mp0_technical3_turr_hits
 0x5C9E7FD1	enable_biker_youga2_posix
@@ -51524,6 +51536,7 @@ hash	key(s)
 0x783A7783	arena_clothes_alien_retro_7
 0x783AAD62	vw_aw_wv_34
 0x783B3140	fm_corona_playlist_root_content_id_1
+0x783BC80F	ig_hippyleader
 0x783C07DB	dlc_mp_tuner_m_jbib_9_4
 0x783D3EA9	mp0_mpsv_price_paid_67
 0x783D7451	prop_patio_lounger_3
@@ -53932,6 +53945,7 @@ hash	key(s)
 0x7E0A832B	biker_countercash_staff_cost
 0x7E0BA55E	mp0_h3opt_modveh
 0x7E0C21CA	mp0_mpsv_model_202
+0x7E0C64AA	a_c_chimp_02
 0x7E0DD28B	mp1_clbhos_emblem
 0x7E0EC521	sp2_weap_unlock_1
 0x7E0F8F5C	fm_corona_playlist_professional_vecotr_x_id_4_0
@@ -56821,6 +56835,7 @@ hash	key(s)
 0x84DB1485	stunt_female_outfits_blue_stuntman_suit
 0x84DB90B8	dlc_mp_heist_f_feet_1_0
 0x84DBD000	dlc_mp_arena_m_feet_11_4
+0x84DBF6C1	csb_chef_03
 0x84DC5B0B	dlc_mp_tuner_f_jbib_12_4
 0x84DD4AAE	dlc_mp_low2_m_jbib_5_7
 0x84DD72C8	mp1_impexppstat_int438
@@ -68448,6 +68463,7 @@ hash	key(s)
 0x9FDB74E1	prop_cs_gravyard_gate_r
 0x9FDB7FB3	dlc_mp_ie_m_berd_0_5
 0x9FDD3BF0	bkr_prop_coke_scale_02
+0x9FDD5DD2	ig_labrat
 0x9FDD8A92	xm_prop_lab_tube_lampb
 0x9FDDF385	dlc_mp_fixer_f_jbib_2_0
 0x9FDE6B22	dlc_mp_h3_m_jbib_11_11
@@ -68724,6 +68740,7 @@ hash	key(s)
 0xA07EC107	dlc_mp_h4_f_hand_3_12
 0xA07F8059	mp0_pistoltracerammobought
 0xA07FA764	v_61_ktn_over_normal
+0xA07FED91	ig_drfriedlander_02
 0xA080C593	mp0_hvysniper_aquired_as_gift
 0xA080DE5A	mp0_lrpstat_int195
 0xA081321F	mp0_prop_nightclub
@@ -69058,6 +69075,7 @@ hash	key(s)
 0xA1435105	a_m_y_business_03
 0xA143542F	dlc_mp_bh_m_special_3_13
 0xA1439E77	mp1_lifetime_bkr_sel_undertabc2
+0xA143CBCD	g_f_m_fooliganz_01
 0xA144C914	dlc_mp_sum2_f_legs_2_11
 0xA1471376	mp1_bikepstat_int70
 0xA147972D	dlc_mp_sum_f_special_1_10
@@ -81152,6 +81170,7 @@ hash	key(s)
 0xBD65E3C8	gr_dlc_gr_yacht_props_glass_09
 0xBD661BED	mp0_mpsv_lp0_92
 0xBD665F5E	dlc_mp_ind_m_teeth_0_2
+0xBD66A514	cs_drfriedlander_02
 0xBD66EBB7	dlc_mp_ind_m_berd_0_0
 0xBD6708E9	overtime_5_new_vs
 0xBD688DC0	luxe1_male_uppers_color_geo_prb_t_shirt
@@ -90417,6 +90436,7 @@ hash	key(s)
 0xD32DDE72	mp1_mpsv_vehicle_bs_99
 0xD32DE209	mp0_minismg_fm_ammo_current
 0xD32EC1C8	mp0_mpsv_model_338
+0xD32EEFAD	u_m_m_yulemonster
 0xD32F0F45	epsilon5
 0xD32F8F53	prop_ped_pic_04
 0xD32FDC27	dlc_mp_arena_m_berd_0_6
@@ -93060,6 +93080,7 @@ hash	key(s)
 0xD94A6A1E	mp1_mpsv_lp0_122
 0xD94AECBC	dlc_mp_ie_f_special_12_13
 0xD94D23BC	hipster_male_outfit_the_pop_up
+0xD94DFFEA	a_m_m_bankrobber_01
 0xD94EDC7D	malepants_navy_continental_pants
 0xD94EFBBA	dlc_mp_gr_m_torso_2_16
 0xD95051B7	mp0_awd_parachute_jumps_50m
@@ -94114,6 +94135,7 @@ hash	key(s)
 0xDBD1B66B	h4_prop_h4_door_01a
 0xDBD2728B	halloween_2015_dead_butler
 0xDBD295EE	mp1_time_driving_submarine
+0xDBD333D9	s_m_m_hazmatworker_01
 0xDBD33726	ms_mic2_waypoint_used
 0xDBD3FCA4	dlc_mp_arena_f_berd_9_0
 0xDBD444FE	biker_mc_points_kill_bounty
@@ -97283,6 +97305,7 @@ hash	key(s)
 0xE30F2CB3	dlc_mp_vwd_m_jbib_6_25
 0xE310A0C7	luxe1_male_accessories_platinum_noir_square_studl
 0xE311077A	dlc_mp_gr_m_jbib_15_18
+0xE313AC8A	ig_fooliganz_01
 0xE313D0E1	dlc_mp_busi_m_legs1_10
 0xE3149330	carmod_unlock_stocktires_expenditure_tunable_sport
 0xE3156811	mpply_bronze_intply_0
@@ -103462,6 +103485,7 @@ hash	key(s)
 0xF166B3CD	ex_cash_scatter_02
 0xF1672499	fixer_black_splinter_straight_chinos
 0xF16761C9	dlc_mp_smug_m_jbib_7_6
+0xF16844EC	ig_dax
 0xF16A99AE	mp0_rankap_unlk_3
 0xF16B0B6E	mp1_arn_w_ctf
 0xF16BE089	gr_both_genders_bandolier
@@ -105758,6 +105782,7 @@ hash	key(s)
 0xF6B1CC3A	dlc_mp_smug_m_phead_2_8
 0xF6B262B5	dlc_mp_bh_f_jbib_6_7
 0xF6B2AB20	smug_male_and_female_balaclavas_gray_woodland_knit
+0xF6B39BD3	ig_chef_03
 0xF6B4932A	sp2_cmbtmg_headshots
 0xF6B49CAE	prop_cctv_unit_02
 0xF6B4A1CB	vw_prop_art_wall_segment_02b
@@ -106356,6 +106381,7 @@ hash	key(s)
 0xF82CB891	mp1_mpsv_vehicle_bs_328
 0xF82D2DD3	v_73_off_st1_ref
 0xF82D5906	turn_on_gangops_facepaint
+0xF82E3A89	ig_luchadora
 0xF82F73AD	cities_passed
 0xF830B63E	prop_swiss_ball_01
 0xF8312162	mp1_arena_hm_heldtime
@@ -106862,6 +106888,7 @@ hash	key(s)
 0xF9758C9B	mp1_gbteltotal_time_boss
 0xF9758E9C	discount_male_feet_hinterland_ash_boots
 0xF977A5DD	dt1_lod_slod3
+0xF977B829	ig_acidlabcook
 0xF97807C6	bkr_prop_biker_bowlpin_stand
 0xF97840AF	gr_steal_van_steal_van_weighting
 0xF979CF5E	dlc_mp_smug_m_berd_6_3

@@ -13,6 +13,8 @@ hash,key
 70821038,a_f_y_eastsa_02
 71501447,csb_car3guy1
 71929310,s_m_y_clown_01
+74809322,ig_nervousron_02
+80921836,g_m_m_friedlandergoons_01
 101298480,cs_tracydisanto
 103106535,cs_floyd
 109850898,s_m_m_autoshop_03
@@ -122,6 +124,7 @@ hash,key
 610290475,u_m_y_chip
 610988552,ig_agent
 611648169,g_m_y_korean_01
+620276966,g_m_m_fooliganz_01
 623927022,a_m_y_runner_01
 645279998,ig_popov
 648372919,ig_ortega
@@ -144,6 +147,7 @@ hash,key
 712602007,u_m_m_edtoh
 718836251,a_m_o_soucent_01
 728636342,u_m_m_filmdirector
+731167118,cs_nervousron_02
 732742363,u_m_o_filmnoir
 734593052,csb_security_a
 736659122,ig_vincent
@@ -204,6 +208,7 @@ hash,key
 940330470,ig_rashcosvki
 941695432,ig_stevehains
 943915367,mp_m_marston_01
+944592636,ig_fooliganz_02
 946007720,ig_mrsphillips
 949115134,csb_drugdealer
 949295643,cs_lazlow
@@ -246,6 +251,7 @@ hash,key
 1099321454,mp_m_weapwork_01
 1099825042,s_m_m_hairdress_01
 1108376739,ig_warehouseboss
+1117614067,csb_dax
 1123963760,cs_tanisha
 1125994524,a_c_poodle
 1126154828,a_c_shepherd
@@ -288,6 +294,7 @@ hash,key
 1240128502,ig_chef
 1241432569,ig_djsolfotios
 1250841910,s_f_y_baywatch_01
+1261149561,a_f_m_genstreet_01
 1264851357,a_m_y_vinewood_01
 1264920838,a_m_y_musclbeac_01
 1264941816,mp_f_cocaine_01
@@ -309,12 +316,14 @@ hash,key
 1329576454,g_m_y_pologoon_01
 1330042375,g_m_y_lost_01
 1334976110,cs_mrs_thornhill
+1344679353,ig_furry
 1346941736,u_m_y_paparazzi
 1347814329,a_f_m_tourist_01
 1348537411,a_f_y_femaleagent
 1349953339,s_m_y_blackops_03
 1358380044,a_m_y_hiker_01
 1371553700,a_f_y_eastsa_03
+1373135346,csb_luchadora
 1376128402,s_m_m_bouncer_02
 1380197501,u_m_y_baygor
 1381498905,s_f_y_stripper_01
@@ -349,12 +358,14 @@ hash,key
 1477887514,cs_magenta
 1482427218,cs_fbisuit_01
 1490458366,s_m_y_marine_02
+1491358515,csb_labrat
 1498487404,s_m_m_trucker_01
 1500695792,mp_f_execpa_02
 1506159504,ig_taocheng2
 1511543927,ig_tylerdix_02
 1519319503,a_f_y_soucent_02
 1520708641,g_f_y_vagos_01
+1520835918,ig_gunvanseller
 1528799427,csb_paige
 1530648845,ig_kerrymcintosh
 1531218220,cs_hunter
@@ -363,6 +374,7 @@ hash,key
 1545995274,cs_tenniscoach
 1546450936,a_f_y_bevhills_02
 1547070595,s_m_m_drugprocess_01
+1553815115,a_c_rabbit_02
 1558115333,mp_m_fibsec_01
 1561088805,a_m_m_mlcrisis_01
 1561705728,a_m_y_vinewood_02
@@ -471,6 +483,7 @@ hash,key
 2013139108,ig_lestercrest_3
 2014052797,s_f_y_bartender_01
 2014985464,mp_f_forgery_01
+2017183759,ig_hippyleader
 2018483349,ig_mimi
 2021631368,a_m_m_beach_02
 2023152276,cs_nervousron
@@ -491,6 +504,7 @@ hash,key
 2109968527,u_m_y_justin
 2111372120,a_f_y_golfer_01
 2114544056,a_m_y_beachvesp_01
+2114741418,a_c_chimp_02
 2119136831,g_m_m_chigoon_01
 2120159624,csb_golfer_a
 2120901815,a_m_m_business_01
@@ -518,6 +532,7 @@ hash,key
 -2077218039,g_m_y_famfor_01
 -2076336881,a_m_y_runner_02
 -2069778150,g_f_importexport_01
+-2065959231,csb_chef_03
 -2063996617,ig_car3guy1
 -2063419726,s_f_y_sweatshop_01
 -2063317268,ig_lazlow_2
@@ -625,9 +640,12 @@ hash,key
 -1614577886,s_m_m_ups_01
 -1614285257,s_f_y_ranger_01
 -1613485779,s_m_m_bouncer_01
+-1612882478,ig_labrat
 -1606864033,a_f_m_bevhills_02
+-1602228847,ig_drfriedlander_02
 -1593989291,csb_mjo
 -1589423867,a_m_y_business_03
+-1589392435,g_f_m_fooliganz_01
 -1589092019,a_c_stingray
 -1576494617,u_f_m_promourn_01
 -1575488699,s_m_y_westsec_01
@@ -728,6 +746,7 @@ hash,key
 -1130181398,g_m_importexport_01
 -1127975477,csb_maude
 -1124046095,ig_nervousron
+-1117346540,cs_drfriedlander_02
 -1116269626,csb_vernon
 -1113448868,ig_beverly
 -1111799518,ig_brad
@@ -825,6 +844,7 @@ hash,key
 -760054079,mp_f_meth_01
 -756833660,u_f_y_princess
 -754777973,g_m_m_genthug_01
+-751898707,u_m_m_yulemonster
 -745300483,a_c_seagull
 -742733856,csb_sessanta
 -730659924,s_m_m_doctor_01
@@ -843,6 +863,7 @@ hash,key
 -664900312,s_m_m_movprem_01
 -664053099,a_c_deer
 -654717625,s_m_y_busboy_01
+-649199638,a_m_m_bankrobber_01
 -640198516,a_m_m_skater_01
 -636391810,u_m_y_babyd
 -634611634,mp_m_securoguard_01
@@ -857,6 +878,7 @@ hash,key
 -610530921,s_m_m_linecook
 -609128318,csb_miguelmadrazo
 -607414220,cs_clay
+-606915623,s_m_m_hazmatworker_01
 -598109171,u_m_y_pogo_01
 -597926235,ig_taocheng
 -592375632,csb_jio_02
@@ -887,6 +909,7 @@ hash,key
 -508849828,ig_sol
 -501152491,a_m_y_clubcust_04
 -492622232,ig_isldj_00
+-485249910,ig_fooliganz_01
 -482210853,csb_imran
 -475853889,s_m_m_studioprod_01
 -466413665,ig_taostranslator2
@@ -942,6 +965,7 @@ hash,key
 -254493138,u_f_y_jewelass_01
 -252946718,u_m_m_aldinapoli
 -245247470,s_m_m_highsec_01
+-244824852,ig_dax
 -239294183,ig_malc
 -236444766,g_m_m_armboss_01
 -220552467,s_m_m_marine_01
@@ -955,11 +979,14 @@ hash,key
 -166363761,g_m_m_chemwork_01
 -163714847,s_m_m_pilot_02
 -162605104,csb_ramp_mex
+-156001325,ig_chef_03
 -154017714,cs_solomon
 -150026812,a_m_m_tranvest_02
 -144649940,u_m_y_caleb
 -140033735,mp_m_waremech_01
 -133862795,u_m_m_curtis
+-131188087,ig_luchadora
+-109594583,ig_acidlabcook
 -106498753,a_m_m_eastsa_01
 -106226549,u_m_o_dean
 -100858228,ig_vagspeak
