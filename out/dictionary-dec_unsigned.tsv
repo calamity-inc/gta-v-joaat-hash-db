@@ -2299,6 +2299,7 @@ hash	key(s)
 91541528	reh_prop_reh_supply_caps_01a
 91564889	prop_fnclink_02gate7
 91583425	mp1_personal_vehicle_access
+91623251	juggalo_hideout_carmod
 91623956	dlc_mp_biker_f_jbib_31_3
 91755370	dlc_mp_low2_m_jbib_1_9
 91785083	discount_female_feet_baby_blue_platforms
@@ -5038,6 +5039,7 @@ hash	key(s)
 200646147	sp1_knife_heldtime
 200693988	discount_male_lowers_gray_fitted
 200709636	stt_prop_tyre_wall_0l04
+200741039	fm_content_drug_lab_work
 200784038	mp1_streetleginitials_4
 200799052	dlc_mp_luxe2_m_pleft_wrist_5_0
 200846641	prop_fire_hydrant_1
@@ -17671,6 +17673,7 @@ hash	key(s)
 693040982	land_grab_6_new_vs
 693084239	mp0_mpsv_price_paid_252
 693173191	dlc_mp_h4_m_outfit_h2_m2
+693190124	fm_content_stash_house
 693192119	discount_male_lowers_ranch_slate_jeans
 693230107	sf_yacht_bridge_glass14
 693248309	fm_corona_playlist_root_content_id_49_professional_7
@@ -17753,6 +17756,7 @@ hash	key(s)
 696360453	dlc_mp_lts_m_task_0_2
 696400590	dlc_mp_low_f_jbib_0_2
 696405018	biker_deathmatch_rp_reward
+696408273	fm_content_robbery
 696427533	sum_offroad_wheel_concave_steeliee
 696447118	hei_heist_din_chair_05
 696448788	mp1_dlc12022pstat_bool2
@@ -27226,6 +27230,7 @@ hash	key(s)
 1059074721	mp1_capture_start
 1059161641	mp1_su20pstat_int116
 1059170658	mp0_tunerpstat_int119
+1059184448	fm_content_bank_shootout
 1059192894	mp0_dlc12022pstat_int149
 1059197698	dlc_mp_exec_f_special_5_3
 1059223508	femaleaccessories_black_desert_scarf
@@ -31101,6 +31106,7 @@ hash	key(s)
 1208606316	p_cs_sub_hook_01_s
 1208863217	mp1_mpsv_lp0_206
 1208878030	mp0_char_mood_dm
+1208908314	am_mp_acid_lab
 1208943556	mp1_shatchet_hits
 1209027853	prop_vb_34_tencrt_lighting
 1209040223	ba_rig_dj_04_lights_02_a
@@ -32439,6 +32445,7 @@ hash	key(s)
 1260907342	mp0_businessbatpstat_int332
 1260980781	dlc_hipster_clothing_male_green_chinos
 1260981468	sum_street_wheel_cosmo_mkiii
+1260993567	fm_content_convoy
 1261047549	mp1_clths_acquired_jbib_7
 1261078640	dlc_mp_biker_m_special_3_3
 1261120519	vc_sale_price_zorrusso
@@ -39380,7 +39387,6 @@ hash	key(s)
 1528832417	dlc_mp_vwd_f_jbib_17_8
 1528857219	sp1_weap_tint_purch_12
 1528888265	dlc_mp_arena_f_legs_5_13
-1528892342	script_release.rpf___pilotschool_dlc_startup
 1528913568	prop_mp_halo_rotate_lrg
 1528927147	mp1_tupstat_int186
 1528962437	mp0_qub3d_initials_0
@@ -42321,6 +42327,7 @@ hash	key(s)
 1643974573	h4_prop_battle_lights_fx_lamp
 1644055914	weevil
 1644097553	prop_plonk_red
+1644104753	fm_content_acid_lab_setup
 1644142909	dlc_mp_lts_f_hand_3_6
 1644161209	mp0_hub_contraband_mission
 1644198712	sp1_mkrifle_shots
@@ -44666,6 +44673,7 @@ hash	key(s)
 1738041572	biker_both_genders_skull_of_taurus
 1738088554	dlc_mp_smug_m_jbib_0_7
 1738135530	dlc_mp_fixer_f_legs_3_17
+1738147489	am_mp_multistorey_garage
 1738162520	mp1_impexppstat_int690
 1738226611	dlc_mp_ie_f_jbib_7_19
 1738241089	mp1_mpsv_flags_31
@@ -47004,6 +47012,7 @@ hash	key(s)
 1828206051	alt_tie
 1828235590	mp0_shopfm_clothes_car_meet
 1828253917	dlc_mp_sum_f_legs_1_21
+1828454532	fm_content_xmas_mugger
 1828603133	dlc_mp_x17_m_berd_3_23
 1828629081	dlc_mp_smug_f_berd_7_9
 1828670121	dlc_mp_business_f_glasses1_1
@@ -48230,6 +48239,7 @@ hash	key(s)
 1875862198	dlc_mp_beach_m_accs1_3
 1875981008	imp_prop_impexp_boxwood_01
 1876016662	gr_research_weight_combat_mg_mk_ii_holographic_sight
+1876045864	item_ownership_output
 1876055757	ch_prop_arcade_space_01a
 1876083388	dlc_mp_heist_f_berd_2_0
 1876136973	dlc_mp_arena_f_feet_11_3
@@ -48329,6 +48339,7 @@ hash	key(s)
 1880754267	dlc_mp_gr_f_torso_31_5
 1880784184	dlc_mp_sum_m_berd_2_2
 1880833130	sum_mpapyacht_d2_bath2det
+1880879099	fm_content_acid_lab_source
 1880898353	dlc_mp_gr_m_jbib_12_7
 1880954180	exec_disable_sell_sting_4
 1881035813	dlc_mp_h4_f_torso_8_10
@@ -49074,7 +49085,6 @@ hash	key(s)
 1908795203	request_a_heist_fee
 1908860740	xm_prop_x17_seat_cover_01a
 1908898929	dlc_mp_vwd_f_jbib_6_21
-1909113700	script_debug.rpf___pilot_school
 1909119672	v_24_shlfstudypics
 1909141499	fugitive
 1909145084	vb_lod_01_02_07_proxy
@@ -53093,6 +53103,7 @@ hash	key(s)
 2065605783	dlc_mp_bh_f_special_2_18
 2065669215	prop_tv_cabinet_04
 2065673869	dlc_mp_vwd_m_peyes_0_10
+2065718657	multistorey_garage_ext_seating
 2065777969	dlc_wolf_hockey
 2065794692	mp0_mpsv_impound_time_103
 2065853226	dlc_mp_fixer_f_jbib_7_2
@@ -59504,6 +59515,7 @@ hash	key(s)
 2316094995	mp0_tacrifle_fm_ammo_bought
 2316139290	sf_prop_sf_fnc_01a
 2316139317	dlc_mp_luxe_m_outfit_9
+2316151328	multistorey_garage_seating
 2316160846	dlc_mp_tuner_m_decl_26_0
 2316225442	prop_yoga_mat_03
 2316338001	vw_aw_mt_1e
@@ -63062,6 +63074,7 @@ hash	key(s)
 2457209498	v_11_abbmain2_rails
 2457252760	mp1_sparrow_mini_enemy_kills
 2457260987	individual_vehicle_sale_hash_labels_115
+2457283359	fm_content_acid_lab_sell
 2457286329	discount_female_lowers_black_denim_shorts
 2457301757	mp0_mpsv_price_paid_62
 2457369949	mp1_cmbtmg_aquired_as_gift
@@ -69946,7 +69959,6 @@ hash	key(s)
 2721732631	dlc_mp_ar_m_special_0_8
 2721800023	ig_tenniscoach
 2721869745	mp1_awd_daicashcrab
-2721945673	script_debug.rpf___pilotschool_dlc_startup
 2721977392	ba_prop_battle_poster_skin_01
 2722051984	mp0_valkyrie_cannon_hits
 2722066390	dlc_mp_gr_f_jbib_21_16
@@ -79074,6 +79086,7 @@ hash	key(s)
 3077991211	dlc_mp_x17_m_feet_6_1
 3077994695	dlc_mp_smug_f_jbib_3_6
 3078061251	mp1_dlcsmugcharpstat_int178
+3078105812	fm_content_taxi_driver
 3078114448	dlc_mp_bh_f_jbib_10_5
 3078201489	adder
 3078211205	femaleuppers_denim_tucked_shirt
@@ -81313,6 +81326,7 @@ hash	key(s)
 3163074392	mp1_participated_in_tournament
 3163105155	dlc_mp_heist_f_teeth_7_0
 3163174803	mp0_tupstat_int168
+3163175998	fm_street_dealer
 3163193526	dlc_mp_h4_m_jbib_4_16
 3163269014	sf_int1_halolights
 3163276178	dlc_mp_arena_f_jbib_6_2
@@ -84877,6 +84891,7 @@ hash	key(s)
 3302299805	mp1_rockstar_verified_hash_5
 3302305739	dlc_mp_fixer_f_jbib_6_21
 3302403485	vc_blue_floral_large_shirt
+3302411851	juggalo_hideout_seating
 3302442094	max_bet_limit
 3302444207	prop_ic_bomb_wh
 3302704782	v_24_shlfstudybooks
@@ -90538,6 +90553,7 @@ hash	key(s)
 3522572355	mp0_dlc_apparel_used_11
 3522611956	heist4_festive_mask_3
 3522810177	gb_become_boss_threshold
+3522812357	valentinerpreward2
 3522834226	dlc_mp_h3_f_berd_18_17
 3522837085	dlc_mp_arena_f_hand_8_0
 3522840927	ch_arcade_garage_sale_price
@@ -93274,7 +93290,6 @@ hash	key(s)
 3628837459	dlc_mp_sum_m_jbib_5_8
 3628879255	dlc_mp_busi_f_teeth0_5
 3628909683	bkr_prop_coke_powderedmilk_o
-3628998479	script_release.rpf___pilot_school
 3629011711	dlc_mp_smug_f_phead_8_10
 3629052360	dlc_mp_x17_m_berd_5_1
 3629069300	dlc_mp_fixer_f_jbib_14_2
@@ -102723,6 +102738,7 @@ hash	key(s)
 3992651033	dlc_mp_tuner_m_special_0_9
 3992682367	dlc_skull_hockey
 3992709381	dlc_mp_h4_m_teeth_12_6
+3992790078	am_mp_juggalo_hideout
 3992895666	mp0_buried_stash_collected
 3992924926	metric_ingame_fps_pop_sample
 3993082140	prop_scafold_06b

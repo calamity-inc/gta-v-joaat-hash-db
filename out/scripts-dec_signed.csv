@@ -22,6 +22,7 @@ hash,key
 83957736,launcher_mrsphilips
 88389899,am_cp_collection
 90103436,fm_hideout_controler
+91623251,juggalo_hideout_carmod
 92439941,ambient_solomon
 93439584,family6
 93794601,am_mp_smpl_interior_int
@@ -47,6 +48,7 @@ hash,key
 193453155,gb_transporter
 195136332,am_mp_auto_shop
 196364029,flowstartaccept
+200741039,fm_content_drug_lab_work
 207520818,missioniaaturret
 208514118,am_hold_up
 208926421,tonya3
@@ -156,7 +158,9 @@ hash,key
 684857087,launcher_basejumppack
 685211832,coordinate_recorder
 692187489,am_hs4_lsa_land_nimb_arrive
+693190124,fm_content_stash_house
 693300299,appsidetask
+696408273,fm_content_robbery
 697767922,golf
 698519256,gb_gunrunning_delivery
 705744652,am_darts
@@ -240,6 +244,7 @@ hash,key
 1043465981,taxiservice
 1047849371,emergencycalllauncher
 1049786896,gb_biker_criminal_mischief
+1059184448,fm_content_bank_shootout
 1071358210,drunk
 1073125170,fm_content_bike_shop_delivery
 1077504543,postrc_barry1and2
@@ -271,6 +276,7 @@ hash,key
 1189534554,bailbond2
 1200605449,extreme2
 1206468990,sc_lb_global_block
+1208908314,am_mp_acid_lab
 1211397695,appmpbossagency
 1211673398,paradise2
 1212219120,am_heli_taxi
@@ -283,6 +289,7 @@ hash,key
 1240675435,rampage_controller
 1255087266,re_prison
 1259785785,heist_ctrl_rural
+1260993567,fm_content_convoy
 1268869702,apparcadebusiness
 1273783324,finalec2
 1281186453,launcher_stunts
@@ -351,7 +358,6 @@ hash,key
 1519956670,fm_content_clubhouse_contracts
 1522207721,player_scene_f_taxi
 1523663288,scene_builder
-1528892342,script_release.rpf___pilotschool_dlc_startup
 1529721605,pausemenu_sp_repeat
 1531173018,re_border
 1536480353,player_scene_m_shopping
@@ -374,6 +380,7 @@ hash,key
 1626360584,launcher_abigail
 1628169888,gb_infiltration
 1634265892,drf4
+1644104753,fm_content_acid_lab_setup
 1651979905,am_prostitute
 1656790214,mptestbed
 1659533520,fm_content_business_battles
@@ -390,6 +397,7 @@ hash,key
 1733869312,audiotest
 1735157309,re_securityvan
 1737190692,candidate_controller
+1738147489,am_mp_multistorey_garage
 1748299449,laptop_trigger
 1753643767,am_island_backup_heli
 1762172980,photographywildlife
@@ -407,6 +415,7 @@ hash,key
 1814880805,fm_mission_controller
 1824693280,am_mp_casino_valet_garage
 1827935527,family3
+1828454532,fm_content_xmas_mugger
 1830865579,gb_gang_ops_planning
 1832807115,startup_positioning
 1833384030,custom_config
@@ -419,6 +428,8 @@ hash,key
 1862704401,finale_heist2_intro
 1872230624,pb_homeless
 1872902565,business_battles_defend
+1876045864,item_ownership_output
+1880879099,fm_content_acid_lab_source
 1882256703,arena_workshop_seats
 1882307034,launcher_racing
 1889800404,re_arrests
@@ -430,7 +441,6 @@ hash,key
 1896961530,solomon2
 1902558538,am_mp_casino
 1908489045,gb_headhunter
-1909113700,script_debug.rpf___pilot_school
 1911648283,mission_triggerer_d
 1917581315,armenian1
 1917762183,gb_sightseer
@@ -469,6 +479,7 @@ hash,key
 2060640916,selling_short_2
 2060980966,range_modern
 2062052930,road_arcade
+2065718657,multistorey_garage_ext_seating
 2067116458,family2
 2067673554,gb_contraband_sell
 2075446792,error_listener
@@ -519,6 +530,7 @@ hash,key
 -1986348232,fameorshame_eps_1
 -1982560520,am_mp_bunker
 -1982189472,net_bot_brain
+-1978815968,multistorey_garage_seating
 -1972735673,launcher_carwash
 -1970811910,exile2
 -1960289091,carsteal3
@@ -553,6 +565,7 @@ hash,key
 -1850372990,gpb_superhero
 -1844397475,freemode_creator
 -1839230262,vehicle_force_widget
+-1837683937,fm_content_acid_lab_sell
 -1835208723,gb_bank_job
 -1830260729,franklin0
 -1828702403,buddydeathresponse
@@ -626,7 +639,6 @@ hash,key
 -1584686958,family_scene_m
 -1578673583,me_amanda1
 -1574903160,debug_ped_data
--1573021623,script_debug.rpf___pilotschool_dlc_startup
 -1566670520,gb_carjacking
 -1556949284,forsalesigns
 -1550049422,ob_vend1
@@ -710,6 +722,7 @@ hash,key
 -1222308601,controller_ambientarea
 -1222181758,am_vehicle_spawn
 -1221036409,appcontacts
+-1216861484,fm_content_taxi_driver
 -1215733929,hairdo_shop_sp
 -1213663013,am_mp_ie_warehouse
 -1208726289,pilot_school
@@ -731,6 +744,7 @@ hash,key
 -1148693293,re_monkey
 -1138491964,tennis_family
 -1137374355,am_mp_peds
+-1131791298,fm_street_dealer
 -1126021687,agency_heist3a
 -1124555388,ob_sofa_michael
 -1123499808,me_tracey1
@@ -759,6 +773,7 @@ hash,key
 -1009236521,locates_tester
 -1002953886,apartment_minigame_launcher
 -1000976144,ingamehud
+-992555445,juggalo_hideout_seating
 -981974344,finale_heist_prepeamb
 -979366179,pilot_school_mp
 -977229290,base_heist_seats
@@ -814,6 +829,7 @@ hash,key
 -779533966,am_mp_rc_vehicle
 -776058219,appbusinesshub
 -772583416,agency_heist2
+-772154939,valentinerpreward2
 -770891250,re_gangfight
 -769739600,pickup_controller
 -768591559,veh_play_widget
@@ -838,7 +854,6 @@ hash,key
 -685385244,jewelry_prep1b
 -680687811,am_mp_casino_apartment
 -669830583,am_boat_taxi
--665968817,script_release.rpf___pilot_school
 -656941785,fm_maintain_cloud_header_data
 -656593279,restrictedareas
 -651796078,gtest_divingfromcar
@@ -934,6 +949,7 @@ hash,key
 -311152572,rng_output
 -309683913,ob_mr_raspberry_jam
 -303522128,stripclub_drinking
+-302177218,am_mp_juggalo_hideout
 -293840524,fm_content_export_cargo
 -292422193,heist_ctrl_agency
 -289748940,josh3
