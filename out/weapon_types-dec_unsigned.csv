@@ -32,6 +32,7 @@ hash,key
 419712736,weapon_wrench
 431576697,vehicle_weapon_akula_minigun
 453432689,weapon_pistol
+465894841,weapon_pistolxm3
 476907586,vehicle_weapon_akula_turret_dual
 487013001,weapon_pumpshotgun
 490982948,vehicle_weapon_deathbike_dualminigun
@@ -124,6 +125,7 @@ hash,key
 1672152130,weapon_hominglauncher
 1686798800,weapon_arena_homing_missile
 1697521053,vehicle_weapon_thruster_mg
+1703483498,weapon_candycane
 1737195953,weapon_nightstick
 1741783703,vehicle_weapon_water_cannon
 1744687076,vehicle_weapon_tampa_dualminigun
@@ -297,6 +299,7 @@ hash,key
 4109257098,vehicle_weapon_rctank_flame
 4128808778,vehicle_weapon_mogul_nose
 4148791700,vehicle_weapon_barrage_top_mg
+4159824478,weapon_acidpackage
 4161575695,vehicle_weapon_dominator4_50cal
 4171469727,vehicle_weapon_space_rocket
 4191993645,weapon_hatchet
@@ -305,4 +308,5 @@ hash,key
 4208062921,weapon_carbinerifle_mk2
 4256881901,weapon_digiscanner
 4256991824,weapon_smokegrenade
+4272043364,weapon_railgunxm3
 4284007675,weapon_drowning

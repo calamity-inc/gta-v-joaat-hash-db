@@ -11794,6 +11794,7 @@ hash	key(s)
 0x1BC3CF41	prop_picnictable_01_lod
 0x1BC47537	w_at_scope_medium_2
 0x1BC4CE8E	dlc_mp_sum2_g9ec_m_jbib_0_1
+0x1BC4FDB9	weapon_pistolxm3
 0x1BC51FD0	h4_prop_rock_scree_med_01
 0x1BC6231B	dlc_mp_vwd_f_jbib_13_13
 0x1BC6A13A	male_hair_slicked_auburn_expenditure_tunable
@@ -43495,6 +43496,7 @@ hash	key(s)
 0x6587F8C8	dlc_mp_luxe2_f_outfit_3
 0x658873CE	mp1_bruiser3_mg50_deaths
 0x6588A739	dlc_mp_exec_f_feet_0_1
+0x6589186A	weapon_candycane
 0x65897AB5	individual_vehicle_sale_hash_labels_130
 0x658981C8	dlc_hipster_clothing_male_black_and_red_trilby
 0x6589B0C9	mp0_mpsv_premium_paid_297
@@ -106270,6 +106272,7 @@ hash	key(s)
 0xF7EFC8FE	playerkit_blue_grnlaunch_expenditure_tunable
 0xF7F1122A	dlc_mp_tuner_f_feet_1_3
 0xF7F18F7C	dlc_the_professor
+0xF7F1E25E	weapon_acidpackage
 0xF7F261C2	dlc_mp_luxe_f_jbib_4_2
 0xF7F2E6A7	mp0_issi4_mg50_headshots
 0xF7F32895	dlc_mp_arena_f_torso_1_0
@@ -109098,6 +109101,7 @@ hash	key(s)
 0xFEA0FA6D	mp0_nightshark_mg_kills
 0xFEA11EE4	mp1_dlc12022pstat_int4
 0xFEA20F58	dlc_mp_low2_f_feet_0_0
+0xFEA23564	weapon_railgunxm3
 0xFEA2A214	su22_blue_sun_dress
 0xFEA2EC2A	dlc_mp_vwd_m_jbib_11_7
 0xFEA3B216	prop_food_sugarjar

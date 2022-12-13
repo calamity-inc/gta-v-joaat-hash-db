@@ -1,3 +1,4 @@
+weapon_acidpackage
 weapon_advancedrifle
 weapon_appistol
 weapon_assaultrifle
@@ -13,6 +14,7 @@ weapon_bullpuprifle
 weapon_bullpuprifle_mk2
 weapon_bullpupshotgun
 weapon_bzgas
+weapon_candycane
 weapon_carbinerifle
 weapon_carbinerifle_mk2
 weapon_ceramicpistol
@@ -71,12 +73,14 @@ weapon_pipebomb
 weapon_pistol
 weapon_pistol50
 weapon_pistol_mk2
+weapon_pistolxm3
 weapon_poolcue
 weapon_precisionrifle
 weapon_proxmine
 weapon_pumpshotgun
 weapon_pumpshotgun_mk2
 weapon_railgun
+weapon_railgunxm3
 weapon_raycarbine
 weapon_rayminigun
 weapon_raypistol

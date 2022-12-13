@@ -13,6 +13,7 @@ hash,key
 406929569,weapon_fertilizercan
 419712736,weapon_wrench
 453432689,weapon_pistol
+465894841,weapon_pistolxm3
 487013001,weapon_pumpshotgun
 584646201,weapon_appistol
 600439132,weapon_ball
@@ -39,6 +40,7 @@ hash,key
 1627465347,weapon_gusenberg
 1649403952,weapon_compactrifle
 1672152130,weapon_hominglauncher
+1703483498,weapon_candycane
 1737195953,weapon_nightstick
 1785463520,weapon_marksmanrifle_mk2
 1834241177,weapon_railgun
@@ -98,7 +100,9 @@ hash,key
 -494615257,weapon_assaultshotgun
 -275439685,weapon_dbshotgun
 -270015777,weapon_assaultsmg
+-135142818,weapon_acidpackage
 -102973651,weapon_hatchet
 -102323637,weapon_bottle
 -86904375,weapon_carbinerifle_mk2
 -37975472,weapon_smokegrenade
+-22923932,weapon_railgunxm3

@@ -13,6 +13,7 @@ hash,key
 0x184140A1,weapon_fertilizercan
 0x19044EE0,weapon_wrench
 0x1B06D571,weapon_pistol
+0x1BC4FDB9,weapon_pistolxm3
 0x1D073A89,weapon_pumpshotgun
 0x22D8FE39,weapon_appistol
 0x23C9F95C,weapon_ball
@@ -39,6 +40,7 @@ hash,key
 0x61012683,weapon_gusenberg
 0x624FE830,weapon_compactrifle
 0x63AB0442,weapon_hominglauncher
+0x6589186A,weapon_candycane
 0x678B81B1,weapon_nightstick
 0x6A6C02E0,weapon_marksmanrifle_mk2
 0x6D544C99,weapon_railgun
@@ -98,7 +100,9 @@ hash,key
 0xE284C527,weapon_assaultshotgun
 0xEF951FBB,weapon_dbshotgun
 0xEFE7E2DF,weapon_assaultsmg
+0xF7F1E25E,weapon_acidpackage
 0xF9DCBF2D,weapon_hatchet
 0xF9E6AA4B,weapon_bottle
 0xFAD1F1C9,weapon_carbinerifle_mk2
 0xFDBC8A50,weapon_smokegrenade
+0xFEA23564,weapon_railgunxm3

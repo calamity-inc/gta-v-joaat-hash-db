@@ -11794,6 +11794,7 @@ hash	key(s)
 465817409	prop_picnictable_01_lod
 465859895	w_at_scope_medium_2
 465882766	dlc_mp_sum2_g9ec_m_jbib_0_1
+465894841	weapon_pistolxm3
 465903568	h4_prop_rock_scree_med_01
 465969947	dlc_mp_vwd_f_jbib_13_13
 466002234	male_hair_slicked_auburn_expenditure_tunable
@@ -43495,6 +43496,7 @@ hash	key(s)
 1703409864	dlc_mp_luxe2_f_outfit_3
 1703441358	mp1_bruiser3_mg50_deaths
 1703454521	dlc_mp_exec_f_feet_0_1
+1703483498	weapon_candycane
 1703508661	individual_vehicle_sale_hash_labels_130
 1703510472	dlc_hipster_clothing_male_black_and_red_trilby
 1703522505	mp0_mpsv_premium_paid_297
@@ -106270,6 +106272,7 @@ hash	key(s)
 4159686910	playerkit_blue_grnlaunch_expenditure_tunable
 4159771178	dlc_mp_tuner_f_feet_1_3
 4159803260	dlc_the_professor
+4159824478	weapon_acidpackage
 4159857090	dlc_mp_luxe_f_jbib_4_2
 4159891111	mp0_issi4_mg50_headshots
 4159907989	dlc_mp_arena_f_torso_1_0
@@ -109098,6 +109101,7 @@ hash	key(s)
 4271962733	mp0_nightshark_mg_kills
 4271972068	mp1_dlc12022pstat_int4
 4272033624	dlc_mp_low2_f_feet_0_0
+4272043364	weapon_railgunxm3
 4272071188	su22_blue_sun_dress
 4272090154	dlc_mp_vwd_m_jbib_11_7
 4272140822	prop_food_sugarjar
