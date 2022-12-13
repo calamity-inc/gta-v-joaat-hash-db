@@ -182,23 +182,6 @@ int main()
 	{
 		databases = {};
 		{
-			std::map<uint32_t, std::optional<std::string>> automobiles_and_trailers = {};
-			copy_db(automobiles_and_trailers, "automobiles");
-			copy_db(automobiles_and_trailers, "trailers");
-			databases.emplace("automobiles_and_trailers", std::move(automobiles_and_trailers));
-		}
-		{
-			std::map<uint32_t, std::optional<std::string>> vehicles = {};
-			copy_db(vehicles, "automobiles_and_trailers");
-			copy_db(vehicles, "bikes");
-			copy_db(vehicles, "boats");
-			copy_db(vehicles, "helis");
-			copy_db(vehicles, "planes");
-			copy_db(vehicles, "submarines");
-			copy_db(vehicles, "trains");
-			databases.emplace("vehicles", std::move(vehicles));
-		}
-		{
 			std::map<uint32_t, std::optional<std::string>> objects_crash = {};
 			load_db("objects_crash", objects_crash);
 			databases.emplace("objects_crash", objects_crash);
