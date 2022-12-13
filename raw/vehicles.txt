@@ -71,6 +71,7 @@ boattrailer
 bobcatxl
 bodhi2
 bombushka
+boor
 boxville
 boxville2
 boxville3
@@ -78,9 +79,11 @@ boxville4
 boxville5
 brawler
 brickade
+brickade2
 brioso
 brioso2
 brioso3
+broadway
 bruiser
 bruiser2
 bruiser3
@@ -121,6 +124,7 @@ cargobob2
 cargobob3
 cargobob4
 cargoplane
+cargoplane2
 casco
 cavalcade
 cavalcade2
@@ -222,10 +226,13 @@ emperor2
 emperor3
 enduro
 entity2
+entity3
 entityxf
 esskey
+eudora
 euros
 everon
+everon2
 exemplar
 f620
 faction
@@ -330,6 +337,7 @@ issi4
 issi5
 issi6
 issi7
+issi8
 italigtb
 italigtb2
 italigto
@@ -345,6 +353,7 @@ jester4
 jet
 jetmax
 journey
+journey2
 jubilee
 jugular
 kalahari
@@ -378,6 +387,7 @@ manana
 manana2
 manchez
 manchez2
+manchez3
 marquis
 marshall
 massacro
@@ -436,6 +446,7 @@ oracle2
 osiris
 outlaw
 packer
+panthere
 panto
 paradise
 paragon
@@ -475,6 +486,7 @@ pony2
 postlude
 pounder
 pounder2
+powersurge
 prairie
 pranger
 predator
@@ -485,6 +497,7 @@ primo2
 proptrailer
 prototipo
 pyro
+r300
 radi
 raiden
 raketrailer
@@ -629,12 +642,14 @@ supervolito2
 surano
 surfer
 surfer2
+surfer3
 surge
 swift
 swift2
 swinger
 t20
 taco
+tahoma
 tailgater
 tailgater2
 taipan
@@ -703,6 +718,7 @@ tropos
 tug
 tula
 tulip
+tulip2
 turismo2
 turismor
 tvtrailer
@@ -734,6 +750,7 @@ vindicator
 virgo
 virgo2
 virgo3
+virtue
 viseris
 visione
 volatol
