@@ -17,11 +17,9 @@ hash,key
 0x0A19D08E,component_autoshotgun_clip_01
 0x0A4C31EE,component_specialcarbine_mk2_camo_07
 0x0A7FF1B8,component_revolver_mk2_camo_03
-0x0AD864C4,
 0x0B5A715F,component_smg_mk2_clip_fmj
 0x0C164F53,component_at_ar_afgrip
 0x0D4A969A,component_heavypistol_clip_01
-0x0D951E86,
 0x0DC8BA3F,component_revolver_mk2_clip_fmj
 0x0E046DFC,component_combatmg_mk2_camo_09
 0x0EC0F617,component_heavysniper_mk2_clip_incendiary
@@ -109,7 +107,6 @@ hash,key
 0x3CC6BA57,component_at_scope_macro_02
 0x3D25C2A7,component_carbinerifle_mk2_clip_incendiary
 0x3DECC7DA,component_at_scope_small_smg_mk2
-0x3E3DDF9D,
 0x3E52D5E3,component_bat_varmod_xm3_02
 0x3F3C8181,component_at_scope_small_mk2
 0x3F4E8AA6,component_knuckle_varmod_love
@@ -269,7 +266,6 @@ hash,key
 0x9761D9DC,component_knuckle_varmod_diamond
 0x985EC267,component_navyrevolver_clip_01
 0x9893A95D,component_carbinerifle_mk2_camo_09
-0x9A89A3ED,
 0x9B76C72C,component_appistol_varmod_luxe
 0x9BB1C5D3,component_marksmanrifle_mk2_camo_09
 0x9BC64089,component_sniperrifle_clip_01

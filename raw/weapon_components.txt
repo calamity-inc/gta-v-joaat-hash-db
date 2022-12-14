@@ -1,7 +1,3 @@
-0x0AD864C4
-0x0D951E86
-0x3E3DDF9D
-0x9A89A3ED
 component_advancedrifle_clip_01
 component_advancedrifle_clip_02
 component_advancedrifle_varmod_luxe
