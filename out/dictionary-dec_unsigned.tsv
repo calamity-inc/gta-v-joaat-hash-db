@@ -4233,6 +4233,7 @@ hash	key(s)
 166621255	dlc_mp_smug_m_phead_6_16
 166629214	v_med_soapdispencer
 166719980	smug_male_and_female_uppers_green_and_pink_tshirt
+166784288	component_bat_varmod_xm3_07
 166870332	dlc_mp_exec_f_jbib_15_10
 166893905	dlc_mp_exec_m_jbib_1_0
 166969993	dlc_mp_x17_m_feet_5_3
@@ -8432,6 +8433,7 @@ hash	key(s)
 330877362	mp1_char_hair_viewed13
 330901653	mp0_dlc_apparel_acquired_135
 330904969	securoserv_warehouse_warehouse19
+330905451	component_pumpshotgun_varmod_xm3
 330958398	mp0_ie_garage_vehicle_2
 330958487	dlc_mp_biker_m_special_0_5
 331020049	sp1_dist_walking
@@ -9412,6 +9414,7 @@ hash	key(s)
 370484098	dlc_mp_stunt_m_special_1_11
 370504501	v_34_chickcrates2
 370506426	mp0_bruiser2_mg50_heldtime
+370527443	component_knife_varmod_xm3
 370592989	h4_rig_dj_03_lights_01_a
 370594299	dlc_mp_x17_f_phead_5_2
 370603053	mp1_mpsv_vehicle_bs_164
@@ -9527,6 +9530,7 @@ hash	key(s)
 375527679	weapon_passenger_rocket
 375529787	mp0_rev_mk2_kills
 375610866	dlc_mp_gr_f_special_10_4
+375646046	component_pistolxm3_clip_01
 375818854	mp0_spectated_was_changed
 375856054	discount_male_hats_gray_cap
 375886695	dlc_mp_tuner_m_jbib_17_6
@@ -11166,6 +11170,7 @@ hash	key(s)
 438200795	dlc_mp_exec_m_jbib_13_1
 438203847	carmod_unlock_spoiler_l2_expenditure_tunable_suv
 438226522	mp0_h3opt_crewhacker
+438243936	component_pistol_mk2_camo_02_slide
 438249383	dlc_mp_exec_m_legs_0_9
 438284303	dlc_mp_biker_f_jbib_10_1
 438313231	dlc_mp_gr_m_hair_17_0
@@ -11367,6 +11372,7 @@ hash	key(s)
 446151074	xm_prop_x17_chest_open
 446191260	fm_corona_playlist_veh_class_bs_id_17_professional
 446239120	sp2_mg_range_lmg2_hiscore
+446271089	component_bat_varmod_xm3_01
 446344985	mp0_hvys_mk2_aquired_as_gift
 446377979	mp0_heist_role_28
 446617223	mp0_mpsv_premium_paid_36
@@ -12830,6 +12836,7 @@ hash	key(s)
 503388916	dlc_mp_fixer_m_jbib_6_13
 503408078	mp0_mpsv_lp0_1
 503440926	dlc_mp_tuner_f_jbib_1_2
+503494624	component_pistolxm3_supp
 503576581	dlc_mp_stunt_m_jbib_9_3
 503600291	makeup_lips_color_matt
 503603957	dlc_mp_gr_f_special_14_3
@@ -13260,6 +13267,7 @@ hash	key(s)
 520443001	mp0_payresupplytimer4
 520458072	discount_female_uppers_white_polo_shirt
 520502101	arena_clothes_branded_hockey_top_2
+520557834	component_snspistol_mk2_camo_ind_01_slide
 520632351	discount_female_lowers_gray_leggings
 520636071	csb_vincent
 520648049	heli_moving_target_event_multiplier_cash
@@ -14890,6 +14898,7 @@ hash	key(s)
 583028692	carmod_unlock_r_bumper_l3_expenditure_tunable
 583035841	dlc_mp_vwd_f_jbib_5_18
 583147494	dlc_mp_arena_f_berd_12_4
+583159708	component_snspistol_mk2_camo_09_slide
 583241575	as_prop_as_laptop_01a
 583270712	prop_fncres_04b
 583308104	dlc_weapon_tint_gold_bullpup_shotgun
@@ -17633,6 +17642,7 @@ hash	key(s)
 691352495	dlc_mp_busi_m_accs5_0
 691409183	dlc_mp_arena_m_feet_8_15
 691432262	ch_prop_arcade_drone_01a
+691432737	component_snspistol_mk2_camo_02_slide
 691459940	dlc_mp_arena_f_legs_7_10
 691608907	dlc_mp_biker_f_berd_0_6
 691669158	vw_aw_wv_59
@@ -18261,6 +18271,7 @@ hash	key(s)
 716022165	mp1_bikepstat_int38
 716094853	mp0_mpsv_impound_time_259
 716182382	mp0_awd_all_in_order
+716207715	component_bat_varmod_xm3
 716251095	mp1_ggsm_initials_7
 716297387	mp1_mpsv_premium_paid_32
 716365658	sp1_crbnrifle_heldtime
@@ -18666,6 +18677,7 @@ hash	key(s)
 730828513	prop_sign_road_04f
 730830842	dlc_mp_h3_m_outfit_sh_12
 730875942	mp0_awd_massive_shunt
+730876697	component_snspistol_mk2_camo_08_slide
 730882035	sp0_pistol_hits
 730927056	gr_uppers_peach_camo_denim_biker
 730931442	dlc_mp_arena_f_phead_1_4
@@ -18943,6 +18955,7 @@ hash	key(s)
 740771879	discount_male_feet_tan_sports_shoes
 740882594	dlc_mp_vwd_f_pleft_wrist_5_3
 740895081	prop_pallet_03a
+740920107	component_pistol_mk2_camo_04_slide
 740990230	mp1_tupstat_int121
 740999844	mp1_casinopstat_int94
 741002319	dlc_mp_exec_f_outfit_12
@@ -23732,6 +23745,7 @@ hash	key(s)
 927559247	mp1_mpsv_premium_paid_264
 927564093	dlc_mp_h4_f_pright_wrist_0_11
 927577792	mp0_mpsv_premium_paid_76
+927578299	component_tacticalrifle_clip_01
 927586474	stockpile_0_new_vs
 927627136	mp1_bruiser3_mg50_headshots
 927641567	dlc_mp_busi2_m_teeth0_13
@@ -25303,6 +25317,7 @@ hash	key(s)
 987584502	prop_grass_dry_02
 987629105	ch_geo_grey_white_cat
 987641063	apa_mp_h_din_chair_09
+987648331	component_snspistol_mk2_camo_03_slide
 987696556	mp1_dlc_apparel_acquired_87
 987721459	dlc_mp_sum_f_jbib_0_4
 987757975	dlc_mp_heist_f_outfit_c_0
@@ -25963,6 +25978,7 @@ hash	key(s)
 1011250084	prop_amp_01
 1011326142	prop_welding_mask_01_s
 1011372115	mp0_arenawarspstat_int136
+1011473080	component_pistol_mk2_varmod_xm3_slide
 1011507150	mp0_mpsv_lp0_343
 1011593723	mp0_arenawarspstat_int301
 1011598562	prop_michael_door
@@ -26848,6 +26864,7 @@ hash	key(s)
 1045529157	mp0_dlc_apparel_acquired_178
 1045596039	dlc_mp_tuner_f_decl_30_1
 1045604914	fixer_gray_broker_forwards
+1045616099	component_bat_varmod_xm3_02
 1045629057	mp0_arcade_pay_time_left
 1045663279	dlc_mp_luxe_f_special_5_7
 1045695848	fm_corona_playlist_root_content_id_21_professional_13
@@ -28506,6 +28523,7 @@ hash	key(s)
 1109776775	v_corp_postboxa
 1109832849	prop_t_shirt_row_05l
 1109864496	opt_out_individual_clothing_sale_hash_labels_102
+1109907117	component_knife_varmod_xm3_01
 1109913995	dlc_mp_h3_m_berd_14_11
 1109931910	dlc_mp_arena_f_phead_3_3
 1109954891	heist_ultimate_challenge
@@ -29037,6 +29055,7 @@ hash	key(s)
 1130651494	xm_lab_chairarm_24
 1130698752	dlc_mp_x17_f_peyes_0_16
 1130711947	mp1_tupstat_int123
+1130760338	component_railgunxm3_clip_01
 1130803731	stt_prop_tyre_wall_03
 1130824827	biker_search_and_destroy_civilian_kill
 1130841820	ih_red_volcanic_shortsleeve
@@ -29156,6 +29175,7 @@ hash	key(s)
 1135563927	vw_prop_plaq_5kdollar_st
 1135679077	mp1_dlc12022pstat_int18
 1135689506	dlc_mp_hips_f_hat_0_7
+1135718771	component_pistol_mk2_camo_10_slide
 1135751541	mp0_mpsv_lp0_213
 1135809052	maleuppers_valentines2016_classic_check_double_suit
 1135814856	mp0_totaldaycompletedsa
@@ -29288,6 +29308,7 @@ hash	key(s)
 1141128604	mp0_lrpstat_int68
 1141132919	dlc_mp_gr_f_torso_31_19
 1141163390	sp1_bullpup_ammo_bought
+1141184690	component_pistol_mk2_varmod_xm3
 1141219288	mp0_admin_clothes_gv_bs_36
 1141247678	mp0_damage_scar_rotation_9
 1141249442	mp1_musket_shots
@@ -32259,6 +32280,7 @@ hash	key(s)
 1253863886	dlc_mp_smug_f_special_1_0
 1253898491	dlc_mp_arena_f_teeth_0_0
 1253929206	dlc_mp_fixer_m_jbib_8_21
+1253942266	component_pistol_mk2_camo_ind_01_slide
 1253945391	carmod_unlock_engine_l4_expenditure_tunable_bike
 1253951191	vw_prop_vw_wallart_159a
 1254001276	dlc_mp_gr_f_jbib_2_7
@@ -34385,6 +34407,7 @@ hash	key(s)
 1336172249	dlc_mp_vwd_m_jbib_12_8
 1336177850	dlc_mp_smug_f_phead_3_24
 1336226502	mp1_impexppstat_int681
+1336277129	component_bat_varmod_xm3_03
 1336301179	dlc_mp_luxe2_m_jbib_0_1
 1336362494	mp0_vehbomb_shots
 1336366338	dlc_mp_sum2_m_jbib_9_3
@@ -43480,6 +43503,7 @@ hash	key(s)
 1690509672	fm_corona_playlist_root_content_id_27
 1690523528	mp0_mpsv_impound_time_127
 1690565329	dlc_mp_fixer_m_jbib_3_5
+1690606566	component_knife_varmod_xm3_03
 1690654810	fmcoronaplaylistproffesionalnumbermax_14
 1690657469	prop_venice_sign_12
 1690661451	mp0_hvys_mk2_fm_ammo_bought
@@ -45303,6 +45327,7 @@ hash	key(s)
 1761337239	biker_disable_weapon_of_choice_yellow_jack
 1761356284	dlc_mp_arena_f_outfit_space_c_2
 1761361109	mp0_clths_acquired_teeth_2
+1761389338	component_bat_varmod_xm3_09
 1761394728	dlc_mp_sum2_f_legs_4_0
 1761524536	mp1_mpsv_flags_144
 1761538284	discount_female_uppers_gray_t_shirt
@@ -46561,6 +46586,7 @@ hash	key(s)
 1809130627	mp1_dg_penetrator_score_0
 1809136289	discount_male_hats_brown_fedora
 1809259072	enable_transform_caracara2
+1809261196	component_pistol_mk2_camo_06_slide
 1809325646	biker_meth_staff_cost
 1809430156	a_m_m_hasjew_01
 1809469963	creator_enableturismo2
@@ -52836,6 +52862,7 @@ hash	key(s)
 2055363753	dlc_mp_heist_m_special_9_4
 2055367185	sp1_hvypistol_deaths
 2055429016	dlc_mp_vwd_m_pleft_wrist_0_5
+2055456612	component_knife_varmod_xm3_02
 2055492359	ex_prop_crate_ammo_sc
 2055519828	sniper_rifle_ammo_modifier
 2055527311	mp1_h4_cr_direct3
@@ -53173,6 +53200,7 @@ hash	key(s)
 2068667234	dlc_mp_fixer_f_phead_2_10
 2068671640	mp1_impexppstat_int244
 2068700029	dlc_mp_gr_m_torso_3_19
+2068729789	component_bat_varmod_xm3_08
 2068805697	gr_lowers_flecktarn_dungarees
 2068824345	dlc_mp_luxe2_m_pleft_wrist_2_1
 2068850345	ch_prop_ch_sec_cabinet_02a
@@ -57398,6 +57426,7 @@ hash	key(s)
 2235196977	mp0_mpsv_model_35
 2235202961	mp0_bikepstat_int44
 2235217680	mp1_dixcounter
+2235227338	component_knife_varmod_xm3_07
 2235230334	dlc_mp_luxe_f_pleft_wrist_0_1
 2235282291	dlc_mp_lts_f_hand_1_19
 2235286726	mp0_smg_mk2_aquired_as_gift
@@ -60790,6 +60819,7 @@ hash	key(s)
 2366340319	dlc_mp_h3_f_berd_12_1
 2366355247	mp1_prop_megaware_gar1_value
 2366437113	mpply_store_money_spent
+2366463693	component_snspistol_mk2_camo_10_slide
 2366476247	mp0_apapstat_int47
 2366499633	mp1_heist_mission_player_4_3
 2366505996	mp1_businessbatpstat_int219
@@ -64821,6 +64851,7 @@ hash	key(s)
 2524349411	mp0_dg_defender_initials_1
 2524351165	dlc_mp_gr_m_berd_4_4
 2524475522	sp1_appistol_db_heldtime
+2524544839	component_knife_varmod_xm3_06
 2524552207	h2_male_and_female_masks_orange_industrial_gas_mask
 2524556691	mp1_tattoo_fm_viewed_14
 2524560582	dlc_mp_luxe2_f_teeth_10_2
@@ -68092,6 +68123,7 @@ hash	key(s)
 2648239349	sf_int1_plant_4
 2648264448	h2_strike_team_3_price
 2648364555	dlc_mp_x17_m_berd_7_1
+2648428428	component_pistol_mk2_camo_07_slide
 2648469704	dlc_mp_gr_m_special_5_0
 2648479257	dlc_mp_ie_f_special_3_14
 2648560310	dlc_mp_smug_m_feet_1_6
@@ -68420,6 +68452,7 @@ hash	key(s)
 2661431310	smug_male_and_female_masks_red_stripe_tight_ski
 2661433856	xs_propintarena_structure_l_03a
 2661568578	prop_towel2_01
+2661650347	component_knife_varmod_xm3_04
 2661693598	prop_mk_race_chevron_02
 2661718933	xm_lab_chairarm_11
 2661743077	dlc_mp_gr_m_special_1_11
@@ -70099,6 +70132,7 @@ hash	key(s)
 2728023337	dlc_mp_heist_f_jbib_16_4
 2728063901	dlc_mp_vwd_m_jbib_13_14
 2728119488	dlc_mp_arena_m_outfit_alien_a_10
+2728189138	component_microsmg_varmod_xm3
 2728210954	pvc_balance_max
 2728222746	mp0_mpsv_flags_213
 2728226064	feltzer3
@@ -72808,6 +72842,7 @@ hash	key(s)
 2833302988	mp0_shatchet_heldtime
 2833330245	sp1_swblade_ammo_bought
 2833484545	ninef2
+2833490983	component_knife_varmod_xm3_05
 2833495997	dlc_mp_gr_f_jbib_11_3
 2833522299	dlc_mp_stunt_f_special_4_2
 2833593119	mp1_impexppstat_int100
@@ -77218,6 +77253,7 @@ hash	key(s)
 3004698911	pop_v_bank_door_l
 3004774043	mp1_savestra_mg_deaths
 3004795075	dlc_mp_biker_f_feet_7_5
+3004802348	component_pistol_mk2_camo_08_slide
 3004820023	spupgrade
 3004827542	gb_biker_unload_weapons
 3004829838	hot_property_event_time_limit
@@ -77501,6 +77537,7 @@ hash	key(s)
 3014851470	dlc_mp_biker_m_jbib_27_1
 3014913597	dlc_mp_stunt_m_jbib_0_5
 3014915558	a_m_y_business_02
+3014965697	component_knife_varmod_xm3_08
 3014985931	dlc_mp_bh_m_special_1_8
 3015028782	sm_stair_flight_03
 3015035610	mp1_heist_mission_player_s_7_3
@@ -78058,6 +78095,7 @@ hash	key(s)
 3036291706	lts_m_gray_combat_top
 3036337414	mp0_mpsv_vehicle_bs_152
 3036428004	mp1_clths_available_props_1
+3036451504	component_pistol_mk2_camo_slide
 3036465632	prop_cs1_14b_traind_dam
 3036500546	discount_female_lowers_navy_faded_skinny
 3036553116	dlc_mp_exec_m_jbib_13_0
@@ -85617,6 +85655,7 @@ hash	key(s)
 3330312927	dlc_mp_gr_f_jbib_3_8
 3330375908	dlc_mp_gr_f_jbib_19_11
 3330425320	mp1_bkr_prod_stop_cout_s3_3
+3330502162	component_pistol_mk2_camo_09_slide
 3330547498	time_driving_submarine
 3330565446	mp0_sparrow_rocket_enemy_kills
 3330610079	dlc_mp_lts_f_hand_4_12
@@ -86693,6 +86732,7 @@ hash	key(s)
 3372025924	sp0_parachute_current_tint
 3372036208	mp1_mpsv_price_paid_180
 3372054845	dlc_mp_h4_m_special_1_9
+3372082259	component_knife_varmod_xm3_09
 3372171994	business_vehicles_huntley
 3372246884	arena_clothes_metv_8
 3372247505	mp0_mg_in_possession
@@ -88624,6 +88664,7 @@ hash	key(s)
 3447324566	mp1_tattoo_fm_current_39
 3447342435	exec_disable_buy_policesting_burton
 3447373334	dlc_mp_h3_f_special_8_12
+3447384986	component_snspistol_mk2_camo_05_slide
 3447518834	dlc_mp_pilot_f_hand_8_14
 3447571213	launcher_basejumpheli
 3447602166	arena_clothes_hooded_maw_mask_1
@@ -96511,6 +96552,7 @@ hash	key(s)
 3753231599	huntdark_8_new_vs
 3753246379	dlc_mp_gr_f_berd_1_17
 3753339125	dlc_mp_ie_f_special_6_12
+3753350949	component_pistol_mk2_camo_05_slide
 3753425100	mp0_mpsv_model_172
 3753436058	dlc_mp_smug_f_phead_4_23
 3753475206	mp1_number_stolen_cop_vehicle
@@ -97251,6 +97293,7 @@ hash	key(s)
 3781467878	mp0_mpsv_price_paid_165
 3781533211	mp1_businessbatpstat_int36
 3781553190	ch_prop_cash_low_trolly_01c
+3781598220	component_bat_varmod_xm3_04
 3781631824	impexp_stockpiling_self_destruct
 3781647259	dlc_mp_gr_f_torso_11_9
 3781686417	dlc_mp_h3_m_jbib_10_17
@@ -97749,6 +97792,7 @@ hash	key(s)
 3800352039	weapon_assaultshotgun
 3800374750	v_res_tre_basketmess
 3800391970	dlc_mp_biker_m_berd_0_4
+3800418970	component_snspistol_mk2_camo_07_slide
 3800454200	dlc_mp_h4_m_torso_9_3
 3800464670	dlc_mp_vwd_m_jbib_4_6
 3800501823	dlc_mp_hal_m_berd_11_1
@@ -98759,6 +98803,7 @@ hash	key(s)
 3839834481	dlc_mp_biker_m_phead_6_0
 3839838581	su22_gold_ursine_bangle
 3839853674	prop_portasteps_01
+3839888240	component_pistol_mk2_camo_03_slide
 3839906225	dlc_mp_busi_m_accs3_0
 3839912168	dlc_mp_stunt_f_jbib_0_6
 3839937486	am_ferriswheel
@@ -98967,6 +99012,7 @@ hash	key(s)
 3847028676	enable_transform_ruiner4
 3847206599	prop_choc_ego
 3847255899	paragon
+3847267296	component_bat_varmod_xm3_05
 3847317518	stunt_male_helmets_tropic_helmet
 3847345937	discount_male_feet_green_stripe_slip_ons
 3847454518	dlc_mp_biker_f_special_17_21
@@ -99341,6 +99387,7 @@ hash	key(s)
 3863067890	dlc_mp_heist_f_teeth_4_1
 3863121281	dlc_mp_x17_f_special_5_0
 3863274624	panto
+3863286761	component_snspistol_mk2_camo_04_slide
 3863372869	impexp_plowed_phantom_health
 3863406847	mpply_total_time_spent_deathmat
 3863408315	dlc_mp_stunt_m_jbib_1_0
@@ -100100,6 +100147,7 @@ hash	key(s)
 3891075673	prop_bench_08
 3891081394	dlc_mp_tuner_f_jbib_5_3
 3891136933	dlc_mp_fixer_f_phead_6_3
+3891161322	component_snspistol_mk2_camo_slide
 3891164760	dlc_olive_bowler_hat
 3891172103	mp1_cr_gangattack_country
 3891267665	mp1_script_increase_lung
@@ -104885,6 +104933,7 @@ hash	key(s)
 4075392570	dlc_mp_lts_f_hand_7_18
 4075434857	ch_prop_ch_vault_slide_door_lrg
 4075471194	dlc_mp_fixer_m_jbib_8_22
+4075474698	component_precisionrifle_clip_01
 4075497759	v_8_spare1stuff
 4075521860	ms_finpc3_mod_gauntlet
 4075535437	dlc_mp_bh_f_special_8_2
@@ -106684,6 +106733,7 @@ hash	key(s)
 4145640582	dlc_mp_smug_m_jbib_4_5
 4145688381	mp0_arenawarspstat_int335
 4145742987	dlc_mp_ass_f_outfit_2
+4145760117	component_bat_varmod_xm3_06
 4145790875	xp_tunable_kill_muggers
 4145845879	mp1_flashlight_kills
 4145900805	dlc_mp_luxe2_m_pleft_wrist_3_2
@@ -108054,6 +108104,7 @@ hash	key(s)
 4202297740	mp1_money_spent_dropped_stolen
 4202312655	dlc_mp_h3_m_berd_16_1
 4202358353	dlc_mp_biker_m_special_2_4
+4202375078	component_snspistol_mk2_camo_06_slide
 4202382694	u_m_y_dancelthr_01
 4202418026	prop_rub_trukwreck_1
 4202550001	dlc_mp_h3_m_berd_18_3
