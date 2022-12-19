@@ -10151,6 +10151,7 @@ enable_vehicle_sultan3
 enable_vehicle_surfer3
 enable_vehicle_tahoma
 enable_vehicle_tailgater2
+enable_vehicle_taxi
 enable_vehicle_tenf
 enable_vehicle_tenf2
 enable_vehicle_thrax
@@ -19112,6 +19113,7 @@ launchposix_swinger
 launchposix_tahoma
 launchposix_tailgater2
 launchposix_taipan
+launchposix_taxi
 launchposix_tenf
 launchposix_tenf2
 launchposix_terbyte
