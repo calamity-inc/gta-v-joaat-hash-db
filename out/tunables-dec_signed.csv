@@ -68,6 +68,7 @@ hash,key
 8859143,h2_prep_skip_cost_silo_operation_fourth_prep_skip
 8865063,fm_corona_playlist_professional_blip_short_range_18_0
 8907384,arena_clothes_apocalypse_military_top_12
+8993010,turn_on_race_inactivity_reduced_rewards
 9171139,vc_red_bigness_waterproof
 9303368,discount_female_uppers_plaid_tux
 9406669,exec_sell_titan_threshold
@@ -2179,6 +2180,7 @@ hash,key
 315776437,discount_male_glasses_ash_square_frames
 315808581,sum_street_wheel_deep_flake
 316023026,accessories_sunglasses_2_8
+316982300,threshold_race_inactivity_reduced_rewards_minimum_activity_required
 317002402,ih_sub_base_turkey_flag_renovation
 317025178,smug_male_and_female_masks_contrast_camo_robo
 317044960,carmod_unlock_horn_l7_expenditure_tunable_suv
@@ -13672,6 +13674,7 @@ hash,key
 1960947600,dlc_the_spring_break
 1961057627,fm_corona_playlist_root_content_id_17_professional_16
 1961086525,femaleuppers_securoserv_sweater
+1961396489,threshold_race_inactivity_reduced_rewards_waive_time_seconds
 1961538233,cratedroplocation5
 1961631315,challenge_disable_longest_freefall
 1961647750,ch_cobble_cap
@@ -14725,6 +14728,7 @@ hash,key
 2118377492,biker_uppers_dark_red_puffer_jacket
 2118516681,tattoo_mp_fm_37_expenditure_tunable
 2118636553,biker_disable_stand_your_ground_2
+2118685241,race_creator_warp_destination_vehicle_size_difference_threshold
 2118714634,stunt_male_uppers_white_satin_jacket
 2118787791,ch_elite_objectives_time_subterfuge
 2118805836,femalepants_blue_tracksuit_pants
@@ -18584,6 +18588,7 @@ hash,key
 -1623748742,airbus_expenditure_modifier
 -1623507499,impexp_uppers_splat_squash_hoodie
 -1623493982,luxe1_both_genders_adorned_wolf
+-1623315682,threshold_race_inactivity_reduced_rewards
 -1623293482,impexp_ramped_up_no_of_crates
 -1623291410,bb_male_and_female_masks_woodland_camo_hockey
 -1623204621,h2_male_and_female_masks_black_spec_ops
@@ -23178,6 +23183,7 @@ hash,key
 -957488768,smug_male_and_female_helmets_peach_digital_full_face
 -957351601,ih_blue_digital_fishing_vest
 -957308859,fixer_tattoo_all_from_the_same_tree
+-957100818,fkoth_idle_time_percentage_for_losing_awards
 -957079148,dlc_black_skinny_suit_pants
 -957031800,ch_in_love
 -956866092,disable_bad_sport_hot_target
@@ -24207,6 +24213,7 @@ hash,key
 -805430925,ciarena_playlist_theme_arena_41
 -805374501,vc_mono_deep_shades
 -805332604,toggle_heists_off
+-805125414,race_creator_prevent_valid_warp_destinations_with_prop_intersections
 -805120632,aw_workshop_property_floor_b2_graphics_2
 -805027000,individual_tattoo_sale_hash_labels_35
 -804697135,su22_service_carbine_ammo
@@ -29145,6 +29152,7 @@ hash,key
 -103024499,xm22_white_sloped_slab_forwards
 -102922298,male_hats_all_black_broker_snapback
 -102620075,aw_sale_price_mods_armor_1
+-102320218,race_creator_warp_destination_vehicle_size_difference_enable
 -101565691,ih_aqua_palms_shortsleeve
 -101181560,helptext_vehicle_kanjosj_showroom
 -101063462,pack_clothes_sale_2
