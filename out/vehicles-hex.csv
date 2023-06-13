@@ -22,8 +22,10 @@ hash,key
 0x08852855,baller2
 0x097E5533,ardent
 0x09D80F93,miljet
+0x09E478B3,buffalo5
 0x0A90ED5C,phantom3
 0x0AFD22A6,freightcar
+0x0B706A72,streamer216
 0x0BBA2261,elegy
 0x0D17099D,speedo4
 0x0D4E5F4D,cheetah2
@@ -31,6 +33,7 @@ hash,key
 0x0DC60D2B,speeder
 0x0DF381E5,reaper
 0x0E2C013E,buffalo3
+0x0E4C8C4D,raiju
 0x0E512E79,freightcont2
 0x1004EDA4,tulip2
 0x1044926F,tempesta
@@ -100,6 +103,7 @@ hash,key
 0x2290C50A,warrener2
 0x22EDDC30,tankercar
 0x23CA25F2,hustler
+0x24626C26,coureur
 0x250B0C5E,luxor
 0x2560B2FC,romero
 0x25676EAF,fcr
@@ -147,6 +151,7 @@ hash,key
 0x2EC385FE,coquette3
 0x2EF89E46,sanchez
 0x2F03547B,buzzard
+0x2FDA9E05,monstrociti
 0x30D3F6D8,sheava
 0x30FF0190,defiler
 0x31ADBBFC,slamvan2
@@ -253,6 +258,7 @@ hash,key
 0x4C8DBA51,zhaba
 0x4DC079D7,growler
 0x4EE74355,emerus
+0x4FA9970B,gauntlet6
 0x4FAF0D70,kosatka
 0x4FB1A214,serrano
 0x4FF77E37,vestra
@@ -273,6 +279,7 @@ hash,key
 0x5502626C,fmj
 0x55365079,brioso2
 0x562A97BD,tractor3
+0x5649FF41,stingertt
 0x56590FE9,tropic2
 0x56C8A5EF,toreador
 0x56CDEE7D,vstr
@@ -442,6 +449,7 @@ hash,key
 0x897AFC65,terbyte
 0x898ECCEA,boxville
 0x89BA59F5,havok
+0x89C45478,inductor2
 0x8A63C7B9,police4
 0x8B13F083,stretch
 0x8B213907,formula2
@@ -479,6 +487,7 @@ hash,key
 0x961AFEF7,rumpo2
 0x9628879C,granger
 0x967620BE,tvtrailer
+0x96E0736B,l35
 0x96E24857,microlight
 0x973141FC,vigero2
 0x9734F3EA,penetrator
@@ -505,6 +514,7 @@ hash,key
 0x9CF21E0F,dune
 0x9CFFFC56,mamba
 0x9D0450CA,maverick
+0x9D1D9872,conada2
 0x9D96B45B,radi
 0x9DAE1398,phantom2
 0x9DC66994,fbi2
@@ -630,6 +640,7 @@ hash,key
 0xC52C6B93,dominator3
 0xC575DF11,turismo2
 0xC58DA34A,dinghy5
+0xC5A12E61,clique2
 0xC5DD6967,rogue
 0xC6C3242D,cablecar
 0xC703DB5F,taxi
@@ -642,6 +653,7 @@ hash,key
 0xC9E8FF76,burrito2
 0xCA495705,dodo
 0xCA62927A,virgo2
+0xCA7C4AE9,inductor
 0xCAB6E261,tenf
 0xCABD11E8,ruffian
 0xCADD5D2D,bati2
@@ -689,6 +701,7 @@ hash,key
 0xD83C13CE,ratloader
 0xD86A0247,krieger
 0xD876DBE2,trophytruck2
+0xD8FD24D1,brigham
 0xD9927FE3,cuban800
 0xD9F0503D,scramjet
 0xDA288376,nemesis
@@ -710,6 +723,7 @@ hash,key
 0xDE05FB87,zombieb
 0xDE3D9D22,elegy2
 0xDFF0594C,caddy2
+0xE00BADAB,ratel
 0xE18195B2,oracle2
 0xE1C03AB0,schlagen
 0xE1E2E6D7,omnisegt
@@ -725,6 +739,7 @@ hash,key
 0xE62B361B,monroe
 0xE6401328,xls2
 0xE644E480,panto
+0xE68D8190,avenger3
 0xE6E967F8,patriot2
 0xE78CC3D9,revolter
 0xE7D2A16E,shotaro
@@ -783,11 +798,13 @@ hash,key
 0xF9E67C05,squaddie
 0xFAAD85EE,felon2
 0xFB133A17,savage
+0xFBDEAC32,avenger4
 0xFC2E479A,kanjosj
 0xFCC2F483,freecrawler
 0xFCFCB68B,cargobob
 0xFD128DFD,vamos
 0xFD231729,blazer2
+0xFD546A18,speedo5
 0xFD707EDE,hunter
 0xFDEFAEC3,policeb
 0xFE0A508C,bombushka

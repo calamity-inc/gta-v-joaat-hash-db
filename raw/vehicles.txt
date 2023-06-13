@@ -25,6 +25,8 @@ autarch
 avarus
 avenger
 avenger2
+avenger3
+avenger4
 avisa
 bagger
 baletrailer
@@ -80,6 +82,7 @@ boxville5
 brawler
 brickade
 brickade2
+brigham
 brioso
 brioso2
 brioso3
@@ -99,6 +102,7 @@ buffalo
 buffalo2
 buffalo3
 buffalo4
+buffalo5
 bulldozer
 bullet
 burrito
@@ -142,6 +146,7 @@ chino2
 cinquemila
 cliffhanger
 clique
+clique2
 club
 coach
 cog55
@@ -156,12 +161,14 @@ comet5
 comet6
 comet7
 conada
+conada2
 contender
 coquette
 coquette2
 coquette3
 coquette4
 corsita
+coureur
 cruiser
 crusader
 cuban800
@@ -281,6 +288,7 @@ gauntlet2
 gauntlet3
 gauntlet4
 gauntlet5
+gauntlet6
 gb200
 gburrito
 gburrito2
@@ -323,6 +331,8 @@ impaler4
 imperator
 imperator2
 imperator3
+inductor
+inductor2
 infernus
 infernus2
 ingot
@@ -367,6 +377,7 @@ kosatka
 krieger
 kuruma
 kuruma2
+l35
 landstalker
 landstalker2
 lazer
@@ -413,6 +424,7 @@ monster
 monster3
 monster4
 monster5
+monstrociti
 moonbeam
 moonbeam2
 mower
@@ -500,6 +512,7 @@ pyro
 r300
 radi
 raiden
+raiju
 raketrailer
 rallytruck
 rancherxl
@@ -509,6 +522,7 @@ rapidgt2
 rapidgt3
 raptor
 ratbike
+ratel
 ratloader
 ratloader2
 rcbandito
@@ -610,6 +624,7 @@ speeder2
 speedo
 speedo2
 speedo4
+speedo5
 squaddie
 squalo
 stafford
@@ -619,9 +634,11 @@ stanier
 starling
 stinger
 stingergt
+stingertt
 stockade
 stockade3
 stratum
+streamer216
 streiter
 stretch
 strikeforce
