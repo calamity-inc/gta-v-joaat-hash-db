@@ -44,6 +44,7 @@ hash,key
 0x0A55C91F,test_startup
 0x0A9A080C,fm_content_mp_intro
 0x0ADDD94C,debug
+0x0B22A6AF,fm_content_test
 0x0B5C1070,re_getaway_driver
 0x0B87DC63,gb_transporter
 0x0BA18B4C,am_mp_auto_shop
@@ -64,7 +65,6 @@ hash,key
 0x0F2F7B43,nigel2
 0x0F76C782,ob_wheatgrass
 0x0F987364,triathlonsp
-0x0FF74743,net_rank_tunable_loader
 0x10858D86,jewelry_prep2a
 0x114E0BF4,appimportexport
 0x117262D2,taxi_clowncar
@@ -344,6 +344,7 @@ hash,key
 0x57FAD435,appbikerbusiness
 0x581858D7,car_meet_exterior_seating
 0x58557E37,bailbond3
+0x5899D7BE,am_mp_social_club_garage
 0x58A83CCF,floating_help_controller
 0x58B3979C,paradise
 0x58F8FC22,re_muggings
@@ -362,6 +363,7 @@ hash,key
 0x5B43D89A,re_border
 0x5B94D461,player_scene_m_shopping
 0x5B9B0272,am_mp_armory_truck
+0x5B9FCDB6,fmmc_contentquicklauncher
 0x5BA58F0F,launcher_barry
 0x5C0238A9,am_penthouse_peds
 0x5C053F56,flyunderbridges
@@ -487,6 +489,7 @@ hash,key
 0x7BE20024,gpb_baygor
 0x7C35BED8,carsteal4
 0x7C875078,fanatic2
+0x7D3397BF,appavengeroperations
 0x7D5DEE96,business_hub_garage_seats
 0x7E6F1AD9,launcher_extreme
 0x7E76F859,am_hunt_the_beast
@@ -534,6 +537,7 @@ hash,key
 0x8A6A7147,launcher_carwash
 0x8A87CBFA,exile2
 0x8B285CBD,carsteal3
+0x8B5AC53B,fm_content_bicycle_time_trial
 0x8BB3A063,am_arena_shp
 0x8BC09864,nigel1b
 0x8BCF76B7,gpb_pameladrake
@@ -561,6 +565,7 @@ hash,key
 0x90888D02,appemail
 0x90EFDCAD,dialogue_handler
 0x9114379B,gb_ie_delivery_cutscene
+0x911D3F21,appprogresshub
 0x918FCBCD,fm_main_menu
 0x91B58C82,gpb_superhero
 0x9210BA5D,freemode_creator
@@ -587,6 +592,7 @@ hash,key
 0x964E5CA7,heatmap_test_flow
 0x96637D06,launcher_epsilon
 0x966AFE8F,gb_biker_free_prisoner
+0x9682A8EC,fm_content_ghosthunt
 0x96C72262,ob_mp_shower_med
 0x974A442B,wardrobe_mp
 0x975E5D41,fm_content_sightseeing
@@ -693,6 +699,7 @@ hash,key
 0xB0902C66,gb_biker_target_rival
 0xB0BCBA60,gb_jewel_store_grab
 0xB0F9C857,re_bus_tours
+0xB1375BBE,fm_content_smuggler_ops
 0xB18BDBB6,launcher_rampage
 0xB19A1AC3,gpb_andymoon
 0xB1B4D0ED,ob_franklin_beer
@@ -707,8 +714,10 @@ hash,key
 0xB3F41E6B,family_scene_f0
 0xB458850C,taxi_taketobest
 0xB462043E,sp_editor_mission_instance
+0xB46D97DE,fm_content_possessed_animals
 0xB4901AB2,gb_rob_shop
 0xB4C17BD2,spawn_activities
+0xB4EEC658,pausemenucareerhublaunch
 0xB50CF876,fm_intro_cut_dev
 0xB5278C95,fm_content_tuner_robbery
 0xB57685C9,hairdo_shop_mp
@@ -846,6 +855,7 @@ hash,key
 0xD4CAA546,gb_biker_race_p2p
 0xD4D41110,gb_bellybeast
 0xD4DDDDE0,am_mp_creator_aircraft
+0xD5117274,fm_content_armoured_truck
 0xD525462A,fps_test_mag
 0xD5597100,grid_arcade_cabinet
 0xD59681DA,train_create_widget
@@ -992,6 +1002,7 @@ hash,key
 0xF8881E62,casino_nightclub_seating
 0xF8A3166B,clothes_shop_sp
 0xF8BEF8F8,celebrations
+0xF8F4173A,fm_content_smuggler_sell
 0xF92CFEBD,bootycallhandler
 0xF9368356,sh_intro_f_hills
 0xF93EDEFF,paparazzo3a
@@ -1004,6 +1015,7 @@ hash,key
 0xFA61481F,mp_unlocks
 0xFA9A07BF,pb_busker
 0xFB30320A,gb_gangops
+0xFB8D91E1,fm_content_smuggler_resupply
 0xFBD2C1A5,randomchar_controller
 0xFBE486CA,spaceshipparts
 0xFBF9EF55,spmc_preloader
