@@ -1,4 +1,5 @@
 a_c_boar
+a_c_boar_02
 a_c_cat_01
 a_c_chickenhawk
 a_c_chimp
@@ -8,8 +9,10 @@ a_c_chop_02
 a_c_cormorant
 a_c_cow
 a_c_coyote
+a_c_coyote_02
 a_c_crow
 a_c_deer
+a_c_deer_02
 a_c_dolphin
 a_c_fish
 a_c_hen
@@ -17,11 +20,13 @@ a_c_humpback
 a_c_husky
 a_c_killerwhale
 a_c_mtlion
+a_c_mtlion_02
 a_c_panther
 a_c_pig
 a_c_pigeon
 a_c_poodle
 a_c_pug
+a_c_pug_02
 a_c_rabbit_01
 a_c_rabbit_02
 a_c_rat
@@ -354,6 +359,7 @@ csb_ary
 csb_ary_02
 csb_avery
 csb_avischwartzman_02
+csb_avischwartzman_03
 csb_avon
 csb_ballas_leader
 csb_ballasog
@@ -366,6 +372,7 @@ csb_burgerdrug
 csb_car3guy1
 csb_car3guy2
 csb_celeb_01
+csb_charlie_reed
 csb_chef
 csb_chef2
 csb_chef_03
@@ -526,6 +533,7 @@ ig_ary_02
 ig_ashley
 ig_avery
 ig_avischwartzman_02
+ig_avischwartzman_03
 ig_avon
 ig_ballas_leader
 ig_ballasog
@@ -543,6 +551,7 @@ ig_car3guy1
 ig_car3guy2
 ig_casey
 ig_celeb_01
+ig_charlie_reed
 ig_chef
 ig_chef2
 ig_chef_03
@@ -677,6 +686,7 @@ ig_paper
 ig_party_promo
 ig_patricia
 ig_patricia_02
+ig_pernell_moss
 ig_pilot
 ig_popov
 ig_priest
@@ -688,6 +698,7 @@ ig_ramp_mex
 ig_rashcosvki
 ig_req_officer
 ig_roccopelosi
+ig_roostermccraw
 ig_russiandrunk
 ig_sacha
 ig_screen_writer
@@ -814,6 +825,7 @@ s_m_m_autoshop_03
 s_m_m_bouncer_01
 s_m_m_bouncer_02
 s_m_m_ccrew_01
+s_m_m_ccrew_02
 s_m_m_chemsec_01
 s_m_m_ciasec_01
 s_m_m_cntrybar_01
@@ -963,6 +975,7 @@ u_m_m_griff_01
 u_m_m_jesus_01
 u_m_m_jewelsec_01
 u_m_m_jewelthief
+u_m_m_juggernaut_03
 u_m_m_markfost
 u_m_m_partytarget
 u_m_m_prolsec_01
