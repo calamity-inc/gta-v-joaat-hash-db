@@ -150,7 +150,6 @@ hash,key
 0x58D23346,dlc_cm2022_setup_lab_equipment_sounds
 0x5909FBC3,dlc_heist_planning_board_sounds
 0x5A23F3D5,missionfailedsounds
-0x5B1B5497, web_navigation_sounds_phone
 0x5BCBDB6E,dlc_stunt_race_frontend_sounds
 0x5C01E0CA,dlc_exec_fly_low_sounds
 0x5C09384D,dlc_xm_vehicle_interior_security_camera_sounds
@@ -192,7 +191,6 @@ hash,key
 0x6CD15285,arm_1_soundset
 0x6CF5DFDB,prscrv_elevator_pass_sounds
 0x6D3CB182,dlc_ch_heist_finale_security_alarms_sounds
-0x6D495A89,"
 0x6DB47458,family_6_sounds
 0x6E42A524,mugshot_character_creation_sounds
 0x6E64701B,dlc_tuner_halloween_slasher_soundset
