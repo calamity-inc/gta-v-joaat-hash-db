@@ -9908,6 +9908,7 @@ hash,key
 0x7F7927AC,prop_gascyl_02a
 0x7F79E1BE,prop_cs_beer_bot_03
 0x7F805E33,frag_plank_b
+0x7F845900,prop_barbell_01
 0x7F86218F,prop_rock_5_smash3
 0x7F87BAD0,v_med_p_vaseround
 0x7F8A47DD,prop_pot_plant_04a
@@ -11897,6 +11898,7 @@ hash,key
 0x99FC2DE9,prop_bar_caddy
 0x99FC8C57,ba_prop_battle_sniffing_pipe
 0x99FDF9BC,sum_prop_ac_sarcophagus_01a
+0x99FE0DF3,prop_barbell_02
 0x99FE641D,prop_trailr_fridge
 0x99FF13C9,tr_int2_crane_02
 0x9A006B02,w_sr_marksmanrifle

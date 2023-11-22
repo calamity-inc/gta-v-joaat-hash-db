@@ -5048,6 +5048,8 @@ prop_bar_shots
 prop_bar_sink_01
 prop_bar_stirrers
 prop_bar_stool_01
+prop_barbell_01
+prop_barbell_02
 prop_barbell_100kg
 prop_barbell_10kg
 prop_barbell_20kg

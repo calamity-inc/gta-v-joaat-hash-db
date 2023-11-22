@@ -102,8 +102,6 @@ proc_stones_05
 proc_stones_06
 proc_wildquinine
 prop_bandsaw_01
-prop_barbell_01
-prop_barbell_02
 prop_battery_01
 prop_bbq_3
 prop_dandy_b

@@ -9852,6 +9852,7 @@ hash,key
 2138646444,prop_gascyl_02a
 2138694078,prop_cs_beer_bot_03
 2139119155,frag_plank_b
+2139379968,prop_barbell_01
 2139496847,prop_rock_5_smash3
 2139601616,v_med_p_vaseround
 2139768797,prop_pot_plant_04a
@@ -11827,6 +11828,7 @@ hash,key
 -1711526423,prop_bar_caddy
 -1711502249,ba_prop_battle_sniffing_pipe
 -1711408708,sum_prop_ac_sarcophagus_01a
+-1711403533,prop_barbell_02
 -1711381475,prop_trailr_fridge
 -1711336503,tr_int2_crane_02
 -1711248638,w_sr_marksmanrifle
