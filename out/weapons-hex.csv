@@ -21,6 +21,7 @@ hash,key
 0x2B5EF5EC,weapon_ceramicpistol
 0x2BE6766B,weapon_smg
 0x2C3731D9,weapon_stickybomb
+0x32A888BD,weapon_tranquilizer
 0x34A67B97,weapon_petrolcan
 0x3656C8C1,weapon_stungun
 0x3813FC08,weapon_stone_hatchet
@@ -42,6 +43,7 @@ hash,key
 0x63AB0442,weapon_hominglauncher
 0x6589186A,weapon_candycane
 0x678B81B1,weapon_nightstick
+0x687652CE,weapon_stinger
 0x6A6C02E0,weapon_marksmanrifle_mk2
 0x6D544C99,weapon_railgun
 0x6E7DDDEC,weapon_precisionrifle

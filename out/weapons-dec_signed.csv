@@ -21,6 +21,7 @@ hash,key
 727643628,weapon_ceramicpistol
 736523883,weapon_smg
 741814745,weapon_stickybomb
+849905853,weapon_tranquilizer
 883325847,weapon_petrolcan
 911657153,weapon_stungun
 940833800,weapon_stone_hatchet
@@ -42,6 +43,7 @@ hash,key
 1672152130,weapon_hominglauncher
 1703483498,weapon_candycane
 1737195953,weapon_nightstick
+1752584910,weapon_stinger
 1785463520,weapon_marksmanrifle_mk2
 1834241177,weapon_railgun
 1853742572,weapon_precisionrifle

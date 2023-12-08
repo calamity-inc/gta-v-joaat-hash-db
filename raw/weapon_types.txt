@@ -199,6 +199,5 @@ weapon_passenger_rocket
 weapon_rammed_by_car
 weapon_remotesniper
 weapon_run_over_by_car
-weapon_stinger
 weapon_unarmed
 weapon_vehicle_rocket

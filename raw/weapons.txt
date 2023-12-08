@@ -98,10 +98,12 @@ weapon_snspistol_mk2
 weapon_specialcarbine
 weapon_specialcarbine_mk2
 weapon_stickybomb
+weapon_stinger
 weapon_stone_hatchet
 weapon_stungun
 weapon_stungun_mp
 weapon_switchblade
 weapon_tacticalrifle
+weapon_tranquilizer
 weapon_vintagepistol
 weapon_wrench
