@@ -71,6 +71,7 @@ hash,key
 0x39BC6683,vehicle_weapon_strikeforce_barrage
 0x3AAB6E6B,vehicle_weapon_slamvan4_50cal
 0x3AABBBAA,weapon_heavyshotgun
+0x3B955FA6,vehicle_weapon_raiju_missiles
 0x3B9EBD01,vehicle_weapon_barrage_top_minigun
 0x3C09584E,vehicle_weapon_mine_kinetic
 0x3C83C410,vehicle_weapon_tampa_mortar
@@ -105,6 +106,7 @@ hash,key
 0x504DA665,vehicle_weapon_vigilante_missile
 0x519543AE,vehicle_weapon_slamvan5_50cal_laser
 0x51B8D4E8,vehicle_weapon_seabreeze_mg
+0x52CC6C91,vehicle_weapon_conada2_missile
 0x52FCA619,vehicle_weapon_rctank_gun
 0x5454B4C6,vehicle_weapon_mine_emp_rc
 0x54672A71,vehicle_weapon_dune_minigun
@@ -141,9 +143,11 @@ hash,key
 0x6D544C99,weapon_railgun
 0x6E7DDDEC,weapon_precisionrifle
 0x6EA548D0,vehicle_weapon_bomb_standard_wide
+0x72AEB05F,vehicle_weapon_streamer_nosemg
 0x736F5990,weapon_drowning_in_vehicle
 0x73F7C04B,vehicle_weapon_tank
 0x753A78F1,vehicle_weapon_oppressor2_missile
+0x7578B0EB,vehicle_weapon_conada2_minigun
 0x7648E34D,vehicle_weapon_issi4_50cal
 0x766FF7B1,vehicle_weapon_hacker_missile
 0x767F6925,vehicle_weapon_issi5_50cal_laser
@@ -190,6 +194,7 @@ hash,key
 0x9867203B,vehicle_weapon_avenger_cannon
 0x99AEEB3B,weapon_pistol50
 0x99B507EA,weapon_knife
+0x9A437BF7,vehicle_weapon_avenger3_minigun
 0x9AF0B90C,vehicle_weapon_bomb
 0x9AFF6376,vehicle_weapon_deluxo_mg
 0x9D07F764,weapon_mg
@@ -228,6 +233,7 @@ hash,key
 0xBA277C01,vehicle_weapon_mogul_dualturret
 0xBA45E8B8,weapon_pipebomb
 0xBA536372,weapon_hazardcan
+0xBB1CB914,vehicle_weapon_raiju_cannons
 0xBCE908DB,vehicle_weapon_scramjet_missile
 0xBD248B55,weapon_minismg
 0xBD5E626A,vehicle_weapon_revolter_mg
@@ -310,4 +316,5 @@ hash,key
 0xFDBADCED,weapon_digiscanner
 0xFDBC8A50,weapon_smokegrenade
 0xFEA23564,weapon_railgunxm3
+0xFF582FB7,vehicle_weapon_avenger3_missile
 0xFF58C4FB,weapon_drowning
