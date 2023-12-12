@@ -369,6 +369,8 @@ csb_bride
 csb_brucie2
 csb_bryony
 csb_burgerdrug
+csb_callgirl_01
+csb_callgirl_02
 csb_car3guy1
 csb_car3guy2
 csb_celeb_01
@@ -408,6 +410,7 @@ csb_isldj_02
 csb_isldj_03
 csb_isldj_04
 csb_jackhowitzer
+csb_jamalamir
 csb_janitor
 csb_jio
 csb_jio_02
@@ -464,7 +467,9 @@ csb_vagspeak
 csb_vernon
 csb_vincent
 csb_vincent_2
+csb_vincent_4
 csb_wendy
+csb_yusufamir
 g_f_importexport_01
 g_f_m_fooliganz_01
 g_f_y_ballas_01
@@ -475,6 +480,7 @@ g_m_importexport_01
 g_m_m_armboss_01
 g_m_m_armgoon_01
 g_m_m_armlieut_01
+g_m_m_cartelgoons_01
 g_m_m_cartelguards_01
 g_m_m_cartelguards_02
 g_m_m_casrn_01
@@ -488,6 +494,7 @@ g_m_m_friedlandergoons_01
 g_m_m_genthug_01
 g_m_m_goons_01
 g_m_m_korboss_01
+g_m_m_maragrande_01
 g_m_m_mexboss_01
 g_m_m_mexboss_02
 g_m_m_prisoners_01
@@ -526,6 +533,7 @@ ig_acidlabcook
 ig_agatha
 ig_agent
 ig_agent_02
+ig_ahronward
 ig_amandatownley
 ig_andreas
 ig_ary
@@ -547,6 +555,8 @@ ig_billionaire
 ig_brad
 ig_bride
 ig_brucie2
+ig_callgirl_01
+ig_callgirl_02
 ig_car3guy1
 ig_car3guy2
 ig_casey
@@ -617,8 +627,10 @@ ig_isldj_04_d_01
 ig_isldj_04_d_02
 ig_isldj_04_e_01
 ig_jackie
+ig_jamalamir
 ig_janet
 ig_jay_norris
+ig_jaywalker
 ig_jewelass
 ig_jimmyboston
 ig_jimmyboston_02
@@ -656,6 +668,8 @@ ig_marnie
 ig_maryann
 ig_mason_duggan
 ig_maude
+ig_mechanic_01
+ig_mechanic_02
 ig_michelle
 ig_miguelmadrazo
 ig_milton
@@ -688,6 +702,7 @@ ig_patricia
 ig_patricia_02
 ig_pernell_moss
 ig_pilot
+ig_pilot_02
 ig_popov
 ig_priest
 ig_prolsec_02
@@ -711,6 +726,7 @@ ig_soundeng_00
 ig_sss
 ig_stevehains
 ig_stretch
+ig_subcrewhead
 ig_talcc
 ig_talina
 ig_talmm
@@ -736,9 +752,11 @@ ig_vernon
 ig_vincent
 ig_vincent_2
 ig_vincent_3
+ig_vincent_4
 ig_wade
 ig_warehouseboss
 ig_wendy
+ig_yusufamir
 ig_zimbor
 mp_f_bennymech_01
 mp_f_boatstaff_01
@@ -826,9 +844,11 @@ s_m_m_bouncer_01
 s_m_m_bouncer_02
 s_m_m_ccrew_01
 s_m_m_ccrew_02
+s_m_m_ccrew_03
 s_m_m_chemsec_01
 s_m_m_ciasec_01
 s_m_m_cntrybar_01
+s_m_m_cop_01
 s_m_m_dockwork_01
 s_m_m_doctor_01
 s_m_m_drugprocess_01
@@ -874,6 +894,7 @@ s_m_m_strvend_01
 s_m_m_studioassist_02
 s_m_m_studioprod_01
 s_m_m_studiosoueng_02
+s_m_m_subcrew_01
 s_m_m_tattoo_01
 s_m_m_trucker_01
 s_m_m_ups_01
@@ -985,6 +1006,7 @@ u_m_m_spyactor
 u_m_m_streetart_01
 u_m_m_vince
 u_m_m_willyfist
+u_m_m_yeti
 u_m_m_yulemonster
 u_m_o_dean
 u_m_o_filmnoir

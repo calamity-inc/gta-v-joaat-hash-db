@@ -27,6 +27,7 @@ hash,key
 0x07DD91AC,a_m_m_eastsa_02
 0x092D9CC1,a_f_y_indian_01
 0x0998C7AD,cs_maryann
+0x0AEBDF93,ig_pilot_02
 0x0B34D6F5,ig_zimbor
 0x0B4A6862,s_m_y_baywatch_01
 0x0B63911D,cs_lestercrest_2
@@ -94,6 +95,7 @@ hash,key
 0x1BCC157B,csb_fos_rep
 0x1C0077FB,s_m_m_strpreach_01
 0x1C95CB0B,u_m_m_markfost
+0x1CC234A5,ig_mechanic_01
 0x1D953580,cs_lestercrest_3
 0x1E04A96B,ig_mrs_thornhill
 0x1E3E327D,ig_juanstrickler
@@ -165,6 +167,7 @@ hash,key
 0x2E0A4F4A,ig_imani
 0x2E140314,u_f_m_corpse_01
 0x2E420A24,csb_reporter
+0x2E714EFA,csb_callgirl_02
 0x2EE1E9A0,a_f_y_clubcust_04
 0x2EFAA8C3,cs_patricia_02
 0x2EFEAFD5,s_m_m_chemsec_01
@@ -205,6 +208,7 @@ hash,key
 0x36E70600,u_m_y_party_01
 0x36EA5B09,mp_m_weapexp_01
 0x371B9DA9,ig_sessanta
+0x37411FC7,ig_ahronward
 0x379DDAB8,a_f_y_vinewood_03
 0x379F9596,a_m_y_breakdance_01
 0x37FACDA6,ig_money
@@ -229,6 +233,7 @@ hash,key
 0x3BE8287E,ig_maude
 0x3C04504A,ig_oldrichguy
 0x3C438CD2,u_m_y_rsranger_01
+0x3C4B0062,ig_jamalamir
 0x3C60A153,cs_dreyfuss
 0x3C831724,a_c_sharkhammer
 0x3CD28CB3,g_m_m_casrn_01
@@ -307,6 +312,7 @@ hash,key
 0x4BBA84D9,cs_movpremf_01
 0x4C31C4A1,u_m_y_gabriel
 0x4C7B2F05,ig_siemonyetarian
+0x4C828695,ig_jaywalker
 0x4D5696F7,mp_m_bogdangoon
 0x4D6DE57E,cs_priest
 0x4D73A43F,s_m_y_clubbar_01
@@ -387,9 +393,12 @@ hash,key
 0x5D71A46F,s_f_y_airhostess_01
 0x5DCA2528,u_f_y_mistress
 0x5E3DA4A4,s_m_y_cop_01
+0x5EC7B8CF,ig_mechanic_02
 0x5F06D73D,csb_bogdan
 0x5F2113A1,s_m_y_prismuscl_01
 0x5F4C593D,cs_lazlow_2
+0x5FD9DF6C,ig_yusufamir
+0x6025B262,csb_callgirl_01
 0x60D5D6DA,u_m_m_rivalpap
 0x60E6A7D8,ig_omega
 0x60F4A717,a_m_m_salton_02
@@ -427,7 +436,9 @@ hash,key
 0x685FF8D4,a_m_y_carclub_01
 0x68709618,g_m_y_azteca_01
 0x689C2A80,a_f_y_epsilon_01
+0x69117A0E,s_m_m_cop_01
 0x69147A0D,s_m_y_xmech_02_mp
+0x69287899,ig_vincent_4
 0x69591CF7,cs_barry
 0x695FE666,a_f_y_skater_01
 0x696BE0A9,a_m_y_methhead_01
@@ -523,6 +534,7 @@ hash,key
 0x7FA2F024,csb_prolsec
 0x7FE3DD1F,u_m_y_dancerave_01
 0x7FE3DEC7,u_m_y_croupthief_01
+0x8025C2AB,csb_vincent_4
 0x806E6A1C,ig_isldj_04
 0x80E59F2E,a_m_y_acult_02
 0x81441B71,csb_stripper_02
@@ -576,6 +588,7 @@ hash,key
 0x8CA0C266,a_f_m_trampbeac_01
 0x8CCE790F,cs_carbuyer
 0x8CDCC057,csb_burgerdrug
+0x8CE6A476,u_m_m_yeti
 0x8D2B8F51,a_c_mtlion_02
 0x8D67EE7D,cs_movpremmale
 0x8D7EE5A4,csb_moodyman_02
@@ -593,11 +606,13 @@ hash,key
 0x917ED459,mp_m_weed_01
 0x9194CE03,u_m_y_staggrm_01
 0x91CA3E2C,a_m_y_juggalo_01
+0x92100781,ig_callgirl_02
 0x927F2323,s_m_y_strvend_01
 0x92991B72,ig_wade
 0x92E7E56D,a_f_y_bevhills_05
 0x93FECBD7,ig_thornton
 0x9431F54B,ig_djsoljakob
+0x944979A8,g_m_m_maragrande_01
 0x94562DD7,a_m_m_farmer_01
 0x94AE2B8C,u_m_y_tattoo_01
 0x94C2A03F,u_m_y_corpse_01
@@ -621,6 +636,7 @@ hash,key
 0x98D8449F,csb_party_promo
 0x98F3FA18,csb_mjo_02
 0x98F9E770,cs_old_man2
+0x995B3F9F,g_m_m_cartelgoons_01
 0x999B00C6,ig_paper
 0x99BB00F8,hc_hacker
 0x99D4A44D,ig_djgeneric_01
@@ -658,6 +674,7 @@ hash,key
 0xA1435105,a_m_y_business_03
 0xA143CBCD,g_f_m_fooliganz_01
 0xA148614D,a_c_stingray
+0xA17EC96C,csb_yusufamir
 0xA20899E7,u_f_m_promourn_01
 0xA217F345,s_m_y_westsec_01
 0xA23B5F57,ig_tenniscoach
@@ -695,6 +712,7 @@ hash,key
 0xAAE4EA7B,ig_chengsr
 0xAB0A7155,a_m_y_yoga_01
 0xAB300C07,s_m_y_pilot_01
+0xAB3739CF,ig_callgirl_01
 0xAB594AB6,s_f_y_scrubs_01
 0xABEF0004,csb_ballasog
 0xAC0EA5D8,u_m_m_spyactor
@@ -729,6 +747,7 @@ hash,key
 0xB2BC525F,csb_isldj_04
 0xB3229752,u_m_y_gunvend_01
 0xB353629E,s_m_m_paramedic_01
+0xB3B3B7FB,csb_jamalamir
 0xB3B3F5E6,a_m_y_business_02
 0xB3D82D2F,cs_taostranslator2
 0xB3F3EE34,s_m_y_blackops_01
@@ -906,6 +925,7 @@ hash,key
 0xDE2937F3,csb_trafficwarden
 0xDE352A35,ig_tracydisanto
 0xDEA6E105,ig_avischwartzman_02
+0xDED5E96B,s_m_m_subcrew_01
 0xDEE17D7E,a_m_m_genbiker_01
 0xDEEF9F6E,ig_ramp_hipster
 0xDF8B1301,cs_patricia
@@ -921,6 +941,7 @@ hash,key
 0xE1A0BFED,csb_talmm
 0xE1AB915C,ig_sol
 0xE2210515,a_m_y_clubcust_04
+0xE29CAA7D,ig_subcrewhead
 0xE2A32E68,ig_isldj_00
 0xE313AC8A,ig_fooliganz_01
 0xE3420BDB,csb_imran
@@ -932,6 +953,7 @@ hash,key
 0xE5371B92,s_f_m_warehouse_01
 0xE5A11106,s_m_y_barman_01
 0xE6631195,ig_cletus
+0xE681AEA2,s_m_m_ccrew_03
 0xE6AC74A4,ig_ramp_mex
 0xE6CC3CDC,u_m_m_jewelthief
 0xE716BDCB,a_m_y_soucent_01
