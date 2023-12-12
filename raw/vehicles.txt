@@ -3,6 +3,7 @@ airbus
 airtug
 akula
 akuma
+aleutian
 alkonost
 alpha
 alphaz1
@@ -19,6 +20,7 @@ asbo
 asea
 asea2
 asterope
+asterope2
 astron
 astron2
 autarch
@@ -37,6 +39,7 @@ baller4
 baller5
 baller6
 baller7
+baller8
 banshee
 banshee2
 barracks
@@ -46,6 +49,7 @@ barrage
 bati
 bati2
 benson
+benson2
 besra
 bestiagts
 bf400
@@ -79,6 +83,7 @@ boxville2
 boxville3
 boxville4
 boxville5
+boxville6
 brawler
 brickade
 brickade2
@@ -132,6 +137,7 @@ cargoplane2
 casco
 cavalcade
 cavalcade2
+cavalcade3
 cerberus
 cerberus2
 cerberus3
@@ -207,9 +213,19 @@ dominator5
 dominator6
 dominator7
 dominator8
+dominator9
+dorado
 double
 drafter
 draugur
+drifteuros
+driftfr36
+driftfuto
+driftjester
+driftremus
+drifttampa
+driftyosemite
+driftzr350
 dubsta
 dubsta2
 dubsta3
@@ -266,8 +282,10 @@ forklift
 formula
 formula2
 fq2
+fr36
 freecrawler
 freight
+freight2
 freightcar
 freightcar2
 freightcont1
@@ -328,6 +346,8 @@ impaler
 impaler2
 impaler3
 impaler4
+impaler5
+impaler6
 imperator
 imperator2
 imperator3
@@ -481,13 +501,16 @@ pfister811
 phantom
 phantom2
 phantom3
+phantom4
 phoenix
 picador
 pigalle
+polgauntlet
 police
 police2
 police3
 police4
+police5
 policeb
 policeold1
 policeold2
@@ -684,6 +707,7 @@ tempesta
 tenf
 tenf2
 terbyte
+terminus
 tezeract
 thrax
 thrust
@@ -707,6 +731,8 @@ toros
 tourbus
 towtruck
 towtruck2
+towtruck3
+towtruck4
 tr2
 tr3
 tr4
@@ -737,6 +763,7 @@ tula
 tulip
 tulip2
 turismo2
+turismo3
 turismor
 tvtrailer
 tyrant
@@ -762,6 +789,7 @@ veto
 veto2
 vigero
 vigero2
+vigero3
 vigilante
 vindicator
 virgo
@@ -770,6 +798,7 @@ virgo3
 virtue
 viseris
 visione
+vivanite
 volatol
 volatus
 voltic
