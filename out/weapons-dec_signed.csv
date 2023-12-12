@@ -1,4 +1,5 @@
 hash,key
+62870901,weapon_snowlauncher
 94989220,weapon_combatshotgun
 100416529,weapon_sniperrifle
 101631238,weapon_fireextinguisher
@@ -14,6 +15,7 @@ hash,key
 419712736,weapon_wrench
 453432689,weapon_pistol
 465894841,weapon_pistolxm3
+485882440,weapon_hackingdevice
 487013001,weapon_pumpshotgun
 584646201,weapon_appistol
 600439132,weapon_ball
@@ -47,6 +49,7 @@ hash,key
 1785463520,weapon_marksmanrifle_mk2
 1834241177,weapon_railgun
 1853742572,weapon_precisionrifle
+1924557585,weapon_battlerifle
 2017895192,weapon_sawnoffshotgun
 2024373456,weapon_smg_mk2
 2132975508,weapon_bullpuprifle

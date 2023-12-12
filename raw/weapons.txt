@@ -9,6 +9,7 @@ weapon_autoshotgun
 weapon_ball
 weapon_bat
 weapon_battleaxe
+weapon_battlerifle
 weapon_bottle
 weapon_bullpuprifle
 weapon_bullpuprifle_mk2
@@ -42,6 +43,7 @@ weapon_grenade
 weapon_grenadelauncher
 weapon_grenadelauncher_smoke
 weapon_gusenberg
+weapon_hackingdevice
 weapon_hammer
 weapon_hatchet
 weapon_hazardcan
@@ -93,6 +95,7 @@ weapon_smg_mk2
 weapon_smokegrenade
 weapon_sniperrifle
 weapon_snowball
+weapon_snowlauncher
 weapon_snspistol
 weapon_snspistol_mk2
 weapon_specialcarbine

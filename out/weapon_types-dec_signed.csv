@@ -1,6 +1,7 @@
 hash,key
 28811031,weapon_briefcase_02
 50118905,vehicle_weapon_ruiner_bullet
+62870901,weapon_snowlauncher
 84788907,vehicle_weapon_ruiner_rocket
 94989220,weapon_combatshotgun
 100416529,weapon_sniperrifle
@@ -34,6 +35,7 @@ hash,key
 453432689,weapon_pistol
 465894841,weapon_pistolxm3
 476907586,vehicle_weapon_akula_turret_dual
+485882440,weapon_hackingdevice
 487013001,weapon_pumpshotgun
 490982948,vehicle_weapon_deathbike_dualminigun
 507170720,vehicle_weapon_khanjali_cannon
@@ -144,6 +146,7 @@ hash,key
 1853742572,weapon_precisionrifle
 1856325840,vehicle_weapon_bomb_standard_wide
 1924051039,vehicle_weapon_streamer_nosemg
+1924557585,weapon_battlerifle
 1936677264,weapon_drowning_in_vehicle
 1945616459,vehicle_weapon_tank
 1966766321,vehicle_weapon_oppressor2_missile
