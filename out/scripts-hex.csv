@@ -1,6 +1,7 @@
 hash,key
 0x000269EB,ob_drinking_shots
 0x00162FCD,fbi4_prep3
+0x00B4D970,fm_content_vehrob_scoping
 0x00B6F5D2,mp_weapons
 0x00E05930,fanatic1
 0x00E51D17,heatmap_test
@@ -26,6 +27,7 @@ hash,key
 0x05828585,ambient_solomon
 0x0591C660,family6
 0x05973129,am_mp_smpl_interior_int
+0x05B3EB38,fm_content_vehrob_submarine
 0x05B3F117,fm_content_drug_vehicle
 0x05E4C2B2,exile1
 0x05E86D0D,casinoroulette
@@ -109,6 +111,7 @@ hash,key
 0x1C8463B3,gb_biker_contract_killing
 0x1C879BC2,jewelry_setup1
 0x1CD2B051,barry2
+0x1D0EAFB0,fm_content_vehrob_prep
 0x1D477306,fm_survival_controller
 0x1D6A715A,family_scene_f1
 0x1DC6B680,carmod_shop
@@ -175,6 +178,7 @@ hash,key
 0x2CA4F81B,pausemenu_map
 0x2D7230D7,agency_prep2amb
 0x2DA8F273,aicover_test
+0x2DB7B2B0,fm_content_xmas_truck
 0x2DD7FECF,vehicle_plate
 0x2E5307C2,ambient_tonyacall
 0x2ECB9025,weapon_audio_widget
@@ -186,6 +190,7 @@ hash,key
 0x30AE7469,blimptest
 0x30F6BFDA,tonya5
 0x312930E2,finale_credits
+0x31BA31C3,fm_content_tow_truck_work
 0x31DC55BB,gb_amphibious_assault
 0x31F64E53,trevor2
 0x322BAD51,am_mp_vehicle_weapon
@@ -196,12 +201,14 @@ hash,key
 0x3339C03A,casino_main_lounge_seating
 0x33658748,omega1
 0x33EBB2C1,timershud
+0x33EE57B3,salvage_yard_seating
 0x34141A78,hangar_carmod
 0x344A10CE,net_bot_simplebrain
 0x349598A6,chinese2
 0x349B7463,am_mp_hacker_truck
 0x34D54225,launcher_hao
 0x350B42FB,mp_prop_global_block
+0x3566E645,vehrob_planning
 0x356CF62E,rural_bank_heist
 0x359C266A,letterscraps
 0x36141181,golf_ai_foursome
@@ -244,6 +251,7 @@ hash,key
 0x3E3206FD,taxiservice
 0x3E74E99B,emergencycalllauncher
 0x3E927A10,gb_biker_criminal_mischief
+0x3ECE30D2,am_mp_vehicle_organization_menu
 0x3F21DF40,fm_content_bank_shootout
 0x3FDBA102,drunk
 0x3FF69732,fm_content_bike_shop_delivery
@@ -253,6 +261,7 @@ hash,key
 0x41F74A04,fixer_hq_carmod
 0x4250943E,am_lowrider_int
 0x425F7B6A,barry4
+0x42F84EE5,mp_skycam_stuck_wiggler
 0x432ECA6C,scaleformprofiling
 0x43D8057E,hunting1
 0x43E4FB30,jewelry_heist
@@ -375,6 +384,7 @@ hash,key
 0x5DFF0A06,player_scene_f_lamtaunt
 0x5E02E823,am_mp_arcade_peds
 0x5F1459D7,casino_slots
+0x5F3A4B16,mp_player_damage_numbers
 0x5F6C2123,gb_velocity
 0x5F95D1A5,ambient_sonar
 0x5FF2841F,maintransition
@@ -401,9 +411,11 @@ hash,key
 0x678B6D24,candidate_controller
 0x679A06A1,am_mp_multistorey_garage
 0x6834EEB9,laptop_trigger
+0x6838B35E,net_freemode_debug_2023
 0x68867AF7,am_island_backup_heli
 0x6908A034,photographywildlife
 0x692F8E30,am_mp_vehicle_reward
+0x6954234A,fm_content_vehrob_disrupt
 0x696D2BE0,fm_mission_creator
 0x69BDB2D8,am_armwrestling_apartment
 0x6A0843DF,train_tester
@@ -415,6 +427,7 @@ hash,key
 0x6C0EC785,minute2
 0x6C25DCCB,am_mp_orbital_cannon
 0x6C2CE225,fm_mission_controller
+0x6CA666FA,am_mp_salvage_yard
 0x6CC29C20,am_mp_casino_valet_garage
 0x6CF41527,family3
 0x6CFC0084,fm_content_xmas_mugger
@@ -548,6 +561,7 @@ hash,key
 0x8C9C5FB8,am_mp_arena_box
 0x8C9FEB33,fm_content_hsw_setup
 0x8CD0BFF0,gb_gunrunning
+0x8CF7120D,mmmm
 0x8D055FE8,base_entrance_seats
 0x8D608FF1,towing
 0x8DC43A99,gb_fivestar
@@ -568,6 +582,7 @@ hash,key
 0x911D3F21,appprogresshub
 0x918FCBCD,fm_main_menu
 0x91B58C82,gpb_superhero
+0x920586DF,fm_content_vehrob_arena
 0x9210BA5D,freemode_creator
 0x925F92CA,vehicle_force_widget
 0x92772B1F,fm_content_acid_lab_sell
@@ -598,6 +613,7 @@ hash,key
 0x975E5D41,fm_content_sightseeing
 0x9782808A,am_hi_plane_land_cinematic
 0x97CD8E78,stripclub_mp
+0x985EAAD3,mp_gameplay_menu
 0x98AB77C3,carsteal2
 0x98C20B30,line_activation_test
 0x990A9196,am_plane_takedown
@@ -710,6 +726,7 @@ hash,key
 0xB31A0796,gb_biker_unload_weapons
 0xB352D695,title_update_registration
 0xB3920707,am_contact_requests
+0xB39A2667,net_freemode_debug_stat_2023
 0xB3E837FF,gb_biker_wheelie_rider
 0xB3F41E6B,family_scene_f0
 0xB458850C,taxi_taketobest
@@ -848,6 +865,7 @@ hash,key
 0xD32F0F45,epsilon5
 0xD378365E,blackjack
 0xD3AC6BE7,streaming
+0xD3C57F89,fm_content_vehrob_casino_prize
 0xD4114E8A,launcher_hunting
 0xD41E6264,gb_biker_shuttle
 0xD45729DB,fm_content_slasher
@@ -872,6 +890,7 @@ hash,key
 0xD9866E4A,family5
 0xD9EE6178,gb_biker_burn_assets
 0xD9FF97CF,combat_test
+0xDA0438B0,fm_content_vehrob_cargo_ship
 0xDA152D0E,pm_defend
 0xDA253CA0,launcher_josh
 0xDA508D57,gb_fully_loaded
@@ -909,6 +928,7 @@ hash,key
 0xE04167B2,fairgroundhub
 0xE05F49F1,fm_content_cerberus
 0xE0A7B7AD,am_mp_smpl_interior_ext
+0xE0E0FE59,fm_content_chop_shop_delivery
 0xE0FFAAE6,epsilon4
 0xE16957F2,am_mp_submarine
 0xE1928D5A,franklin2
@@ -940,6 +960,7 @@ hash,key
 0xE8DA8C5F,gb_security_van
 0xE8DB5464,abigail1
 0xE8DE3C40,gpb_jerome
+0xEA51F082,fm_content_vehrob_task
 0xEA9645D5,ambient_tonyacall5
 0xEAAFB2F8,assassin_bus
 0xEAB28126,am_destroy_veh
@@ -950,6 +971,7 @@ hash,key
 0xEB67D215,rural_bank_prep1
 0xEB977B1E,apparcadebusinesshub
 0xEBCBC07E,epsilon7
+0xEBD916A0,am_mp_vinewood_premium_garage
 0xEBFDCE65,appextraction
 0xEC08259E,bailbond1
 0xEC2648F1,ambient_tonyacall2
@@ -1032,6 +1054,7 @@ hash,key
 0xFD4B7439,am_mp_garage_control
 0xFD519148,nightclub_office_seats
 0xFD69440D,gunfighttest
+0xFD6BCF33,fm_content_vehrob_police
 0xFD6D63C1,epsilon6
 0xFD8F98B8,family_scene_t0
 0xFDA01119,controller_races
