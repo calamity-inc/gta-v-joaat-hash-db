@@ -3,6 +3,7 @@ hash,key
 0x02FCC0F9,vehicle_weapon_ruiner_bullet
 0x03BF5575,weapon_snowlauncher
 0x050DC6AB,vehicle_weapon_ruiner_rocket
+0x05A2B311,weapon_cow
 0x05A96BA4,weapon_combatshotgun
 0x05FC3C11,weapon_sniperrifle
 0x060EC506,weapon_fireextinguisher
@@ -26,6 +27,7 @@ hash,key
 0x138F71D8,vehicle_weapon_apc_cannon
 0x145599F7,vehicle_weapon_trailer_missile
 0x145F1012,weapon_heli_crash
+0x14E5AFD5,weapon_tecpistol
 0x166218FF,weapon_passenger_rocket
 0x1670C4A8,vehicle_weapon_tula_minigun
 0x178605E2,vehicle_weapon_khanjali_gl
@@ -53,13 +55,16 @@ hash,key
 0x2B5EF5EC,weapon_ceramicpistol
 0x2B796481,vehicle_weapon_turret_limo
 0x2BE6766B,weapon_smg
+0x2C082D7D,weapon_air_defence_gun
 0x2C2B2D58,vehicle_weapon_bombushka_dualmg
 0x2C3731D9,weapon_stickybomb
+0x2C51AD11,weapon_tiger_shark
 0x2CAC4286,vehicle_weapon_paragon2_mg
 0x2ED14835,vehicle_weapon_hunter_barrage
 0x32A888BD,weapon_tranquilizer
 0x32FE9EEF,vehicle_weapon_havok_minigun
 0x33058E22,weapon_remotesniper
+0x335CDADD,weapon_boar
 0x34A67B97,weapon_petrolcan
 0x34FDFF66,weapon_arena_machine_gun
 0x35D8CC90,vehicle_weapon_annihilator2_barrage
@@ -68,6 +73,7 @@ hash,key
 0x373AD53C,vehicle_weapon_jb700_mg
 0x3813FC08,weapon_stone_hatchet
 0x38F41EAB,vehicle_weapon_strikeforce_cannon
+0x38F8ECBE,weapon_hen
 0x394F415C,weapon_assaultrifle_mk2
 0x39958261,object
 0x39BC6683,vehicle_weapon_strikeforce_barrage
@@ -86,6 +92,7 @@ hash,key
 0x4497AC40,vehicle_weapon_volatol_dualmg
 0x44A56189,vehicle_weapon_apc_missile
 0x44DB5498,vehicle_weapon_turret_insurgent
+0x453467D1,weapon_coyote
 0x45CD9CF3,weapon_stungun_mp
 0x461DDDB0,vehicle_weapon_subcar_mg
 0x4635DD15,vehicle_weapon_thruster_missile
@@ -95,6 +102,7 @@ hash,key
 0x4772F84B,vehicle_weapon_mule4_missile
 0x47757124,weapon_flaregun
 0x47894765,vehicle_weapon_barrage_rear_mg
+0x47D75EF1,weapon_pig
 0x488BD081,vehicle_weapon_tula_mg
 0x48E7B178,weapon_barbed_wire
 0x491B2E74,vehicle_weapon_halftrack_quadmg
@@ -143,6 +151,7 @@ hash,key
 0x6C516BA8,vehicle_weapon_caracara_mg
 0x6C88E47D,vehicle_weapon_rogue_missile
 0x6D544C99,weapon_railgun
+0x6D5E2801,weapon_bird_crap
 0x6E7DDDEC,weapon_precisionrifle
 0x6EA548D0,vehicle_weapon_bomb_standard_wide
 0x72AEB05F,vehicle_weapon_streamer_nosemg
@@ -216,6 +225,7 @@ hash,key
 0xA44C228D,vehicle_weapon_barrage_rear_gl
 0xA4513E35,vehicle_weapon_turret_valkyrie
 0xA61AC574,vehicle_weapon_nightshark_mg
+0xA687EC07,weapon_rabbit
 0xA89CB99E,weapon_musket
 0xAA886DF8,vehicle_weapon_insurgent_minigun
 0xAAE74AC1,vehicle_weapon_sub_missile_homing
@@ -228,6 +238,7 @@ hash,key
 0xB300643A,vehicle_weapon_flamethrower
 0xB3B155FD,vehicle_weapon_turret_dinghy5_50cal
 0xB4246A5F,vehicle_weapon_dominator5_50cal_laser
+0xB4A915CB,weapon_hammerhead_shark
 0xB4F96934,vehicle_weapon_deluxo_missile
 0xB54F4918,vehicle_weapon_turret_boxville
 0xB5B3B9AD,vehicle_weapon_akula_turret_single
@@ -237,6 +248,7 @@ hash,key
 0xBA45E8B8,weapon_pipebomb
 0xBA536372,weapon_hazardcan
 0xBB1CB914,vehicle_weapon_raiju_cannons
+0xBB8FE23D,weapon_small_dog
 0xBCE908DB,vehicle_weapon_scramjet_missile
 0xBD248B55,weapon_minismg
 0xBD5E626A,vehicle_weapon_revolter_mg
@@ -260,6 +272,7 @@ hash,key
 0xCDAC517D,vehicle_weapon_searchlight
 0xCDC174B0,weapon_fall
 0xCF0896E0,vehicle_weapon_plane_rocket
+0xD04C944D,weapon_handcuffs
 0xD11507CF,vehicle_weapon_dune_mg
 0xD1D5F52B,weapon_tacticalrifle
 0xD205520E,weapon_heavypistol
@@ -286,12 +299,15 @@ hash,key
 0xDFCAF8A4,vehicle_weapon_menacer_mg
 0xDFE37640,weapon_switchblade
 0xE22DEDCC,vehicle_weapon_scarab2_50cal_laser
+0xE232C28C,weapon_garbagebag
 0xE2451DD6,vehicle_weapon_oppressor2_mg
+0xE274FF96,weapon_cat
 0xE2822A29,vehicle_weapon_player_lazer
 0xE284C527,weapon_assaultshotgun
 0xE2FD135E,vehicle_weapon_mogul_turret
 0xE53E69A4,vehicle_weapon_mobileops_cannon
 0xE5AE53DD,vehicle_weapon_monster3_glkin
+0xE5B7DE7A,weapon_animal_retriever
 0xE5F3AE2F,vehicle_weapon_mogul_dualnose
 0xE72ABBC2,vehicle_weapon_rogue_cannon
 0xE783C3BA,vehicle_weapon_subcar_torpedo
@@ -306,6 +322,7 @@ hash,key
 0xEFFD014B,vehicle_weapon_player_laser
 0xF4077EE7,vehicle_weapon_vigilante_mg
 0xF4418BA0,vehicle_weapon_mine_tar
+0xF4C67A9E,weapon_deer
 0xF4EE498A,vehicle_weapon_rctank_flame
 0xF6189F4A,vehicle_weapon_mogul_nose
 0xF7498994,vehicle_weapon_barrage_top_mg
@@ -315,6 +332,7 @@ hash,key
 0xF9DCBF2D,weapon_hatchet
 0xF9E6AA4B,weapon_bottle
 0xF9FBAEBE,weapon_animal
+0xFA3DDCE5,weapon_killer_whale
 0xFAD1F1C9,weapon_carbinerifle_mk2
 0xFDBADCED,weapon_digiscanner
 0xFDBC8A50,weapon_smokegrenade
