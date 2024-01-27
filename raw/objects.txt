@@ -16770,7 +16770,6 @@ v_serv_bs_spray
 v_serv_cln_prod_04
 v_serv_cln_prod_06
 v_serv_crdbox_2
-v_serv_ct_binoculars
 v_serv_ct_light
 v_serv_ct_striplight
 v_serv_cupboard_01

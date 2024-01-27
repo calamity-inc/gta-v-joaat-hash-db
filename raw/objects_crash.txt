@@ -219,6 +219,7 @@ v_serv_bs_clutter
 v_serv_bs_cond
 v_serv_bs_foamx3
 v_serv_bs_gelx3
+v_serv_ct_binoculars
 v_serv_ct_chair01
 v_serv_ct_chair02
 v_serv_ct_lamp
