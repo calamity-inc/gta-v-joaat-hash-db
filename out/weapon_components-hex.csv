@@ -19,6 +19,7 @@ hash,key
 0x0A7FF1B8,component_revolver_mk2_camo_03
 0x0B5A715F,component_smg_mk2_clip_fmj
 0x0C164F53,component_at_ar_afgrip
+0x0D3A08EC,component_heavysniper_varmod_xmas23
 0x0D4A969A,component_heavypistol_clip_01
 0x0DC8BA3F,component_revolver_mk2_clip_fmj
 0x0E046DFC,component_combatmg_mk2_camo_09
@@ -30,6 +31,8 @@ hash,key
 0x10F42E8F,component_revolver_mk2_clip_hollowpoint
 0x11317F27,component_revolver_mk2_camo_05
 0x11AE5C97,component_grenadelauncher_clip_01
+0x120A66F8,component_specialcarbine_varmod_xmas23
+0x1286198E,component_tecpistol_clip_02
 0x13AA78E7,component_heavysniper_mk2_camo_04
 0x13B9376B,component_pumpshotgun_varmod_xm3
 0x15F7A390,component_pistol_mk2_camo_02
@@ -48,6 +51,7 @@ hash,key
 0x1B4C088B,component_combatmg_mk2_camo_08
 0x1C221B1A,component_at_scope_large_fixed_zoom
 0x1CE5A6A5,component_gusenberg_clip_01
+0x1D7E2EEA,component_battlerifle_clip_02
 0x1E02B7E0,component_pistolxm3_supp
 0x1F07150A,component_snspistol_mk2_camo_ind_01_slide
 0x20ED9B5B,component_revolver_mk2_camo_10
@@ -95,6 +99,7 @@ hash,key
 0x37E5444B,component_assaultrifle_mk2_camo_02
 0x3815A945,component_smg_mk2_camo_02
 0x381B5D89,component_at_mrfl_barrel_01
+0x383664EE,component_tecpistol_clip_01
 0x399D558F,component_smg_mk2_camo_ind_01
 0x3A1BD6FA,component_smg_mk2_clip_hollowpoint
 0x3ADE514B,component_snspistol_mk2_camo_03_slide
@@ -159,6 +164,7 @@ hash,key
 0x51351635,component_specialcarbine_mk2_clip_armorpiercing
 0x513F0A63,component_compactrifle_clip_01
 0x5218C819,component_specialcarbine_mk2_camo_ind_01
+0x537CD6DE,component_combatpistol_varmod_xmas23
 0x538B7B97,component_assaultrifle_mk2_camo_03
 0x54A8437D,component_snspistol_mk2_camo_08
 0x54D41361,component_ceramicpistol_clip_01
@@ -173,12 +179,14 @@ hash,key
 0x5ED6C128,component_pistol_mk2_clip_02
 0x5F31B653,component_pistol_mk2_camo_09
 0x5F7DCE4D,component_at_muzzle_08
+0x5FB24D6A,component_carbinerifle_varmod_mich
 0x60BD749C,component_gunrun_mk2_upgrade
 0x60CF500F,component_marksmanrifle_mk2_camo_03
 0x62CF4F46,component_appistol_varmod_security
 0x63E0A098,component_assaultrifle_mk2_clip_fmj
 0x64C49BE6,component_knife_varmod_xm3_03
 0x64F9C62B,component_heavypistol_clip_02
+0x64FC7BD6,component_microsmg_varmod_frn
 0x659AC11B,component_at_bp_barrel_01
 0x65EA7EBB,component_at_pi_supp_02
 0x67AEB165,component_pumpshotgun_mk2_camo_10
@@ -310,6 +318,7 @@ hash,key
 0xB4C306DD,component_specialcarbine_mk2_camo_04
 0xB4FC92B0,component_pistol_mk2_camo_slide
 0xB5E2575B,component_at_mg_barrel_02
+0xB614EC80,component_rpg_varmod_tvr
 0xB68010B0,component_at_scope_nv
 0xB7A316DA,component_marksmanrifle_mk2_camo_ind_01
 0xB905ED6B,component_bullpuprifle_mk2_camo_02
@@ -420,6 +429,7 @@ hash,key
 0xEC9FECD9,component_heavyrifle_camo1
 0xED265A1C,component_pistol_clip_02
 0xEE677A25,component_specialcarbine_mk2_camo_05
+0xEE91D10E,component_battlerifle_clip_01
 0xEED9FD63,component_knuckle_varmod_ballas
 0xEF29BFCA,component_pumpshotgun_mk2_camo_09
 0xEF2C78C1,component_assaultrifle_mk2_clip_tracer
