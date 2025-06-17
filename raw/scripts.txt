@@ -118,6 +118,9 @@ am_mp_property_int
 am_mp_rc_vehicle
 am_mp_rpa_menu
 am_mp_salvage_yard
+am_mp_sb_car_wash
+am_mp_sb_heli_tours
+am_mp_sb_weed_shop
 am_mp_shooting_range
 am_mp_simeon_showroom
 am_mp_smoking_activity
@@ -438,6 +441,8 @@ fm_content_bicycle_time_trial
 fm_content_bike_shop_delivery
 fm_content_bounty_targets
 fm_content_business_battles
+fm_content_car_wash_detailing
+fm_content_car_wash_work
 fm_content_cargo
 fm_content_cerberus
 fm_content_chop_shop_delivery
@@ -448,6 +453,7 @@ fm_content_clubhouse_contracts
 fm_content_community_outreach
 fm_content_convoy
 fm_content_crime_scene
+fm_content_cutscene
 fm_content_daily_bounty
 fm_content_dispatch_work
 fm_content_drone
@@ -465,6 +471,8 @@ fm_content_hacker_whistle_fin
 fm_content_hacker_whistle_prep
 fm_content_hacker_zancudo_fin
 fm_content_hacker_zancudo_prep
+fm_content_helitours_tour
+fm_content_helitours_work
 fm_content_hsw_setup
 fm_content_hsw_time_trial
 fm_content_island_dj
@@ -493,6 +501,7 @@ fm_content_taxi_driver
 fm_content_test
 fm_content_tow_truck_work
 fm_content_tuner_robbery
+fm_content_tycoon_odd_jobs
 fm_content_ufo_abduction
 fm_content_vehicle_list
 fm_content_vehrob_arena
@@ -505,6 +514,8 @@ fm_content_vehrob_scoping
 fm_content_vehrob_submarine
 fm_content_vehrob_task
 fm_content_vip_contract_1
+fm_content_weed_shop_delivery
+fm_content_weed_shop_work
 fm_content_xmas_mugger
 fm_content_xmas_truck
 fm_deathmatch_controler
@@ -620,6 +631,7 @@ general_test
 ggsm_arcade
 globals_fmmc_struct_registration
 globals_fmmcstruct2_registration
+globals_fmmcstruct3_registration
 golf
 golf_ai_foursome
 golf_ai_foursome_putting
@@ -968,6 +980,8 @@ rural_bank_setup
 salvage_yard_seating
 save_anywhere
 savegame_bed
+sb_heli_tours_seating
+sb_weed_shop_seating
 sc_lb_global_block
 scaleformgraphictest
 scaleformminigametest
@@ -975,11 +989,7 @@ scaleformprofiling
 scaleformtest
 scene_builder
 sclub_front_bouncer
-script_debug.rpf___pilot_school
-script_debug.rpf___pilotschool_dlc_startup
 script_metrics
-script_release.rpf___pilot_school
-script_release.rpf___pilotschool_dlc_startup
 scripted_cam_editor
 scriptplayground
 scripttest1

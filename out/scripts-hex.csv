@@ -37,9 +37,11 @@ hash,key
 0x06E6F052,business_hub_carmod
 0x06F27211,am_pi_menu
 0x0700869D,am_mp_casino_nightclub
+0x07170938,fm_content_car_wash_detailing
 0x0738209C,scroll_arcade_cabinet
 0x074BFF8D,mission_stat_alerter
 0x07AE3791,minigame_ending_stinger
+0x07ECDD22,fm_content_helitours_tour
 0x081E003E,epsdesert
 0x087EB86A,player_scene_m_fbi2
 0x09004973,epsrobes
@@ -73,6 +75,7 @@ hash,key
 0x10858D86,jewelry_prep2a
 0x114E0BF4,appimportexport
 0x117262D2,taxi_clowncar
+0x119B9AFA,am_mp_sb_car_wash
 0x11C77BC7,ob_vend2
 0x12117CF0,am_agency_suv
 0x121A26B9,am_mp_smoking_activity
@@ -130,6 +133,7 @@ hash,key
 0x1EED2BF6,launcher_fanatic
 0x1EF39599,nodemenututorial
 0x1F538C61,range_modern_mp
+0x1FA563BD,fm_content_helitours_work
 0x1FF4E6A9,am_hs4_vel_lsa_isd
 0x2055A1A4,gb_contraband_defend
 0x206C6C4B,gb_collect_money
@@ -237,11 +241,13 @@ hash,key
 0x399706A9,tuneables_processing
 0x39A04819,heli_streaming
 0x39DA738B,shop_controller
+0x39DB3EDA,sb_weed_shop_seating
 0x39DB7A9C,am_hs4_nimb_lsa_isd_arrive
 0x3A2FA098,re_bikethief
 0x3A35FD6F,creation_startup
 0x3A5BBA05,am_casino_limo
 0x3A7231B0,fm_content_pizza_delivery
+0x3AF6C7E7,am_mp_sb_weed_shop
 0x3B687CD3,re_duel
 0x3B977C99,am_mp_rpa_menu
 0x3BBCAFFD,apporganiser
@@ -382,7 +388,6 @@ hash,key
 0x5A98B2BE,fm_content_clubhouse_contracts
 0x5ABB0BE9,player_scene_f_taxi
 0x5AD141B8,scene_builder
-0x5B210BB6,script_release.rpf___pilotschool_dlc_startup
 0x5B2DB305,pausemenu_sp_repeat
 0x5B43D89A,re_border
 0x5B94D461,player_scene_m_shopping
@@ -475,7 +480,6 @@ hash,key
 0x711155FA,solomon2
 0x7166BD4A,am_mp_casino
 0x71C13B55,gb_headhunter
-0x71CAC364,script_debug.rpf___pilot_school
 0x71F1701B,mission_triggerer_d
 0x724BF803,armenian1
 0x724EBA87,gb_sightseer
@@ -546,6 +550,7 @@ hash,key
 0x81DC676E,am_distract_cops
 0x838341C6,re_seaplane
 0x83A66932,am_car_mod_tut
+0x83D4AE58,fm_content_weed_shop_delivery
 0x8403149B,gb_biker_rescue_contact
 0x849DBDF1,am_lsia_take_off_cinematic
 0x84CA83CD,savegame_bed
@@ -564,6 +569,7 @@ hash,key
 0x8822F9C3,gpb_tonya
 0x88472185,appvinewoodmenu
 0x88967BFE,fm_content_hacker_cargo_finale
+0x88CBA331,globals_fmmcstruct3_registration
 0x8937FD24,josh1
 0x8961D933,act_cinema
 0x899ABB38,fameorshame_eps_1
@@ -628,6 +634,7 @@ hash,key
 0x957A3C41,lester1
 0x95B61B3C,am_mp_property_int
 0x95F729DB,music_studio_seating
+0x960EC77D,fm_content_cutscene
 0x964E5CA7,heatmap_test_flow
 0x96637D06,launcher_epsilon
 0x966AFE8F,gb_biker_free_prisoner
@@ -686,7 +693,6 @@ hash,key
 0xA18B9892,family_scene_m
 0xA1E75A51,me_amanda1
 0xA220E288,debug_ped_data
-0xA23D9849,script_debug.rpf___pilotschool_dlc_startup
 0xA29E8148,gb_carjacking
 0xA332D6DC,forsalesigns
 0xA39C1F72,ob_vend1
@@ -728,6 +734,7 @@ hash,key
 0xAC5EE7F2,docks_heistb
 0xAD0FEFEF,mp_registration
 0xAD453307,fm_impromptu_dm_controler
+0xAD9B8F79,fm_content_weed_shop_work
 0xADB3572E,sp_menuped
 0xADE8F290,flow_help
 0xAE47D94E,appjipmp
@@ -736,6 +743,7 @@ hash,key
 0xAEFE99BE,exile_city_denial
 0xAF19CABA,paparazzo3b
 0xAF23F171,ob_abatdoor
+0xAF453046,am_mp_sb_heli_tours
 0xAF7C6885,globals_fmmc_struct_registration
 0xAFC3882D,appmpemail
 0xAFD9916D,cheat_controller
@@ -749,6 +757,7 @@ hash,key
 0xB1F937DB,agency_prep1
 0xB264B154,postkilled_bailbond2
 0xB2BC754E,utvc
+0xB2CC3965,sb_heli_tours_seating
 0xB2F23070,pm_delivery
 0xB31A0796,gb_biker_unload_weapons
 0xB352D695,title_update_registration
@@ -771,6 +780,7 @@ hash,key
 0xB618AEBB,carwash2
 0xB67E9C84,walking_ped
 0xB6B491B8,player_controller_b
+0xB6CD52E2,fm_content_tycoon_odd_jobs
 0xB6D25756,appcovertops
 0xB7202D79,heist_ctrl_finale
 0xB7250D07,controller_ambientarea
@@ -914,7 +924,6 @@ hash,key
 0xD725D9E4,jewelry_prep1b
 0xD76D873D,am_mp_casino_apartment
 0xD8133249,am_boat_taxi
-0xD84E1F4F,script_release.rpf___pilot_school
 0xD8D7DD27,fm_maintain_cloud_header_data
 0xD8DD2E81,restrictedareas
 0xD9266192,gtest_divingfromcar
@@ -1053,6 +1062,7 @@ hash,key
 0xF699F9CD,fm_content_phantom_car
 0xF6A1905B,launcher_range
 0xF72AB040,gpb_mime
+0xF780FF7D,fm_content_car_wash_work
 0xF7D739B9,barry3c
 0xF7F8D71A,fm_content_payphone_hit
 0xF7FC6B86,fullmap_test_flow

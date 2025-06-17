@@ -33,6 +33,7 @@ a_c_rat
 a_c_retriever
 a_c_rhesus
 a_c_rottweiler
+a_c_rottweiler_02
 a_c_seagull
 a_c_sharkhammer
 a_c_sharktiger
@@ -312,6 +313,7 @@ cs_magenta
 cs_manuel
 cs_marnie
 cs_martinmadrazo
+cs_martinmadrazo_02
 cs_maryann
 cs_michelle
 cs_milton
@@ -354,6 +356,7 @@ cs_zimbor
 csb_abigail
 csb_agatha
 csb_agent
+csb_agent14_02
 csb_alan
 csb_anita
 csb_anton
@@ -444,6 +447,7 @@ csb_popov
 csb_porndudes
 csb_prologuedriver
 csb_prolsec
+csb_rafdeangelis
 csb_ramp_gang
 csb_ramp_hic
 csb_ramp_hipster
@@ -471,14 +475,17 @@ csb_trafficwarden
 csb_undercover
 csb_vagos_leader
 csb_vagspeak
+csb_valentina
 csb_vernon
 csb_vincent
 csb_vincent_2
 csb_vincent_4
+csb_weiss
 csb_wendy
 csb_yusufamir
 g_f_importexport_01
 g_f_m_fooliganz_01
+g_f_m_undeadmage
 g_f_y_ballas_01
 g_f_y_families_01
 g_f_y_lost_01
@@ -509,6 +516,8 @@ g_m_m_slasher_01
 g_m_m_zombie_01
 g_m_m_zombie_02
 g_m_m_zombie_03
+g_m_m_zombie_04
+g_m_m_zombie_05
 g_m_y_armgoon_02
 g_m_y_azteca_01
 g_m_y_ballaeast_01
@@ -542,6 +551,7 @@ ig_abigail
 ig_acidlabcook
 ig_agatha
 ig_agent
+ig_agent14_02
 ig_agent_02
 ig_ahronward
 ig_amandatownley
@@ -629,6 +639,7 @@ ig_groom
 ig_guadalope
 ig_gunvanseller
 ig_gustavo
+ig_gustavo_02
 ig_hao
 ig_hao_02
 ig_helmsmanpavel
@@ -682,10 +693,12 @@ ig_lifeinvad_01
 ig_lifeinvad_02
 ig_lildee
 ig_luchadora
+ig_madrazodriver_01
 ig_magenta
 ig_malc
 ig_manuel
 ig_marnie
+ig_martinmadrazo_02
 ig_maryann
 ig_mason_duggan
 ig_maude
@@ -730,6 +743,7 @@ ig_pilot_02
 ig_popov
 ig_priest
 ig_prolsec_02
+ig_rafdeangelis
 ig_ramp_gang
 ig_ramp_hic
 ig_ramp_hipster
@@ -744,6 +758,7 @@ ig_screen_writer
 ig_security_a
 ig_sessanta
 ig_siemonyetarian
+ig_skeleton_01
 ig_sol
 ig_solomon
 ig_soundeng_00
@@ -772,6 +787,7 @@ ig_tylerdix
 ig_tylerdix_02
 ig_vagos_leader
 ig_vagspeak
+ig_valentina
 ig_vernon
 ig_vincent
 ig_vincent_2
@@ -779,9 +795,11 @@ ig_vincent_3
 ig_vincent_4
 ig_wade
 ig_warehouseboss
+ig_weiss
 ig_wendy
 ig_yusufamir
 ig_zimbor
+ig_zombie_dj_01
 mp_f_bennymech_01
 mp_f_boatstaff_01
 mp_f_cardesign_01

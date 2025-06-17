@@ -195,6 +195,7 @@ weapon_bleeding
 weapon_boar
 weapon_briefcase
 weapon_briefcase_02
+weapon_briefcase_03
 weapon_cat
 weapon_cougar
 weapon_cow

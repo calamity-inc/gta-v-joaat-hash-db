@@ -37,9 +37,11 @@ hash,key
 115798098,business_hub_carmod
 116552209,am_pi_menu
 117474973,am_mp_casino_nightclub
+118950200,fm_content_car_wash_detailing
 121118876,scroll_arcade_cabinet
 122421133,mission_stat_alerter
 128858001,minigame_ending_stinger
+132963618,fm_content_helitours_tour
 136183870,epsdesert
 142522474,player_scene_m_fbi2
 151013747,epsrobes
@@ -73,6 +75,7 @@ hash,key
 277187974,jewelry_prep2a
 290327540,appimportexport
 292709074,taxi_clowncar
+295410426,am_mp_sb_car_wash
 298286023,ob_vend2
 303135984,am_agency_suv
 303703737,am_mp_smoking_activity
@@ -130,6 +133,7 @@ hash,key
 518859766,launcher_fanatic
 519280025,nodemenututorial
 525569121,range_modern_mp
+530932669,fm_content_helitours_work
 536143529,am_hs4_vel_lsa_isd
 542482852,gb_contraband_defend
 543976523,gb_collect_money
@@ -237,11 +241,13 @@ hash,key
 966198953,tuneables_processing
 966805529,heli_streaming
 970617739,shop_controller
+970669786,sb_weed_shop_seating
 970685084,am_hs4_nimb_lsa_isd_arrive
 976199832,re_bikethief
 976616815,creation_startup
 979089925,am_casino_limo
 980562352,fm_content_pizza_delivery
+989251559,am_mp_sb_weed_shop
 996703443,re_duel
 999783577,am_mp_rpa_menu
 1002221565,apporganiser
@@ -382,7 +388,6 @@ hash,key
 1519956670,fm_content_clubhouse_contracts
 1522207721,player_scene_f_taxi
 1523663288,scene_builder
-1528892342,script_release.rpf___pilotschool_dlc_startup
 1529721605,pausemenu_sp_repeat
 1531173018,re_border
 1536480353,player_scene_m_shopping
@@ -475,7 +480,6 @@ hash,key
 1896961530,solomon2
 1902558538,am_mp_casino
 1908489045,gb_headhunter
-1909113700,script_debug.rpf___pilot_school
 1911648283,mission_triggerer_d
 1917581315,armenian1
 1917762183,gb_sightseer
@@ -546,6 +550,7 @@ hash,key
 2178705262,am_distract_cops
 2206417350,re_seaplane
 2208721202,am_car_mod_tut
+2211753560,fm_content_weed_shop_delivery
 2214794395,gb_biker_rescue_contact
 2224930289,am_lsia_take_off_cinematic
 2227864525,savegame_bed
@@ -564,6 +569,7 @@ hash,key
 2283993539,gpb_tonya
 2286363013,appvinewoodmenu
 2291563518,fm_content_hacker_cargo_finale
+2295046961,globals_fmmcstruct3_registration
 2302147876,josh1
 2304891187,act_cinema
 2308619064,fameorshame_eps_1
@@ -628,6 +634,7 @@ hash,key
 2507816001,lester1
 2511739708,am_mp_property_int
 2516003291,music_studio_seating
+2517550973,fm_content_cutscene
 2521717927,heatmap_test_flow
 2523102470,launcher_epsilon
 2523594383,gb_biker_free_prisoner
@@ -686,7 +693,6 @@ hash,key
 2710280338,family_scene_m
 2716293713,me_amanda1
 2720064136,debug_ped_data
-2721945673,script_debug.rpf___pilotschool_dlc_startup
 2728296776,gb_carjacking
 2738018012,forsalesigns
 2744917874,ob_vend1
@@ -728,6 +734,7 @@ hash,key
 2891900914,docks_heistb
 2903502831,mp_registration
 2906993415,fm_impromptu_dm_controler
+2912653177,fm_content_weed_shop_work
 2914211630,sp_menuped
 2917724816,flow_help
 2923944270,appjipmp
@@ -736,6 +743,7 @@ hash,key
 2935921086,exile_city_denial
 2937703098,paparazzo3b
 2938368369,ob_abatdoor
+2940547142,am_mp_sb_heli_tours
 2944166021,globals_fmmc_struct_registration
 2948827181,appmpemail
 2950271341,cheat_controller
@@ -749,6 +757,7 @@ hash,key
 2985899995,agency_prep1
 2992943444,postkilled_bailbond2
 2998695246,utvc
+2999728485,sb_heli_tours_seating
 3002216560,pm_delivery
 3004827542,gb_biker_unload_weapons
 3008550549,title_update_registration
@@ -771,6 +780,7 @@ hash,key
 3055070907,carwash2
 3061750916,walking_ped
 3065287096,player_controller_b
+3066909410,fm_content_tycoon_odd_jobs
 3067238230,appcovertops
 3072339321,heist_ctrl_finale
 3072658695,controller_ambientarea
@@ -914,7 +924,6 @@ hash,key
 3609582052,jewelry_prep1b
 3614279485,am_mp_casino_apartment
 3625136713,am_boat_taxi
-3628998479,script_release.rpf___pilot_school
 3638025511,fm_maintain_cloud_header_data
 3638374017,restrictedareas
 3643171218,gtest_divingfromcar
@@ -1053,6 +1062,7 @@ hash,key
 4137286093,fm_content_phantom_car
 4137783387,launcher_range
 4146769984,gpb_mime
+4152426365,fm_content_car_wash_work
 4158077369,barry3c
 4160280346,fm_content_payphone_hit
 4160514950,fullmap_test_flow
