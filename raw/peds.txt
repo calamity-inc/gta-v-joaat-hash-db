@@ -1,6 +1,7 @@
 a_c_boar
 a_c_boar_02
 a_c_cat_01
+a_c_cat_02
 a_c_chickenhawk
 a_c_chimp
 a_c_chimp_02
@@ -264,6 +265,7 @@ a_m_y_vinewood_03
 a_m_y_vinewood_04
 a_m_y_yoga_01
 cs_amandatownley
+cs_amandatownley_02
 cs_andreas
 cs_ashley
 cs_bankman
@@ -363,6 +365,7 @@ csb_anton
 csb_ary
 csb_ary_02
 csb_avery
+csb_avi_04
 csb_avischwartzman_02
 csb_avischwartzman_03
 csb_avon
@@ -394,6 +397,7 @@ csb_djblamadon
 csb_drugdealer
 csb_englishdave
 csb_englishdave_02
+csb_faber_02
 csb_fos_rep
 csb_g
 csb_georginacheng
@@ -507,6 +511,7 @@ g_m_m_fooliganz_01
 g_m_m_friedlandergoons_01
 g_m_m_genthug_01
 g_m_m_goons_01
+g_m_m_knoway_01
 g_m_m_korboss_01
 g_m_m_maragrande_01
 g_m_m_mexboss_01
@@ -555,12 +560,14 @@ ig_agent14_02
 ig_agent_02
 ig_ahronward
 ig_amandatownley
+ig_amandatownley_02
 ig_andreas
 ig_armsmanufac_01
 ig_ary
 ig_ary_02
 ig_ashley
 ig_avery
+ig_avi_04
 ig_avischwartzman_02
 ig_avischwartzman_03
 ig_avon
@@ -625,8 +632,10 @@ ig_englishdave
 ig_englishdave_02
 ig_entourage_a
 ig_entourage_b
+ig_faber_02
 ig_fabien
 ig_fbisuit_01
+ig_fibleader_01
 ig_floyd
 ig_fooliganz_01
 ig_fooliganz_02
@@ -787,6 +796,7 @@ ig_tylerdix
 ig_tylerdix_02
 ig_vagos_leader
 ig_vagspeak
+ig_valencheat
 ig_valentina
 ig_vernon
 ig_vincent
@@ -842,6 +852,7 @@ mp_m_weapwork_01
 mp_m_weed_01
 mp_s_m_armoured_01
 p_franklin_02
+p_michael_02
 player_one
 player_two
 player_zero
@@ -909,6 +920,7 @@ s_m_m_highsec_02
 s_m_m_highsec_03
 s_m_m_highsec_04
 s_m_m_highsec_05
+s_m_m_highsec_06
 s_m_m_janitor
 s_m_m_lathandy_01
 s_m_m_lifeinvad_01

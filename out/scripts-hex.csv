@@ -10,6 +10,7 @@ hash,key
 0x00EB926E,ob_franklin_wine
 0x0163EF07,profiler_registration
 0x01AA9982,base_quaters_seats
+0x02117CD2,mansion_carmod
 0x0266CE78,am_gang_call
 0x02A9BB5E,social_controller
 0x035BF11F,trevor3
@@ -45,6 +46,7 @@ hash,key
 0x081E003E,epsdesert
 0x087EB86A,player_scene_m_fbi2
 0x09004973,epsrobes
+0x092D74D6,mansion_guest_bedroom_seating
 0x095B7C6A,stripclub
 0x0A55C91F,test_startup
 0x0A9A080C,fm_content_mp_intro
@@ -59,6 +61,7 @@ hash,key
 0x0C5E8432,missioniaaturret
 0x0C6DAC46,am_hold_up
 0x0C73F6D5,tonya3
+0x0D2F312A,net_mansion_yoga
 0x0D798EC5,ob_mp_bed_low
 0x0D877ED5,martin1
 0x0DA70157,fm_lts_creator
@@ -135,6 +138,8 @@ hash,key
 0x1F538C61,range_modern_mp
 0x1FA563BD,fm_content_helitours_work
 0x1FF4E6A9,am_hs4_vel_lsa_isd
+0x2020C289,mansion_club_seating
+0x203D76D8,mansion_lower_basement_seating
 0x2055A1A4,gb_contraband_defend
 0x206C6C4B,gb_collect_money
 0x20E38835,carsteal1
@@ -154,6 +159,7 @@ hash,key
 0x240F2E7B,am_crate_drop
 0x244F0BCC,fame_or_shame_set
 0x2495FCB6,building_controller
+0x255EC458,fm_content_forklift_operator
 0x25B97645,appsecuroserv
 0x25C5FCF3,wizard_arcade
 0x26C44B2A,startup_locationtest
@@ -248,6 +254,7 @@ hash,key
 0x3A5BBA05,am_casino_limo
 0x3A7231B0,fm_content_pizza_delivery
 0x3AF6C7E7,am_mp_sb_weed_shop
+0x3B5A0AE4,am_mp_mansion_driveway
 0x3B687CD3,re_duel
 0x3B977C99,am_mp_rpa_menu
 0x3BBCAFFD,apporganiser
@@ -257,6 +264,7 @@ hash,key
 0x3C37309A,ambient_tonya
 0x3C621FC5,taxilauncher
 0x3C77F4AA,am_armwrestling
+0x3C7E36F7,am_mansion_limo
 0x3C7F0644,net_tunable_check
 0x3CB2B34F,extreme1
 0x3D2EE275,prop_drop
@@ -273,7 +281,9 @@ hash,key
 0x3FDBA102,drunk
 0x3FF69732,fm_content_bike_shop_delivery
 0x40396A1F,postrc_barry1and2
+0x4083BC09,fm_content_firefighter
 0x418795CC,am_hi_plane_take_off_cinematic
+0x41A8ED69,fm_content_survival_grouping
 0x41D6F794,startup
 0x41F74A04,fixer_hq_carmod
 0x4250943E,am_lowrider_int
@@ -299,6 +309,7 @@ hash,key
 0x45B42E86,magdemo
 0x45BD5447,gb_point_to_point
 0x460D1F86,armenian2
+0x463E95EC,mansion_water_seating
 0x4643FE9B,field_hangar_seating
 0x46E6DB5A,bailbond2
 0x473B26BE,am_mp_vinewood_premium_modshop
@@ -320,6 +331,7 @@ hash,key
 0x4B16CE39,heist_ctrl_rural
 0x4B293C1F,fm_content_convoy
 0x4BA16A46,apparcadebusiness
+0x4BABF251,am_mansion_luxury_car
 0x4BEC641C,finalec2
 0x4C5D5A95,launcher_stunts
 0x4C735E45,docks2asubhandler
@@ -388,6 +400,7 @@ hash,key
 0x5A98B2BE,fm_content_clubhouse_contracts
 0x5ABB0BE9,player_scene_f_taxi
 0x5AD141B8,scene_builder
+0x5B210BB6,script_release.rpf___pilotschool_dlc_startup
 0x5B2DB305,pausemenu_sp_repeat
 0x5B43D89A,re_border
 0x5B94D461,player_scene_m_shopping
@@ -412,6 +425,7 @@ hash,key
 0x60F04B08,launcher_abigail
 0x610BE6A0,gb_infiltration
 0x6168EB24,drf4
+0x619DAAEA,mansion_basement_seating
 0x61FF0C31,fm_content_acid_lab_setup
 0x62773681,am_prostitute
 0x62C09CC6,mptestbed
@@ -421,6 +435,7 @@ hash,key
 0x63905267,arena_box_bench_seats
 0x63DE68B9,lamar1
 0x646F7D9B,tasklist_1
+0x6481C980,si_dancing_activity
 0x64AD4306,gb_biker_rippin_it_up
 0x64D25DE7,scaleformgraphictest
 0x64D6BE1A,circuitblockhack
@@ -435,6 +450,7 @@ hash,key
 0x6834EEB9,laptop_trigger
 0x6838B35E,net_freemode_debug_2023
 0x68867AF7,am_island_backup_heli
+0x68BB690D,fm_content_postal_worker
 0x68BEA43C,hacker_den_ext_seating
 0x6908A034,photographywildlife
 0x692F8E30,am_mp_vehicle_reward
@@ -462,6 +478,7 @@ hash,key
 0x6D5E1016,gb_biker_search_and_destroy
 0x6DC6D23D,launcher_triathlon
 0x6DDD67DC,launcher_offroadracing
+0x6E66A93A,fm_content_valentine_cheater
 0x6E6FC95F,casino_bar_seating
 0x6E9955CB,gb_delivery
 0x6F069D11,finale_heist2_intro
@@ -480,6 +497,7 @@ hash,key
 0x711155FA,solomon2
 0x7166BD4A,am_mp_casino
 0x71C13B55,gb_headhunter
+0x71CAC364,script_debug.rpf___pilot_school
 0x71F1701B,mission_triggerer_d
 0x724BF803,armenian1
 0x724EBA87,gb_sightseer
@@ -495,6 +513,7 @@ hash,key
 0x75022247,cutscenemetrics
 0x752F80B5,charanimtest
 0x75804856,fm_hold_up_tut
+0x75AD503F,mansion_seating
 0x75B7261C,context_controller
 0x75C7E0D3,fm_content_vip_contract_1
 0x75DF8FBF,freemode_init
@@ -508,6 +527,7 @@ hash,key
 0x77714C97,standard_global_reg
 0x77878F69,minigame_stats_tracker
 0x77996FAE,freemode_clearglobals
+0x780E58DA,mansion_club_bar
 0x787746F8,taxi_needexcitement
 0x78DDB08F,armory_aircraft_carmod
 0x79120DE3,pi_menu
@@ -541,6 +561,7 @@ hash,key
 0x804DA739,mg_race_to_point
 0x80925960,wardrobe_sp
 0x80A17ECA,michael1
+0x80A96CAF,public_mission_creator
 0x80AF754F,shrinkletter
 0x80CFE974,blip_controller
 0x80DB583B,mission_repeat_controller
@@ -564,6 +585,7 @@ hash,key
 0x86E06EFD,taxi_takeiteasy
 0x87004181,net_cloud_mission_loader
 0x8758EF91,tuner_sandbox_activity
+0x8760EEF0,mansion_upper_balcony_seating
 0x87D3A61F,thelastone
 0x881750F6,puzzle
 0x8822F9C3,gpb_tonya
@@ -578,6 +600,7 @@ hash,key
 0x8A0DAA20,multistorey_garage_seating
 0x8A6A7147,launcher_carwash
 0x8A87CBFA,exile2
+0x8AD002F1,mansion_outside_seating
 0x8B285CBD,carsteal3
 0x8B5AC53B,fm_content_bicycle_time_trial
 0x8BB3A063,am_arena_shp
@@ -656,6 +679,7 @@ hash,key
 0x9A7BC869,gtest_divingfromcarwhilefleeing
 0x9A821400,nightclubpeds
 0x9AD1FF8A,scripted_cam_editor
+0x9B05DB74,public_mission_controller
 0x9B8FF755,taxi_deadline
 0x9B9330A1,am_hs4_isd_take_vel
 0x9BF88E0E,fm_content_movie_props
@@ -693,6 +717,7 @@ hash,key
 0xA18B9892,family_scene_m
 0xA1E75A51,me_amanda1
 0xA220E288,debug_ped_data
+0xA23D9849,script_debug.rpf___pilotschool_dlc_startup
 0xA29E8148,gb_carjacking
 0xA332D6DC,forsalesigns
 0xA39C1F72,ob_vend1
@@ -792,6 +817,7 @@ hash,key
 0xB7F44CEF,pilot_school
 0xB8140067,fm_content_smuggler_plane
 0xB8B48B62,stripperhome
+0xB8BAA89B,am_mp_mansion_garage
 0xB8F218D0,launcher_pilotschool
 0xB93135A6,am_casino_luxury_car
 0xB94EE9E5,country_race_controller
@@ -821,7 +847,9 @@ hash,key
 0xBE77EEA1,gpb_mani
 0xBEA26642,maude1
 0xBEB53E36,lesterhandler
+0xBF06DE2B,mansion_lower_east_wing_seating
 0xBF461AD0,fm_mission_controller_2020
+0xBFDDEB9D,fm_content_getaway_driver
 0xC0D26565,tattoo_shop
 0xC0F0BBC3,clothes_shop_mp
 0xC1D23E94,scaleformminigametest
@@ -829,6 +857,7 @@ hash,key
 0xC288DE3E,am_hs4_lsa_land_vel
 0xC2B2997A,ambient_mrsphilips
 0xC2C12122,casino_interior_seating
+0xC2C94547,mansion_lobby_seating
 0xC2F73739,am_hs4_nimb_lsa_isd_leave
 0xC3151C6D,appmedia
 0xC3183DD2,fbi4_intro
@@ -924,8 +953,10 @@ hash,key
 0xD725D9E4,jewelry_prep1b
 0xD76D873D,am_mp_casino_apartment
 0xD8133249,am_boat_taxi
+0xD84E1F4F,script_release.rpf___pilot_school
 0xD8D7DD27,fm_maintain_cloud_header_data
 0xD8DD2E81,restrictedareas
+0xD8EBA803,fm_content_survival
 0xD9266192,gtest_divingfromcar
 0xD96D699D,comms_controller
 0xD9751E61,gb_vehicle_export
@@ -975,6 +1006,7 @@ hash,key
 0xE0FFAAE6,epsilon4
 0xE16957F2,am_mp_submarine
 0xE1928D5A,franklin2
+0xE1BB3610,am_mp_mansion
 0xE1BC7B99,am_joyrider
 0xE1C7BB25,postrc_epsilon4
 0xE24A689C,sp_dlc_registration
@@ -1048,6 +1080,7 @@ hash,key
 0xF2A65E92,fm_content_island_heist
 0xF2BB3038,mrsphilips2
 0xF2C8CB5F,scripttest2
+0xF2D52C21,mansion_upper_floor_seating
 0xF3E2DD79,net_apartment_activity_light
 0xF3F6494B,re_prisonerlift
 0xF3F871DA,business_battles_sell

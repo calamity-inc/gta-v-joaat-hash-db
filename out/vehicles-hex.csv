@@ -43,6 +43,7 @@ hash,key
 0x1044926F,tempesta
 0x10635A0E,tenf2
 0x107F392C,dinghy2
+0x11291A17,polbuffalo
 0x1149422F,tropic
 0x11962E49,annihilator2
 0x11AA0E14,gburrito2
@@ -98,6 +99,7 @@ hash,key
 0x1D06D681,huntley
 0x1DC0BA53,fusilade
 0x1DD4C0FF,swinger
+0x1E41B223,vivanite2
 0x1E5E54EA,dinghy3
 0x1ED0A534,utillitruck
 0x1F3766E3,voodoo2
@@ -113,6 +115,7 @@ hash,key
 0x22EDDC30,tankercar
 0x23CA25F2,hustler
 0x24626C26,coureur
+0x24CE9073,polbuffalo6
 0x250B0C5E,luxor
 0x2560B2FC,romero
 0x25676EAF,fcr
@@ -187,6 +190,7 @@ hash,key
 0x34DD8AA1,intruder
 0x34E6BF6B,utillitruck2
 0x353B561D,burrito4
+0x35460148,itali2
 0x35DED0DD,savestra
 0x35ED670B,mule
 0x360A438E,cog55
@@ -289,6 +293,7 @@ hash,key
 0x50D4D19F,technical3
 0x51D83328,warrener
 0x5216AD5E,remus
+0x524A05A4,gt750
 0x5285D628,manchez3
 0x52FF9437,cyclone
 0x53174EEF,cargobob3
@@ -335,6 +340,7 @@ hash,key
 0x5E4327C8,windsor
 0x5EE005DA,deveste
 0x5F017E6B,seasparrow3
+0x5F2C43B9,astrale
 0x6068AD86,fagaloa
 0x60A7EA10,cargobob2
 0x619C1B82,imperator2
@@ -352,6 +358,7 @@ hash,key
 0x665F785D,manana2
 0x669EB40A,monster3
 0x66B4FC45,stratum
+0x67278B2E,driftrt3000
 0x678DD3EA,polgreenwood
 0x679450AF,rapidgt2
 0x67B3F020,bison3
@@ -525,6 +532,7 @@ hash,key
 0x94DA98EF,tornado5
 0x95466BDB,faction2
 0x95F4C618,policeold2
+0x95F6A2C9,xtreme
 0x961AFEF7,rumpo2
 0x9628879C,granger
 0x967620BE,tvtrailer
@@ -580,6 +588,7 @@ hash,key
 0xA29D6D10,feltzer3
 0xA29F78B0,clique
 0xA31CB573,tornado6
+0xA34F2F09,driftkeitora
 0xA3FC0F4D,gresley
 0xA42FC3A5,vectre
 0xA46462F7,policeold1
@@ -692,7 +701,9 @@ hash,key
 0xC3D7C72B,zombiea
 0xC3DDFDCE,tailgater
 0xC3F25753,howard
+0xC3F57329,fmj2
 0xC3FBA120,cutter
+0xC4069F5A,driftsentinel2
 0xC46B66C2,eurosx32
 0xC4810400,visione
 0xC4BB1908,weevil2
@@ -710,6 +721,7 @@ hash,key
 0xC79C754A,paragon3
 0xC7E55211,locust
 0xC7FED061,driftdominator10
+0xC8163646,luiva
 0xC96B73D9,dominator2
 0xC972A155,champion
 0xC98BBAD6,glendale2
@@ -728,6 +740,7 @@ hash,key
 0xCBB2BE0E,trailers
 0xCC8A305C,baller8
 0xCCE5C8FA,veto
+0xCCFCC32F,driftdominator9
 0xCD935EF9,ripley
 0xCD93A7DB,monster
 0xCDC46B21,boxville6
@@ -819,6 +832,7 @@ hash,key
 0xE6E967F8,patriot2
 0xE78CC3D9,revolter
 0xE7D2A16E,shotaro
+0xE8039FA7,keitora
 0xE80F67EE,stalion2
 0xE810B452,drifthardy
 0xE823FB48,tribike3
@@ -833,6 +847,7 @@ hash,key
 0xEA61C64A,driftjester3
 0xEA6A047F,hellion
 0xEA76439F,driftgauntlet4
+0xEA9F9B38,sentinel6
 0xEAFA7EB7,cargobob5
 0xEB298297,bifta
 0xEB70965F,blista

@@ -21,6 +21,7 @@ asea
 asea2
 asterope
 asterope2
+astrale
 astron
 astron2
 autarch
@@ -230,6 +231,7 @@ driftchavosv6
 driftcheburek
 driftcypher
 driftdominator10
+driftdominator9
 drifteuros
 driftfr36
 driftfuto
@@ -238,10 +240,13 @@ driftgauntlet4
 drifthardy
 driftjester
 driftjester3
+driftkeitora
 driftl352
 driftnebula
 driftremus
+driftrt3000
 driftsentinel
+driftsentinel2
 drifttampa
 driftvorschlag
 driftyosemite
@@ -304,6 +309,7 @@ flashgt
 flatbed
 flatbed2
 fmj
+fmj2
 forklift
 formula
 formula2
@@ -347,6 +353,7 @@ greenwood
 gresley
 growler
 gt500
+gt750
 guardian
 habanero
 hakuchou
@@ -396,6 +403,7 @@ issi5
 issi6
 issi7
 issi8
+itali2
 italigtb
 italigtb2
 italigto
@@ -419,6 +427,7 @@ kalahari
 kamacho
 kanjo
 kanjosj
+keitora
 khamelion
 khanjali
 komoda
@@ -438,6 +447,7 @@ limo2
 lm87
 locust
 longfin
+luiva
 lurcher
 luxor
 luxor2
@@ -541,6 +551,8 @@ picador
 pigalle
 pipistrello
 pizzaboy
+polbuffalo
+polbuffalo6
 polcaracara
 polcoquette4
 poldominator10
@@ -671,6 +683,7 @@ sentinel2
 sentinel3
 sentinel4
 sentinel5
+sentinel6
 serrano
 seven70
 shamal
@@ -853,6 +866,7 @@ virtue
 viseris
 visione
 vivanite
+vivanite2
 volatol
 volatus
 voltic
@@ -876,6 +890,7 @@ woodlander
 xa21
 xls
 xls2
+xtreme
 yosemite
 yosemite1500
 yosemite2

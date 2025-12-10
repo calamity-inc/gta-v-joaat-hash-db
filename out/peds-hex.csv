@@ -28,6 +28,7 @@ hash,key
 0x092D9CC1,a_f_y_indian_01
 0x0998C7AD,cs_maryann
 0x0A5E0B3F,s_m_m_bailoffice_01
+0x0AC290E2,g_m_m_knoway_01
 0x0AEBDF93,ig_pilot_02
 0x0B34D6F5,ig_zimbor
 0x0B4A6862,s_m_y_baywatch_01
@@ -99,6 +100,7 @@ hash,key
 0x1C0077FB,s_m_m_strpreach_01
 0x1C95CB0B,u_m_m_markfost
 0x1CC234A5,ig_mechanic_01
+0x1D61DE8D,ig_faber_02
 0x1D953580,cs_lestercrest_3
 0x1E04A96B,ig_mrs_thornhill
 0x1E3E327D,ig_juanstrickler
@@ -118,6 +120,7 @@ hash,key
 0x21B4080F,g_m_m_prisoners_01
 0x21F58BB4,csb_ramp_hipster
 0x22911304,s_m_y_doorman_01
+0x22C7ABAE,ig_amandatownley_02
 0x2300C816,s_f_y_movprem_01
 0x2307A353,a_m_y_hipster_01
 0x231AF63F,g_m_y_ballaorig_01
@@ -213,6 +216,7 @@ hash,key
 0x36DF2D5D,a_f_y_bevhills_04
 0x36E70600,u_m_y_party_01
 0x36EA5B09,mp_m_weapexp_01
+0x37034283,csb_avi_04
 0x371B9DA9,ig_sessanta
 0x37411FC7,ig_ahronward
 0x379DDAB8,a_f_y_vinewood_03
@@ -227,11 +231,13 @@ hash,key
 0x38951A1B,cs_lazlow
 0x38BAD33B,a_f_m_fatwhite_01
 0x38C749C4,ig_mjo_02
+0x392373AB,ig_fibleader_01
 0x39AC5284,u_f_y_lauren
 0x3A5201C5,cs_terry
 0x3ABB64C0,s_m_m_highsec_05
 0x3AE4A33B,ig_fbisuit_01
 0x3B18E305,ig_sss
+0x3B32FB47,cs_amandatownley_02
 0x3B474ADF,hc_driver
 0x3B96F23E,s_m_y_valet_01
 0x3B98622E,ig_armsmanufac_01
@@ -436,6 +442,7 @@ hash,key
 0x6343DD19,csb_tonya
 0x63858A4A,s_m_m_armoured_02
 0x63C8D891,a_f_m_eastsa_02
+0x63CB1C23,csb_faber_02
 0x6437E77D,ig_priest
 0x644AC75E,a_c_coyote
 0x64611296,s_m_m_movalien_01
@@ -461,6 +468,7 @@ hash,key
 0x696BE0A9,a_m_y_methhead_01
 0x69E8ABC3,cs_tom
 0x69F46BF3,s_f_y_factory_01
+0x6A50A7F5,a_c_cat_02
 0x6A8F1F9B,u_m_o_tramp_01
 0x6AF4185D,u_m_y_sbike
 0x6AF51FAF,a_c_hen
@@ -492,6 +500,7 @@ hash,key
 0x709220C7,u_m_m_prolsec_01
 0x70AEB9C8,cs_michelle
 0x70F50897,g_f_m_undeadmage
+0x716A521D,s_m_m_highsec_06
 0x719D27F4,ig_old_man1a
 0x7228AF60,cs_bradcadaver
 0x72551375,cs_lifeinvad_01
@@ -853,6 +862,7 @@ hash,key
 0xC41743EB,s_m_m_tattoo_01
 0xC41B062E,a_f_y_yoga_01
 0xC454BCBB,u_m_m_griff_01
+0xC48D9F3B,ig_valencheat
 0xC4A617BD,mp_m_g_vagfun_01
 0xC4B715D2,ig_benny
 0xC512DD23,u_f_o_prolhost_01
@@ -897,6 +907,7 @@ hash,key
 0xCE9113A9,s_m_m_strvend_01
 0xCE96030B,u_m_m_promourn_01
 0xCF0C7037,ig_ary
+0xCF1A2F7B,ig_avi_04
 0xCF623A2C,u_m_y_antonb
 0xCF92ADE9,a_m_y_stbla_01
 0xCFF0D4BB,csb_tomcasino
@@ -912,6 +923,7 @@ hash,key
 0xD298823E,csb_englishdave
 0xD2B27EC1,mp_f_meth_01
 0xD2E3A284,u_f_y_princess
+0xD2EE1337,p_michael_02
 0xD303008B,g_m_m_genthug_01
 0xD32EEFAD,u_m_m_yulemonster
 0xD3939DFD,a_c_seagull
