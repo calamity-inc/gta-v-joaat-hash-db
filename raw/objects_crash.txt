@@ -65,6 +65,7 @@ h4_prop_grass_med_01
 h4_prop_grass_tropical_lush_01
 h4_prop_grass_wiregrass_01
 h4_prop_weed_groundcover_01
+m26_1_prop_m61_plaque_01a
 ng_proc_temp
 proc_brittlebush_01
 proc_desert_sage_01

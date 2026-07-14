@@ -30,6 +30,7 @@ hash,key
 173935423,s_m_m_bailoffice_01
 180523234,g_m_m_knoway_01
 183230355,ig_pilot_02
+185192718,ig_rafdeangelis_02
 188012277,ig_zimbor
 189425762,s_m_y_baywatch_01
 191074589,cs_lestercrest_2
@@ -115,6 +116,7 @@ hash,key
 534725268,a_m_y_vinewood_03
 539004493,a_m_o_salton_01
 543190380,csb_soundeng_00
+548949659,csb_rae
 549978415,a_f_y_bevhills_03
 553826858,a_m_y_smartcaspat_01
 565446671,g_m_m_prisoners_01
@@ -440,6 +442,7 @@ hash,key
 1650288984,s_m_m_ciasec_01
 1657546978,s_m_y_armymech_01
 1665391897,csb_tonya
+1667099730,s_m_m_kortzsecurity_01
 1669696074,s_m_m_armoured_02
 1674107025,a_f_m_eastsa_02
 1674255395,csb_faber_02
@@ -451,6 +454,7 @@ hash,key
 1702441027,s_m_y_marine_01
 1704428387,ig_hao
 1706635382,ig_lamardavis
+1706815296,ig_faber_03
 1712601360,csb_isldj_02
 1720428295,a_m_y_bevhills_02
 1728056212,ig_terry
@@ -492,6 +496,7 @@ hash,key
 1849883942,ig_lestercrest_2
 1850188817,ig_wendy
 1855569864,ig_agatha
+1855992269,csb_faber_03
 1858893999,ig_golfer_b
 1863555924,csb_hugh
 1866942414,ig_isldj_01
@@ -506,6 +511,7 @@ hash,key
 1918178165,cs_lifeinvad_01
 1925237458,s_m_y_marine_03
 1925887591,csb_alan
+1928143651,ig_alec
 1928962749,csb_maude_02
 1936142927,s_m_m_postal_02
 1937203007,ig_jio
@@ -626,6 +632,7 @@ hash,key
 2374682809,a_c_killerwhale
 2374966032,s_m_y_swat_01
 2390042051,cs_martinmadrazo_02
+2403678386,ig_rae
 2408643606,ig_bountytarget_03
 2414729609,g_m_y_korean_02
 2422005962,g_m_y_salvaboss_01
@@ -949,6 +956,7 @@ hash,key
 3658575486,u_m_y_babyd
 3660355662,mp_m_securoguard_01
 3661356520,ig_soundeng_00
+3662074397,ig_pernell_moss_02
 3666413874,ig_dreyfuss
 3669401835,a_f_y_vinewood_02
 3675473203,a_f_y_juggalo_01
@@ -1040,6 +1048,7 @@ hash,key
 4014713647,ig_georginacheng
 4017173934,s_m_y_ranger_01
 4017642090,csb_undercover
+4023688524,csb_rafdeangelis_02
 4024807398,cs_brad
 4027271643,csb_prologuedriver
 4028996995,s_m_m_marine_02

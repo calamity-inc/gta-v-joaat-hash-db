@@ -116,6 +116,7 @@ hash,key
 0x23CA25F2,hustler
 0x24626C26,coureur
 0x24CE9073,polbuffalo6
+0x250AAD2F,driftcoquette
 0x250B0C5E,luxor
 0x2560B2FC,romero
 0x25676EAF,fcr
@@ -133,6 +134,7 @@ hash,key
 0x27D79225,bruiser
 0x27E34161,virtue
 0x287FA449,cerberus2
+0x287FB782,merula
 0x28AD20E1,boxville5
 0x28B67ACA,contender
 0x28EAB80F,drafter
@@ -140,6 +142,7 @@ hash,key
 0x293215F3,l352
 0x29B0DA97,surfer
 0x29FCD3E4,cog552
+0x2A3164EB,driftelegy
 0x2A54C47D,supervolito
 0x2A72BEAB,trailersmall
 0x2AE524A8,ruston
@@ -200,6 +203,7 @@ hash,key
 0x36B4A8A9,xa21
 0x36DCFF98,freightcont1
 0x378236E1,issi3
+0x37921980,trflat2
 0x381E10BD,ruiner2
 0x3822BDFE,casco
 0x38408341,pony2
@@ -318,6 +322,7 @@ hash,key
 0x58E316C7,sanctus
 0x58E49664,forklift
 0x58F77553,openwheel1
+0x59176FC4,lrcgt
 0x5993F939,trailerlarge
 0x59A9E570,torero
 0x59E0FBF3,picador
@@ -474,6 +479,7 @@ hash,key
 0x84718D34,coach
 0x84F42E51,mesa3
 0x8526E2F5,slamvan4
+0x85307D56,laufer
 0x8548036D,trailers3
 0x85A5B471,mule3
 0x85E8E76B,italigtb
@@ -484,6 +490,7 @@ hash,key
 0x86CF7CDD,tornado4
 0x86FE0B60,cognoscenti
 0x871160F9,youga5
+0x876BE547,cartuccia
 0x877358AD,comet3
 0x885F3671,pbus
 0x8911B9F5,feltzer2
@@ -501,6 +508,7 @@ hash,key
 0x8C2BD0DC,nightshade
 0x8CB29A14,rapidgt
 0x8CC51028,broadway
+0x8CD6404E,warden
 0x8CF5CAE1,windsor2
 0x8D45DF49,impaler3
 0x8D4B7A8A,insurgent3
@@ -571,6 +579,7 @@ hash,key
 0x9D96B45B,radi
 0x9DAE1398,phantom2
 0x9DC66994,fbi2
+0x9DD0CBB1,caracara3
 0x9E6B14D6,armytrailer2
 0x9EF6AEC7,poldorado
 0x9F04C481,journey2
@@ -615,6 +624,7 @@ hash,key
 0xA9EC907B,ignus
 0xAA699BB6,bodhi2
 0xAA6F980A,khanjali
+0xAB69C8DA,estride
 0xAC33179C,infernus2
 0xAC4E93C9,daemon2
 0xAC5DF515,zentorno
@@ -713,6 +723,7 @@ hash,key
 0xC575DF11,turismo2
 0xC58DA34A,dinghy5
 0xC5A12E61,clique2
+0xC5ADF0C2,velenogt
 0xC5DD6967,rogue
 0xC600F136,firebolt
 0xC6C3242D,cablecar
@@ -807,6 +818,7 @@ hash,key
 0xDD71BFEB,scarab3
 0xDE05FB87,zombieb
 0xDE3D9D22,elegy2
+0xDEB666A2,driftdominator8
 0xDFF0594C,caddy2
 0xE00BADAB,ratel
 0xE18195B2,oracle2
@@ -867,6 +879,7 @@ hash,key
 0xEEA75E63,sultan3
 0xEEF345EC,rcbandito
 0xEF2295C9,suntrap
+0xEF7D228E,horus
 0xEF813606,patrolboat
 0xF06C29C7,granger2
 0xF0C2A91F,hakuchou2
@@ -907,6 +920,7 @@ hash,key
 0xFD231729,blazer2
 0xFD546A18,speedo5
 0xFD707EDE,hunter
+0xFDAB9FC7,polignus
 0xFDAEBF27,aleutian
 0xFDEFAEC3,policeb
 0xFE0A508C,bombushka

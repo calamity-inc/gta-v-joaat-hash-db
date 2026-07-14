@@ -85,6 +85,7 @@ hash,key
 303914238,ob_franklin_tv
 304948581,launcher_tonya
 313895115,headertest
+317904805,fm_content_kortz_disruption
 317956073,launcher_paparazzo
 325344707,gb_casino
 325579374,launcher_hunting_ambient
@@ -99,6 +100,7 @@ hash,key
 366658643,fixer_hq_seating_pq
 374246894,xml_menus
 377699035,base_corridor_seats
+400542067,kortz_planning
 401939198,gpb_zombie
 407588361,net_activity_creator_ui
 418044009,ufo
@@ -145,6 +147,7 @@ hash,key
 551782453,carsteal1
 562390291,paparazzo1
 564662301,shoprobberies
+569569035,mansion_art_workshop_seating
 571091955,am_mp_solomon_office
 576721485,bailbond4
 576904688,am_mp_warehouse
@@ -167,6 +170,7 @@ hash,key
 652910438,fm_content_security_contract
 652987936,am_mp_arena_garage
 656758763,mp_bed_high
+660107996,am_mp_mansion_art_workshop
 661517296,shot_bikejump
 662378422,fm_content_smuggler_trail
 667050703,placeholdermission
@@ -274,6 +278,7 @@ hash,key
 1038683004,beach_exterior_seating
 1040501579,tempalpha
 1043465981,taxiservice
+1043644303,fm_content_kortz_scoping
 1047849371,emergencycalllauncher
 1049786896,gb_biker_criminal_mischief
 1053700306,am_mp_vehicle_organization_menu
@@ -282,6 +287,7 @@ hash,key
 1073125170,fm_content_bike_shop_delivery
 1077504543,postrc_barry1and2
 1082375177,fm_content_firefighter
+1089840815,fm_content_kortz_task
 1099404748,am_hi_plane_take_off_cinematic
 1101589865,fm_content_survival_grouping
 1104607124,startup
@@ -335,6 +341,7 @@ hash,key
 1273783324,finalec2
 1281186453,launcher_stunts
 1282629189,docks2asubhandler
+1288472938,mp_strand_f9
 1294874482,assassin_multi
 1310072072,taxi_gotyounow
 1310689012,josh2
@@ -663,6 +670,7 @@ hash,key
 2523594383,gb_biker_free_prisoner
 2525145324,fm_content_ghosthunt
 2529632866,ob_mp_shower_med
+2531877483,fm_content_kortz_entry
 2538226731,wardrobe_mp
 2539543873,fm_content_sightseeing
 2541912202,am_hi_plane_land_cinematic
@@ -706,6 +714,7 @@ hash,key
 2663352134,smoketest
 2664461354,player_scene_t_park
 2668276183,underwaterpickups
+2670122794,fmmc_lasers
 2671948619,gb_deathmatch
 2672722215,carwash1
 2681763616,am_penned_in
@@ -770,6 +779,7 @@ hash,key
 2938368369,ob_abatdoor
 2940547142,am_mp_sb_heli_tours
 2944166021,globals_fmmc_struct_registration
+2946097061,pilotschool_dlc_startup
 2948827181,appmpemail
 2950271341,cheat_controller
 2962238566,gb_biker_target_rival
@@ -966,6 +976,7 @@ hash,key
 3657406415,combat_test
 3657709744,fm_content_vehrob_cargo_ship
 3658820878,pm_defend
+3659685278,fm_mission_controller_v3
 3659873440,launcher_josh
 3662712151,gb_fully_loaded
 3663171479,finale_heist_prepa
@@ -1104,6 +1115,7 @@ hash,key
 4169670242,casino_nightclub_seating
 4171437675,clothes_shop_sp
 4173265144,celebrations
+4175802248,fm_content_kortz_equipment
 4176746298,fm_content_smuggler_sell
 4180475581,bootycallhandler
 4181099350,sh_intro_f_hills

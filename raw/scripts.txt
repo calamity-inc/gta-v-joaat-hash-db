@@ -111,6 +111,7 @@ am_mp_ie_warehouse
 am_mp_island
 am_mp_juggalo_hideout
 am_mp_mansion
+am_mp_mansion_art_workshop
 am_mp_mansion_driveway
 am_mp_mansion_garage
 am_mp_multistorey_garage
@@ -485,6 +486,11 @@ fm_content_hsw_setup
 fm_content_hsw_time_trial
 fm_content_island_dj
 fm_content_island_heist
+fm_content_kortz_disruption
+fm_content_kortz_entry
+fm_content_kortz_equipment
+fm_content_kortz_scoping
+fm_content_kortz_task
 fm_content_metal_detector
 fm_content_movie_props
 fm_content_mp_intro
@@ -544,6 +550,7 @@ fm_maintain_cloud_header_data
 fm_maintain_transition_players
 fm_mission_controller
 fm_mission_controller_2020
+fm_mission_controller_v3
 fm_mission_creator
 fm_race_controler
 fm_race_creator
@@ -551,6 +558,7 @@ fm_street_dealer
 fm_survival_controller
 fm_survival_creator
 fmmc_contentquicklauncher
+fmmc_lasers
 fmmc_launcher
 fmmc_playlist_controller
 forsalesigns
@@ -711,6 +719,7 @@ josh3
 josh4
 juggalo_hideout_carmod
 juggalo_hideout_seating
+kortz_planning
 lamar1
 landing_pre_startup
 laptop_trigger
@@ -760,6 +769,7 @@ main
 main_install
 main_persistent
 maintransition
+mansion_art_workshop_seating
 mansion_basement_seating
 mansion_carmod
 mansion_club_bar
@@ -811,6 +821,7 @@ mp_prop_special_global_block
 mp_registration
 mp_save_game_global_block
 mp_skycam_stuck_wiggler
+mp_strand_f9
 mp_unlocks
 mp_weapons
 mpstatsinit
@@ -909,6 +920,7 @@ pickuptest
 pickupvehicles
 pilot_school
 pilot_school_mp
+pilotschool_dlc_startup
 placeholdermission
 placementtest
 planewarptest

@@ -85,6 +85,7 @@ hash,key
 0x121D5CFE,ob_franklin_tv
 0x122D2565,launcher_tonya
 0x12B5A8CB,headertest
+0x12F2D7A5,fm_content_kortz_disruption
 0x12F39FE9,launcher_paparazzo
 0x13645DC3,gb_casino
 0x1367F26E,launcher_hunting_ambient
@@ -99,6 +100,7 @@ hash,key
 0x15DAC453,fixer_hq_seating_pq
 0x164E8DEE,xml_menus
 0x16833ADB,base_corridor_seats
+0x17DFC973,kortz_planning
 0x17F51AFE,gpb_zombie
 0x184B4E09,net_activity_creator_ui
 0x18EAD869,ufo
@@ -145,6 +147,7 @@ hash,key
 0x20E38835,carsteal1
 0x21856513,paparazzo1
 0x21A8101D,shoprobberies
+0x21F2EF0B,mansion_art_workshop_seating
 0x220A2BF3,am_mp_solomon_office
 0x2260124D,bailbond4
 0x2262DDF0,am_mp_warehouse
@@ -167,6 +170,7 @@ hash,key
 0x26EA9F66,fm_content_security_contract
 0x26EBCE20,am_mp_arena_garage
 0x272557EB,mp_bed_high
+0x275872DC,am_mp_mansion_art_workshop
 0x276DF3F0,shot_bikejump
 0x277B17B6,fm_content_smuggler_trail
 0x27C262CF,placeholdermission
@@ -274,6 +278,7 @@ hash,key
 0x3DE90B7C,beach_exterior_seating
 0x3E04CB4B,tempalpha
 0x3E3206FD,taxiservice
+0x3E34BF8F,fm_content_kortz_scoping
 0x3E74E99B,emergencycalllauncher
 0x3E927A10,gb_biker_criminal_mischief
 0x3ECE30D2,am_mp_vehicle_organization_menu
@@ -282,6 +287,7 @@ hash,key
 0x3FF69732,fm_content_bike_shop_delivery
 0x40396A1F,postrc_barry1and2
 0x4083BC09,fm_content_firefighter
+0x40F5A6AF,fm_content_kortz_task
 0x418795CC,am_hi_plane_take_off_cinematic
 0x41A8ED69,fm_content_survival_grouping
 0x41D6F794,startup
@@ -335,6 +341,7 @@ hash,key
 0x4BEC641C,finalec2
 0x4C5D5A95,launcher_stunts
 0x4C735E45,docks2asubhandler
+0x4CCC896A,mp_strand_f9
 0x4D2E3772,assassin_multi
 0x4E161D08,taxi_gotyounow
 0x4E1F86F4,josh2
@@ -663,6 +670,7 @@ hash,key
 0x966AFE8F,gb_biker_free_prisoner
 0x9682A8EC,fm_content_ghosthunt
 0x96C72262,ob_mp_shower_med
+0x96E9626B,fm_content_kortz_entry
 0x974A442B,wardrobe_mp
 0x975E5D41,fm_content_sightseeing
 0x9782808A,am_hi_plane_land_cinematic
@@ -706,6 +714,7 @@ hash,key
 0x9EBF8746,smoketest
 0x9ED0742A,player_scene_t_park
 0x9F0AA9D7,underwaterpickups
+0x9F26D72A,fmmc_lasers
 0x9F42B34B,gb_deathmatch
 0x9F4E8127,carwash1
 0x9FD87720,am_penned_in
@@ -770,6 +779,7 @@ hash,key
 0xAF23F171,ob_abatdoor
 0xAF453046,am_mp_sb_heli_tours
 0xAF7C6885,globals_fmmc_struct_registration
+0xAF99DFA5,pilotschool_dlc_startup
 0xAFC3882D,appmpemail
 0xAFD9916D,cheat_controller
 0xB0902C66,gb_biker_target_rival
@@ -966,6 +976,7 @@ hash,key
 0xD9FF97CF,combat_test
 0xDA0438B0,fm_content_vehrob_cargo_ship
 0xDA152D0E,pm_defend
+0xDA225D9E,fm_mission_controller_v3
 0xDA253CA0,launcher_josh
 0xDA508D57,gb_fully_loaded
 0xDA578F97,finale_heist_prepa
@@ -1104,6 +1115,7 @@ hash,key
 0xF8881E62,casino_nightclub_seating
 0xF8A3166B,clothes_shop_sp
 0xF8BEF8F8,celebrations
+0xF8E5AF88,fm_content_kortz_equipment
 0xF8F4173A,fm_content_smuggler_sell
 0xF92CFEBD,bootycallhandler
 0xF9368356,sh_intro_f_hills
